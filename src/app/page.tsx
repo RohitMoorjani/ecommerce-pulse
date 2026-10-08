@@ -1,6 +1,7 @@
 import NewsFeed from "@/components/NewsFeed";
 import { CATEGORIES, sources } from "@/config/sources";
 import { FALLBACK_SEGMENT, segments } from "@/config/segments";
+import { brief } from "@/lib/brief";
 import { getNews } from "@/lib/feeds";
 
 export default async function Home() {
@@ -22,6 +23,7 @@ export default async function Home() {
         segments={[...segments, FALLBACK_SEGMENT].map(({ id, label, description }) => ({ id, label, description }))}
         categories={CATEGORIES}
         sourceNames={sources.map((s) => s.name)}
+        brief={brief}
       />
 
       <footer className="mt-10 border-t border-zinc-200 pt-4 text-xs text-zinc-500 dark:border-zinc-800 dark:text-zinc-400">

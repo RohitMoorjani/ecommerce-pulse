@@ -1,0 +1,53 @@
+{
+ "updatedAt": "2026-10-08T15:44:12.429Z",
+ "summary": "AI is moving into both the PC and the storefront: rivals launched AI PCs and AI-driven shopping while memory costs squeeze AI PC supply.",
+ "points": [
+  {
+   "headline": "Competitors are putting AI into the storefront, not just the product",
+   "detail": "HP launched Experience AI, an agentic web platform that adapts to customer intent; Gap and TikTok added AI discovery and checkout. Benchmark our store's search and discovery against them.",
+   "segment": "agentic",
+   "storyIds": [
+    "HP Newsroom::CBMikAFBVV95cUxNMXhUTEZwVDZaMWlfNXFoM1BoN1ZzQzVHTGo0NjlUZjlWUm9mbXpxY1plbmxCZEpjbDA4eXdXWVJ0NWpNM1ZyNHZ4bnlVYlVRR2M3bDlfVS1TUE93OHJaYTZubHlUMGQwaE1NS3Q5VU41Z1FIOXZHZ0hGUzJlRFI0bzRMVnhid2Fyc1QzWmoteUw",
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363322",
+    "Retail Dive::https://www.retaildive.com/news/tiktok-ai-powered-discovery-one-click-checkout/832326/"
+   ]
+  },
+  {
+   "headline": "AI PC launch wave meets a memory squeeze",
+   "detail": "Dell, HP and Microsoft ($2,599 Surface Laptop Ultra) launched AI PCs while DRAM shifts to servers and memory costs threaten shipments. Expect price pressure; plan pricing and stock messaging.",
+   "segment": "pc",
+   "storyIds": [
+    "Dell Newsroom::CBMilAJBVV95cUxQY2kyTnN0QVhyQV95dWtqa0RjNXktTldHcFI4VmlkQXZlVWszOWRLcnA3U3czcHVUanUzSXhZZ0dVTXBfTTkwbFRHQW1ubVJwUk5sT1MzcF95cW1ROHo5UnI4TUl6b29rNmwxVUNyd0tkMG50OGlFY2NXTmp2cTFyZ1BZS09CQlBtRWloZEJ4TXU1TVotcDRMNlk3czIyQnpnUnZCZGlHYlA4blI5eFNQbEpoNnpiNXpqcm9MZFlEd0o4NXBNbFFoUl9yZF9tblAySjZ5Q1RvQ0V5NnVSUGo3dFk5RzB1d2pjS2QzNjlYSk82WGxSWjRERk8xNjdtcXdYU3J1OWxpNWNMelhjVUphMTZfbGY",
+    "HP Newsroom::CBMi6AFBVV95cUxOREVhRmdWRWdSSWRkSlIxR0JGdmMydUVJQm5SV3hEb3dORjBld1RRX1kxb2tfbnZ2SUhKa2huMHNsMEhBOXVweGR1bDFZMHRWUVgzU0tWMXdkVkItX2FaRmx1a0JpY2l5bDNiQWFHN2xMal9nMlpCX25zaWtOWmZBTFdyeU54akNvYUQydHJTb0dreDFaXzZ2QXRMWFVjenNleXQ3WXc5LUhfa0d0UEdmMjdHNnVQLTFxVDdnVFlCRjIwcHRhanBZNXdFQmlHQ0VaOURIZDV3WTFwNnFtaDNBaTRhWVFJelZr",
+    "DigiTimes::https://www.digitimes.com/news/a20261008VL201/microsoft-windows-rtx-nvidia-pc.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261008VL216/microsoft-demand-dram-pc-revenue.html"
+   ]
+  },
+  {
+   "headline": "Nvidia RTX Spark opens a premium Windows-on-Arm tier aimed at Macs",
+   "detail": "RTX Spark laptops opened for pre-order on Oct 7. A new high-end category needs clear Arm vs x86 guidance for online buyers.",
+   "segment": "pc",
+   "storyIds": [
+    "DigiTimes::https://www.digitimes.com/news/a20261008VL200/nvidia-rtx-windows-apple-cuda.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261008VL213/windows-arm-nvidia-x86-pc.html"
+   ]
+  },
+  {
+   "headline": "Marketplaces are scaling up for festive and holiday peaks",
+   "detail": "Amazon India sees a 35-40% festive demand spike and added 50% capacity; Walmart rolled out 1-hour pickup nationwide. Check our stock, delivery promises and deal placement on key marketplaces.",
+   "segment": "marketplaces",
+   "storyIds": [
+    "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/amazon-sees-35-40-pc-festive-demand-spike-adds-50-pc-capacity-with-rs-2800-crore-investment/134777774",
+    "Retail Dive::https://www.retaildive.com/news/walmart-one-hour-express-store-pickup-asl-service-holiday/832464/"
+   ]
+  },
+  {
+   "headline": "JD.com nears EU approval to buy MediaMarkt owner Ceconomy",
+   "detail": "A JD-owned Ceconomy (MediaMarkt, Saturn) would be a new owner for a major European electronics channel, with possible changes to terms and data access for PC brands.",
+   "segment": "marketplaces",
+   "storyIds": [
+    "Global Marketplaces::CBMisgFBVV95cUxQaDdiVzduWlpSTUNVR2VORGp4b093TWNzYjB3Y2I3eW9vR1g3WmZrdmFNNlppQ0F3YkI5X2FrSWYzVjRNR1U1em9tVGUzeUpwNkNJU3dpVmt5eDVKOGtCZTNUcFdFcDQ5VTV3Y0ZHOG5QeVFXa1ZhcS16UUpjTVQ3Nkt5NHd0alRrZEZYOFNJU1N2TnZ3alBoUDdCNlprMUp4Z2VyTFczS01CRGwzeXgwR2Jn"
+   ]
+  }
+ ]
+}

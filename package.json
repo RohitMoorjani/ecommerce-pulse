@@ -8,7 +8,9 @@
     "start": "next start",
     "lint": "eslint",
     "review:pending": "tsx --tsconfig tsconfig.json scripts/pending.mts",
-    "review:save": "tsx --tsconfig tsconfig.json scripts/save-reviews.mts"
+    "review:save": "tsx --tsconfig tsconfig.json scripts/save-reviews.mts",
+    "brief:input": "tsx --tsconfig tsconfig.json scripts/brief-input.mts",
+    "brief:save": "tsx --tsconfig tsconfig.json scripts/save-brief.mts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.132.1",

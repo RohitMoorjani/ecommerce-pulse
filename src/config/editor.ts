@@ -53,3 +53,18 @@ IMPORTANCE (1-5)
 
 COMPETITORS
 List Apple, Dell or HP only when the item is about that company in a way relevant to our business (products sold online, online store, pricing, channels, market share). Otherwise return an empty list.`;
+
+/**
+ * Instructions for the Leadership Brief: the short summary leadership reads
+ * if they read nothing else. Written from the stories already reviewed.
+ */
+export const BRIEF_INSTRUCTIONS = `Write the Leadership Brief for E-Commerce Pulse: what our e-commerce leadership should know this week if they read nothing else. You are given the reviewed stories from the last 7 days (headline, takeaway, importance, section, source, date, id).
+
+- summary: one sentence, at most 200 characters, naming the week's biggest shift.
+- points: 3 to 5, most important first. Each point is an insight, not a single headline: connect related stories (for example several AI PC launches plus a memory squeeze become one point).
+  - headline: at most 80 characters, states the insight.
+  - detail: at most 240 characters: the key facts, then what it means for us or what to consider.
+  - segment: the section most of its stories belong to (agentic, pc, marketplaces, trends, plays).
+  - storyIds: 1 to 4 ids of the supporting stories.
+- Prefer importance 4-5 stories and competitor moves. Skip anything minor.
+- Use only facts from the stories. Never name our company or its store; write "we", "us" or "our store".`;

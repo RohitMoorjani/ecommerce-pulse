@@ -4,6 +4,7 @@ import { useEffect, useMemo, useRef, useState, useSyncExternalStore } from "reac
 import type { Category } from "@/config/sources";
 import type { Segment } from "@/config/segments";
 import { scoring } from "@/config/signals";
+import type { Brief } from "@/lib/brief";
 import type { NewsItem } from "@/lib/feeds";
 
 const SEGMENT_DOTS: Record<string, string> = {
@@ -25,8 +26,8 @@ function relativeTime(iso: string) {
   return `${days}d ago`;
 }
 
-// The selected tab lives in the URL hash (e.g. /#fulfillment) so it can be
-// bookmarked and survives the 30-minute page refresh.
+// The selected tab lives in the URL hash (e.g. /#pc) so it can be bookmarked.
+// No hash shows the Leadership Brief; #all shows every story.
 function subscribeToHash(callback: () => void) {
   window.addEventListener("hashchange", callback);
   return () => window.removeEventListener("hashchange", callback);
@@ -39,11 +40,14 @@ interface Props {
   segments: Pick<Segment, "id" | "label" | "description">[];
   categories: Category[];
   sourceNames: string[];
+  brief: Brief | null;
 }
 
-export default function NewsFeed({ items, segments, categories, sourceNames }: Props) {
+export default function NewsFeed({ items, segments, categories, sourceNames, brief }: Props) {
   const hash = useSyncExternalStore(subscribeToHash, getHash, getServerHash);
+  const showBrief = brief !== null && hash === "";
   const activeSegment = segments.find((s) => s.id === hash) ?? null;
+  const isAll = !showBrief && !activeSegment;
   const [competitorsOnly, setCompetitorsOnly] = useState(false);
   const navRef = useRef<HTMLElement>(null);
   const [category, setCategory] = useState<Category | "All">("All");
@@ -57,8 +61,9 @@ export default function NewsFeed({ items, segments, categories, sourceNames }: P
       ?.scrollIntoView({ block: "nearest", inline: "center" });
   }, [hash]);
 
+  // null = All stories ("#all"); "" = Leadership Brief.
   const selectSegment = (id: string | null) => {
-    window.location.hash = id ?? "";
+    window.location.hash = id ?? "all";
   };
 
   // Items matching everything except the segment tab, so tab counts reflect
@@ -123,11 +128,25 @@ export default function NewsFeed({ items, segments, categories, sourceNames }: P
           aria-label="Segment"
           className="-mx-4 flex gap-2 overflow-x-auto px-4 pb-1 [scrollbar-width:none] sm:flex-wrap sm:overflow-visible"
         >
+          {brief && (
+            <button
+              type="button"
+              onClick={() => selectSegment("")}
+              aria-pressed={showBrief}
+              className={`flex shrink-0 items-center gap-1.5 rounded-full px-3 py-1.5 text-sm font-semibold whitespace-nowrap ring-2 ring-amber-400 ring-inset transition-colors ${
+                showBrief
+                  ? "bg-amber-400 text-zinc-900"
+                  : "text-amber-700 hover:bg-amber-50 dark:text-amber-300 dark:hover:bg-amber-400/10"
+              }`}
+            >
+              Leadership Brief
+            </button>
+          )}
           <button
             type="button"
             onClick={() => selectSegment(null)}
-            aria-pressed={!activeSegment}
-            className={tab(!activeSegment)}
+            aria-pressed={isAll}
+            className={tab(isAll)}
           >
             All <span className="opacity-60">{filtered.length}</span>
           </button>
@@ -166,6 +185,8 @@ export default function NewsFeed({ items, segments, categories, sourceNames }: P
           </button>
         </nav>
 
+        {!showBrief && (
+        <>
         <div className="flex flex-col gap-2 sm:flex-row">
           <input
             type="search"
@@ -209,9 +230,13 @@ export default function NewsFeed({ items, segments, categories, sourceNames }: P
           {activeSegment && <span>{activeSegment.description} · </span>}
           {visible.length} {visible.length === 1 ? "story" : "stories"}
         </p>
+        </>
+        )}
       </div>
 
-      {visible.length === 0 ? (
+      {showBrief && brief ? (
+        <BriefView brief={brief} items={items} segments={segments} counts={counts} onSelect={selectSegment} />
+      ) : visible.length === 0 ? (
         <div className="py-16 text-center text-sm text-zinc-500 dark:text-zinc-400">
           {activeSegment && filtered.length > 0 ? (
             <>
@@ -317,5 +342,92 @@ export default function NewsFeed({ items, segments, categories, sourceNames }: P
         </>
       )}
     </section>
+  );
+}
+
+function BriefView({
+  brief,
+  items,
+  segments,
+  counts,
+  onSelect,
+}: {
+  brief: Brief;
+  items: NewsItem[];
+  segments: Pick<Segment, "id" | "label">[];
+  counts: Record<string, number>;
+  onSelect: (id: string | null) => void;
+}) {
+  const byId = new Map(items.map((item) => [item.id, item]));
+  const updated = new Date(brief.updatedAt).toLocaleDateString("en-US", {
+    month: "long",
+    day: "numeric",
+    year: "numeric",
+    timeZone: "UTC",
+  });
+
+  return (
+    <div className="space-y-6">
+      <article className="rounded-2xl border-2 border-amber-400 bg-amber-50/40 p-5 shadow-sm sm:p-7 dark:border-amber-400/70 dark:bg-amber-400/[0.04]">
+        <p className="text-xs font-semibold tracking-wide text-amber-700 uppercase dark:text-amber-300">
+          Leadership Brief · {updated}
+        </p>
+        <p className="mt-2 text-lg leading-snug font-semibold sm:text-xl">{brief.summary}</p>
+
+        <ol className="mt-6 space-y-5">
+          {brief.points.map((point, i) => {
+            const stories = point.storyIds.map((id) => byId.get(id)).filter((s) => s !== undefined);
+            return (
+              <li key={i} className="flex gap-3">
+                <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-amber-400 text-xs font-bold text-zinc-900">
+                  {i + 1}
+                </span>
+                <div className="min-w-0">
+                  <h3 className="font-semibold leading-snug">{point.headline}</h3>
+                  <p className="mt-1 text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">{point.detail}</p>
+                  {stories.length > 0 && (
+                    <ul className="mt-2 space-y-1 text-xs">
+                      {stories.map((story) => (
+                        <li key={story.id} className="truncate">
+                          <a
+                            href={story.link}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            title={story.title}
+                            className="text-amber-700 underline decoration-amber-400/50 underline-offset-2 hover:decoration-amber-500 dark:text-amber-300"
+                          >
+                            {story.shortTitle}
+                          </a>
+                          <span className="text-zinc-500 dark:text-zinc-400"> · {story.source}</span>
+                        </li>
+                      ))}
+                    </ul>
+                  )}
+                </div>
+              </li>
+            );
+          })}
+        </ol>
+      </article>
+
+      <div>
+        <p className="mb-2 text-xs font-semibold tracking-wide text-zinc-500 uppercase dark:text-zinc-400">
+          Go deeper
+        </p>
+        <div className="flex flex-wrap gap-2">
+          {segments.map((s) => (
+            <button
+              key={s.id}
+              type="button"
+              onClick={() => onSelect(s.id)}
+              className="flex items-center gap-1.5 rounded-full bg-zinc-100 px-3 py-1.5 text-sm text-zinc-700 hover:bg-zinc-200 dark:bg-zinc-800/70 dark:text-zinc-300 dark:hover:bg-zinc-800"
+            >
+              <span className={`h-2 w-2 rounded-full ${SEGMENT_DOTS[s.id] ?? "bg-zinc-400"}`} aria-hidden />
+              {s.label} <span className="opacity-60">{counts[s.id] ?? 0}</span>
+            </button>
+          ))}
+        </div>
+      </div>
+    </div>
   );
 }

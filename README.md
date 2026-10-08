@@ -34,6 +34,20 @@ Commit and push `data/reviews.json`, and the host redeploys. Stories that
 haven't been reviewed yet fall back to keyword sorting. Reviews older than 10
 days are pruned automatically.
 
+## Leadership Brief
+
+The landing page is a gold-bordered **Leadership Brief**: a one-sentence summary
+and 3–5 key points with links to the supporting stories. It's written by
+Claude from the reviewed stories and stored in `data/brief.json`. Link
+straight to it with the site URL; `#all` and the tab names (`#pc`,
+`#agentic`…) open the detailed feeds.
+
+```bash
+npm run brief:input   # writes data/brief-input.json from reviewed stories
+# ask Claude Code to write data/new-brief.json following BRIEF_INSTRUCTIONS
+npm run brief:save    # validates and saves data/brief.json
+```
+
 ## Claude editorial review via the API (optional)
 
 With an Anthropic API key, every story is reviewed by Claude, using the
