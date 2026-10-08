@@ -203,12 +203,12 @@ export default function NewsFeed({ items, segments, categories, sourceNames, bri
             aria-label="Search headlines"
             className="flex-1 rounded-lg border-2 border-zinc-800 bg-white px-3 py-2 text-sm outline-none focus:border-accent"
           />
-          <div className="flex gap-2">
+          <div className="grid grid-cols-2 gap-2 sm:flex">
             <select
               value={category}
               onChange={(e) => setCategory(e.target.value as Category | "All")}
               aria-label="Filter by source type"
-              className={`${field} flex-1 sm:flex-none`}
+              className={`${field} w-full min-w-0 truncate sm:w-auto sm:max-w-56`}
             >
               <option value="All">All source types</option>
               {categories.map((c) => (
@@ -221,7 +221,7 @@ export default function NewsFeed({ items, segments, categories, sourceNames, bri
               value={source}
               onChange={(e) => setSource(e.target.value)}
               aria-label="Filter by source"
-              className={`${field} flex-1 sm:flex-none`}
+              className={`${field} w-full min-w-0 truncate sm:w-auto sm:max-w-56`}
             >
               <option value="All">All sources</option>
               {sourceNames.map((name) => (
@@ -308,7 +308,7 @@ export default function NewsFeed({ items, segments, categories, sourceNames, bri
           {rest.map((item) => (
             <li
               key={item.id}
-              className={`rounded-2xl p-5 transition-transform hover:-translate-y-0.5 ${SEGMENT_TINTS[item.segment] ?? SEGMENT_TINTS.plays}`}
+              className={`min-w-0 rounded-2xl p-5 transition-transform hover:-translate-y-0.5 ${SEGMENT_TINTS[item.segment] ?? SEGMENT_TINTS.plays}`}
             >
               <div className="mb-2 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-zinc-500 dark:text-zinc-400">
                 {!activeSegment && (
@@ -391,21 +391,21 @@ function BriefView({
 
   return (
     <div className="space-y-8">
-      <article className="relative overflow-hidden rounded-3xl border-2 border-gold/60 bg-gradient-to-br from-[#f3e4f0] via-[#ead8ea] to-[#e2d0e6] p-6 sm:p-10">
+      <article className="relative overflow-hidden rounded-3xl border-2 border-gold/60 bg-gradient-to-br from-[#f3e4f0] via-[#ead8ea] to-[#e2d0e6] p-5 sm:p-10">
         {/* soft decorative arcs, like the reference banner */}
         <div aria-hidden className="pointer-events-none absolute -right-40 -bottom-56 h-[34rem] w-[34rem] rounded-full bg-white/25" />
         <div aria-hidden className="pointer-events-none absolute -top-48 right-1/3 h-96 w-96 rounded-full bg-white/15" />
 
-        <div className="relative grid gap-8 lg:grid-cols-[minmax(0,5fr)_minmax(0,6fr)] lg:gap-12">
-          <div>
+        <div className="relative grid grid-cols-[minmax(0,1fr)] gap-8 lg:grid-cols-[minmax(0,5fr)_minmax(0,6fr)] lg:gap-12">
+          <div className="min-w-0">
             <p className="inline-flex items-center gap-2 rounded-full bg-white/60 px-3 py-1 text-xs font-semibold tracking-wide text-gold-dark uppercase">
               <span className="h-2 w-2 rounded-full bg-gold" aria-hidden />
               Leadership Brief · {updated}
             </p>
-            <h2 className="font-display mt-5 text-3xl leading-tight font-extrabold text-ink sm:text-4xl">
-              This week in e-commerce
+            <h2 className="font-display mt-5 text-2xl leading-tight font-extrabold text-ink sm:text-4xl">
+              {brief.title ?? "This week in e-commerce"}
             </h2>
-            <p className="mt-4 text-lg leading-relaxed text-zinc-800">{brief.summary}</p>
+            <p className="mt-4 text-base leading-relaxed text-zinc-800 sm:text-lg">{brief.summary}</p>
             <div className="mt-7 flex flex-wrap items-center gap-6">
               <button
                 type="button"
@@ -424,16 +424,16 @@ function BriefView({
             </div>
           </div>
 
-          <ol className="divide-y divide-ink/10 border-y border-ink/10">
+          <ol className="min-w-0 divide-y divide-ink/10 border-y border-ink/10">
             {brief.points.map((point, i) => {
               const stories = point.storyIds.map((id) => byId.get(id)).filter((s) => s !== undefined);
               return (
-                <li key={i} className="py-4">
+                <li key={i} className="min-w-0 py-4">
                   <h3 className="font-display flex gap-3 text-base leading-snug font-bold text-ink">
                     <span className="text-accent">{String(i + 1).padStart(2, "0")}</span>
                     {point.headline}
                   </h3>
-                  <p className="mt-1.5 pl-8 text-sm leading-relaxed text-zinc-700">{point.detail}</p>
+                  <p className="mt-1.5 pl-8 text-sm break-words leading-relaxed text-zinc-700">{point.detail}</p>
                   {stories.length > 0 && (
                     <ul className="mt-2 space-y-0.5 pl-8 text-xs">
                       {stories.map((story) => (

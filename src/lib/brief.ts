@@ -5,6 +5,8 @@ import { SEGMENT_IDS } from "@/lib/editor";
 /** The Leadership Brief, written by Claude from the reviewed stories. */
 export const BriefSchema = z.object({
   updatedAt: z.string(),
+  /** Specific headline for the brief, naming its top developments. */
+  title: z.string().optional(),
   summary: z.string(),
   points: z.array(
     z.object({
