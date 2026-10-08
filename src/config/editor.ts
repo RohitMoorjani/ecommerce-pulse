@@ -70,7 +70,7 @@ List Apple, Dell or HP only when the item is primarily ABOUT that company's own 
 export const BRIEF_INSTRUCTIONS = `Write the Leadership Brief for E-Commerce Pulse: what our e-commerce leadership should know this week if they read nothing else. You are given the reviewed stories from the last 7 days (headline, takeaway, importance, section, source, date, id).
 
 - title: the single biggest takeaway of this briefing for us, at most 70 characters: the strategic conclusion that ties the points together and says where we need to act. It must NOT be a statistic, a news report or one company's move. Good: "Shopping now starts with AI, and our store must be built for it". Bad: "55% of shoppers now discover with AI" (a stat), "HP launches Experience AI" (news), "This week in e-commerce" (generic).
-- summary: one or two sentences, at most 220 characters, explaining why that takeaway matters, using the strongest evidence from the points.
+- summary: at most 260 characters: the compiled evidence behind the title, not a restatement of it. Back each part of the title with hard facts from the points: shopper-trend numbers with their source (for example "55% of shoppers use AI to discover products (NIQ)"), and what competitors or marketplaces have actually done (for example "HP launched an AI web platform; Walmart, Gap and TikTok added AI shopping"). Facts and names only, no advice.
 - points: 3 to 5, most important first. Each point is an insight, not a single headline: connect related stories (for example several AI PC launches plus a memory squeeze become one point).
   - headline: at most 80 characters, states the insight.
   - detail: at most 240 characters: the key facts, then what it means for us or what to consider.

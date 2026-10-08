@@ -18,7 +18,7 @@ const brief = parsed.data;
 const problems: string[] = [];
 if (!brief.title) problems.push("missing title");
 else if (brief.title.length > 75) problems.push("title over 75 chars");
-if (brief.summary.length > 220) problems.push("summary over 220 chars");
+if (brief.summary.length > 280) problems.push("summary over 280 chars");
 if (brief.points.length < 3 || brief.points.length > 5) problems.push("expected 3-5 points");
 for (const [i, p] of brief.points.entries()) {
   if (p.headline.length > 90) problems.push(`point ${i + 1}: headline over 90 chars`);
