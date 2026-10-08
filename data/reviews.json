@@ -1199,5 +1199,20 @@
  "PYMNTS Data::CBMipwFBVV95cUxOWlBqa1NIcGM3QkpIaGNCREVhLU5mTnlIVjBvZm1kQXdKaUJ2bElDX3Y2YXNBa21uZUpaYlRLeHpsQWRqLUw5Uy0xYUZVand5SzlIajRfTjdyWkd3ODNmSVNHMTZWckhneThwSWlTdmRLQnU1d1RfWklvMHZ1SkZMbUpaOUhOTmszUkRVS21Fc3MzMkVyX2hnYndMS05lZXUxSEpHYmRrUQ": {
   "keep": false,
   "publishedAt": "2026-09-09T07:00:00.000Z"
+ },
+ "PYMNTS Data::CBMi4AFBVV95cUxNaHhCQVR6RlRwWF9KVTVxc2pEbnI2b2QwNk1fYWxGeWhQTHF4V08xY2lZWE5QQ0F2bGFmLWhhMVZWZkJhZko3M0h1ZldHUFc4YWZHb0UxbVRQa2w1OVJmY1FWT1l4c3BjSllnQXN5X3R3OGF2T2FMYWFWY0diTEtIRHdMQlpDUm1LMWNYdi1FY19CR1BEZEExcWduV3NmS00yQUVvLVFWWW1oZmZ3MmNOZGF6NHJmTTd3a2dXbnVfaTdTVl9aWXZFRUxOT2I4MzVrdkFaTGxzNHFUS1FDaFZnQw": {
+  "keep": false,
+  "publishedAt": "2026-10-07T16:56:06.000Z"
+ },
+ "Reuters::CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Microsoft pushes more AI features onto PCs as it challenges Apple",
+  "short_headline": "Microsoft adds more AI to PCs, targets Apple",
+  "takeaway": "AI-PC competition is intensifying; we should watch how it shapes laptop demand and what we highlight on our store.",
+  "importance": 2,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-07T10:05:00.000Z"
  }
 }
