@@ -8,11 +8,11 @@ import type { Brief } from "@/lib/brief";
 import type { NewsItem } from "@/lib/feeds";
 
 const SEGMENT_DOTS: Record<string, string> = {
-  pc: "bg-sky-500",
-  marketplaces: "bg-amber-500",
-  agentic: "bg-fuchsia-500",
-  trends: "bg-emerald-500",
-  plays: "bg-zinc-400",
+  pc: "bg-[#3b78b5]",
+  marketplaces: "bg-[#c4862f]",
+  agentic: "bg-[#8e5ba8]",
+  trends: "bg-[#4e9a6f]",
+  plays: "bg-[#8a8f98]",
 };
 
 function relativeTime(iso: string) {
@@ -109,34 +109,32 @@ export default function NewsFeed({ items, segments, categories, sourceNames, bri
   const segmentLabel = (id: string) => segments.find((s) => s.id === id)?.label ?? id;
 
   const tab = (active: boolean, empty = false) =>
-    `flex shrink-0 items-center gap-1.5 rounded-full px-3 py-1.5 text-sm whitespace-nowrap transition-colors ${
+    `flex shrink-0 items-center gap-1.5 border-b-[3px] px-1 py-2.5 text-[15px] whitespace-nowrap transition-colors ${
       empty && !active ? "opacity-40 " : ""
     }${
       active
-        ? "bg-zinc-900 text-white dark:bg-zinc-100 dark:text-zinc-900"
-        : "bg-zinc-100 text-zinc-700 hover:bg-zinc-200 dark:bg-zinc-800/70 dark:text-zinc-300 dark:hover:bg-zinc-800"
+        ? "border-accent font-semibold text-zinc-900"
+        : "border-transparent text-zinc-600 hover:text-zinc-900"
     }`;
 
   const field =
-    "rounded-lg border border-zinc-200 bg-white px-3 py-2 text-sm outline-none focus:border-zinc-400 dark:border-zinc-800 dark:bg-zinc-900 dark:focus:border-zinc-600";
+    "rounded-lg border border-zinc-300 bg-white px-3 py-2 text-sm outline-none focus:border-accent";
 
   return (
     <section>
-      <div className="sticky top-0 z-10 -mx-4 mb-4 space-y-3 bg-background/90 px-4 py-3 backdrop-blur">
+      <div className="sticky top-0 z-10 -mx-4 mb-6 space-y-3 bg-white/95 px-4 pb-3 backdrop-blur">
         <nav
           ref={navRef}
           aria-label="Segment"
-          className="-mx-4 flex gap-2 overflow-x-auto px-4 pb-1 [scrollbar-width:none] sm:flex-wrap sm:overflow-visible"
+          className="-mx-4 flex items-center gap-5 overflow-x-auto border-b border-zinc-200 px-4 [scrollbar-width:none]"
         >
           {brief && (
             <button
               type="button"
               onClick={() => selectSegment("")}
               aria-pressed={showBrief}
-              className={`flex shrink-0 items-center gap-1.5 rounded-full px-3 py-1.5 text-sm font-semibold whitespace-nowrap ring-2 ring-amber-400 ring-inset transition-colors ${
-                showBrief
-                  ? "bg-amber-400 text-zinc-900"
-                  : "text-amber-700 hover:bg-amber-50 dark:text-amber-300 dark:hover:bg-amber-400/10"
+              className={`flex shrink-0 items-center gap-1.5 border-b-[3px] px-1 py-2.5 text-[15px] font-semibold whitespace-nowrap transition-colors ${
+                showBrief ? "border-gold text-zinc-900" : "border-transparent text-gold-dark hover:text-zinc-900"
               }`}
             >
               Leadership Brief
@@ -163,7 +161,7 @@ export default function NewsFeed({ items, segments, categories, sourceNames, bri
               {s.label} <span className="opacity-60">{counts[s.id] ?? 0}</span>
             </button>
           ))}
-          <span className="mx-1 w-px shrink-0 self-stretch bg-zinc-200 dark:bg-zinc-800" aria-hidden />
+          <span className="h-5 w-px shrink-0 bg-zinc-300" aria-hidden />
           <button
             type="button"
             onClick={() => {
@@ -175,10 +173,10 @@ export default function NewsFeed({ items, segments, categories, sourceNames, bri
             aria-pressed={competitorsOnly}
             data-toggle
             title="Only stories that mention a competitor (edit the list in segments.ts)"
-            className={`flex shrink-0 items-center gap-1.5 rounded-full px-3 py-1.5 text-sm whitespace-nowrap ring-1 ring-inset transition-colors ${
+            className={`my-1.5 flex shrink-0 items-center gap-1.5 rounded-full px-3 py-1 text-sm whitespace-nowrap ring-1 ring-inset transition-colors ${
               competitorsOnly
-                ? "bg-amber-400 text-zinc-900 ring-amber-400"
-                : "text-zinc-700 ring-zinc-300 hover:bg-zinc-100 dark:text-zinc-300 dark:ring-zinc-700 dark:hover:bg-zinc-800"
+                ? "bg-accent text-white ring-accent"
+                : "text-zinc-700 ring-zinc-300 hover:bg-zinc-50"
             }`}
           >
             ★ Competitors <span className="opacity-60">{competitorCount}</span>
@@ -194,7 +192,7 @@ export default function NewsFeed({ items, segments, categories, sourceNames, bri
             onChange={(e) => setQuery(e.target.value)}
             placeholder="Search headlines…"
             aria-label="Search headlines"
-            className={`${field} flex-1`}
+            className="flex-1 rounded-lg border-2 border-zinc-800 bg-white px-3 py-2 text-sm outline-none focus:border-accent"
           />
           <div className="flex gap-2">
             <select
@@ -259,8 +257,8 @@ export default function NewsFeed({ items, segments, categories, sourceNames, bri
       ) : (
         <>
         {highlights.length > 0 && (
-          <div className="mb-6 rounded-xl border border-amber-300/60 bg-amber-50/60 p-4 dark:border-amber-400/25 dark:bg-amber-400/[0.06]">
-            <h2 className="mb-2 text-xs font-semibold tracking-wide text-amber-800 uppercase dark:text-amber-300">
+          <div className="mb-6 rounded-lg bg-band p-4">
+            <h2 className="mb-2 text-xs font-semibold tracking-wide text-zinc-700 uppercase">
               Worth your attention
             </h2>
             <ol className="space-y-2">
@@ -287,7 +285,7 @@ export default function NewsFeed({ items, segments, categories, sourceNames, bri
           {rest.map((item) => (
             <li
               key={item.id}
-              className="rounded-xl border border-zinc-200 p-4 transition-colors hover:border-zinc-300 dark:border-zinc-800 dark:hover:border-zinc-700"
+              className="rounded-lg border border-zinc-200 bg-white p-4 transition-shadow hover:shadow-md"
             >
               <div className="mb-2 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-zinc-500 dark:text-zinc-400">
                 {!activeSegment && (
@@ -301,7 +299,7 @@ export default function NewsFeed({ items, segments, categories, sourceNames, bri
                   </button>
                 )}
                 {item.competitors.length > 0 && (
-                  <span className="rounded-full bg-amber-100 px-2 py-0.5 font-medium text-amber-800 dark:bg-amber-400/15 dark:text-amber-300">
+                  <span className="rounded-full bg-gold-soft px-2 py-0.5 font-medium text-gold-dark">
                     ★ {item.competitors.join(", ")}
                   </span>
                 )}
@@ -368,8 +366,8 @@ function BriefView({
 
   return (
     <div className="space-y-6">
-      <article className="rounded-2xl border-2 border-amber-400 bg-amber-50/40 p-5 shadow-sm sm:p-7 dark:border-amber-400/70 dark:bg-amber-400/[0.04]">
-        <p className="text-xs font-semibold tracking-wide text-amber-700 uppercase dark:text-amber-300">
+      <article className="rounded-xl border-2 border-gold bg-white p-5 shadow-sm sm:p-7">
+        <p className="text-xs font-semibold tracking-wide text-gold-dark uppercase">
           Leadership Brief · {updated}
         </p>
         <p className="mt-2 text-lg leading-snug font-semibold sm:text-xl">{brief.summary}</p>
@@ -379,7 +377,7 @@ function BriefView({
             const stories = point.storyIds.map((id) => byId.get(id)).filter((s) => s !== undefined);
             return (
               <li key={i} className="flex gap-3">
-                <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-amber-400 text-xs font-bold text-zinc-900">
+                <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-gold-soft text-xs font-bold text-gold-dark">
                   {i + 1}
                 </span>
                 <div className="min-w-0">
@@ -394,7 +392,7 @@ function BriefView({
                             target="_blank"
                             rel="noopener noreferrer"
                             title={story.title}
-                            className="text-amber-700 underline decoration-amber-400/50 underline-offset-2 hover:decoration-amber-500 dark:text-amber-300"
+                            className="text-accent underline decoration-accent/30 underline-offset-2 hover:decoration-accent"
                           >
                             {story.shortTitle}
                           </a>
