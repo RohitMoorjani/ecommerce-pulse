@@ -42,7 +42,6 @@ yarn-error.log*
 next-env.d.ts
 
 # review scratch files
-/data/pending.json
 /data/new-reviews.json
 /data/brief-input.json
 /data/new-brief.json

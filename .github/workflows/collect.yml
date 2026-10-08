@@ -1,0 +1,41 @@
+# Fetches the news feeds every 3 hours and commits the stories that still need
+# a review to data/pending.json. The Claude Code routine then reviews them
+# (it has no web access itself, by design). Also prunes reviews older than 10
+# days.
+name: Collect new stories
+
+on:
+  schedule:
+    - cron: "15 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run review:pending
+      - name: Commit pending stories
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add data/pending.json data/reviews.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Collect new stories for review"
+            git pull --rebase origin main
+            git push origin main
+          fi

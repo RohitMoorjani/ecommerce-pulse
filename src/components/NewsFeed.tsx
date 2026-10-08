@@ -15,6 +15,15 @@ const SEGMENT_DOTS: Record<string, string> = {
   plays: "bg-[#8a8f98]",
 };
 
+// Soft pastel card backgrounds per section.
+const SEGMENT_TINTS: Record<string, string> = {
+  agentic: "bg-gradient-to-br from-[#f6ebf6] to-[#ecdff3]",
+  pc: "bg-gradient-to-br from-[#eaf2fb] to-[#dfe9f6]",
+  marketplaces: "bg-gradient-to-br from-[#fcf1e4] to-[#f6e7d6]",
+  trends: "bg-gradient-to-br from-[#e9f5ee] to-[#ddefe5]",
+  plays: "bg-gradient-to-br from-[#f3f3f5] to-[#e9e9ee]",
+};
+
 function relativeTime(iso: string) {
   const diff = Date.now() - new Date(iso).getTime();
   const minutes = Math.round(diff / 60_000);
@@ -233,7 +242,17 @@ export default function NewsFeed({ items, segments, categories, sourceNames, bri
       </div>
 
       {showBrief && brief ? (
-        <BriefView brief={brief} items={items} segments={segments} counts={counts} onSelect={selectSegment} />
+        <BriefView
+          brief={brief}
+          items={items}
+          segments={segments}
+          counts={counts}
+          onSelect={selectSegment}
+          onCompetitors={() => {
+            setCompetitorsOnly(true);
+            selectSegment(null);
+          }}
+        />
       ) : visible.length === 0 ? (
         <div className="py-16 text-center text-sm text-zinc-500 dark:text-zinc-400">
           {activeSegment && filtered.length > 0 ? (
@@ -257,49 +276,53 @@ export default function NewsFeed({ items, segments, categories, sourceNames, bri
       ) : (
         <>
         {highlights.length > 0 && (
-          <div className="mb-6 rounded-lg bg-band p-4">
-            <h2 className="mb-2 text-xs font-semibold tracking-wide text-zinc-700 uppercase">
+          <section className="mb-8">
+            <h2 className="font-display mb-3 text-sm font-bold tracking-wide text-ink uppercase">
               Worth your attention
             </h2>
-            <ol className="space-y-2">
+            <ol className="grid gap-4 md:grid-cols-3">
               {highlights.map((item) => (
-                <li key={item.id} className="flex min-w-0 flex-col sm:flex-row sm:items-baseline sm:gap-3">
+                <li
+                  key={item.id}
+                  className={`flex flex-col justify-between rounded-2xl p-5 transition-transform hover:-translate-y-0.5 ${SEGMENT_TINTS[item.segment] ?? SEGMENT_TINTS.plays}`}
+                >
                   <a
                     href={item.link}
                     target="_blank"
                     rel="noopener noreferrer"
                     title={item.originalTitle}
-                    className="min-w-0 truncate text-sm font-semibold hover:underline sm:flex-1"
+                    className="font-display text-lg leading-snug font-bold text-ink hover:underline"
                   >
                     {item.shortTitle}
                   </a>
-                  <span className="shrink-0 text-xs text-zinc-500 dark:text-zinc-400">
-                    {[item.source, ...item.reasons].join(" · ")}
-                  </span>
+                  <p className="mt-4 text-xs text-zinc-600">
+                    <span className="font-semibold text-zinc-800">{item.source}</span>
+                    {item.reasons.length > 0 && <> · {item.reasons.join(" · ")}</>}
+                  </p>
                 </li>
               ))}
             </ol>
-          </div>
+          </section>
         )}
-        <ul className="space-y-3">
+        <ul className="grid gap-4 md:grid-cols-2">
           {rest.map((item) => (
             <li
               key={item.id}
-              className="rounded-lg border border-zinc-200 bg-white p-4 transition-shadow hover:shadow-md"
+              className={`rounded-2xl p-5 transition-transform hover:-translate-y-0.5 ${SEGMENT_TINTS[item.segment] ?? SEGMENT_TINTS.plays}`}
             >
               <div className="mb-2 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-zinc-500 dark:text-zinc-400">
                 {!activeSegment && (
                   <button
                     type="button"
                     onClick={() => selectSegment(item.segment)}
-                    className="flex items-center gap-1.5 rounded-full bg-zinc-100 px-2 py-0.5 font-medium text-zinc-700 hover:bg-zinc-200 dark:bg-zinc-800 dark:text-zinc-300 dark:hover:bg-zinc-700"
+                    className="flex items-center gap-1.5 rounded-full bg-white/70 px-2 py-0.5 font-medium text-zinc-700 hover:bg-white"
                   >
                     <span className={`h-1.5 w-1.5 rounded-full ${SEGMENT_DOTS[item.segment] ?? "bg-zinc-400"}`} aria-hidden />
                     {segmentLabel(item.segment)}
                   </button>
                 )}
                 {item.competitors.length > 0 && (
-                  <span className="rounded-full bg-gold-soft px-2 py-0.5 font-medium text-gold-dark">
+                  <span className="rounded-full bg-white/70 px-2 py-0.5 font-medium text-gold-dark">
                     ★ {item.competitors.join(", ")}
                   </span>
                 )}
@@ -313,7 +336,7 @@ export default function NewsFeed({ items, segments, categories, sourceNames, bri
                   {relativeTime(item.publishedAt)}
                 </time>
               </div>
-              <h2 className="text-base font-semibold leading-snug">
+              <h2 className="font-display text-[17px] leading-snug font-bold text-ink">
                 <a
                   href={item.link}
                   target="_blank"
@@ -325,7 +348,7 @@ export default function NewsFeed({ items, segments, categories, sourceNames, bri
                 </a>
               </h2>
               {(item.takeaway || item.snippet) && (
-                <p className="mt-1.5 text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
+                <p className="mt-2 text-sm leading-relaxed text-zinc-700">
                   {item.takeaway || item.snippet}
                 </p>
               )}
@@ -349,12 +372,14 @@ function BriefView({
   segments,
   counts,
   onSelect,
+  onCompetitors,
 }: {
   brief: Brief;
   items: NewsItem[];
   segments: Pick<Segment, "id" | "label">[];
   counts: Record<string, number>;
   onSelect: (id: string | null) => void;
+  onCompetitors: () => void;
 }) {
   const byId = new Map(items.map((item) => [item.id, item]));
   const updated = new Date(brief.updatedAt).toLocaleDateString("en-US", {
@@ -365,26 +390,52 @@ function BriefView({
   });
 
   return (
-    <div className="space-y-6">
-      <article className="rounded-xl border-2 border-gold bg-white p-5 shadow-sm sm:p-7">
-        <p className="text-xs font-semibold tracking-wide text-gold-dark uppercase">
-          Leadership Brief · {updated}
-        </p>
-        <p className="mt-2 text-lg leading-snug font-semibold sm:text-xl">{brief.summary}</p>
+    <div className="space-y-8">
+      <article className="relative overflow-hidden rounded-3xl border-2 border-gold/60 bg-gradient-to-br from-[#f3e4f0] via-[#ead8ea] to-[#e2d0e6] p-6 sm:p-10">
+        {/* soft decorative arcs, like the reference banner */}
+        <div aria-hidden className="pointer-events-none absolute -right-40 -bottom-56 h-[34rem] w-[34rem] rounded-full bg-white/25" />
+        <div aria-hidden className="pointer-events-none absolute -top-48 right-1/3 h-96 w-96 rounded-full bg-white/15" />
 
-        <ol className="mt-6 space-y-5">
-          {brief.points.map((point, i) => {
-            const stories = point.storyIds.map((id) => byId.get(id)).filter((s) => s !== undefined);
-            return (
-              <li key={i} className="flex gap-3">
-                <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-gold-soft text-xs font-bold text-gold-dark">
-                  {i + 1}
-                </span>
-                <div className="min-w-0">
-                  <h3 className="font-semibold leading-snug">{point.headline}</h3>
-                  <p className="mt-1 text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">{point.detail}</p>
+        <div className="relative grid gap-8 lg:grid-cols-[minmax(0,5fr)_minmax(0,6fr)] lg:gap-12">
+          <div>
+            <p className="inline-flex items-center gap-2 rounded-full bg-white/60 px-3 py-1 text-xs font-semibold tracking-wide text-gold-dark uppercase">
+              <span className="h-2 w-2 rounded-full bg-gold" aria-hidden />
+              Leadership Brief · {updated}
+            </p>
+            <h2 className="font-display mt-5 text-3xl leading-tight font-extrabold text-ink sm:text-4xl">
+              This week in e-commerce
+            </h2>
+            <p className="mt-4 text-lg leading-relaxed text-zinc-800">{brief.summary}</p>
+            <div className="mt-7 flex flex-wrap items-center gap-6">
+              <button
+                type="button"
+                onClick={() => onSelect(null)}
+                className="font-display rounded-lg bg-accent px-5 py-3 text-sm font-bold text-white shadow-sm hover:bg-[#561a5d]"
+              >
+                Read all stories
+              </button>
+              <button
+                type="button"
+                onClick={onCompetitors}
+                className="font-display text-sm font-bold text-ink underline decoration-accent decoration-2 underline-offset-4 hover:decoration-[3px]"
+              >
+                Competitor moves
+              </button>
+            </div>
+          </div>
+
+          <ol className="divide-y divide-ink/10 border-y border-ink/10">
+            {brief.points.map((point, i) => {
+              const stories = point.storyIds.map((id) => byId.get(id)).filter((s) => s !== undefined);
+              return (
+                <li key={i} className="py-4">
+                  <h3 className="font-display flex gap-3 text-base leading-snug font-bold text-ink">
+                    <span className="text-accent">{String(i + 1).padStart(2, "0")}</span>
+                    {point.headline}
+                  </h3>
+                  <p className="mt-1.5 pl-8 text-sm leading-relaxed text-zinc-700">{point.detail}</p>
                   {stories.length > 0 && (
-                    <ul className="mt-2 space-y-1 text-xs">
+                    <ul className="mt-2 space-y-0.5 pl-8 text-xs">
                       {stories.map((story) => (
                         <li key={story.id} className="truncate">
                           <a
@@ -396,32 +447,32 @@ function BriefView({
                           >
                             {story.shortTitle}
                           </a>
-                          <span className="text-zinc-500 dark:text-zinc-400"> · {story.source}</span>
+                          <span className="text-zinc-500"> · {story.source}</span>
                         </li>
                       ))}
                     </ul>
                   )}
-                </div>
-              </li>
-            );
-          })}
-        </ol>
+                </li>
+              );
+            })}
+          </ol>
+        </div>
       </article>
 
       <div>
-        <p className="mb-2 text-xs font-semibold tracking-wide text-zinc-500 uppercase dark:text-zinc-400">
-          Go deeper
-        </p>
-        <div className="flex flex-wrap gap-2">
+        <h2 className="font-display mb-3 text-sm font-bold tracking-wide text-ink uppercase">Go deeper</h2>
+        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-5">
           {segments.map((s) => (
             <button
               key={s.id}
               type="button"
               onClick={() => onSelect(s.id)}
-              className="flex items-center gap-1.5 rounded-full bg-zinc-100 px-3 py-1.5 text-sm text-zinc-700 hover:bg-zinc-200 dark:bg-zinc-800/70 dark:text-zinc-300 dark:hover:bg-zinc-800"
+              className={`rounded-2xl p-4 text-left transition-transform hover:-translate-y-0.5 ${SEGMENT_TINTS[s.id] ?? SEGMENT_TINTS.plays}`}
             >
-              <span className={`h-2 w-2 rounded-full ${SEGMENT_DOTS[s.id] ?? "bg-zinc-400"}`} aria-hidden />
-              {s.label} <span className="opacity-60">{counts[s.id] ?? 0}</span>
+              <span className="font-display block text-sm font-bold text-ink">{s.label}</span>
+              <span className="mt-1 block text-xs text-zinc-600">
+                {counts[s.id] ?? 0} {(counts[s.id] ?? 0) === 1 ? "story" : "stories"} →
+              </span>
             </button>
           ))}
         </div>

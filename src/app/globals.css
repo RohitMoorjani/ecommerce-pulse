@@ -13,7 +13,9 @@
   --color-gold-soft: #fbf3dc;
   --color-band: #eaf4fb;        /* light blue info band */
   --color-utility: #f1f1f1;     /* light grey top bar */
+  --color-ink: #2a0d2d;         /* headings */
   --font-sans: var(--font-noto-sans);
+  --font-display: var(--font-montserrat);
 }
 
 :root {

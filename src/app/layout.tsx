@@ -1,10 +1,17 @@
 import type { Metadata } from "next";
-import { Noto_Sans } from "next/font/google";
+import { Montserrat, Noto_Sans } from "next/font/google";
 import "./globals.css";
 
 const notoSans = Noto_Sans({
   variable: "--font-noto-sans",
   subsets: ["latin"],
+});
+
+// Headings
+const montserrat = Montserrat({
+  variable: "--font-montserrat",
+  subsets: ["latin"],
+  weight: ["600", "700", "800"],
 });
 
 export const metadata: Metadata = {
@@ -14,7 +21,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="en" className={`${notoSans.variable} h-full antialiased`}>
+    <html lang="en" className={`${notoSans.variable} ${montserrat.variable} h-full antialiased`}>
       <body className="min-h-full flex flex-col">{children}</body>
     </html>
   );
