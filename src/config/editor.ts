@@ -61,7 +61,7 @@ IMPORTANCE (1-5)
 1: should have been dropped.
 
 COMPETITORS
-List Apple, Dell or HP only when the item is about that company in a way relevant to our business (products sold online, online store, pricing, channels, market share). Otherwise return an empty list.`;
+List Apple, Dell or HP only when the item is primarily ABOUT that company's own move or results: something the competitor itself launched, changed, priced, announced or reported that is relevant to our business (products sold online, its online store, pricing, channels, market share). Do NOT tag a competitor that is only mentioned in passing, used as an example, named as someone else's target ("aimed at Apple's Macs"), or listed among many companies in an industry or market story. Industry-wide stories get an empty list. When in doubt, leave it empty.
 
 /**
  * Instructions for the Leadership Brief: the short summary leadership reads
