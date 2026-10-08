@@ -1,0 +1,524 @@
+{
+ "HP Newsroom::CBMikAFBVV95cUxNMXhUTEZwVDZaMWlfNXFoM1BoN1ZzQzVHTGo0NjlUZjlWUm9mbXpxY1plbmxCZEpjbDA4eXdXWVJ0NWpNM1ZyNHZ4bnlVYlVRR2M3bDlfVS1TUE93OHJaYTZubHlUMGQwaE1NS3Q5VU41Z1FIOXZHZ0hGUzJlRFI0bzRMVnhid2Fyc1QzWmoteUw": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "HP launches Experience AI, an agentic web platform that adapts to customer intent",
+  "short_headline": "HP's agentic website adapts to shopper intent",
+  "takeaway": "A direct competitor is rebuilding its web store around AI-read intent; benchmark it against our own discovery and checkout.",
+  "importance": 5,
+  "content_type": "announcement",
+  "competitors": [
+   "HP"
+  ],
+  "publishedAt": "2026-10-08T14:45:22.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/walmart-one-hour-express-store-pickup-asl-service-holiday/832464/": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Walmart rolls out 1-hour express pickup nationwide ahead of the holidays",
+  "short_headline": "Walmart adds 1-hour pickup for the holidays",
+  "takeaway": "Holiday delivery-speed expectations rise again; brand sites compete with this on every gift purchase.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-08T14:29:00.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76210": {
+  "keep": false,
+  "publishedAt": "2026-10-08T14:22:47.000Z"
+ },
+ "CRN::https://www.crn.com/news/components-peripherals/2026/analysis-intel-ceo-s-hiring-strategy-reflects-big-bet-on-asics": {
+  "keep": false,
+  "publishedAt": "2026-10-08T14:00:00.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76207": {
+  "keep": false,
+  "publishedAt": "2026-10-08T13:59:34.000Z"
+ },
+ "Reuters::CBMizgFBVV95cUxOUE1oUFB5RzAyOTdPMGZlUEphcVlqMk01cnBHQzBTM0swSmFUMWNHVWhXdjgtczZqVndDVXF1YjZ2anlhRmdCVzBIRzJfQkRQUFBtUFdKOXlUdDJHQ09tT0toWUozR2N4dXNUMDB6R1NRWjZqUWdiZkdwdjd6dEN2REVmelczUjAxTWptM1NMZTUyd3dScVFGa2lnaXhmMnI0S3FIdW5YWTdDTWp2YkhRNlY3eEFjelhGajRSNGg1bXN1UFdkSjI5VUk5dDdvZw": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Amazon launches its first Android tablets at higher prices, with Alexa built in",
+  "short_headline": "Amazon's first Android tablets cost more",
+  "takeaway": "Amazon is both a key marketplace for PC brands and a tablet rival; watch how it ranks and promotes its own tablets.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-08T13:03:22.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166467": {
+  "keep": false,
+  "publishedAt": "2026-10-08T13:01:47.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166471": {
+  "keep": false,
+  "publishedAt": "2026-10-08T13:01:19.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166481": {
+  "keep": false,
+  "publishedAt": "2026-10-08T13:00:04.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/thredup-ceo-ai-costs/831921/": {
+  "keep": false,
+  "publishedAt": "2026-10-08T13:00:00.000Z"
+ },
+ "Inc42::https://inc42.com/?p=575254": {
+  "keep": false,
+  "publishedAt": "2026-10-08T12:44:56.000Z"
+ },
+ "Retail TouchPoints::CBMitAFBVV95cUxPRk1qbENmZDFXMUpGWXpOZGNJNkdYVVEtdGNqZ0RLc0pMOVhxUF9wU3RiSjdCdnJEWjktZDZfcm5LVnlCSi1sSHpZLUdhdkc1N18wZktDZU9QN2hsTjNfZXhHbF9icjhlNjRhZXRqTkQ3Uld6cGw0VjFLYVJ6SG5mSE9DN3F0MTNhLWZrcVZLSFhvNVdHcmVzZkp0aUJ2TzZJcTNDUlc2NUMxbTdwUEl4dE5iV1o": {
+  "keep": false,
+  "publishedAt": "2026-10-08T12:02:57.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76203": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Meta and OpenAI look to add payments inside their AI agents; experts say rails lag",
+  "short_headline": "Meta, OpenAI eye payments inside AI agents",
+  "takeaway": "If agents can pay natively, our store needs product data and checkout that agents can actually complete.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-08T11:58:36.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76197": {
+  "keep": false,
+  "publishedAt": "2026-10-08T11:07:43.000Z"
+ },
+ "Retail TouchPoints::CBMirAFBVV95cUxPZmp3ZnFNUHVPYWdxeWllVFZrVGJhQ29OQlc4TlNhUEVjRlZrUXhPYTR2OUFLd0RtOElYRXJzVDB1STE1WEF6RHMzajA4NGFiaTh1MjJ6elhFZUY3V2J4Z0xuYUl2ZWhRMHJDRHFxSUs2clE0T1RUYnVnZUxNWGd6UE1aTjkwaG85ODRMd1lyakNRX0YzdDZ0LU1DZTdKLU9ya2pvZHl1X1lDaXdZ": {
+  "keep": false,
+  "publishedAt": "2026-10-08T11:04:46.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/amazon-makes-fresh-job-cuts-mainly-in-retail-division/134781446": {
+  "keep": false,
+  "publishedAt": "2026-10-08T05:56:36.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261008VL216/microsoft-demand-dram-pc-revenue.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "AI PCs face a memory squeeze as suppliers prioritize server DRAM",
+  "short_headline": "AI PCs squeezed as DRAM goes to servers",
+  "takeaway": "Memory constraints could lift AI PC prices and limit configs; plan pricing and stock messaging on our store.",
+  "importance": 4,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-08T05:54:36.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=172676": {
+  "keep": false,
+  "publishedAt": "2026-10-08T04:00:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=172829": {
+  "keep": false,
+  "publishedAt": "2026-10-08T04:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261008VL213/windows-arm-nvidia-x86-pc.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Nvidia's Arm-based RTX Spark gives Windows on Arm a shot at high-end PCs",
+  "short_headline": "RTX Spark tests Windows on Arm at the high end",
+  "takeaway": "A premium Arm PC tier is forming; decide how we explain Arm vs x86 to buyers online.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-08T03:38:29.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261008VL207/pc-shipments-forecast-nvidia-microsoft.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Memory costs threaten PC shipments as pricey local-AI machines arrive",
+  "short_headline": "Memory costs threaten PC shipments",
+  "takeaway": "Expect higher-priced AI tiers from Nvidia, Apple and AMD partners while overall shipment forecasts fall.",
+  "importance": 4,
+  "content_type": "analysis",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-10-08T02:35:32.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/amazon-sees-35-40-pc-festive-demand-spike-adds-50-pc-capacity-with-rs-2800-crore-investment/134777774": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Amazon India sees 35-40% festive demand spike, adds 50% capacity",
+  "short_headline": "Amazon India festive demand up 35-40%",
+  "takeaway": "India's festive season is running hot on Amazon; check our stock, delivery promises and deal placement there.",
+  "importance": 4,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-08T02:07:44.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261008VL200/nvidia-rtx-windows-apple-cuda.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Windows laptops with Nvidia RTX Spark open for pre-order, aimed at Apple's Macs",
+  "short_headline": "RTX Spark laptops take aim at Macs",
+  "takeaway": "A new premium AI-laptop tier is now orderable; watch how OEMs merchandise it online against Macs.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-10-08T01:35:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261008VL201/microsoft-windows-rtx-nvidia-pc.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Microsoft prices Surface Laptop Ultra at $2,599, pitching on-device AI agents",
+  "short_headline": "Surface Laptop Ultra launches at $2,599",
+  "takeaway": "Sets a price anchor for premium on-device AI laptops sold direct, a benchmark for our top-end AI PCs.",
+  "importance": 4,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-10-08T01:25:00.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363362": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Target makes its holiday catalog interactive, with digital wish lists for gifting",
+  "short_headline": "Target adds digital wish lists to holiday catalog",
+  "takeaway": "Wish lists capture gift intent early in the season; worth testing for PC and accessory gifting on our store.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-07T22:40:28.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/lululemon-ceo-heidi-oneill-overhauls-c-suite-first-move/832434/": {
+  "keep": false,
+  "publishedAt": "2026-10-07T20:42:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=172827": {
+  "keep": false,
+  "publishedAt": "2026-10-07T19:51:17.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363322": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Gap rolls out natural-language product discovery at Old Navy and Banana Republic",
+  "short_headline": "Gap adds natural-language product search",
+  "takeaway": "Shoppers are learning to search in plain language; test whether our site search handles 'laptop for video editing under $1,000'.",
+  "importance": 4,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-10-07T19:12:43.000Z"
+ },
+ "Dell Newsroom::CBMilAJBVV95cUxQY2kyTnN0QVhyQV95dWtqa0RjNXktTldHcFI4VmlkQXZlVWszOWRLcnA3U3czcHVUanUzSXhZZ0dVTXBfTTkwbFRHQW1ubVJwUk5sT1MzcF95cW1ROHo5UnI4TUl6b29rNmwxVUNyd0tkMG50OGlFY2NXTmp2cTFyZ1BZS09CQlBtRWloZEJ4TXU1TVotcDRMNlk3czIyQnpnUnZCZGlHYlA4blI5eFNQbEpoNnpiNXpqcm9MZFlEd0o4NXBNbFFoUl9yZF9tblAySjZ5Q1RvQ0V5NnVSUGo3dFk5RzB1d2pjS2QzNjlYSk82WGxSWjRERk8xNjdtcXdYU3J1OWxpNWNMelhjVUphMTZfbGY": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Dell launches new AI Windows PCs and workstations",
+  "short_headline": "Dell launches new AI PCs and workstations",
+  "takeaway": "Check how Dell prices and presents the new lineup on Dell.com against our comparable models.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [
+   "Dell"
+  ],
+  "publishedAt": "2026-10-07T19:08:36.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363329": {
+  "keep": false,
+  "publishedAt": "2026-10-07T18:38:22.000Z"
+ },
+ "HP Newsroom::CBMi6AFBVV95cUxOREVhRmdWRWdSSWRkSlIxR0JGdmMydUVJQm5SV3hEb3dORjBld1RRX1kxb2tfbnZ2SUhKa2huMHNsMEhBOXVweGR1bDFZMHRWUVgzU0tWMXdkVkItX2FaRmx1a0JpY2l5bDNiQWFHN2xMal9nMlpCX25zaWtOWmZBTFdyeU54akNvYUQydHJTb0dreDFaXzZ2QXRMWFVjenNleXQ3WXc5LUhfa0d0UEdmMjdHNnVQLTFxVDdnVFlCRjIwcHRhanBZNXdFQmlHQ0VaOURIZDV3WTFwNnFtaDNBaTRhWVFJelZr": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "HP expands its local-AI lineup, from GB300 workstations to RTX Spark Windows PCs",
+  "short_headline": "HP widens its local-AI PC lineup",
+  "takeaway": "HP, Dell and Microsoft all launched AI PCs this week; compare how each sells them online.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [
+   "HP"
+  ],
+  "publishedAt": "2026-10-07T18:01:33.000Z"
+ },
+ "Retail TouchPoints::CBMikwFBVV95cUxPMWJfTDNKcXpLa2M0WDJobmZPX2s1UVN6LWtRc1V6dmFQekpfV0ZMc2k4MDNPNVlpOUs4Z2g2cEZPY3I5eV8xTFlmQjNES0JlTlJqLTFmbmVBaGQ4dXU3aTJvT1dPV05zTmJCRHFhSkl1Sk1oR2RROUdXZFZYM2pGTWVVbkdyMW9EeHlCMVdrcjMxaTQ": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Walmart and Wing expand their drone delivery network",
+  "short_headline": "Walmart widens drone delivery with Wing",
+  "takeaway": "Delivery speed keeps growing as a marketplace advantage over brand sites.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-07T17:44:45.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/neighborhood-intelligence-bed-bath-beyond-calls-off-fathom-acquisition/832373/": {
+  "keep": false,
+  "publishedAt": "2026-10-07T15:50:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/anta-sports-closes-deal-largest-puma-shareholder/832362/": {
+  "keep": false,
+  "publishedAt": "2026-10-07T15:23:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/tiktok-ai-powered-discovery-one-click-checkout/832326/": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "TikTok adds a conversational AI shopping agent and one-click checkout",
+  "short_headline": "TikTok adds AI shopping agent, 1-click checkout",
+  "takeaway": "Social discovery is turning into agent-led buying; worth a TikTok Shop test plan for accessories and gaming.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-07T14:20:00.000Z"
+ },
+ "Counterpoint Research::CBMiwgFBVV95cUxQVUtCQnFrUU5OSS10VVBqUlVsa1B6WlFuYWtVS3NfVVRnWGluU0tXMWxZNUQtaTBudWpUeWN5U3FDZTZocGEzV1ZpZ3FnblFGc3JiSWRLdTM1VjZQR1JyWkhxT2lPcUJMSFpxcXI2MEM5dGF2M3pUV3c5RUJRZUVnenBIcnZpeXlGVFNjWl9TYmwzM2p2dnFqQTlhM2NabG1LOG9kMmVtY0xIckRqZXk1WFREZkJyek1HcWlnVEh1NDJPdw": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Counterpoint: India's festive season sets up Lenovo Yoga Slim 7x with Snapdragon X2 Plus",
+  "short_headline": "Counterpoint on Yoga Slim 7x for India's festive sales",
+  "takeaway": "Analysts see Arm laptops as a festive-season play in India, an early read on Arm PC demand in the region.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-07T13:30:47.000Z"
+ },
+ "Inc42::https://inc42.com/?p=575036": {
+  "keep": false,
+  "publishedAt": "2026-10-07T13:24:24.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166459": {
+  "keep": false,
+  "publishedAt": "2026-10-07T13:01:49.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166456": {
+  "keep": false,
+  "publishedAt": "2026-10-07T13:01:42.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166500": {
+  "keep": false,
+  "publishedAt": "2026-10-07T13:01:11.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166444": {
+  "keep": false,
+  "publishedAt": "2026-10-07T13:00:41.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76187": {
+  "keep": true,
+  "segment": "plays",
+  "headline": "UK retail media hits \u00a32bn in H1, the fastest-growing digital ad category (+32%)",
+  "short_headline": "UK retail media up 32% to \u00a32bn in H1",
+  "takeaway": "Ad budgets keep shifting to retailer networks; expect marketplace visibility to keep getting more expensive.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-07T05:49:00.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76184": {
+  "keep": false,
+  "publishedAt": "2026-10-07T05:20:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=172686": {
+  "keep": false,
+  "publishedAt": "2026-10-07T04:00:00.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76191": {
+  "keep": false,
+  "publishedAt": "2026-10-06T22:01:50.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/top-retail-trade-shows-in-2027/832294/": {
+  "keep": false,
+  "publishedAt": "2026-10-06T21:47:00.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363315": {
+  "keep": false,
+  "publishedAt": "2026-10-06T21:12:29.000Z"
+ },
+ "Retail TouchPoints::CBMixgFBVV95cUxNVVdBQ2ZsX3JRYldiekp3NWRIcEwxUHBQcFBvNHVsMHR6NURxSU5ZeGdjRy1LbGtKUUdmcW5fMHhBdEJVWlpCUXAtQldoZGZkZ2dwV2h2b3dYdllCTHhFNTlXWlNCR3VHNEEzTk4ycG9GUFBhX3hjVlRCYm80eEJTOS14VzBOWkdlU2VNZ0JOdFpRYnVZdnplTEpyWS1Kb01CVEFWM3RESWJYblV2clJubHJDa21hZVppcHk1ejJGaTZzdHhKc2c": {
+  "keep": false,
+  "publishedAt": "2026-10-06T20:13:46.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/walmart-defends-dynamic-pricing-practices-again/832248/": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Walmart lets a personalized-pricing patent lapse as scrutiny grows",
+  "short_headline": "Walmart backs off personalized-pricing patent",
+  "takeaway": "Personalized pricing draws public scrutiny; keep any price personalization on our store transparent.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-06T16:44:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/mattel-investor-pushes-potential-sale/832228/": {
+  "keep": false,
+  "publishedAt": "2026-10-06T16:20:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/where-do-associates-fit-in-an-ai-world-retail/831640/": {
+  "keep": false,
+  "publishedAt": "2026-10-06T16:14:00.000Z"
+ },
+ "Retail TouchPoints::CBMitAFBVV95cUxOTVFEZU1hQ2t0akQwN1RQT2pUeUFFZzhyd09qVWRCR1ZiaGNmLVRjaGRjaWtnZ0w4ZC1POGthRlNES0gtRU1kVmZUUm5TYmExaGV3MlFaM0h1MEd3RWZQRHktbDNjSHJ5bU9Pa0NlNEJUb2IxSTFLdVRYcnV6S2htbDc2bDRrbGVmNEt3cnkwQmpCeEs5UVlnUF83Rk9mQjJjeWVDWTRFYTNyODRtSy1QcFY1QmM": {
+  "keep": false,
+  "publishedAt": "2026-10-06T14:31:05.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76165": {
+  "keep": false,
+  "publishedAt": "2026-10-06T14:02:26.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=172551": {
+  "keep": false,
+  "publishedAt": "2026-10-06T14:00:00.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166453": {
+  "keep": false,
+  "publishedAt": "2026-10-06T13:01:24.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166463": {
+  "keep": false,
+  "publishedAt": "2026-10-06T13:01:09.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166448": {
+  "keep": false,
+  "publishedAt": "2026-10-06T13:00:13.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76163": {
+  "keep": false,
+  "publishedAt": "2026-10-06T11:10:23.000Z"
+ },
+ "Retail TouchPoints::CBMiZ0FVX3lxTE12bXQ1NFI2VDAwNFBleURFeXBHelM0M0F4eDhOd3BwbEdzVVRQN1NZT0l1MEtQS0hBY1Y4cS1OZkNpV0Rsa0d5c1RSNnAwdW9XVXQyU2FITUhRelcxMk5GOFVURzFZdWs": {
+  "keep": false,
+  "publishedAt": "2026-10-06T07:00:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=172612": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Shapermint heads for $10M on TikTok Shop by using creators aged 35-65",
+  "short_headline": "Shapermint: $10M on TikTok Shop via older creators",
+  "takeaway": "TikTok Shop isn't only Gen Z; older creator networks can sell considered purchases.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-06T04:00:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=172665": {
+  "keep": false,
+  "publishedAt": "2026-10-06T04:00:00.000Z"
+ },
+ "Retail TouchPoints::CBMikwFBVV95cUxPdDE0SmVDZ09BZXE5OVZvNWJrOXN6bkZCZmhxYzFsdHNERXYtS2puZ3czMGowdjlqbTJlcGlFT0VyakdkRU9jV3dESnpNaURzcy1HdXcyOHR4dThFSHdHTTdBZXVkUElfVmFONHZtX1VLUmJXUWxtcEo5cGpUTlRCZXV0emMwSDA1bTBVazJsclkydlk": {
+  "keep": false,
+  "publishedAt": "2026-10-05T23:28:44.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363133": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Revelyst sees rising AI-driven product discovery across its brands in 2026",
+  "short_headline": "Revelyst sees AI-driven discovery rising",
+  "takeaway": "Track how much of our traffic arrives via AI assistants and what those visitors buy.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-05T18:28:10.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=172533": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Shoppers grow wary that retailers use their data for dynamic pricing",
+  "short_headline": "Shoppers wary of data-driven dynamic pricing",
+  "takeaway": "Frequent price changes risk backlash; clear price-drop and price-match messaging can protect trust.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-05T14:00:00.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166390": {
+  "keep": false,
+  "publishedAt": "2026-10-05T13:01:56.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166351": {
+  "keep": false,
+  "publishedAt": "2026-10-05T13:01:49.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166327": {
+  "keep": false,
+  "publishedAt": "2026-10-05T13:00:54.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76148": {
+  "keep": false,
+  "publishedAt": "2026-10-05T11:08:37.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=172419": {
+  "keep": false,
+  "publishedAt": "2026-10-05T04:00:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=172462": {
+  "keep": false,
+  "publishedAt": "2026-10-05T04:00:00.000Z"
+ },
+ "Reuters::CBMi1gFBVV95cUxQVjBOX2tiblNKM3pNUVJ2VzViQzZobDRCQk5pbk1Nai1vUlNDTG94a2JIRDNYSU96Mm1DTnZjWE5LbW9MbXh1RGtXUnEzRXJHOGx2Y1JmdlVBMGpuRGZkMUlZc0hGSUoxVTAyMWdpQmNPSndSTXFHVHhzMnRYaUdqdVY2NW5kY2l4V2IyN0pmNlgxR0JuUjdCRW5ZejBtU3NpdXhtdkJQNDE0c3k5b25wWXBHZE5tMjRnNU1leTJZZUJPWk0zOHZLdHhmNUl5OXBKLXlkNktR": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Apple will flag AI requests for Mac data after complaints about Meta's Muse agent",
+  "short_headline": "Apple to flag AI agents' requests for Mac data",
+  "takeaway": "Platform owners are setting rules for what AI agents can access, which will shape agentic shopping.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-10-02T22:43:45.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363268": {
+  "keep": false,
+  "publishedAt": "2026-10-02T21:33:04.000Z"
+ },
+ "Retail TouchPoints::CBMinwFBVV95cUxQZWoycm1YYUY4R3lnbFJ3c3llOFFrbV9Ja0NTWVdsVkNJX1hZRmtQNTlvUVdCVXRXS1RaUmotbjgwWFB1NWM2N0ZTMUc1SUd6Qk94R2w4bzVFREVqVEZxUjd6YjlHRGR1R1FueDRMT2NoVEVNeWUtZkRBd0djUjFaNWZXWVlIM3VoWk1RejA5Q2s3dUQyZHdEb0dxZ2dnUFk": {
+  "keep": false,
+  "publishedAt": "2026-10-02T19:06:57.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363260": {
+  "keep": false,
+  "publishedAt": "2026-10-02T18:42:35.000Z"
+ },
+ "Retail TouchPoints::CBMivgFBVV95cUxORHhXYkp0TkxpVjNTZGZWWnp5ejU1Mm1ET2JQcmlUNlhvcjVWeko5b3ljd254Y1NZekR0LVBuWHhodXBtbW43WF9ZWmFXenJob1ZNd3ZJX1lNc1RLRDFYWDBudzR5SUFVVkxQSFh0NWVDMExKMmJjX3RaVXBXcG54Z1RwUFVBX0Q5dnM0b2k3Q0pBejJYLUdpWlhsRTJtMVJvM3ROUjFfdWl2MklyYUNiVVNJX3UzQ09qb0pwNERB": {
+  "keep": false,
+  "publishedAt": "2026-10-02T18:22:11.000Z"
+ },
+ "Global Marketplaces::CBMisgFBVV95cUxQaDdiVzduWlpSTUNVR2VORGp4b093TWNzYjB3Y2I3eW9vR1g3WmZrdmFNNlppQ0F3YkI5X2FrSWYzVjRNR1U1em9tVGUzeUpwNkNJU3dpVmt5eDVKOGtCZTNUcFdFcDQ5VTV3Y0ZHOG5QeVFXa1ZhcS16UUpjTVQ3Nkt5NHd0alRrZEZYOFNJU1N2TnZ3alBoUDdCNlprMUp4Z2VyTFczS01CRGwzeXgwR2Jn": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "JD.com set to win EU approval for its Ceconomy deal, sources say",
+  "short_headline": "JD.com nears EU approval for Ceconomy deal",
+  "takeaway": "Ceconomy runs MediaMarkt and Saturn; a JD-owned electronics chain would change terms and data for PC brands in Europe.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-02T14:56:56.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166284": {
+  "keep": false,
+  "publishedAt": "2026-10-02T13:01:40.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166381": {
+  "keep": false,
+  "publishedAt": "2026-10-02T13:01:26.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166313": {
+  "keep": false,
+  "publishedAt": "2026-10-02T13:00:03.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363057": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Online jeweler Angara bets on flexibility and customer choice for Cyber 5",
+  "short_headline": "Angara's Cyber 5 plan: flexibility and choice",
+  "takeaway": "A peer's Cyber 5 approach: more customer choice backed by data; compare with our own Cyber 5 offer.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-01T23:01:18.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363242": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "DoorDash opens agentic ordering to workplaces and corporate customers",
+  "short_headline": "DoorDash brings agentic ordering to offices",
+  "takeaway": "Agent-led B2B reordering is arriving; relevant to business buyers of devices and accessories.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-01T22:10:33.000Z"
+ },
+ "TechCrunch::https://techcrunch.com/?p=3172692": {
+  "keep": false,
+  "publishedAt": "2026-10-01T16:44:35.000Z"
+ }
+}
