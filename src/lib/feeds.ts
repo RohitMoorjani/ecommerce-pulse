@@ -40,7 +40,8 @@ export interface FeedResult {
   fetchedAt: string;
 }
 
-const MAX_AGE_MS = 7 * 24 * 60 * 60 * 1000;
+const DAY_MS = 24 * 60 * 60 * 1000;
+const DEFAULT_MAX_AGE_DAYS = 7;
 const SNIPPET_LENGTH = 220;
 const DUPLICATE_THRESHOLD = 0.75;
 // Lower bar for "another source covered the same story" (shown, not merged).
@@ -78,7 +79,10 @@ function passesKeywordFilter(text: string) {
 }
 
 function needsKeywordMatch(source: Source) {
-  return source.requireKeywordMatch ?? source.category === "Tech Press";
+  return (
+    source.requireKeywordMatch ??
+    (source.category === "Tech Press" || source.category === "Consumer Research")
+  );
 }
 
 function decodeEntities(s: string) {
@@ -116,7 +120,7 @@ function stripPublisherSuffix(title: string, source: Source) {
 // candidates so Claude can make the call.
 async function fetchSource(source: Source, keepUnsorted: boolean): Promise<NewsItem[]> {
   const feed = await fetchFeed(source.url);
-  const cutoff = Date.now() - MAX_AGE_MS;
+  const cutoff = Date.now() - (source.maxAgeDays ?? DEFAULT_MAX_AGE_DAYS) * DAY_MS;
   const filterByKeyword = needsKeywordMatch(source);
 
   const items: NewsItem[] = [];

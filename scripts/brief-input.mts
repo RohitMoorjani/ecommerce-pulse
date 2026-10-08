@@ -1,5 +1,6 @@
 /**
- * Writes data/brief-input.json: the reviewed stories from the last 7 days, as
+ * Writes data/brief-input.json: the reviewed stories (news from the last 7
+ * days, shopper research from the last 30), as
  * input for writing the Leadership Brief (see BRIEF_INSTRUCTIONS in
  * src/config/editor.ts).
  *
@@ -7,12 +8,14 @@
  */
 import { readFileSync, writeFileSync } from "node:fs";
 
-const WEEK_MS = 7 * 24 * 60 * 60 * 1000;
+const DAY_MS = 24 * 60 * 60 * 1000;
+// News from the last 7 days; shopper research from the last 30.
+const maxAge = (segment: unknown) => (segment === "trends" ? 30 : 7) * DAY_MS;
 const reviews: Record<string, Record<string, unknown> & { keep: boolean; publishedAt: string }> =
   JSON.parse(readFileSync("data/reviews.json", "utf8"));
 
 const stories = Object.entries(reviews)
-  .filter(([, r]) => r.keep && Date.now() - new Date(r.publishedAt).getTime() < WEEK_MS)
+  .filter(([, r]) => r.keep && Date.now() - new Date(r.publishedAt).getTime() < maxAge(r.segment))
   .map(([id, r]) => ({
     id,
     source: id.split("::")[0],

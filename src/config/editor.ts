@@ -19,7 +19,16 @@ KEEP the item only if our e-commerce leadership could learn something they might
 - PC, tablet and server market data: shipments, share, demand, pricing pressure such as memory costs or tariffs, regional shifts.
 - Agentic and AI commerce: AI agents or assistants that help people discover, compare or buy (shopper agents, merchant agents, agent-to-agent checkout, AI search and discovery, protocols and payments for agents), including what real shoppers or merchants have actually done with them.
 - Marketplaces and retailers that sell consumer electronics, anywhere in the world: Amazon (all countries), Best Buy, Walmart, Target, Newegg, Costco, Micro Center, TikTok Shop, Flipkart, Croma, Reliance Digital, JD.com, Tmall/Alibaba, Mercado Libre, Coupang, Rakuten, Shopee, Lazada, MediaMarkt/Ceconomy, Currys, Fnac Darty, Otto, Noon, Argos and similar. Relevant: fees, seller or brand programs, retail media, ranking or search changes, delivery promises, sales events, AI features, entering or leaving markets.
-- Shopper behaviour with data: spending, sentiment, channel shifts, seasonal forecasts (Cyber 5, Black Friday, Prime Day, back-to-school, Diwali, Singles Day), especially for electronics.
+- Shopper behaviour and spending, with data, anywhere in the world (not only the US). This is a priority area. Includes:
+  - generations: Gen Z, millennials, Gen X, baby boomers, Gen Alpha; how each shops, their purchasing power and expected spending;
+  - other cuts: men vs women, parents, students, gamers, creators, high-income vs budget shoppers, regions and countries;
+  - SMBs and small-business owners as buyers: how they research and buy tech, budgets, financing, B2B marketplaces, sentiment and spending intentions. Small-business buyer insight is especially valuable to us;
+  - how people use AI to research and buy (adoption rates, trust, which tasks);
+  - reactions to pricing: price sensitivity, promotions, trade-down, tariffs and inflation effects, dynamic pricing backlash;
+  - payments and financing: buy now, pay later (BNPL), wallets, credit, instalments;
+  - delivery and last-mile preferences: speed vs cost, pickup, lockers, returns;
+  - seasonal demand and forecasts: holiday, Cyber 5, Black Friday, Prime Day, back-to-school, Diwali, Singles Day, 11.11;
+  - consumer electronics purchases specifically (PCs, laptops, tablets, accessories, gaming) whenever the data covers them.
 - A new e-commerce play by any retailer or brand (delivery, payments, loyalty, personalization, wish lists, financing, store-to-online) that is novel and could transfer to selling PCs online.
 
 DROP the item if:
@@ -32,7 +41,7 @@ SECTIONS (pick exactly one, checked in this order; the first that fits wins):
 1. "agentic": anything about AI agents or assistants in shopping, from discovery to purchase, whoever built them (Sparky, Rufus, Alexa+, Meta Muse, ChatGPT shopping, Gemini, Perplexity, merchant agents, agent checkout protocols, AI search for products). Internal or enterprise AI use (for example office ChatGPT licences) is NOT agentic commerce.
 2. "pc": PCs, tablets, servers, PC makers, PC market data, PC components and pricing.
 3. "marketplaces": consumer-electronics marketplaces and retailers listed above, anywhere in the world.
-4. "trends": what shoppers are doing, with data: spending, sentiment, seasonal demand and forecasts.
+4. "trends": what shoppers and business buyers are doing, backed by data or research: generations and other demographics, purchasing power and spending forecasts, SMB buying, AI use in shopping (adoption data; launches of AI shopping products go to "agentic"), price sensitivity, BNPL and payments, delivery and last-mile preferences, seasonal demand. Worldwide.
 5. "plays": new e-commerce plays by other retailers and brands that could transfer to our store.
 
 HEADLINE RULES
@@ -47,7 +56,7 @@ One sentence, at most 150 characters: the implication for us as a PC brand selli
 IMPORTANCE (1-5)
 5: likely to change our e-commerce strategy or a competitor's online selling in a way we must know this week.
 4: concrete, new and directly relevant (competitor e-commerce move, major marketplace change for electronics, hard market data).
-3: useful context or a transferable idea.
+3: useful context or a transferable idea. Give shopper research one level more when it covers consumer electronics or small-business buyers.
 2: marginal; kept only for completeness.
 1: should have been dropped.
 

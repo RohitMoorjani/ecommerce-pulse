@@ -1,6 +1,6 @@
 /**
  * Lists stories that still need an editorial review and writes them to
- * data/pending.json. Also prunes saved reviews older than 10 days.
+ * data/pending.json. Also prunes saved reviews older than 35 days.
  *
  *   npm run review:pending
  */
@@ -9,7 +9,8 @@ import { getCandidates } from "@/lib/feeds";
 
 const REVIEWS = "data/reviews.json";
 const PENDING = "data/pending.json";
-const KEEP_MS = 10 * 24 * 60 * 60 * 1000;
+// Longer than the longest source window (30 days for consumer research).
+const KEEP_MS = 35 * 24 * 60 * 60 * 1000;
 
 const reviews: Record<string, { publishedAt: string }> = JSON.parse(readFileSync(REVIEWS, "utf8"));
 const cutoff = Date.now() - KEEP_MS;

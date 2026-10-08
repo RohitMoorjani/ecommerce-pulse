@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   description: "E-commerce and PC industry news from verified sources.",
 };
 
-export default function RootLayout({ children }: LayoutProps<"/">) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={`${notoSans.variable} ${montserrat.variable} h-full antialiased`}>
       <body className="min-h-full flex flex-col">{children}</body>

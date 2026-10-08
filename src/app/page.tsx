@@ -23,7 +23,7 @@ export default async function Home() {
         <div className="mx-auto max-w-5xl px-4 pt-6 pb-2">
           <h1 className="text-2xl font-bold tracking-tight sm:text-3xl">E-Commerce Pulse</h1>
           <p className="mt-1 text-sm text-zinc-600">
-            E-commerce and PC industry news from verified sources · last 7 days
+            E-commerce and PC industry news from verified sources · news from the last 7 days, shopper research from the last 30
           </p>
         </div>
       </header>

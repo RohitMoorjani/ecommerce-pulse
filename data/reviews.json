@@ -520,5 +520,688 @@
  "TechCrunch::https://techcrunch.com/?p=3172692": {
   "keep": false,
   "publishedAt": "2026-10-01T16:44:35.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/lululemon-heidi-oneill-executive-leadership-team/832505/": {
+  "keep": false,
+  "publishedAt": "2026-10-08T15:52:00.000Z"
+ },
+ "PYMNTS Data::CBMimgFBVV95cUxNXzRZcFlCR3lRU1dlek8xMTBpb0ZQbElsT3JHckk2LXBDVHNES3VwTV9ZNFB1Y3YySmtkV2pQMFE2VTFtNmw4U2tNQXpjMDNzTmhSX3VMSjZiYjlRNmdjdklhclBQc0Z6dXhRaVd3aXRIcTdudXZXVFBBRWMtMzZHOXdHNVNWem96VjJTbnhQVi1xSlgtRVNqX3B3": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Consumers expect to spend more as inflation anxiety rises",
+  "short_headline": "Shoppers expect to spend more as inflation bites",
+  "takeaway": "Rising price expectations favor clear value messaging and financing options on big-ticket tech.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-08T15:45:11.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/ai-walmart-sparky-CX-investment/832327/": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Walmart says AI savings, led by Sparky, are funding customer-experience upgrades",
+  "short_headline": "Walmart reinvests Sparky AI savings into CX",
+  "takeaway": "A marketplace rival is turning AI efficiency into service gains; our CX investment case should count AI savings too.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-08T15:28:00.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMiuAFBVV95cUxQeDgxLVk0MWl3d0NibEE2SWRpY1o2TVhsc3dweWpXRVJZV043XzVXWlpwbkVwTEhBRjRIY2J0aDJ0NWFMTEFOS0E4VFJENVB4M3FfSUpfbk15dV9SX1dreVV2UC1IanhVR1NLcDRtNGJnSE9sUUJLZ2FURUR6elJfUFVVcThyUVdDMUk0YVplZ3JLVEJzZDQwTlV4OXNLMDJtSHEwdmVlVVVhMUZjMXBtSlQwcDZkVS1M": {
+  "keep": false,
+  "publishedAt": "2026-10-08T13:58:53.000Z"
+ },
+ "TrendForce::CBMi4gFBVV95cUxQRzZlOVpqVEJLSDVmcUJGYjlEZVJxX3ZRaHRPMUFJb2RWTmgxODJveXlQUzRxM3FCV3pPWEpiOEJvTllaZVZSdHlQeWVVbW9NblYyUk52UnpUNTVReDRPWnRtRjdQb2Y3dWxDdWxyckJlMVdaczhmQnVLWEVHYlgxRVFJYkZNWUg0c0hHb2Q0SnYtbkZ0MjZ5aTdkUTd2Z04tTy1yQ0I0SjBicXNldy1DcllDSDJaMGtUT0ctUk52eURiSVcySFBZMl9GYTRNZHFHY0JndS10VDlDN0RZMUNYMS1n": {
+  "keep": false,
+  "publishedAt": "2026-10-08T08:09:33.000Z"
+ },
+ "PYMNTS Data::CBMixAFBVV95cUxNekNsUTdnY21WdnFSWDJ2Qmd4dmU4dUhVTW4tNkktbTEwWXVta2tjT0tDSjc1Zi1zaENQVTc1dldhMnRuaUlBYXc3ejRXZ3MzRzBkX3dqVFdGN1N5MDNEVXRCRVQ4am1DaktiTTBUbnd6ZkJlSFhzVUxQVEM5N2pRTnFtRlVTenpVWUtlbjlrWktwT1dUUnZsQU5pZVBmelpsbmk0UkV0VW1oZlhvcjJYdml3dWRXVVZwNjFWMWJjUV9IVmVv": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Mastercard bets shoppers will build trust in AI agents one purchase at a time",
+  "short_headline": "Mastercard: trust in AI agents builds per purchase",
+  "takeaway": "Agent checkout trust will grow gradually; low-risk repeat buys like accessories are the likely starting point.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-08T08:04:53.000Z"
+ },
+ "PYMNTS Data::CBMiowFBVV95cUxNdjJ2dWRiaGdZanBLX3NXNklxc3A2SlhZdHc4YjJwcXp1VDExTDZpLUtRNVVfTlFfVFU5MmhlcUxGbXN6Y1pGaTBQbndkZ2NnWXFmTHhCcTAySHVxSXFHUXVuRGRTMnFsNzlrcFloMG8xS1B1Q3lJXy1ZcW9KNFB3ckFtS0E2dWhSM1ZsQXhVRndiNDFQN1pkV2oxWkdQclMtT3Vr": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Higher prices are splitting consumers into three distinct camps",
+  "short_headline": "Higher prices split shoppers into three camps",
+  "takeaway": "Price responses are diverging; segment offers instead of running one promotion for everyone.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-08T08:04:53.000Z"
+ },
+ "PYMNTS Data::CBMimgFBVV95cUxPRWdrM0t5WFlCSlFPaWktdGJWczZaMURwYUVNX3lBZUpNTEU4QlJUQ1IwOGJSNUd5TVhVNWhZaG84U1hPY1ZrZ0VuUy1GOG5WQ2RIcGRKNlZuVWR4UmFKWEJEdE40VFZGQ092OVdpa0JwYUNTVTdZVUJGOGk1cEQ4NEZYSThnTU1ERjJkZHVSWTh3dlZDU3M2SnNB": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Gen X is at peak earnings, but its high earners feel squeezed",
+  "short_headline": "Gen X high earners feel the squeeze",
+  "takeaway": "Peak-earning Gen X still watches spending; premium PCs may need financing or trade-in to close.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-08T08:04:46.000Z"
+ },
+ "Omdia::CBMi2wFBVV95cUxNMDZKZ2lZbGRQREpSUUd0eEVOZW9LRXN6ZDhqY043RjNxNHI3djNNdDhPRjJEOW5VTDFIX1ZIdHBQSXFFUnNkeV94ZDNWZ2pTd082Nmo2VDBWTXJXOVJvd3dsQ20wQkcwb2RJWWp5b1pFVFBVYkhOTGNDcnBrUWVNOHh0cnBKbHJVWmR1dEd0NFV3U1RtelVTdVVPVjhkaHBxQlg3WUdUMzgyOGdwVjRHNzc2cE1ZSGQzNlNwX05tdy02eUFZQVR2T3NHcS1sejhLcE82QUMwdWNmU0k": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "OLED monitor shipments set to grow 79% in 2026, with ASUS leading",
+  "short_headline": "OLED monitors up 79% in 2026, ASUS leads",
+  "takeaway": "OLED monitors are a fast-growing attach category; check our assortment and bundles.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-08T07:37:22.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261008PD240/lg-commercial-launch-cubesat-lges.html": {
+  "keep": false,
+  "publishedAt": "2026-10-08T06:58:50.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/delivery-partners-in-hyderabad-protest-at-online-grocery-store-alleging-supply-of-expired-items/134781019": {
+  "keep": false,
+  "publishedAt": "2026-10-08T06:38:40.000Z"
+ },
+ "PYMNTS Data::CBMi2AFBVV95cUxNWkJlNDRfSk1ZSEVZb0xqeTlnM2NfcDBxYVNMVUVGUHA2TmxNUGs1TTRUbzFJemFRRWdPVlNhbEVGekp6RHpySEZVdUhIQzN3WlpIOGNlRUJSQ0MxSXNjRVJLYkMxc3djUVhwck5TZ21PLXhVV29xYUFGM0FybDYyNnJqZlZZemk5ekNJUC1VbDJTNDhrTk1pVDhKSEc0UF9GTmc2elU1SklPazVfWjczVUJvWjVQMDNtZjgzcnZWLXAxS3pFaUlsNFlBTXJyX3JUNzUtd3M4RGg": {
+  "keep": false,
+  "publishedAt": "2026-10-08T04:28:17.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261007PD249/samsung-lsi-automotive-ap-exynos.html": {
+  "keep": false,
+  "publishedAt": "2026-10-08T03:55:00.000Z"
+ },
+ "IDC::CBMiYkFVX3lxTE5yT0pHT3lON0lvM2pfYkRJWklRNXI4dGhrQTZHSS1mSEg4RDR4cDljenB6U2R5aThJNzZ3VEVsSFNVNFljaG81d0ZJeTBUSWh2c1Jfa25pcTFPUklHM2xnTjdR": {
+  "keep": false,
+  "publishedAt": "2026-10-08T03:35:40.000Z"
+ },
+ "IDC::CBMiZEFVX3lxTE5DbmVCZ0twdXp3RF9UaXVGTFJ2M0JwMkZfbV9EV0VKLU1UNjNiX2FaOHVoZjc4eEFZaGR1cm5KQVk1Mm54ZTJIVjRJY0lnNFNpMnBEZXZINl9sNUM3SE90bzlDWGU": {
+  "keep": false,
+  "publishedAt": "2026-10-08T03:35:40.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261008PD214/cwtc-revenue-demand-electronics-growth.html": {
+  "keep": false,
+  "publishedAt": "2026-10-08T02:45:00.000Z"
+ },
+ "IDC::CBMiYkFVX3lxTE5OVlU4T0w2RThiUEl0a2Mzb2dmbWhUSzMzTmZoSDMwOXlCdGZiSU04MHV1ekYyaXlvY0FPanMyZ3ZjS0ZmVnVmZlVJWUN0NkpiSk5vYXRCSjl3MWgyMDRvNDJ3": {
+  "keep": false,
+  "publishedAt": "2026-10-08T02:10:49.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261007VL221/samsung-testing-nand-dram-production.html": {
+  "keep": false,
+  "publishedAt": "2026-10-08T01:55:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261008PD202/fed-inflation-government-taiwan-financing.html?chid=10": {
+  "keep": false,
+  "publishedAt": "2026-10-08T01:41:19.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261008VL203/samsung-profit-operating-profit-hbm-market.html": {
+  "keep": false,
+  "publishedAt": "2026-10-08T01:15:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261007VL222/tokyo-electron-profit-chipmakers-operating-profit-2027.html": {
+  "keep": false,
+  "publishedAt": "2026-10-07T23:55:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261007PD239/ast-acer-subsidiary-revenue-2026.html": {
+  "keep": false,
+  "publishedAt": "2026-10-07T23:53:01.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261007PD238/acer-revenue-subsidiary-demand-business.html": {
+  "keep": false,
+  "publishedAt": "2026-10-07T23:52:10.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261007PD234/cxmt-samsung-sk-hynix-talent-poaching.html": {
+  "keep": false,
+  "publishedAt": "2026-10-07T23:51:01.000Z"
+ },
+ "Reuters::CBMiywFBVV95cUxQcGpPcWtGSUU1NVZlY1p6bnBmNnhqQ3owekVzTGpsMWxvSkM5c0trLVFVZUtySS1TcVRZZGFuWUpSR0JTaUgyWE5HNzJjbUNvd1Bma2RURkdMUFliaUw1Q3BPbHlMTm9aR05uUV9aZV9TV1k4T1Y3OW80Q0cteDFpM0Z0aVJwbFF6YUF1RExIdUlPRWtRb1YtQk1lWXIyZnBLT0lnSTRMTm1NejdSOEpTcGtCYy1HZWk2a3dMS0tka2FkdmE5b3Q4STcxSQ": {
+  "keep": false,
+  "publishedAt": "2026-10-07T22:10:19.000Z"
+ },
+ "PYMNTS Data::CBMiiAFBVV95cUxPYm1IX0tTUmY0SEhMQU8wejZsbUJyT1dLSHo0d0pfbU5pRksyUWNiYThqbTlSTFdlcnI4X3Z0Q3NERERGbkZBVU9ieGF0NS1YQ1p4cmtxU2lCOHFKZUI1MmI4Y1A2b3FsZjZoVkUtWVA0UnlMMFJkdHJZODZoRnZtYnhNTy1YcEZW": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Consumers are getting choosier about which credit they use",
+  "short_headline": "Shoppers get choosier about credit",
+  "takeaway": "Financing choice matters at checkout; offer more than one way to pay over time for big tech buys.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-07T20:44:46.000Z"
+ },
+ "Circana::CBMisgFBVV95cUxQYV9DbWNDbWZDV201SnJxX25Ub09ZYTZlTFZUcElpYnpDWDNqZENld0ZqX0tMY2RRVGxpOFdsLXE4b3pMVmgtQzhDZjc5bm9HbGh4RHZsSTZXYjRRc3p6U1BlQ1ZSN1d2QTltcUVLdVp4bkZDUURJeUVxcTBjYjY4cFR0YmJkSDczYTZFdFhWUXFlMFVOMm9maHZ2QjhnRU5NTklUVUI5LUM5OWRvSFluSXhB": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Circana: Holiday 2026 will be defined by meaning, with five consumer shifts",
+  "short_headline": "Circana's five consumer shifts for Holiday 2026",
+  "takeaway": "A research-backed read on holiday mindset; use it to frame our seasonal messaging beyond discounts.",
+  "importance": 4,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-07T18:14:22.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMiyAFBVV95cUxNZGlZNWQ1NndsLTNQMXFMa1lTa25ENXNsT3lGbFdycEdfU2ktYmFHTjY4RzFKS3J2bk9ZZk15UnQ2MUZvSGlJN3ZPV3NmUmN2ZzJSWmhKUXdIYTFTcnh1Z2xoLWlSUjl4U1lZcVZTdk5RU0h1dWpuVmNRY0lobjFPQjZIbVVGeEpUNjM5NHB2cG9TMFVYczVXNUd3NUVWODlNMnF4UTdpSXJaZnFHeHZ5ZjFpMi02ZXhoSW5OU0pZUk1GOUcwd1FGcA": {
+  "keep": false,
+  "publishedAt": "2026-10-07T16:46:45.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMiugFBVV95cUxQY241UVYxWVU5YlVMREk4YmJLVFZaQVpfSGNTSTFBWS1YNllQT1pWYWlYNnRwcHpEYXp5MTUxaU90bXh4VlpaYURuLTFKSFdwakJzYmdKUmJhdGg1dG1uN0w1OEJoc0dmcjd0SW9iQVNmOU9saXlfeG5BcV9WcnBwOUZIcU9Mc1N0T1FnYTJWOUtJMXJHelNiSi1tbWdVQ3VHMTBlQWJ0WGd2OXg2ck4xUl9ra3JrUHZYMGc": {
+  "keep": false,
+  "publishedAt": "2026-10-07T15:35:18.000Z"
+ },
+ "Inc42::https://inc42.com/?p=575048": {
+  "keep": false,
+  "publishedAt": "2026-10-07T15:20:56.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMiwwFBVV95cUxQRlBOUmxLN2Rlc3V0SjVmZVVnaXZsTnNSaS1ta183ajdpYTlsQ2dfcFNNMU1fNVZzdFBlY0RIYnI5dWVBQWFEdlNMTnNicllHZWJqSTVzZ0NwaUlWTmo5WnV1X3RIbWQyTkNiWmZzeHFEZVZFOHRDRWZqQndkSTVJVG9ZUEtfMTdzbVp1d0IxaV9paHVUMnc2UWhPUVNPZTRHbzVraTFUYUN2cUdjZEdQZ2gxNzRwdnBndlpnSzYwMHZ0T0U": {
+  "keep": false,
+  "publishedAt": "2026-10-07T14:17:11.000Z"
+ },
+ "Circana::CBMiuwFBVV95cUxOVjlIVzR6WjVxWUVXamJaMUEwQmtOS2k0U25qWnFKTTY3XzhmdldrZmEtdFZtYWMySVRaRTFnNHRDa0ZEcVBKYzdaNGZIR2FJLVk1a0hsMW94RW0wc2tVc3BKQnlDZ0RJUWxNVE84aUU2T2lQTUU0eFR1dHdkNWxDTDFqRC1VZFZoZHUwMHBtb0lEbEFvc1VOSWFBdjZSZjZSelMtRkxwVWNJZldoUkMteVJNbDNsX2lVeUs0": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Circana-Best Buy Ads study finds retail media's reach goes far beyond the click",
+  "short_headline": "Best Buy Ads: retail media works beyond the click",
+  "takeaway": "Judging Best Buy retail media by clicks alone may undervalue it; ask for in-store and halo measurement.",
+  "importance": 4,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-07T14:13:24.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMi1gFBVV95cUxNY2VhdWlLMHVvQjY1UGV1dUhYelRReXBRRmRTWlk2b1JMWnVyc0VhS1Z1dmJ6UWNVZ1RCcUpEVWs4aGk0TURzNDBLQ3V4dnIxTU5VcHIyQ21wQkpUWkNlMWtBVFpSYTFPNEdmazdCNDRKbGxpQ0xUYW1DQW1WVkUwaXdKeHNfLXp3aXU3dmlTbjdGaUl6ckFoZFpUMzE2NFY3eHZpd2Jla0Via3gtNkszUDloLTU0S0s5UmVXSmNTOEVLRUctNUotb0hlNFRyZUpmNG5uNlJB": {
+  "keep": false,
+  "publishedAt": "2026-10-07T13:45:38.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/health-and-beauty/kiko-milano-expects-india-to-enter-top-3-5-markets-in-five-years-plans-to-double-store-network/134767288": {
+  "keep": false,
+  "publishedAt": "2026-10-07T13:21:20.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMilgFBVV95cUxNMElCNlBWS2hvS0JJLVlUZS1pSFg1dFJ1dVNpQ3lMNnIwWnNvN2NqYXdPZFFhdzhCU1dRYzNpbTFHNUszT0xSUHU4UUxiMHVpYm9LZ2hwUTl2SVpQV1pzeG9vOVBTMkFUaFYzOUIzbElTWnU0bEFnOVBjdWRyNFZMNWxyRVJTRTNCZ1VNbEdJTjFPbFkxTVE": {
+  "keep": false,
+  "publishedAt": "2026-10-07T12:54:05.000Z"
+ },
+ "Inc42::https://inc42.com/?p=575026": {
+  "keep": false,
+  "publishedAt": "2026-10-07T12:19:33.000Z"
+ },
+ "Gartner::CBMilAJBVV95cUxPdEI3MmZCa2FBWVVoSC1ZNGh2OUhLSnhPRUl1eWgtMHd2T2dNVXRnRUhJUVh1WVhYMWl1Mm5RLXZzZzBPdzBQalVXYzlLNmlwLXhzSE8zU0RCcHpjTHhQSWxZazNrcUZraEl0Z1VnYlBULW1TOUI4eWVRYlZiNlFkSVJyT3FleGJHOFNnTU5jY0JEZVhaN1RkU2NhZC1UVjVoQTZjLTk2ckVmVktrdnQyeUZmRl8yeG8zZkQ1N3dCSFhmMjJNRXBPdGdYRW9lVlRpRzVndUN0ZjFGeF9xVF9sc1IyVm1ZY1o5b21jNE9mX0ZqNzY2UVYyY211aXg0eGFpelZGUGZ6ajQwRU9GX3FyNElCYUM": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Gartner: 34% of US consumers would use GenAI for holiday gift ideas",
+  "short_headline": "34% of US shoppers open to GenAI gift ideas",
+  "takeaway": "A third of holiday shoppers may arrive via AI recommendations; our product content must work for AI tools.",
+  "importance": 4,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-07T12:05:03.000Z"
+ },
+ "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "NIQ: 55% of consumers now use AI during product discovery",
+  "short_headline": "55% of shoppers now use AI to discover products",
+  "takeaway": "AI is now a mainstream discovery channel; product data quality and AI visibility matter as much as SEO.",
+  "importance": 5,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-07T08:37:33.000Z"
+ },
+ "PYMNTS Data::CBMipwFBVV95cUxQYUJ0MnBxU1FiTHRMUkVrZDNyQWRSakMtR3hVRElLbVZtekJvbGtGOEdHSUE0RjRuM2s5VDhrRjJMazZZRjJaWGZwVW9abGtqVDlsbEVjMVhzcW96MHdYLXFOWjMzUEppYVl1TnhxUi1kVHZFQjBSZHA1LXNackRkalJmbWRqT2ZqQklqRFNkaVRZMEF1aGc2Vk1TTVllcFNZZGxsd2d3TQ": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Missing payment options are sending shoppers to competitors",
+  "short_headline": "Missing payment options drive shoppers away",
+  "takeaway": "Audit our checkout payment mix by country; every gap loses sales.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-07T08:29:59.000Z"
+ },
+ "PYMNTS Data::CBMi3AFBVV95cUxQRk5ReklDWWw2aGZfNkVoUVl4czRFYno1ZU5NVVRsbC16U2x6c29CbDV3MDdNclZHSktGSk5BRFN1RFdPeXZ0NzlmOGZwcFRjcU9tREZuSVNGZy12amx1THVCdnJERnFnUjl2czlhajU1a2tQdW94UVRsbzJ2N3VTUjZ4MlFJdUJOMzFyRWZZakNxNm9hOEZUejhjbVJLUHFJU3g2NkFjbUtVM3ZTWmRWX01ia2NiLTJPWHhPS2J6QV9haDFXS05ILVlrakkxSGJTTXJfZ2hsMTlGd0t5": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "AI agents send shoppers, but merchants still have to close the sale",
+  "short_headline": "AI agents bring traffic; merchants must convert",
+  "takeaway": "Agent-referred visitors need fast, clear product pages and checkout to convert.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-07T06:30:04.000Z"
+ },
+ "Reuters::CBMitgFBVV95cUxQMzhhSlRkUEQzdlRlZEJob2lBbUZfZUItM0Y5bGpCTFVkX0o3UmVDdjhPMm1QelJkSTk3MGU1V3JzVVZtR0dGVmtCdlNESmktcjY3dm5tOHRvV0xYZERLR29tcGVObXVYbzZ6UWFIcE5tNW9nOTF5aXhySVowNGtKamlRcXRjV2pjcExhX0NyUHRsZ2Z3NmF2Y0hkNGRYNW5aZlpfRHZyZ3hud3htTEhmSWdRSFNqQQ": {
+  "keep": false,
+  "publishedAt": "2026-10-06T23:06:00.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMipAFBVV95cUxOYXpERkdoVlhFTldhelpOT2VPY1cwZ2FRREhzREYtdXdLTTM5d2ZacWZ2YkRMTXNoTjdyWlRsZnlucFM1TmZYRzBKOVFUNlNDQVpLR2FqaVR6NFBPWlZRVTVXZGlvcnFTZTNKOFYza3EwaG5sSUFpZWpLcTFkUlQ2QjcyU1BONmpNRjJ6Q0lSWTZEY2JkZ3JobGl0eE5yeUF5S0pYbQ": {
+  "keep": false,
+  "publishedAt": "2026-10-06T20:57:13.000Z"
+ },
+ "PYMNTS Data::CBMitAFBVV95cUxOME1yWmJDUlBSUEZ3Y052SkhIMVNfaUxpNnhqczVZVW9vZVlUMFVvN3p5N3dENTVIVDFlN3JDRVBvbHl5NVR2VEkyOXJib1czaEpvTkpueGkwa0VWdkh4WkZtdklRMWU0R1FJaGpvMFVsb2d6SG5Xelc2WllVa1hNR3ZpZlhaRkZvd1k2Y0lEa3VINHdCRnI5Z0NoUndCSnJ3VTRwd2hiMHpvMVcxNGRhdk1HYy0": {
+  "keep": false,
+  "publishedAt": "2026-10-06T20:39:46.000Z"
+ },
+ "TechCrunch::https://techcrunch.com/?p=3174440": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Anti-bot defenses are blocking personal AI shopping agents from websites",
+  "short_headline": "Bot blocks are stopping AI shopping agents",
+  "takeaway": "Check whether our own site blocks legitimate shopping agents; being agent-accessible may soon matter for sales.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-06T19:56:50.000Z"
+ },
+ "PYMNTS Data::CBMiogFBVV95cUxOSzE0ajBnTEsyaW9tckJKdS00Ymo3R2VrNk9ZdDJNZkliaE9YaXhfeVB3V25uYnpaczlablpkOXZhZFFNVnF2SGQxTFdLYTJUSUdDUDlEVWc4NlljRldXMF9OUlRRWkN0N29VVTRlUE1ZQ01VS2RoTXBWaFdCMTZjMVpHZ0t5SzlZb19HVVdTQkNPUzNGSjVtTEhoaVc0c2Rzc0E": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "AI power users spend like small businesses, PYMNTS data shows",
+  "short_headline": "AI power users spend like small businesses",
+  "takeaway": "Heavy AI users behave like SMB buyers, a natural audience for business-grade laptops and accessories.",
+  "importance": 4,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-06T19:54:46.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMirwFBVV95cUxQRmpIT0V4NEt2NFRqVE9IZ2lneGNydUJxdWUtZjFFaFBHWlJlT2ZabUlyb1d6ZEVwcElpb21mUW93c09HMXh4UWM1WlVsaktaVEstT0pnWEJreEw5aVZjQmFYVUZMY1NfOXJOWFNDdFAxUVB3ZWJKSEtsaHI3bEVjXzRjMENPckF6YmxlVUtIelVzeVU1THNVSE16NW41TFQ0SlpZaUpmRWhCM3ZoeWRj": {
+  "keep": false,
+  "publishedAt": "2026-10-06T16:39:16.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMinwFBVV95cUxQQldVRHp2YklTRF8tcHZzY2tOcFF5VW02RU04ME1pQzBaemNMRlFXcjVfWENjaUpJTVZOdUN2d2p4Vm5PRnVxZFdjdWxZYzZuRXBUNU5PQnhnYjNmaVlCN0kxdFFOQ3RtM05HYS14UlhpdXpFSHdCbnE4UHdnVU1RenNZVVpoOEUwOV9YWHRyNmtEbUtETHd5YXBTU2w0WnM": {
+  "keep": false,
+  "publishedAt": "2026-10-06T16:13:57.000Z"
+ },
+ "Capital One Shopping Research::CBMigwFBVV95cUxPSVdKUUFycEhrTVRKT3h6dTM2ZDM3emdfWWNXZDNFeUFuWDNXZ3Z1cFVDM3N0WlVvYW1oT3lTLUI2QkgwR09mTHFMdU1BS25tbEFpUGRCQTJDNGx0RUJOWkJFOEk0aHl1SUZUaFc1MEJOb2UyME9TZGhaLUZEdmNVdnZ3SQ": {
+  "keep": false,
+  "publishedAt": "2026-10-06T11:26:52.000Z"
+ },
+ "PYMNTS Data::CBMi9gFBVV95cUxQU2c4Q2hXWGZMNUQ4V2w0ODNpV2lXQ1hsTzl2cEwzWG1xOF9MTDFDOHMxa0p5VnA3QjI0bkkzaU54OWlHQndpYkVnQnlaaWQxWDFNaFNMNXRxbXRsQmFWMnB4QU4xczR1dGNBT0sxeEVDUmJJMEg1MDhfZ0t6MGZsNUhrempJY0JDTlZkd2dBeHB2YnotbkJZbUo2akQ5ZXhkbWwxOVh6OUlBaFppNjkyQUhNYXhPN3B1YUdqSjRCanlsaWF6Mk4yd0hOM196OTN3cXV1QWhabkxWV0h1Nmx1UHduSXo4LWVic1FpVHRHNjZoTnJoQmc": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Capital One: small businesses are cautious but confident and ready to grow",
+  "short_headline": "SMBs cautious but ready to grow, says Capital One",
+  "takeaway": "SMB growth intent supports device-refresh campaigns aimed at small-business owners.",
+  "importance": 4,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-06T11:11:40.000Z"
+ },
+ "PYMNTS Data::CBMi6AFBVV95cUxQaU9CSDhpbm91OHhlY1lXYy1WbEw5bW1IU1Nsb3FCbl9IZ0ZkYlowdlR5OWJER3VmSkhBY3VKN0RvWnBHUTZJdm9fbDdvZFBQaVVVUFVEQlo4R1otVEJKNzZJdjVrX3JDOHFISmNIdEwtRW9tMmNKZ3Rma0NSVHFtVDJ5SVVNWWFIOHR1SjR1ak9SYmZGSGFKU1BxSlM3Z0dtaEJGajdWQVI2aF9pekswTmtjVUFFQzgxX2JHd2xqdHRnY1JCeGM3SVRYNjZKWHdkUFdGTzNPQWFoZDRzSENhS2Z2UDRMcVRN": {
+  "keep": false,
+  "publishedAt": "2026-10-06T11:08:45.000Z"
+ },
+ "PYMNTS Data::CBMi3gFBVV95cUxQbzljVHUxLVA0TjBwNlJWbUZEYU0xRUV4SGtQd1hoV0gteVkxTE1BX055bnAyMUZPMk5sSVNxMjRERFJqYW1TTlV0WVBRenloVTQ0ajdNRy1XbS1kcFQ4RTdGX3pPTU5HdU9MYi0wblRJYk51T3hzV2paSjhOYTI1YlB4Y2p1Y2N0N3ExQVhtOTBTellwY05lU1dNamFyTmlwQWNuVWhwNThXcUZMY1Vfc1RfdEVSbV9fQnl6UUhsY2ZWWExqTElVWmU3X0FpdlNZRDFlN3NFbElFdXJEbXc": {
+  "keep": false,
+  "publishedAt": "2026-10-06T11:02:05.000Z"
+ },
+ "IDC::CBMiYkFVX3lxTE9PUkVrdE1QdTMxUS1GMkFqLU5RT1FDaTBRREZxcEdiOWhYc3Q1OFptc0ViX0ItOU1TUGR1d3hmb2M4dG1RVGxFYWtKQUd0dE0wT0swSTlHM1AxS0t6QkRtTDd3": {
+  "keep": false,
+  "publishedAt": "2026-10-06T08:34:02.000Z"
+ },
+ "IDC::CBMiYkFVX3lxTE9DTUtEb2VRaHNlUUx1Ymc4VmFCdHVXeEdlb1loZ2pqSy14eUZZUlIzLV9ySWphcEpfNzI0dHFubEJWbnBHbzJMXzNrNGptY1NPY2hmZ2c4TGhZMkhXbmpTTVRn": {
+  "keep": false,
+  "publishedAt": "2026-10-06T08:34:02.000Z"
+ },
+ "PYMNTS Data::CBMitgFBVV95cUxNYld4NENGYTJOclk3aU9weDJOaEtBalpXZjVPcWRNeGpsSnBEeUd3aUVzVlRBd0M5MTFtWjJ6MU5jajRSc3ZFYUdsOTdMTmpNMU1yUWZhWVhwZ1NOWXE0VVZPRHJlLUc2UFdMR3NtVGJSa2V3N1N6MTl4Y1FqeURoc29DV00yTDlIM25BNE1WY1N3bXIzbU85ZW5hc1BEMjVEN1FWTkxOZEJuWlMzbVVkbEg3UGxuQQ": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "40 senior executives weigh in on whether holiday shopping goes agentic",
+  "short_headline": "Execs weigh agentic shopping this holiday",
+  "takeaway": "Peers are planning for agent-led holiday traffic; decide our stance before Cyber 5.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-06T08:04:53.000Z"
+ },
+ "PYMNTS Data::CBMijAFBVV95cUxPTTNsMWkyZXNzLUtaa2RjUmRzbHdld0FNdTlnT0VzMlRqdFE2dEpxYkR0N0hqQW9zN29VT2lieXQ1N1cybktSdUo3Q29nSUp3Wl94dkJXQzZTX0JIRU5ENG9uMHY0aUdtWmtzWW9qNS14TE45bV9DU21KNEhvb0I2SEU5YjA0WVlYTHBUeg": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Amazon's retail lead now extends well beyond electronics",
+  "short_headline": "Amazon's lead extends beyond electronics",
+  "takeaway": "Amazon remains the default destination for electronics; our marketplace strategy there stays critical.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-06T08:04:53.000Z"
+ },
+ "PYMNTS Data::CBMizgFBVV95cUxNM0J2MVRyaWZJaWRWZ2kzbE5fbmRhbTB3SFR5UWJNdFZrbDdyVjhiUXY0VlFDSGptSks4bWVLTHpaSzJBNlA3VDJHVUFLUHZMWTB5ZGxEajJ5LTNWTVdQc2wxNDRidGs2d3oySlFpZ0JrakJmSVZqb3BTN0NGcm82a0VWQXIzRklveG8tcEotRDVvUnd1YzhXREVFRHpXZUdkVS1RR1l1TGF0ZDROcHRHVjJkaW9tOEpLLVdVdnYzQ1Q4aHZHaDdkMm0zT0VVdw": {
+  "keep": false,
+  "publishedAt": "2026-10-06T02:04:27.000Z"
+ },
+ "PYMNTS Data::CBMiuwFBVV95cUxONEhOek1mTDcwQ1A2dzRpcHJNRjFCN21UYndXRUVhM0R0dXVFbndpYmRvRHh6MWFjZ2FGUGs3MW9JMEtZMUFRbmZDMUlOTGJVU2R4eW9YSTFEN0RmUTRBQVFoVGNPM3hvSF9SWHV6WTdmOE9nbDdkUy00MjJpN3FlUExoeXNzSmZWdDlnNzdiTEpjSnN0LWh5aFo2SlI3NkxIUjhJNC12SUE3bGozNFNJNWZrdDFCTXVtMVRN": {
+  "keep": false,
+  "publishedAt": "2026-10-06T00:44:34.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMimwFBVV95cUxOdkJtQktLRlFvY3p6a2d6dUcwY0Z6ZHdPb3NDekZ0SnpyMlRWWkl1QVp1LWlzblI5N0Z1UTVvYWhmRV9tZ0JLSndtQkxGaURjODJrcU1VbHJXWXFVUVBpSFBQSHZlYnBwekUxTUo0MTRYX1kxREx2eGc1cHdCRVhDTlQ4algyVjlWaXpiaHN6cXI4LW1DLTlKcUQtRQ": {
+  "keep": false,
+  "publishedAt": "2026-10-05T19:37:59.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMikwFBVV95cUxPZkxwbW5ua01HVnNYX0c5em83MjFzb3FlME92MV9fZVNEdklUNFJFbF9VUk50ZTUwZXdFQmNQSjlFY0lEQzFqRm1FSzJlV3cyb2NGc1R6a3UtRENDXzFXY0dwQkZiRjc2WUZqcE1EQVVGRURaTHk2eTNSNDByVGtzX09QcWg4SHlBZDhWa1ZQSVRvSlU": {
+  "keep": false,
+  "publishedAt": "2026-10-05T19:36:34.000Z"
+ },
+ "PYMNTS Data::CBMiugFBVV95cUxORHlVSzNwb3pjVThrZERVM24xSUdPci11TjdudGdqN1d6dTdIRlVLeXZTcVZjQjJHd1dQeXpMem5xQi1NUmJkbW5YbS1zR0c0SEp0aHJaNXlkRmpIWW9KT21hWTJ0UkdiYzg2dHI0eWViUXRyNk1wMWxtTklnTnM2c0VtVVhUU3FITnQzRXJsaGJnUEduU29pLTQyaS1GeE1LekJ6Wlk2SWNZMzhUNWxUSUJycFowbzNTaXc": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Constructor and Stripe launch an agentic checkout tool for retailers",
+  "short_headline": "Constructor, Stripe launch agentic checkout",
+  "takeaway": "Agentic checkout is becoming off-the-shelf; track which platforms we could adopt.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-10-05T16:43:46.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMikAFBVV95cUxPUDhkUTVkTDJkWmljLUItb2hDeGdab1dzamdUTXVXYzVXU19paXNaNE5CU0FLMkRiQzBGdTU1b3JuQjJOLTNDVUVQVV92elBPUWV6aHhPUnhDYkdhcDBFNGJuRFpScmYyTUtuY3M2d3NzM3o0SUFyNDdrbHpTRnVQbVhpREFUaUJzMEZIbVV3UnM": {
+  "keep": false,
+  "publishedAt": "2026-10-05T15:47:46.000Z"
+ },
+ "PYMNTS Data::CBMiyAFBVV95cUxOcVVETVZMRWpSOVdVUzFPY0VYR2hjUGd1aFFwd3JiaFRpV3BqcHZFa2lTU2MwTVROVWN2WXFWalZLMk5IUlFhVWctOTFyZEk2UVhtWVpHNm1fbGx2SlN2dDdRckZZeFZwUjJ5bk9BTGliRG5hV0ViMGwyMmJEM01vWmVRWVE5aUlSdlQ4ZjQ1cnBKVkl6c0gtclBxSFl2TklWRmpoTV9uZ1hhWVpBZE1jYVJXempoYnZJTzE1Z183bXhQeGw1MDdGWA": {
+  "keep": false,
+  "publishedAt": "2026-10-05T15:27:58.000Z"
+ },
+ "PYMNTS Data::CBMiqgFBVV95cUxQb2dSb0k3ZkR1NTB2QXg1OXU5aXZJZnNWUzdtWmY0TmhHbU1wWnJ3dER1Y3VheFVOSE9MbGZQQmEwM1hFQXpoLTV5bGtKaExSSVdrbDNMcVhuX2p4VGhpbG5lY195ZGpYUzltcnRyTVJzRTVxaC1qM01UR3lYQWRFLXNYZGpVZzN5RndwQmEwX2tSbjJNMWl0eERVcjhzbE5zME41YWh0ZzMxUQ": {
+  "keep": false,
+  "publishedAt": "2026-10-04T23:26:48.000Z"
+ },
+ "PYMNTS Data::CBMiowFBVV95cUxPSTc4NmZVcGlqQko5bjR5YlZnV2ZzcFpNZGdzTjJPaDlqb2J3UmNhMGNfalJRRnBZRy13eERiWkFOMHlVc3RORXRoZXJFSy1yR2c1N1dfZzZhT0lfcDFIZVBaVDMwVzNYTmFhUEx5SlBqU1RhcjdvM0x2NGdtNHhaNUJCVUFuQnBPYU5idVlNMUlac050YnJzNGdZMDRUejB0anQw": {
+  "keep": false,
+  "publishedAt": "2026-10-04T22:36:40.000Z"
+ },
+ "McKinsey::CBMibkFVX3lxTFB5bXJtWWtHSm9mTzJBUThvVzljUHVpUFl5R29fWDBqU19mcEJfSGpwWnRreWVfMzlUb2ZHbXUxWkQxQmphbkRCaEo3Uk5DOW5OLTFMOFFNbEpsYWJ2MDFSdVBrXzF4cFhXTGZ3MFZ3": {
+  "keep": false,
+  "publishedAt": "2026-10-03T10:38:19.000Z"
+ },
+ "PYMNTS Data::CBMipAFBVV95cUxPcGctcFdtaGZpRGg2bV9WWnJOUzhXQ2lJWVJYUHNZNWlkbGtybVEyTmhLU3dRX0ZoVFhoTWNMd1ZqcmpkMlVvTTVkWmd6bnlHd3Eyd2l3WFgwQTNJWU1mTWV1WTZtcHFfaGtsdXp0VW0wcjM5VGt5LTRBZEtoZFpFQ0ZlaENxZkVlOTREaVFZdFJLNUctalY3OFJ4bnpDOUFWc3FBSQ": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Meet the DINKWADs, HENRYs and elder millennials spending their own way",
+  "short_headline": "DINKWADs, HENRYs: new spender segments",
+  "takeaway": "High-income niche segments shop differently; worth testing premium bundles aimed at them.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-03T08:04:35.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMiugFBVV95cUxOS09UczdQd1BOeEtfbXlMYkNYZFZNZi1jdGM2N2hyMHRJQWtlYUdCXzhLV2Ftb3lmZjZwQ1Q3b3BROFhldDRmdU1BM29IODBmU1kxNFJtOGpXQ1pwWHJCa0NUcGxPVmpOdW91STdTRzlHZjlKWm1jWXZ3UnM3Y05CbzNfLVVPanEyTWVadzNJcXFiZ1BmZ1h6SjNoeXhDSEcyZE1vMlBKeWFUY0FwM3RKaW10YURmWXRTeWc": {
+  "keep": false,
+  "publishedAt": "2026-10-02T19:26:14.000Z"
+ },
+ "PYMNTS Data::CBMitwFBVV95cUxOOExpWHgwY2Itd0xqSlNNNU54LXVsWlBRWEFxeDU1VEN3amFvS1VUdWJYemo0TWNqS1d4eGNkbkFpTWY5dnlOendhUjNNQjJobmlSX2VPY0ZvdmlQUXFXNTZXekRIaVNEMzUxbGVmckRmNUNRd0h3a0liV1dJQ2ZjUlpNZkxNanNtY0xpY2xQek1ZMU5fRVl5Q0NkUWRWRWhnLXR2OGZVMTEwNjFoX2FoOUhTdWRhYlk": {
+  "keep": false,
+  "publishedAt": "2026-10-02T08:09:35.000Z"
+ },
+ "PYMNTS Data::CBMilgFBVV95cUxQanN2VnRTX2J3ZTFiS2ROQUR5Qmc5SjhSTkdCeHpvMVlxaFZRZmtLUDhNOW9pX3JZSU4zOV9vQ3JBR3A0czh0WEpWTmFUckZLLWxLal8wODdwM1otRGIzYjRFaEFoUWQ4THV0ejhzTDNYR3U1Mk9wcnJIdW5xdzJOMk1rMmRITWwyMVI1QnRMUnFHVTdzblE": {
+  "keep": false,
+  "publishedAt": "2026-10-02T08:05:27.000Z"
+ },
+ "Circana::CBMixwFBVV95cUxQS1hIMlBFZUpVbElKekR3cllYVV9ZUzFuaEtSS3R6Vjd3SDZFMzBPdmphRm5hTDIzWTdwYVNTVFJ5TFBHWWRtUHoxYjRaa2JjbW5PNjExZ1ZXUW8zTWxGLUIyNDRIMnV4Y1ZtNGdzVUF2bWF2WkJHeHhaelNxa05YVmxrcGJtSTB6RHFMbnFVb0dQM1gxcDFNUF94U1dvLW5qSjVxWTUyTFJ6SXRscUtzLV9uZVQ5N05vOURIMkVIdk4ySDNVd3VN": {
+  "keep": false,
+  "publishedAt": "2026-10-02T05:05:30.000Z"
+ },
+ "PYMNTS Data::CBMiygFBVV95cUxNVVByMFNZaHQ4MnNPTjBuVVFNRDJaWDRCNV91ZjhTNTlIcU1ad3BGM3lNV0xIejdrYkZKQ1Q0RnVvTlZwdUtXU0JHVFhUa3JTQ29BVzRPcXRDU0pPTnlJd25KWkUxYlBOZjBPWU9rREF4RUQ2bUU1RWtLa1dad0xEck5uRmVnUXJQbFVXWnhZaWEzdXRJeFQzVFZLTzVTYzZJZFY4M2J1VWRlX0FYN01vb3lfOUo0Q2xkUWNVa0pOdHlxaThRMGw0T0R3": {
+  "keep": false,
+  "publishedAt": "2026-10-02T04:03:31.000Z"
+ },
+ "TechCrunch::https://techcrunch.com/?p=3172830": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "ChatGPT adds virtual try-on and saved products to its shopping features",
+  "short_headline": "ChatGPT adds virtual try-on and saved items",
+  "takeaway": "ChatGPT shopping keeps deepening; our product data must be ready for it to recommend PCs and accessories.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-10-01T19:21:53.000Z"
+ },
+ "PYMNTS Data::CBMirAFBVV95cUxNVk9BYWZOVC1DUkxyejZpU1ZiMnRWQlVpRzJfd09TQ3FLQl9RX3o5Z2gzMUtWaEdvQ1phQms2cWdyZ3JQXzVvdDdwLTNUcS16bWFWVS1TaEl6Y2dnb1NfRjR2Wlh2MXhVMnpiMVYwa3hxWU14b1ZhVE5MMEhLNE03bThUV0pWWkdhRFpSOW5iLXFodTdxaXVrcXBfX2ZuS0gyd3lPZ1o2am5tN19B": {
+  "keep": false,
+  "publishedAt": "2026-10-01T16:44:07.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMiogFBVV95cUxOT0tLaE5ZVUdYOHVpSE4zYzFrQkFNN1I1aVI2OGwxb0xQQmN3akc4WmFkby1TS1pUTmExZVVzMXVEc0daUDhuS3ZQWDlzMmdmM3NFT3lvTzAweEFRZW9JS1lhaUJCNmhDN2Qxa244MG1wS1lSU2x0V0o3bWl0WHJZVjRuUUU4aXZQOWZmSmZVcnRXeGF2ZHpnWlJhQ2FSZWRBcHc": {
+  "keep": false,
+  "publishedAt": "2026-10-01T07:00:00.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMimAFBVV95cUxNdjZtLVppc0VBcDI0RG9yU19iNUJBQkZrbm92NzZtcGdRc0RLVXFESGRHQTZSQ2kyU1lXSHd0aWhiZzlLUnpLeDl3V09jM09ReklELTJaU3FPS3Eya1hQV0RKWGNqbGxGMFp2MTZSS3FkZU96eVp6YzdoOW1WQlljWm8taWYxWTh4RlFqTU9ZRTRfU2ZpWVg4aw": {
+  "keep": false,
+  "publishedAt": "2026-09-30T21:02:35.000Z"
+ },
+ "PYMNTS Data::CBMirgFBVV95cUxPeEJLenZNNEd4UTVia2NISWVpU29vUG1RNUZUVlNRUGpWXzZwaF9mNlZ6R080ZVZPWndBdmFrQ2oxd05vd1JBdllFbjJ1VndSbG5ja0hYRWRxSFpZdGtWMG5ZRENITENjQ2EzRXFHNFEtOUc4U0xjeHk3Zkt4czYyVVMydzEzVHltVEhNZGpiR0dyLUxlbHBMZU94eWRrZlRTREZRakRvSXlBN0dKYkE": {
+  "keep": false,
+  "publishedAt": "2026-09-30T19:52:29.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMisAFBVV95cUxPSm9Wd2dpS0d0eGY1MjFqaFhETEF2MHVtWU5QUUtFUmNobkNuV05SanR5eFNnSUpEeVFFWmtWemVBeV9nYXROcC15dTZWODNKLW5LOEhlczdWcGJGdjBrTDB5RDdLVlAxRzVsczh6ZTFXS3JsZWR4ZjVySEdncmtLajlGbkJXalRiMTdEVlNLek5zWGtPVko4TTduYTVISmNvN3UyV3lzaGJldmQtN1Vjaw": {
+  "keep": false,
+  "publishedAt": "2026-09-30T19:38:16.000Z"
+ },
+ "PYMNTS Data::CBMixAFBVV95cUxNZllnZWZKdmppU3doa1dUVmg1SE42NTcwLW81VlZBNVRUWEgzdTdhODNfQ2hMSjlHVnA5Sm95OVFjMm5iN1pNN0RtMVB3Y21aSEYzU1dtVm1ZdHJKOGQ4c083NzZXRkc3QnJWMW4xM0Q5ZlN2Szg0WU1rLUJoUkVTOWN5ckJjMXltaFBZYndDb2JzZXluaEpiWmc4dmltYXBCbVNCODg5aFpXc0c2YllDeENBY2NnMm43ZGdlOXlLcExNTG1H": {
+  "keep": false,
+  "publishedAt": "2026-09-30T16:46:34.000Z"
+ },
+ "PYMNTS Data::CBMikgFBVV95cUxON29mV0hxb1BabjRKdDU4MGVIQUNUajhVRV9GSVRhLVFIaE9PanUwY2hlTWhhRVBOX3FTdmZ4TXBNSHVfVHlmZksxQ1FUVjhreGsyRzRCeHdsYWNlRVpQMHRHanlpbmpDcFZkN1cxMEx3RUt3SWdiSUF2YmthQU9uek4wNk00eC1nUDB4dEtFVzRVQQ": {
+  "keep": false,
+  "publishedAt": "2026-09-30T16:01:20.000Z"
+ },
+ "PYMNTS Data::CBMiswFBVV95cUxQU1A0RmFQWGdkQ19VOXFKODZITC1SNXNuTE1zT1Nzb1h1elRHUHYzMlUzX0pEMnZYazc3UTBKdzIzS2E4eUVQRHdYYWtQdUpRNnhXQTFCUW52UU9Qd1dNVzhSRHozTE04SzFvaFJJMGJiUlUzYXE2U2c2TlpLUGhTUkNLRjZEa0JJeC1jaDdFcTl6alZYMXdGTm0takJfcmVvbHZJMmJ5NVBTTks3M3pCeU1TTQ": {
+  "keep": false,
+  "publishedAt": "2026-09-30T08:05:00.000Z"
+ },
+ "NIQ::CBMixgFBVV95cUxPdDJEdTI4TWZNejVLcnUxbFR3R3h2eW5ZYTAwTmtnSnQ2em9HVEdfZ2tiWDdnYl85akJiZmNnNDQxUXkya3lHUmdxLWtBa3lLa011cGtydVdtdlNMa05wLWRpN0lEcWppM05PS3dxTGp0WHo2ZjZ5OFNua0Y4MldhR0hJTDl3eWdQSGR4T2VRYnh2YXI0RExDQ2p4R2J1aG5aYmJzMEVwaER3WXFZZzhKcjMxRl94TFhpNEVIXzdvbnByWGVZQnc": {
+  "keep": false,
+  "publishedAt": "2026-09-29T13:37:44.000Z"
+ },
+ "PYMNTS Data::CBMiqAFBVV95cUxPYTY2REhUcDgxd1czVjV5M1JaUzNxVk80NVFzbUpfYm5ZYy1XcHJFMy1rdzhNUUlmdWFPR2c2VFRjOFhBMm5FOG1RZF9MYUh0eGZXU3M3UUJ3YlNiWURTTGxQQUdfTDhDZWtZZmFfTVZCb2NuWjN1TjRZTlhSLTd2TDEydGZUM2xpdng0c3NYR3dXNWJ3SnFGcDNQel9XMTcxWkxYUzFQUU4": {
+  "keep": false,
+  "publishedAt": "2026-09-29T08:04:19.000Z"
+ },
+ "Capital One Shopping Research::CBMiggFBVV95cUxNX2RqWnpNajU1d2pjUW9iM0FFQWduVXZuNW1XWWVON2htS3VRMThfa3lmY3lwb1NtVk1xa1I0dHl0dmRFMWhCOXNwVW5RRVpnT1hwb28yZzV3Y0Ztb2E2dzdDaFJoU0ZCVFpqb0d2Zzk5YU01R3RsSjlnSTc0VURVNUZR": {
+  "keep": false,
+  "publishedAt": "2026-09-29T07:00:00.000Z"
+ },
+ "Capital One Shopping Research::CBMihgFBVV95cUxNVllEOWQ3dlJlYjBnVTNnV0dVYm9fTlhwcnA4czR4RG1xMkNwWXJHUF9RVmhGUXZhSGFKRldSSGh3LXB4TTExNm90d0Qzb29pTWQ3akFfSFJPSFFCVlg1cnlVOV9DNTk4cVNreXVOWG1Sa3BJLXhvdl9rNkQtWHNURU1Vcmxvdw": {
+  "keep": false,
+  "publishedAt": "2026-09-29T07:00:00.000Z"
+ },
+ "Capital One Shopping Research::CBMigwFBVV95cUxNX2tFZU1BUlAwXzlCck1pcTdKYWRPQUppSHRoVnZHcWlzU2QtTkRGLUktUmNSZi0xSXh3ZVFHdUNXVVdlb2ppdDg4N0xpQ01pZmZrZjN5Z2NpVW1QR0xHMWUyLUg1bjFfNXcxZzVENUM1b2xWZGNPNmxjc1pvbmJncUZ6QQ": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "What share of retail sales is e-commerce in 2026: Capital One Shopping data",
+  "short_headline": "E-commerce's share of retail sales in 2026",
+  "takeaway": "A benchmark for how fast online is taking share from stores.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-09-29T07:00:00.000Z"
+ },
+ "NRF::CBMif0FVX3lxTE5hZ3Rla1NBRW01TjBzZVRlQ0VXb3U3SnVuQVRfaEtjYWlwMkJELXAtbkFoR2J4RGxnRjRWM09WTHVOektRQXlFc1lqU2Z2cXFVanU0Y2d4d01zT2NfQjlBNzZJN3NOZTR5STN6M1hNUVd1RExxb0stSGphTDU3Yk0": {
+  "keep": false,
+  "publishedAt": "2026-09-29T07:00:00.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMigwFBVV95cUxOYmQtZG8ta2w2TE5LU2xNM0wyVGcwaTI5Nm9JQlBzMXh5ZXBnYU54WkFOVVppazZoSkNlbTc3Um9rakcwOUdzMHUxeVFXQkdXNFh0YmFJdENEbmRKZVlQX2RUVllPbkdlaHhtQWFmN0wwUVNzOTFTaXN6b3hORzdaYm5vTQ": {
+  "keep": false,
+  "publishedAt": "2026-09-29T03:26:30.000Z"
+ },
+ "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Adobe forecasts a record $275.1B in US online holiday sales, up 6.7%",
+  "short_headline": "Adobe: record $275.1B online holiday season",
+  "takeaway": "Online holiday demand is growing; plan Cyber 5 inventory and deal depth for it.",
+  "importance": 4,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-09-28T07:00:00.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMimwFBVV95cUxNZUdlWjgwZWw1QjA2ZDcyVzFJM0k1N21oU1dTNlNyQXN6djZPWWhiU2I1TUJFVS0ybnlTdnEyQ1NCUDZkOHoxenFIWGVoMVNKU3hQdThIcE9sSzVXdGIxSjhybGt0aXBzOU5PWFNLUlc4el9UNHIwLTVhajVnbThWbVpYMUNtR0swbnc0c21oZ19aUGhtUEVJN3FVYw": {
+  "keep": false,
+  "publishedAt": "2026-09-28T07:00:00.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMiiwFBVV95cUxPSXcwamdkaGlZMk5pcVBBVnluVk1GNXFNM2g3QkRHSmg3SFEyQ25RZTVaUlBxTzlobFRXcE1pV0xHcUVPWXJxX3VOUjB5b1dFM3BuVng0Mm1SUHk4amhqMmhNaXU3dlFNNDJ6cXQ5czV2cEZYbmhIaGZEY0FBS1d6QmpNYlQtbGZfdDhV": {
+  "keep": false,
+  "publishedAt": "2026-09-28T07:00:00.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMitAFBVV95cUxQREpnV1hoMk1OYjVSRndHUVRpc01Ncm13ZDgtNkhienlOWHpEUUktWmFCZGppZF9vNHctc0VXYm1HQ09DbHV4TENHenRiT1RnQ3R5Y1Ftcmk2emlvZkF0QmJSZk9EWWRWcF9MenFZaFdzLXladG5fWmotNzJKSEQ0dkdaUmtfWWZrSlB3RV9GSXhGaGZmYWxvT0xYcnZzQ0g4S1E5MWRPOUxTcVhzMXU5SGUwU1U": {
+  "keep": false,
+  "publishedAt": "2026-09-25T16:27:04.000Z"
+ },
+ "GWI::https://www.gwi.com/blog/why-gaming-earns-gen-zs-attention": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Gen Z spends 9+ hours a week gaming, more than on social media or streaming",
+  "short_headline": "Gen Z games 9+ hours a week, more than social",
+  "takeaway": "Gaming is Gen Z's biggest screen habit; gaming PCs and gaming channels are a strong way to reach them.",
+  "importance": 4,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-09-25T14:28:01.000Z"
+ },
+ "Circana::CBMihAFBVV95cUxPcDVqRHpjMzZlY0wwTWR6bG1lNXFWZVZRSW5VTURTQ3BZcUViYzJ4aUFHNERoZ2w3ZEUxZmRHYXR1YzJvZGxyc09STHZ3SWxsQ0hCdzBQZFB1Q244XzRObWQzTDZRZXBNcTNUWHFjNm9kamRMUEk0QTZIcDA2RUxIN21KTHY": {
+  "keep": false,
+  "publishedAt": "2026-09-25T08:41:53.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMiowFBVV95cUxNQTF2V1ZrcG5BREJKR3JHMW5jZ29SQ19DTi1BLUhSOGd5aWh5bTZpOWFHQzBEOUFWdjlEdWp6MktVRmFmVkQxTlpiUXRmWjc1RXlfaXN4QW90TS1LeU5MaGFOSjV3aFVyNl9ZTGY2aDF3X2Mtb1JhaHVkSDFlMGpBMEptRDZsSjVTV3VxNGFTUGtLZzEzeTYxOG84LUc2OWtUTklJ": {
+  "keep": false,
+  "publishedAt": "2026-09-25T07:00:00.000Z"
+ },
+ "PYMNTS Data::CBMiswFBVV95cUxOSldUUlZxTldBbzhRdEZGVktjVWFKRFNNT19uekRkODVyOE5SOUsxR2RIamQ4VFBqRDVkbFVBZXlBLUN4NERnWHdmVTZNSGhEUGpLOWYxR2pxYWZvT2FnSEhyNlVKUVRQWnRlYVJUU2xpelFySEg2LXliR2pOcmM4Tjh1eGFxRkdZbUpLZGh0SHd1bHVfT3p1ZzRKQmJ0anBsQWZuaTcxMlFlaVJpR2F4NnhVOA": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Mastercard: merchants want AI shoppers without losing the customer relationship",
+  "short_headline": "Merchants want AI shoppers, not lost customers",
+  "takeaway": "Protect customer data and loyalty when agents buy for shoppers; check what agent protocols allow.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-09-24T08:08:40.000Z"
+ },
+ "PYMNTS Data::CBMinAFBVV95cUxOeWlwaTlmc0xKX0V0Q2YwZ0xuZGFUNGxiQTlkRzFORUg2S3JES3dlMmpjZ0pkNnpQc0M3VUxzbHZVR0xnUkRwTEM0dTJuUGpTUVVOcG1uOUYxcWo3N2dDTlplYWt4Z1hWbW00TDA2R3BkTG0tSFNTd3dZdF9fNDFMZi1vVjk4NVNxV3Uwa2djT2R5d0JIYzNJSlNkal8": {
+  "keep": false,
+  "publishedAt": "2026-09-24T08:06:18.000Z"
+ },
+ "PYMNTS Data::CBMiqAFBVV95cUxPNkx6dWQzcjJyV3JoZzBlVFBjM3dscFR0NHRUN1QzejBQVkZia2VzSmJqWkRiWmZ1SENWVmE1VUtTTDRyUHFIV0NtaVd5NGpPZTBTdzktWWFaZUlKak5NMHp1MUV2NTdIVEVTNUV1SFFncGJQZlZtVWJ5dE5hR2NWY09MTXMxNUxxMy1wQmZsNkZHemtCbWtKa2hrc2NTcG5scTR0QU1ka0w": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Amazon lets merchants offer free Prime delivery on their own websites",
+  "short_headline": "Amazon brings free Prime delivery to merchant sites",
+  "takeaway": "Prime delivery on brand sites raises shopper expectations; weigh whether to offer it on our store.",
+  "importance": 4,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-09-24T07:00:00.000Z"
+ },
+ "PYMNTS Data::CBMilAFBVV95cUxQNzFOc3hDNk0zUHNrMG9wSlc3eFdLaFBQZnhMaGZzY0dtMEg0eXRDSGluZXlTOFdXb3pUNkJMdFc1Z0dScU0yM21tcmdZQllUZjBCZUxSdEhSWG9LWUpOd0F2Z2RVaEdvZHpXTlhEUVdfdXVvcUx0TlZOdkNacl9GenBJWkJZc2Uwbk1pRzcxM3NIbHFk": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Amazon expands buy now, pay later in the UK through an Affirm partnership",
+  "short_headline": "Amazon adds Affirm BNPL in the UK",
+  "takeaway": "BNPL at Amazon UK sets a financing benchmark; compare our UK instalment options.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-09-23T17:38:08.000Z"
+ },
+ "Capital One Shopping Research::CBMie0FVX3lxTE9RUkU1ZWE0SVdMX3RaSHAzbzNfYVI4cVlMRUg4RlFmNlFoNFJKZzZuTGhXNVV1VTdzQzlQM0wyUzh6VEZxa2xEemw4Z3lpa0NqdW45WEpCTkVEN0NCZ3BUbnZqalpTV0tXZmdJZzhReVhHOG85NURfaHNvTQ": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Millennial shopping habits and spending power: Capital One Shopping's 2026 data",
+  "short_headline": "Millennial shopping habits and spending power",
+  "takeaway": "Millennials are in peak buying years; use this data to shape offers for millennial buyers.",
+  "importance": 4,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-09-23T07:00:00.000Z"
+ },
+ "NRF::CBMidkFVX3lxTE5uZDVCRGNqVElodXVUSkkydmIycTRVd2M3TmlIRWFJbURveExFWWJfWnFPbzczNTRlN05GNVo0N3ViTktVbzN4aklDSGE2Wm1Vd0tIVGZnWGFGWnliRnR1WW1LajhQQUQyMG5xalc0RGFPNE1wcEE": {
+  "keep": false,
+  "publishedAt": "2026-09-23T07:00:00.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMi0AFBVV95cUxOTWV0dnVYMnp5TVh3ay1weXFHdzhzcW5OOVA5RzR4NDFreU5FQnNoTEJVUXlBLTlFUWgzekQyakE3Vko3Q1lOMi0tNURKUUF0ejlYOGRjMWZHXzA5WWlFMUY1VkJyRXVlNl9jTThsd0psUWt6RUlONVNsQ2ZoczZZcmI3MWdaWUJGX09HMFEwenBOekRUd21vRWh1bS0yV0Q2cW9uOTVZaVEwRHpxRm4xYUxSdURCeXU0ZkVJUjF1LTczZV9hdnZabUNWSnJqUWpo": {
+  "keep": false,
+  "publishedAt": "2026-09-22T17:45:56.000Z"
+ },
+ "NRF::CBMiuwFBVV95cUxQdUs3OXJBMDZvYTlON1B2b1Y4NnVMbnR3YWpBWjJDVmI1U1hyQ1pycGRGb042a0NpWU9MNEpVTUZYbUxTMzdPYnYwUENOakFkZlZTbk5FWlY2ZXhUcFB1aDEyMk1tZWIyWHkxNXlBVU1BU2tucklaWVIzeVpNelEzT3BOa1JGSXYwWldCWGR2WWJDTHY0cWJBcnBKeWhsaTc1R29QV01zaHdDYlRyUkthbHF0YlZONDdPQ0pN": {
+  "keep": false,
+  "publishedAt": "2026-09-22T07:00:00.000Z"
+ },
+ "Mastercard::CBMinAJBVV95cUxPYmVtcWtQNDJxUGZQYV83ZG1fQUY2RkJTaTAxc1ZlZDNiMG5NekF1MzVISUtvRXJ3czNiSVpQbUxiMDBlUHZ2eHFwLWZ2Q29fOHI4Z0pJMXZUMHZCRWhqNzFwUFVnWTFOam54YjUxRGFHZV94X3Y2SUk1aW9UWncwSkF3d1ozQ2ZiWDhqa1RtZTM3czJvbnN1R1pZdXdLcjVRSjA0akthX2dCTjI1NmhXTUd2dng0d3piZ3hLcW9fOGJPN2RuNmJYNUc4bUJyQXdpREJpMGx3d3NCM2wtMHJZRnVwb3FPOEdSYldLT1dQR3c1Q2taWTRpZ2lrdEdDamZ0RFBENV9KQS1nMlRCdEhYYjN3ZllySjF3cVZBOQ": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Mastercard gives EEMEA merchants a simpler way to build AI-powered shopping",
+  "short_headline": "Mastercard eases AI shopping builds in EEMEA",
+  "takeaway": "Agentic shopping tooling is spreading beyond the US, relevant to our EMEA stores.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-09-21T07:00:00.000Z"
+ },
+ "NIQ::CBMitwFBVV95cUxQS1pTVlFVOEk4VzVscDVxeWhBc0lCQ25OSHNtdEwtNmtlc01NWko2RVNqa0FRR0QwUFZmTWtkZzZKYnIxdzhST1BqaTZaRlloY19nZ0dQdmgxczRRck8yUFNfbXZVRDQ3ZnJJZGZRSk9HZnp3QkFDS0hXZUJtX3FEd1FtazJ4QU5JejlpbWkxQ3phT2dtZnNxX3NQT1N3a3l1WDd2Z0NCejNqdjhxR1I4UkRpd25SMDg": {
+  "keep": false,
+  "publishedAt": "2026-09-18T07:00:00.000Z"
+ },
+ "PYMNTS Data::CBMiwwFBVV95cUxNNHQwZEpzOFNob0FIeXF2dXFzT0hkOWhUMFZaS0VQUTc1QjZ1R1AxcjhGcWt1a1hWRXhGZV9RZ1BCaHBSYlZaQ01BYkJHNlRMcjBpWUZrMnlFR0dkSkdOU0FZS0J2RWtVa3M0eXh0QzlfMmZ1eWQ1X3RFZUktVE1JdXY4TnctQmVxNDBhSlVGWnRzQ3d2dGpQRWE4SW0zM1A3MmphX0tCa0VKa1BTd2JPLU1xS0xvV0lINGRrOHhBMmtwSEk": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "47% of shoppers who abandoned carts wanted a digital wallet option",
+  "short_headline": "47% of cart abandoners wanted a digital wallet",
+  "takeaway": "Wallet coverage directly affects conversion; check wallet options on our store in every market.",
+  "importance": 4,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-09-16T07:00:00.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMirwFBVV95cUxPenptSUpoYUowcHhBMElfVU5uNEw4NHpKZ09vSGN3MFVjdk9xQWdKR2dVVFhSaTdrZ0ViQ21ZNG5wUjBac0Z6ZEk0aXljSXNTenQwa1lqVEt3RG55SXFyTGxhSGl2VzU1bnRyYUhDLTQxcFZLOHkxRDI1WEttdWM1aTVqbnFkSmR1ZTNBZFhVNjlMTEV5cGpoREtiRXQ0aUIyRHpSSFlNZmt0XzhHZFA4": {
+  "keep": false,
+  "publishedAt": "2026-09-14T07:00:00.000Z"
+ },
+ "Capital One Shopping Research::CBMibkFVX3lxTFBFZUlWOHA2MFp1VWh0OTBrRUFrSEhJclNHckhwc3lrdUxwZnk3MTFKTmo4UmxJWktoUmxybG1TWXNqdDUxWjk3aE1HUzZDQjM3TDJOOUxBWmstWTFLSWxfSTFEcTFoZ0NPVi1tRDBB": {
+  "keep": false,
+  "publishedAt": "2026-09-13T07:00:00.000Z"
+ },
+ "Capital One Shopping Research::CBMidkFVX3lxTE1JRTNNUzZyRHZIYkM5YXZxUGNiZTBxcTFhdnQ5S0RCSkhUSGdScWFrZUpTTUgwMHF3NlJxSmVjUkVGT2hVS25zUkJPaHo2R2JnTV9HV0g3Zmh0aGdVb29EM1FnM3p1YURJQlVOb0xWTEpEY19ZdXc": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Online shopping growth and demographics: Capital One Shopping's 2026 data",
+  "short_headline": "Who shops online: 2026 demographic data",
+  "takeaway": "Reference data on online shopping growth and demographics, useful for targeting.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-09-13T07:00:00.000Z"
+ },
+ "PYMNTS Data::CBMilAFBVV95cUxOVTBJNEVZakFFUjdlOXd4RXdvdGxLRGNRMkNadS1pZVE2MXhOeDlkcW1mNjd5c3RTLUpjWEYxY3EzUFp4NWxDZUFkZWVWaHFYSE5zNjlkUkZmS0VGeEQ3TXhGanFreXhTYjV0a3VRMDVuTGpibkJiQ0ZTTlIxRjZOOENsTWxlUWlkbE54cmxrbUFCaEFZ": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "56 million abandoned carts: what checkout gaps cost US merchants",
+  "short_headline": "Checkout gaps behind 56M abandoned carts",
+  "takeaway": "Checkout friction is measurable lost revenue; prioritize fixes before peak season.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-09-10T08:15:10.000Z"
+ },
+ "NFIB & QuickBooks Small Business::CBMisAFBVV95cUxQQ1FyamFIbXVCUUEwdFZsODJkT2V5Nl81b2l0TjVacFBDSTB3bWtvWGRubDhSaXdDRF9tM19EZWxrc0xlZWZZeWJSSDF6VTdhdXB4aFFSRkt0UFdWRU9Lc0stR3c2TG9fZE1yV09fSEt3TGgwcWdjby1LbDJGemxULV9ISkVJOWo3dDNMU1F4Q3doYzhaTjVxU3EtaUhtdVRZV29BVHJCOEFGLXpndENmZw": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "NFIB reports a dip in national small business optimism",
+  "short_headline": "NFIB: small business optimism dips",
+  "takeaway": "Softer SMB sentiment may delay device refreshes; lean on financing and value bundles for business buyers.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-09-10T07:00:00.000Z"
+ },
+ "GWI::https://www.gwi.com/blog/ai-and-gen-z-the-risk-of-letting-ai-define-your-audience": {
+  "keep": false,
+  "publishedAt": "2026-09-09T10:30:35.000Z"
+ },
+ "PYMNTS Data::CBMimwFBVV95cUxPV2o0NDAyYjhYTHQ4eXJPdXBtVzRDbDZIalFoMFp2QjVvWTNaRGtTdlFsT1VTN0l6UnFoV29RdDBYRi0xZ0JrUEdITndDTmpNZnZydWxrMDVpRnIySnFBbHRrUWhubVZnSTY0aUhDLTgzVTdMLVVpd2MwUC1lMmhQR1ZUSi1vOE93OUs4SHBGR21kN0dyT3FWTnVJTQ": {
+  "keep": false,
+  "publishedAt": "2026-09-09T08:04:45.000Z"
+ },
+ "PYMNTS Data::CBMipwFBVV95cUxOWlBqa1NIcGM3QkpIaGNCREVhLU5mTnlIVjBvZm1kQXdKaUJ2bElDX3Y2YXNBa21uZUpaYlRLeHpsQWRqLUw5Uy0xYUZVand5SzlIajRfTjdyWkd3ODNmSVNHMTZWckhneThwSWlTdmRLQnU1d1RfWklvMHZ1SkZMbUpaOUhOTmszUkRVS21Fc3MzMkVyX2hnYndMS05lZXUxSEpHYmRrUQ": {
+  "keep": false,
+  "publishedAt": "2026-09-09T07:00:00.000Z"
  }
 }

@@ -8,22 +8,40 @@
  *  - requireKeywordMatch (optional): force the keyword filter on/off for this
  *    source. By default, Tech Press sources must match a keyword in
  *    keywords.ts; Analyst and Trade Press sources skip the filter.
+ *  - maxAgeDays (optional): how far back to keep stories (default 7). Consumer
+ *    research is published less often, so those sources keep 30 days.
  *  - competitor (optional): marks a competitor's own newsroom. Every story it
  *    keeps is tagged with that competitor, and only stories that match
  *    `competitorRelevance` in segments.ts are kept (instead of keywords.ts).
  */
 
-export type Category = "Analyst" | "Trade Press" | "Tech Press" | "Competitor Newsroom";
+export type Category =
+  | "Analyst"
+  | "Consumer Research"
+  | "Trade Press"
+  | "Tech Press"
+  | "Competitor Newsroom";
 
-export const CATEGORIES: Category[] = ["Analyst", "Trade Press", "Tech Press", "Competitor Newsroom"];
+export const CATEGORIES: Category[] = [
+  "Analyst",
+  "Consumer Research",
+  "Trade Press",
+  "Tech Press",
+  "Competitor Newsroom",
+];
 
 export interface Source {
   name: string;
   url: string;
   category: Category;
   requireKeywordMatch?: boolean;
+  maxAgeDays?: number;
   competitor?: string;
 }
+
+// Google News search limited to one research publisher's site, last 30 days.
+const research = (query: string) =>
+  `https://news.google.com/rss/search?q=${query}+when:30d&hl=en-US&gl=US&ceid=US:en`;
 
 export const sources: Source[] = [
   // ── Analyst ────────────────────────────────────────────────────────────
@@ -71,6 +89,98 @@ export const sources: Source[] = [
     name: "TrendForce",
     url: "https://news.google.com/rss/search?q=site:trendforce.com+when:7d&hl=en-US&gl=US&ceid=US:en",
     category: "Analyst",
+    requireKeywordMatch: true,
+  },
+
+  // ── Consumer research (Shopper Trends) ─────────────────────────────────
+  // How people shop: demographics, spending power, BNPL, AI use, pricing,
+  // delivery preferences, small-business buying. Research is published less
+  // often than news, so these keep 30 days. Most have no public RSS feed, so
+  // they use Google News searches limited to the publisher's own site.
+  {
+    name: "Capital One Shopping Research",
+    url: research("site:capitaloneshopping.com/research"),
+    category: "Consumer Research",
+    maxAgeDays: 30,
+  },
+  {
+    name: "NRF",
+    url: research("site:nrf.com"),
+    category: "Consumer Research",
+    maxAgeDays: 30,
+  },
+  {
+    name: "Circana",
+    url: research("site:circana.com"),
+    category: "Consumer Research",
+    maxAgeDays: 30,
+    requireKeywordMatch: true,
+  },
+  {
+    name: "NIQ",
+    url: research("site:nielseniq.com"),
+    category: "Consumer Research",
+    maxAgeDays: 30,
+    requireKeywordMatch: true,
+  },
+  {
+    name: "Adobe Digital Insights",
+    url: research("site:news.adobe.com"),
+    category: "Consumer Research",
+    maxAgeDays: 30,
+    requireKeywordMatch: true,
+  },
+  {
+    name: "Salesforce Shopping Research",
+    url: research("site:salesforce.com/news"),
+    category: "Consumer Research",
+    maxAgeDays: 30,
+    requireKeywordMatch: true,
+  },
+  {
+    name: "Mastercard",
+    url: research("site:mastercard.com/news"),
+    category: "Consumer Research",
+    maxAgeDays: 30,
+    requireKeywordMatch: true,
+  },
+  {
+    name: "McKinsey",
+    url: research("site:mckinsey.com"),
+    category: "Consumer Research",
+    maxAgeDays: 30,
+    requireKeywordMatch: true,
+  },
+  {
+    name: "Morning Consult",
+    url: research("site:morningconsult.com"),
+    category: "Consumer Research",
+    maxAgeDays: 30,
+    requireKeywordMatch: true,
+  },
+  {
+    // Global audience research (Gen Z, gamers, etc.).
+    name: "GWI",
+    url: "https://www.gwi.com/blog/rss.xml",
+    category: "Consumer Research",
+    maxAgeDays: 30,
+    requireKeywordMatch: true,
+  },
+  {
+    // PYMNTS consumer and small-business data stories (BNPL, generations, SMBs).
+    name: "PYMNTS Data",
+    url: research("site:pymnts.com+intitle:(BNPL+OR+%22Buy+Now%22+OR+%22Gen+Z%22+OR+Millennials+OR+Boomers+OR+%22Small+Business%22+OR+SMB+OR+SMBs+OR+Consumers+OR+Shoppers)"),
+    category: "Consumer Research",
+    maxAgeDays: 30,
+    requireKeywordMatch: true,
+  },
+  {
+    // Small-business sentiment and spending (US): NFIB's optimism index,
+    // surveys and jobs report, and the QuickBooks Small Business Index.
+    name: "NFIB & QuickBooks Small Business",
+    url: research("(site:nfib.com+intitle:(Optimism+OR+Index+OR+Survey+OR+%22Jobs+Report%22))+OR+(site:quickbooks.intuit.com+intitle:index)"),
+    category: "Consumer Research",
+    maxAgeDays: 30,
     requireKeywordMatch: true,
   },
 

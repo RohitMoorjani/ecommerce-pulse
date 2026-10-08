@@ -1,15 +1,36 @@
 {
- "updatedAt": "2026-10-08T15:44:12.429Z",
- "summary": "AI is moving into both the PC and the storefront: rivals launched AI PCs and AI-driven shopping while memory costs squeeze AI PC supply.",
+ "updatedAt": "2026-10-08T16:02:32.723Z",
+ "summary": "AI has become a mainstream shopping channel: 55% of shoppers now use it to discover products, while rivals rebuild storefronts around AI and checkout gaps cost sales.",
  "points": [
   {
-   "headline": "Competitors are putting AI into the storefront, not just the product",
-   "detail": "HP launched Experience AI, an agentic web platform that adapts to customer intent; Gap and TikTok added AI discovery and checkout. Benchmark our store's search and discovery against them.",
+   "headline": "AI is now how most shoppers start looking",
+   "detail": "NIQ finds 55% of consumers use AI in product discovery; Gartner says 34% of US shoppers would use GenAI for gift ideas. Our product data must be easy for AI tools to read and recommend.",
+   "segment": "trends",
+   "storyIds": [
+    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
+    "Gartner::CBMilAJBVV95cUxPdEI3MmZCa2FBWVVoSC1ZNGh2OUhLSnhPRUl1eWgtMHd2T2dNVXRnRUhJUVh1WVhYMWl1Mm5RLXZzZzBPdzBQalVXYzlLNmlwLXhzSE8zU0RCcHpjTHhQSWxZazNrcUZraEl0Z1VnYlBULW1TOUI4eWVRYlZiNlFkSVJyT3FleGJHOFNnTU5jY0JEZVhaN1RkU2NhZC1UVjVoQTZjLTk2ckVmVktrdnQyeUZmRl8yeG8zZkQ1N3dCSFhmMjJNRXBPdGdYRW9lVlRpRzVndUN0ZjFGeF9xVF9sc1IyVm1ZY1o5b21jNE9mX0ZqNzY2UVYyY211aXg0eGFpelZGUGZ6ajQwRU9GX3FyNElCYUM",
+    "TechCrunch::https://techcrunch.com/?p=3174440"
+   ]
+  },
+  {
+   "headline": "Competitors and marketplaces are rebuilding the storefront around AI",
+   "detail": "HP launched an agentic web platform that adapts to customer intent; Walmart is reinvesting Sparky's AI savings into customer experience; Gap and TikTok added AI discovery. Benchmark our search and discovery.",
    "segment": "agentic",
    "storyIds": [
     "HP Newsroom::CBMikAFBVV95cUxNMXhUTEZwVDZaMWlfNXFoM1BoN1ZzQzVHTGo0NjlUZjlWUm9mbXpxY1plbmxCZEpjbDA4eXdXWVJ0NWpNM1ZyNHZ4bnlVYlVRR2M3bDlfVS1TUE93OHJaYTZubHlUMGQwaE1NS3Q5VU41Z1FIOXZHZ0hGUzJlRFI0bzRMVnhid2Fyc1QzWmoteUw",
+    "Retail Dive::https://www.retaildive.com/news/ai-walmart-sparky-CX-investment/832327/",
     "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363322",
     "Retail Dive::https://www.retaildive.com/news/tiktok-ai-powered-discovery-one-click-checkout/832326/"
+   ]
+  },
+  {
+   "headline": "Payment and financing gaps are costing sales",
+   "detail": "47% of shoppers who abandoned carts wanted a digital wallet; Amazon added Affirm BNPL in the UK; consumers are getting choosier about credit. Audit wallets and instalment options per market.",
+   "segment": "trends",
+   "storyIds": [
+    "PYMNTS Data::CBMiwwFBVV95cUxNNHQwZEpzOFNob0FIeXF2dXFzT0hkOWhUMFZaS0VQUTc1QjZ1R1AxcjhGcWt1a1hWRXhGZV9RZ1BCaHBSYlZaQ01BYkJHNlRMcjBpWUZrMnlFR0dkSkdOU0FZS0J2RWtVa3M0eXh0QzlfMmZ1eWQ1X3RFZUktVE1JdXY4TnctQmVxNDBhSlVGWnRzQ3d2dGpQRWE4SW0zM1A3MmphX0tCa0VKa1BTd2JPLU1xS0xvV0lINGRrOHhBMmtwSEk",
+    "PYMNTS Data::CBMilAFBVV95cUxQNzFOc3hDNk0zUHNrMG9wSlc3eFdLaFBQZnhMaGZzY0dtMEg0eXRDSGluZXlTOFdXb3pUNkJMdFc1Z0dScU0yM21tcmdZQllUZjBCZUxSdEhSWG9LWUpOd0F2Z2RVaEdvZHpXTlhEUVdfdXVvcUx0TlZOdkNacl9GenBJWkJZc2Uwbk1pRzcxM3NIbHFk",
+    "PYMNTS Data::CBMiiAFBVV95cUxPYm1IX0tTUmY0SEhMQU8wejZsbUJyT1dLSHo0d0pfbU5pRksyUWNiYThqbTlSTFdlcnI4X3Z0Q3NERERGbkZBVU9ieGF0NS1YQ1p4cmtxU2lCOHFKZUI1MmI4Y1A2b3FsZjZoVkUtWVA0UnlMMFJkdHJZODZoRnZtYnhNTy1YcEZW"
    ]
   },
   {
@@ -24,29 +45,13 @@
    ]
   },
   {
-   "headline": "Nvidia RTX Spark opens a premium Windows-on-Arm tier aimed at Macs",
-   "detail": "RTX Spark laptops opened for pre-order on Oct 7. A new high-end category needs clear Arm vs x86 guidance for online buyers.",
-   "segment": "pc",
+   "headline": "Holiday demand is up and SMB buyers are ready to grow",
+   "detail": "Adobe forecasts a record $275.1B in US online holiday sales (+6.7%); Amazon India sees a 35-40% festive spike; Capital One finds small businesses cautious but ready to grow. Plan stock and SMB offers now.",
+   "segment": "trends",
    "storyIds": [
-    "DigiTimes::https://www.digitimes.com/news/a20261008VL200/nvidia-rtx-windows-apple-cuda.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261008VL213/windows-arm-nvidia-x86-pc.html"
-   ]
-  },
-  {
-   "headline": "Marketplaces are scaling up for festive and holiday peaks",
-   "detail": "Amazon India sees a 35-40% festive demand spike and added 50% capacity; Walmart rolled out 1-hour pickup nationwide. Check our stock, delivery promises and deal placement on key marketplaces.",
-   "segment": "marketplaces",
-   "storyIds": [
+    "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c",
     "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/amazon-sees-35-40-pc-festive-demand-spike-adds-50-pc-capacity-with-rs-2800-crore-investment/134777774",
-    "Retail Dive::https://www.retaildive.com/news/walmart-one-hour-express-store-pickup-asl-service-holiday/832464/"
-   ]
-  },
-  {
-   "headline": "JD.com nears EU approval to buy MediaMarkt owner Ceconomy",
-   "detail": "A JD-owned Ceconomy (MediaMarkt, Saturn) would be a new owner for a major European electronics channel, with possible changes to terms and data access for PC brands.",
-   "segment": "marketplaces",
-   "storyIds": [
-    "Global Marketplaces::CBMisgFBVV95cUxQaDdiVzduWlpSTUNVR2VORGp4b093TWNzYjB3Y2I3eW9vR1g3WmZrdmFNNlppQ0F3YkI5X2FrSWYzVjRNR1U1em9tVGUzeUpwNkNJU3dpVmt5eDVKOGtCZTNUcFdFcDQ5VTV3Y0ZHOG5QeVFXa1ZhcS16UUpjTVQ3Nkt5NHd0alRrZEZYOFNJU1N2TnZ3alBoUDdCNlprMUp4Z2VyTFczS01CRGwzeXgwR2Jn"
+    "PYMNTS Data::CBMi9gFBVV95cUxQU2c4Q2hXWGZMNUQ4V2w0ODNpV2lXQ1hsTzl2cEwzWG1xOF9MTDFDOHMxa0p5VnA3QjI0bkkzaU54OWlHQndpYkVnQnlaaWQxWDFNaFNMNXRxbXRsQmFWMnB4QU4xczR1dGNBT0sxeEVDUmJJMEg1MDhfZ0t6MGZsNUhrempJY0JDTlZkd2dBeHB2YnotbkJZbUo2akQ5ZXhkbWwxOVh6OUlBaFppNjkyQUhNYXhPN3B1YUdqSjRCanlsaWF6Mk4yd0hOM196OTN3cXV1QWhabkxWV0h1Nmx1UHduSXo4LWVic1FpVHRHNjZoTnJoQmc"
    ]
   }
  ]
