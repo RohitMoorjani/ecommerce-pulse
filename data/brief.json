@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-09T15:50:52.580Z",
+ "updatedAt": "2026-10-09T21:51:03.587Z",
  "title": "Shopping starts with AI, so our store must be agent-ready",
- "summary": "55% of consumers use AI in product discovery (NIQ); 34% of US shoppers would use GenAI for gift ideas (Gartner). HP launched Experience AI; TikTok, Gap and Walmart added AI shopping. Omdia: PC shipments -21% in 3Q26.",
+ "summary": "55% of consumers use AI in discovery (NIQ); HP launched Experience AI; TikTok, Gap and Walmart added AI shopping. Omdia: PC shipments -21% in 3Q26; Prime days neared $10B.",
  "points": [
   {
    "headline": "AI is now a mainstream path to purchase, and rivals are building for it",
@@ -25,21 +25,22 @@
   },
   {
    "headline": "Rivals push premium AI laptops through new price points and channels",
-   "detail": "Microsoft priced Surface Laptop Ultra at $2,599 for on-device AI agents; Nvidia RTX Spark Windows laptops opened for pre-order. We should check our premium AI lineup pricing.",
+   "detail": "Microsoft priced Surface Laptop Ultra at $2,599; Nvidia RTX Spark laptops opened for pre-order; Apple readies a touchscreen MacBook. We should check our premium AI lineup.",
    "segment": "pc",
    "storyIds": [
     "DigiTimes::https://www.digitimes.com/news/a20261008VL201/microsoft-windows-rtx-nvidia-pc.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261008VL200/nvidia-rtx-windows-apple-cuda.html"
+    "DigiTimes::https://www.digitimes.com/news/a20261008VL200/nvidia-rtx-windows-apple-cuda.html",
+    "PYMNTS Data::CBMikwFBVV95cUxPR2tsYVFzWEQ0SHZackdkZDUyb2tyUmpFUjV5WXZRekhwNDcwZlpUeU5faGRaV3czNkJBSWkyS0s0aWpkdDd3Y01Da252Nk52NWM4WGhXSDFpWVlvUldTRnBRd09IZl9RdmdZM0UyWGM2a2VwbGN1Rlk1SW5mLXlNXzFmN3B6dkVlck5pdVpNYUVOTXM"
    ]
   },
   {
-   "headline": "Holiday spend is forecast at records, with AI and BNPL shaping carts",
-   "detail": "Adobe forecasts $275.1B US online holiday sales (+6.7%); Amazon added BNPL in the UK; 47% of abandoners wanted a digital wallet. We should review payment options and gift-discovery content.",
+   "headline": "Record holiday forecasts meet shopper budget worries, with Prime events setting the pace",
+   "detail": "Adobe: $275.1B US online holiday sales (+6.7%); Prime Big Deal Days neared $10B. ICSC: nearly half fear gift costs. We should balance deal depth, BNPL and wallet options.",
    "segment": "trends",
    "storyIds": [
     "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c",
-    "PYMNTS Data::CBMilAFBVV95cUxQNzFOc3hDNk0zUHNrMG9wSlc3eFdLaFBQZnhMaGZzY0dtMEg0eXRDSGluZXlTOFdXb3pUNkJMdFc1Z0dScU0yM21tcmdZQllUZjBCZUxSdEhSWG9LWUpOd0F2Z2RVaEdvZHpXTlhEUVdfdXVvcUx0TlZOdkNacl9GenBJWkJZc2Uwbk1pRzcxM3NIbHFk",
-    "PYMNTS Data::CBMiwwFBVV95cUxNNHQwZEpzOFNob0FIeXF2dXFzT0hkOWhUMFZaS0VQUTc1QjZ1R1AxcjhGcWt1a1hWRXhGZV9RZ1BCaHBSYlZaQ01BYkJHNlRMcjBpWUZrMnlFR0dkSkdOU0FZS0J2RWtVa3M0eXh0QzlfMmZ1eWQ1X3RFZUktVE1JdXY4TnctQmVxNDBhSlVGWnRzQ3d2dGpQRWE4SW0zM1A3MmphX0tCa0VKa1BTd2JPLU1xS0xvV0lINGRrOHhBMmtwSEk"
+    "Retail Dive::https://www.retaildive.com/news/amazon-prime-big-deal-days-online-spend-nears-ten-billion/832604/",
+    "Retail Dive::https://www.retaildive.com/news/shoppers-worried-affording-holidays-icsc/832615/"
    ]
   }
  ]
