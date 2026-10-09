@@ -1222,10 +1222,10 @@
  "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363383": {
   "keep": true,
   "segment": "marketplaces",
-  "headline": "Amazon Prime Big Deal Days drive $9.86B in US online spending, Adobe says",
-  "short_headline": "Prime Big Deal Days hit $9.86B online, per Adobe",
-  "takeaway": "Early Prime events set the holiday baseline; we should check our Amazon listings and pricing are ready for stronger demand.",
-  "importance": 4,
+  "headline": "Prime Big Deal Days: $9.86B US online sales, +8.5% YoY; electronics up 85%",
+  "short_headline": "Prime days: $9.86B, +8.5% YoY, electronics +85%",
+  "takeaway": "Electronics led the spike (+85% vs September daily average), so we should line up PC promotions and inventory for early-season events.",
+  "importance": 5,
   "content_type": "data",
   "competitors": [],
   "publishedAt": "2026-10-08T21:52:12.000Z"
