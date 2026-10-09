@@ -1,46 +1,59 @@
 {
- "updatedAt": "2026-10-09T23:29:15.880Z",
- "title": "Shopping starts with AI, so our store must be agent-ready",
- "summary": "55% of consumers use AI in discovery (NIQ); HP launched Experience AI; TikTok, Gap and Walmart added AI shopping. Omdia: PC shipments -21% in 3Q26; Prime days hit $9.86B (+8.5%), electronics +85%.",
+ "updatedAt": "2026-10-09T23:33:53.791Z",
+ "title": "Win the early holiday via Amazon and AI search as PC costs rise",
+ "summary": "Prime days hit $9.86B (+8.5%), electronics +85% (Adobe). 55% use AI in discovery (NIQ). HP launched Experience AI. Omdia: PC shipments -21% in 3Q26; DRAM shifts to servers. Surface Laptop Ultra $2,599. Adobe: holiday online $275.1B.",
  "points": [
   {
-   "headline": "AI is now a mainstream path to purchase, and rivals are building for it",
-   "detail": "NIQ: 55% use AI in discovery; HP launched Experience AI; TikTok and Gap added AI shopping. We should benchmark our search, content and checkout against these.",
-   "segment": "agentic",
+   "headline": "Holiday demand now peaks early, and electronics lead it",
+   "detail": "Adobe: Prime days drove $9.86B (+8.5% YoY), electronics +85% vs September; holiday online forecast $275.1B. ICSC: half fear gift costs. We should time PC deals and stock to October events.",
+   "segment": "marketplaces",
    "storyIds": [
-    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
-    "HP Newsroom::CBMikAFBVV95cUxNMXhUTEZwVDZaMWlfNXFoM1BoN1ZzQzVHTGo0NjlUZjlWUm9mbXpxY1plbmxCZEpjbDA4eXdXWVJ0NWpNM1ZyNHZ4bnlVYlVRR2M3bDlfVS1TUE93OHJaYTZubHlUMGQwaE1NS3Q5VU41Z1FIOXZHZ0hGUzJlRFI0bzRMVnhid2Fyc1QzWmoteUw",
-    "Retail Dive::https://www.retaildive.com/news/tiktok-ai-powered-discovery-one-click-checkout/832326/"
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363383",
+    "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c",
+    "Retail Dive::https://www.retaildive.com/news/shoppers-worried-affording-holidays-icsc/832615/",
+    "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/amazon-sees-35-40-pc-festive-demand-spike-adds-50-pc-capacity-with-rs-2800-crore-investment/134777774"
    ]
   },
   {
-   "headline": "PC demand is cooling just as memory costs squeeze AI PC pricing",
-   "detail": "Omdia: global PC shipments fell 21% in 3Q26 as pull-forward demand faded; DigiTimes flags memory costs. We should plan holiday promotions and inventory for softer volume.",
+   "headline": "PC volumes are falling while memory costs push AI PC prices up",
+   "detail": "Omdia: shipments -21% in 3Q26; DigiTimes: DRAM prioritises servers. Surface Laptop Ultra is $2,599 and Apple readies a touchscreen MacBook. We should plan pricing and premium AI configs.",
    "segment": "pc",
    "storyIds": [
     "Omdia::CBMiuAFBVV95cUxQcWtQcWxmX1NLbllsQjdmdlc4ZVRQMWNfeEZ4REMwUFpHX2RHTEdSZHFYQ3pvX2xyMlh2ZnRNeFV2ZEhMVlpJVy0yUGtFZE1OQzVoQTBYbzZxdUVEdDlCSHNLd2dnc29oWGVMck5Nb2hIRWVCdkVjNnE2Ry1FWmluaC1xSDRIYmFmY3dxTi1yWFY2aXItTWd1T3FHMWVwdDktcGhNU2l1QWg3UnJrVHFzSGltMDEzMTJD",
     "DigiTimes::https://www.digitimes.com/news/a20261008VL216/microsoft-demand-dram-pc-revenue.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261008VL207/pc-shipments-forecast-nvidia-microsoft.html"
-   ]
-  },
-  {
-   "headline": "Rivals push premium AI laptops through new price points and channels",
-   "detail": "Microsoft priced Surface Laptop Ultra at $2,599; Nvidia RTX Spark laptops opened for pre-order; Apple readies a touchscreen MacBook. We should check our premium AI lineup.",
-   "segment": "pc",
-   "storyIds": [
     "DigiTimes::https://www.digitimes.com/news/a20261008VL201/microsoft-windows-rtx-nvidia-pc.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261008VL200/nvidia-rtx-windows-apple-cuda.html",
     "PYMNTS Data::CBMikwFBVV95cUxPR2tsYVFzWEQ0SHZackdkZDUyb2tyUmpFUjV5WXZRekhwNDcwZlpUeU5faGRaV3czNkJBSWkyS0s0aWpkdDd3Y01Da252Nk52NWM4WGhXSDFpWVlvUldTRnBRd09IZl9RdmdZM0UyWGM2a2VwbGN1Rlk1SW5mLXlNXzFmN3B6dkVlck5pdVpNYUVOTXM"
    ]
   },
   {
-   "headline": "Record holiday forecasts meet shopper budget worries, with Prime events setting the pace",
-   "detail": "Adobe: Prime days drove $9.86B (+8.5% YoY), electronics +85% vs September; holiday online sales forecast $275.1B (+6.7%). ICSC: half fear gift costs. Plan deals and inventory early.",
+   "headline": "AI is a mainstream way to find products, and rivals are building for it",
+   "detail": "NIQ: 55% use AI in discovery; Gartner: 34% would use GenAI for gifts. HP launched Experience AI; TikTok added an AI agent. Anti-bot defences block shopping agents. We should make our store agent-readable.",
+   "segment": "agentic",
+   "storyIds": [
+    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
+    "HP Newsroom::CBMikAFBVV95cUxNMXhUTEZwVDZaMWlfNXFoM1BoN1ZzQzVHTGo0NjlUZjlWUm9mbXpxY1plbmxCZEpjbDA4eXdXWVJ0NWpNM1ZyNHZ4bnlVYlVRR2M3bDlfVS1TUE93OHJaYTZubHlUMGQwaE1NS3Q5VU41Z1FIOXZHZ0hGUzJlRFI0bzRMVnhid2Fyc1QzWmoteUw",
+    "Retail Dive::https://www.retaildive.com/news/tiktok-ai-powered-discovery-one-click-checkout/832326/",
+    "TechCrunch::https://techcrunch.com/?p=3174440"
+   ]
+  },
+  {
+   "headline": "Channels are diverging: TikTok Shop, retail media and Amazon's own devices",
+   "detail": "Marketplace Pulse: TikTok Shop sells and rewards differently than Amazon. Circana: Best Buy retail media reach exceeds clicks. Amazon launched Android tablets. We should tailor assortment and ad measurement per channel.",
+   "segment": "marketplaces",
+   "storyIds": [
+    "Marketplace Pulse::http://www.marketplacepulse.com/articles/what-45-million-products-say-about-tiktok-shop",
+    "Circana::CBMiuwFBVV95cUxOVjlIVzR6WjVxWUVXamJaMUEwQmtOS2k0U25qWnFKTTY3XzhmdldrZmEtdFZtYWMySVRaRTFnNHRDa0ZEcVBKYzdaNGZIR2FJLVk1a0hsMW94RW0wc2tVc3BKQnlDZ0RJUWxNVE84aUU2T2lQTUU0eFR1dHdkNWxDTDFqRC1VZFZoZHUwMHBtb0lEbEFvc1VOSWFBdjZSZjZSelMtRkxwVWNJZldoUkMteVJNbDNsX2lVeUs0",
+    "Reuters::CBMizgFBVV95cUxOUE1oUFB5RzAyOTdPMGZlUEphcVlqMk01cnBHQzBTM0swSmFUMWNHVWhXdjgtczZqVndDVXF1YjZ2anlhRmdCVzBIRzJfQkRQUFBtUFdKOXlUdDJHQ09tT0toWUozR2N4dXNUMDB6R1NRWjZqUWdiZkdwdjd6dEN2REVmelczUjAxTWptM1NMZTUyd3dScVFGa2lnaXhmMnI0S3FIdW5YWTdDTWp2YkhRNlY3eEFjelhGajRSNGg1bXN1UFdkSjI5VUk5dDdvZw"
+   ]
+  },
+  {
+   "headline": "Small businesses and AI power users are buyers worth targeting",
+   "detail": "PYMNTS: AI power users spend like small businesses; Capital One: SMBs are confident about growth. 47% of abandoners wanted a digital wallet. We should aim device offers and wallet options at them.",
    "segment": "trends",
    "storyIds": [
-    "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c",
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363383",
-    "Retail Dive::https://www.retaildive.com/news/shoppers-worried-affording-holidays-icsc/832615/"
+    "PYMNTS Data::CBMiogFBVV95cUxOSzE0ajBnTEsyaW9tckJKdS00Ymo3R2VrNk9ZdDJNZkliaE9YaXhfeVB3V25uYnpaczlablpkOXZhZFFNVnF2SGQxTFdLYTJUSUdDUDlEVWc4NlljRldXMF9OUlRRWkN0N29VVTRlUE1ZQ01VS2RoTXBWaFdCMTZjMVpHZ0t5SzlZb19HVVdTQkNPUzNGSjVtTEhoaVc0c2Rzc0E",
+    "PYMNTS Data::CBMi9gFBVV95cUxQU2c4Q2hXWGZMNUQ4V2w0ODNpV2lXQ1hsTzl2cEwzWG1xOF9MTDFDOHMxa0p5VnA3QjI0bkkzaU54OWlHQndpYkVnQnlaaWQxWDFNaFNMNXRxbXRsQmFWMnB4QU4xczR1dGNBT0sxeEVDUmJJMEg1MDhfZ0t6MGZsNUhrempJY0JDTlZkd2dBeHB2YnotbkJZbUo2akQ5ZXhkbWwxOVh6OUlBaFppNjkyQUhNYXhPN3B1YUdqSjRCanlsaWF6Mk4yd0hOM196OTN3cXV1QWhabkxWV0h1Nmx1UHduSXo4LWVic1FpVHRHNjZoTnJoQmc",
+    "PYMNTS Data::CBMiwwFBVV95cUxNNHQwZEpzOFNob0FIeXF2dXFzT0hkOWhUMFZaS0VQUTc1QjZ1R1AxcjhGcWt1a1hWRXhGZV9RZ1BCaHBSYlZaQ01BYkJHNlRMcjBpWUZrMnlFR0dkSkdOU0FZS0J2RWtVa3M0eXh0QzlfMmZ1eWQ1X3RFZUktVE1JdXY4TnctQmVxNDBhSlVGWnRzQ3d2dGpQRWE4SW0zM1A3MmphX0tCa0VKa1BTd2JPLU1xS0xvV0lINGRrOHhBMmtwSEk"
    ]
   }
  ]
