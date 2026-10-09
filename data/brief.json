@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-09T06:51:14.749Z",
- "title": "Shopping starts with AI agents, so our store must be agent-ready",
- "summary": "55% of consumers use AI in product discovery (NIQ); 34% of US shoppers would use GenAI for gift ideas (Gartner). HP launched Experience AI; TikTok, Gap and Walmart added AI shopping. Memory costs pressure PC prices.",
+ "updatedAt": "2026-10-09T15:50:52.580Z",
+ "title": "Shopping starts with AI, so our store must be agent-ready",
+ "summary": "55% of consumers use AI in product discovery (NIQ); 34% of US shoppers would use GenAI for gift ideas (Gartner). HP launched Experience AI; TikTok, Gap and Walmart added AI shopping. Omdia: PC shipments -21% in 3Q26.",
  "points": [
   {
    "headline": "AI is now a mainstream path to purchase, and rivals are building for it",
@@ -10,35 +10,36 @@
    "storyIds": [
     "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
     "HP Newsroom::CBMikAFBVV95cUxNMXhUTEZwVDZaMWlfNXFoM1BoN1ZzQzVHTGo0NjlUZjlWUm9mbXpxY1plbmxCZEpjbDA4eXdXWVJ0NWpNM1ZyNHZ4bnlVYlVRR2M3bDlfVS1TUE93OHJaYTZubHlUMGQwaE1NS3Q5VU41Z1FIOXZHZ0hGUzJlRFI0bzRMVnhid2Fyc1QzWmoteUw",
-    "Retail Dive::https://www.retaildive.com/news/tiktok-ai-powered-discovery-one-click-checkout/832326/",
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363322"
+    "Retail Dive::https://www.retaildive.com/news/tiktok-ai-powered-discovery-one-click-checkout/832326/"
    ]
   },
   {
-   "headline": "Anti-bot defenses block shopping agents, a risk for our store",
-   "detail": "TechCrunch reports bot defenses are blocking personal AI shopping agents. We should check that legitimate agents can reach and buy from our store.",
-   "segment": "agentic",
-   "storyIds": [
-    "TechCrunch::https://techcrunch.com/?p=3174440"
-   ]
-  },
-  {
-   "headline": "Memory costs and premium AI laptops reshape PC pricing",
-   "detail": "Suppliers prioritize server DRAM, threatening PC shipments, while Surface Laptop Ultra is priced at $2,599. We need to plan pricing and stock messaging for AI tiers.",
+   "headline": "PC demand is cooling just as memory costs squeeze AI PC pricing",
+   "detail": "Omdia: global PC shipments fell 21% in 3Q26 as pull-forward demand faded; DigiTimes flags memory costs. We should plan holiday promotions and inventory for softer volume.",
    "segment": "pc",
    "storyIds": [
+    "Omdia::CBMiuAFBVV95cUxQcWtQcWxmX1NLbllsQjdmdlc4ZVRQMWNfeEZ4REMwUFpHX2RHTEdSZHFYQ3pvX2xyMlh2ZnRNeFV2ZEhMVlpJVy0yUGtFZE1OQzVoQTBYbzZxdUVEdDlCSHNLd2dnc29oWGVMck5Nb2hIRWVCdkVjNnE2Ry1FWmluaC1xSDRIYmFmY3dxTi1yWFY2aXItTWd1T3FHMWVwdDktcGhNU2l1QWg3UnJrVHFzSGltMDEzMTJD",
     "DigiTimes::https://www.digitimes.com/news/a20261008VL216/microsoft-demand-dram-pc-revenue.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261008VL207/pc-shipments-forecast-nvidia-microsoft.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261008VL201/microsoft-windows-rtx-nvidia-pc.html"
+    "DigiTimes::https://www.digitimes.com/news/a20261008VL207/pc-shipments-forecast-nvidia-microsoft.html"
    ]
   },
   {
-   "headline": "Amazon pushes into tablets and festive demand while delivery bar rises",
-   "detail": "Amazon launched Alexa-enabled Android tablets and expects 35-40% festive demand growth in India. We should watch its own-tablet ranking and our delivery promises.",
-   "segment": "marketplaces",
+   "headline": "Rivals push premium AI laptops through new price points and channels",
+   "detail": "Microsoft priced Surface Laptop Ultra at $2,599 for on-device AI agents; Nvidia RTX Spark Windows laptops opened for pre-order. We should check our premium AI lineup pricing.",
+   "segment": "pc",
    "storyIds": [
-    "Reuters::CBMizgFBVV95cUxOUE1oUFB5RzAyOTdPMGZlUEphcVlqMk01cnBHQzBTM0swSmFUMWNHVWhXdjgtczZqVndDVXF1YjZ2anlhRmdCVzBIRzJfQkRQUFBtUFdKOXlUdDJHQ09tT0toWUozR2N4dXNUMDB6R1NRWjZqUWdiZkdwdjd6dEN2REVmelczUjAxTWptM1NMZTUyd3dScVFGa2lnaXhmMnI0S3FIdW5YWTdDTWp2YkhRNlY3eEFjelhGajRSNGg1bXN1UFdkSjI5VUk5dDdvZw",
-    "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/amazon-sees-35-40-pc-festive-demand-spike-adds-50-pc-capacity-with-rs-2800-crore-investment/134777774"
+    "DigiTimes::https://www.digitimes.com/news/a20261008VL201/microsoft-windows-rtx-nvidia-pc.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261008VL200/nvidia-rtx-windows-apple-cuda.html"
+   ]
+  },
+  {
+   "headline": "Holiday spend is forecast at records, with AI and BNPL shaping carts",
+   "detail": "Adobe forecasts $275.1B US online holiday sales (+6.7%); Amazon added BNPL in the UK; 47% of abandoners wanted a digital wallet. We should review payment options and gift-discovery content.",
+   "segment": "trends",
+   "storyIds": [
+    "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c",
+    "PYMNTS Data::CBMilAFBVV95cUxQNzFOc3hDNk0zUHNrMG9wSlc3eFdLaFBQZnhMaGZzY0dtMEg0eXRDSGluZXlTOFdXb3pUNkJMdFc1Z0dScU0yM21tcmdZQllUZjBCZUxSdEhSWG9LWUpOd0F2Z2RVaEdvZHpXTlhEUVdfdXVvcUx0TlZOdkNacl9GenBJWkJZc2Uwbk1pRzcxM3NIbHFk",
+    "PYMNTS Data::CBMiwwFBVV95cUxNNHQwZEpzOFNob0FIeXF2dXFzT0hkOWhUMFZaS0VQUTc1QjZ1R1AxcjhGcWt1a1hWRXhGZV9RZ1BCaHBSYlZaQ01BYkJHNlRMcjBpWUZrMnlFR0dkSkdOU0FZS0J2RWtVa3M0eXh0QzlfMmZ1eWQ1X3RFZUktVE1JdXY4TnctQmVxNDBhSlVGWnRzQ3d2dGpQRWE4SW0zM1A3MmphX0tCa0VKa1BTd2JPLU1xS0xvV0lINGRrOHhBMmtwSEk"
    ]
   }
  ]

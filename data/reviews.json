@@ -1373,5 +1373,97 @@
   "content_type": "announcement",
   "competitors": [],
   "publishedAt": "2026-09-24T19:05:55.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166509": {
+  "keep": false,
+  "publishedAt": "2026-10-09T13:01:45.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166476": {
+  "keep": false,
+  "publishedAt": "2026-10-09T13:01:35.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166486": {
+  "keep": false,
+  "publishedAt": "2026-10-09T13:00:22.000Z"
+ },
+ "Inc42::https://inc42.com/?p=575373": {
+  "keep": false,
+  "publishedAt": "2026-10-09T10:52:22.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/entertainment/blackstones-siddharth-nawal-set-to-take-over-as-ceo-of-nexus-select-trust/134829631": {
+  "keep": false,
+  "publishedAt": "2026-10-09T10:09:20.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76216": {
+  "keep": false,
+  "publishedAt": "2026-10-09T09:24:41.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/grocery/diageo-india-enters-ready-to-drink-alcohol-market-takes-on-bacardi-in-nascent-segment-with-smirnoff-ice/134828902": {
+  "keep": false,
+  "publishedAt": "2026-10-09T09:16:50.000Z"
+ },
+ "Reuters::CBMiwwFBVV95cUxQbXNQOWFRUDZteDBPSUxaSGYzNGRydUhpVWtGbl95VzN0OHp6NHZrdUdoRmxJNy1kb2pTQjlVNGdEQktjdHRLZHNyUEo2QVdZMzF2dkZ3NjE3ekVXM0lnSWpNUFcyYlZvRndFZnN6UlA5dnZYSW96RVI1X0tCbW5LNnFPTnhuQ3RQY0xybEZuMEJyTmhVVnJJSzJ0QjlZeWlJR0tyNktTZmFjdzJhUkE5T0x1bnNtN3pDVTczQ09NMFdXdXM": {
+  "keep": false,
+  "publishedAt": "2026-10-09T09:05:14.000Z"
+ },
+ "Omdia::CBMiuAFBVV95cUxQcWtQcWxmX1NLbllsQjdmdlc4ZVRQMWNfeEZ4REMwUFpHX2RHTEdSZHFYQ3pvX2xyMlh2ZnRNeFV2ZEhMVlpJVy0yUGtFZE1OQzVoQTBYbzZxdUVEdDlCSHNLd2dnc29oWGVMck5Nb2hIRWVCdkVjNnE2Ry1FWmluaC1xSDRIYmFmY3dxTi1yWFY2aXItTWd1T3FHMWVwdDktcGhNU2l1QWg3UnJrVHFzSGltMDEzMTJD": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Omdia: global PC shipments fall 21% in 3Q26 as pull-forward demand subsides",
+  "short_headline": "Global PC shipments fall 21% in 3Q26 (Omdia)",
+  "takeaway": "Demand is cooling after pull-forward buying; we should plan promotions and inventory for a softer holiday quarter.",
+  "importance": 4,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-09T08:33:48.000Z"
+ },
+ "PYMNTS Data::CBMikwFBVV95cUxQQ0QtcDdadVAzblpUSGROVjNtcnZKMnVyNldJQTBVaDdLYTNtV1psNU16YXpqNWl0UWhhd0w0TVJlWmlsM1N0WVZrd3lqZnpscE9mLVdxZVB5anRkUHc2VW1BSXhkYVBXS242YUduVHVXbDh2SEFlUFBWeUtSSUU2MEpQMEZENHJvT29SMGNPcUFiU1k": {
+  "keep": false,
+  "publishedAt": "2026-10-09T08:03:10.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/health-and-beauty/plush-targets-nearly-2x-revenue-scales-distribution-and-local-production/134807084": {
+  "keep": false,
+  "publishedAt": "2026-10-09T04:23:01.000Z"
+ },
+ "Dell Blog::https://www.dell.com/blog/post-quantum-ready-or-not-why-your-next-pc-refresh-is-a-cryptography-decision": {
+  "keep": false,
+  "publishedAt": "2026-10-08T17:00:00.000Z"
+ },
+ "Dell Blog::https://www.dell.com/blog/from-xps-to-runway-reimagining-mclaren-through-fashion": {
+  "keep": false,
+  "publishedAt": "2026-10-08T13:00:00.000Z"
+ },
+ "Reuters::CBMirgFBVV95cUxOMXBaTUxRTVRaaEh2ajRtZWxDekFLVElmbi1oVEw1eFJyUDg4NG5TNGxTZGw1eUFSTWhTbHVERXU2R2p1YlBFRnZhcUFXSG9vQWhPcVFxN21jdDJaMFRLY0lSU0x0YUtBREl3UXBYaVFXZmNtNmdfVGhkUmt5bnZJOTg3eTBOdjlUdTNaRTlFSGQ5YTdLcjVwWnVkLUREN2dLSkhoaEhlMHQ0U2YwWWc": {
+  "keep": false,
+  "publishedAt": "2026-10-08T01:16:00.000Z"
+ },
+ "Dell Blog::https://www.dell.com/blog/dell-xps-16-creator-edition-where-nvidia-rtx-spark-meets-premium-design": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Dell launches XPS 16 Creator Edition built around NVIDIA RTX Spark",
+  "short_headline": "Dell XPS 16 Creator Edition adds NVIDIA RTX Spark",
+  "takeaway": "Dell is pushing a creator-focused premium laptop; compare its positioning against our own creator lineup online.",
+  "importance": 2,
+  "content_type": "announcement",
+  "competitors": [
+   "Dell"
+  ],
+  "publishedAt": "2026-10-07T18:00:00.000Z"
+ },
+ "Reuters::CBMiyAFBVV95cUxOczZOOTk2b2wyX3RjWldGakx6UmE4SXlieHVKMGdnSWQyQzUycEZ5eFo1bWptaWdTc3V5M2gzUXItMG9wRUhwZTgwWXVhdE1UX0Z4ZUtwLWYtMlM3eHI0VF9ScVVhRmFpUmFOeS12bDlobG9KbERpSkpGX3YwcFhfeVZqYk05N3VVSzZwaG1idWtBSFBNcU1udVlFMVhzOVY1VXlReDUzZHZCZThXcmVnMzdRbjA0cTUtc1prb2x1UTF4TkZRVTNTeQ": {
+  "keep": false,
+  "publishedAt": "2026-10-07T15:13:43.000Z"
+ },
+ "Dell Blog::https://www.dell.com/blog/new-dell-pro-rugged-laptops-built-for-the-field": {
+  "keep": false,
+  "publishedAt": "2026-10-06T14:00:00.000Z"
+ },
+ "PYMNTS Data::CBMi6gFBVV95cUxQUDc2MklFQlhMTzVWZ1V6X2pXc1lOZmR2WkFmNnJrX1hvcXpTRkM3WUpPdENDWk1YNXZFYkFKTy1JOTdrVWdXZ0V0UjBOZXB1RjhDSHdrdDRGRXBydlhVX0tjQ1hDeVo0MDFrN3RrUTc4OEdnbW1KdlhVbUxJc0RhLTRiX0YyWVdEMUkzUktKQUdVVjhaeXZpS1NzNE03dnUwa21FMHBpZjlYMWJhU3hTRDdDV25RX0V3LTluYWJMSEFFMnNFTWhaOE5kWjREM0hkWkZYLXhSNDIzajI5MDBLc2tzRjNRU0gwLVE": {
+  "keep": false,
+  "publishedAt": "2026-10-05T07:29:00.000Z"
+ },
+ "PYMNTS Data::CBMimwFBVV95cUxQTlZHR2loQk9LSmcxR1RaYktjdzl0bzViRjNITUN5YlI4djJCUjVKenRiamJjc3UtZkVCay1wdnZrVGdOY210VG9SeF9hTFktQzlybzlNX0k4TS1GaGFMUEsyaEI4TGNxMkZPcWdXUnpVNGpVUE9ydS1tWjNmdlM0UERtUm5qU1pzWXFmRHRvdHh3ZFZqcWVZRnVfQQ": {
+  "keep": false,
+  "publishedAt": "2026-09-30T07:00:00.000Z"
  }
 }
