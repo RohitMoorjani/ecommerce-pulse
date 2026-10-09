@@ -1,154 +1,114 @@
 [
  {
-  "id": "TWICE::https://www.twice.com/?p=166509",
-  "source": "TWICE",
+  "id": "Modern Retail::https://www.modernretail.co/?p=173055",
+  "source": "Modern Retail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-09T13:01:45.000Z",
-  "title": "Jetbuilt COO Tom Peters Retires After 45 Years In AV",
-  "snippet": "Peters will continue industry work through Sustainability in AV"
+  "publishedAt": "2026-10-09T19:30:33.000Z",
+  "title": "How Amazon Fall Prime Day went for sellers",
+  "snippet": "Amazon’s fall Prime Big Deals Days helped kick off early holiday sales as shoppers chased discounts and bundles and stocked up on essentials. Here's how the event went, based on data and anecdotes from brands."
  },
  {
-  "id": "TWICE::https://www.twice.com/?p=166476",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-09T13:01:35.000Z",
-  "title": "The Legacy Companies Names Mark Easterday Chief Commercial Officer",
-  "snippet": "Former Middleby executive to lead commercial sales and growth strategy"
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363388",
+  "source": "Digital Commerce 360",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-09T17:33:22.000Z",
+  "title": "Levi’s reports 10% ecommerce growth, eyes stronger holiday sales",
+  "snippet": "Levi Strauss & Co. reported a 10% increase in ecommerce revenue in its fiscal third quarter, outpacing growth across its broader direct-to-consumer (DTC) business. DTC revenue, which includes sales through the company’s…"
  },
  {
-  "id": "TWICE::https://www.twice.com/?p=166486",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-09T13:00:22.000Z",
-  "title": "BenQ Adds AK900ST And AK800ST 4K Golf Sim Projectors",
-  "snippet": "New models offer up to 6,000 ANSI lumens, 4K resolution and automated setup"
- },
- {
-  "id": "Inc42::https://inc42.com/?p=575373",
-  "source": "Inc42",
+  "id": "CRN::https://www.crn.com/news/ai/2026/microsoft-s-ai-powered-windows-strategy-5-things-to-know",
+  "source": "CRN",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-09T10:52:22.000Z",
-  "title": "Amazon Layoffs: At Least 100 Employees In India Hit By Latest Global Job Cuts",
-  "snippet": "Ecommerce giant Amazon has reportedly laid off at least 100 employees in India as part of its latest global job…"
+  "publishedAt": "2026-10-09T16:25:00.000Z",
+  "title": "Microsoft’s AI-Powered Windows Strategy: 5 Things To Know",
+  "snippet": "From AI agent security and hybrid intelligence to Nvidia-powered Copilot+ PCs, here are five major takeaways from Microsoft’s Windows event."
  },
  {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/entertainment/blackstones-siddharth-nawal-set-to-take-over-as-ceo-of-nexus-select-trust/134829631",
-  "source": "ETRetail",
+  "id": "Retail Dive::https://www.retaildive.com/news/virtual-try-on-launch-chatgpt/832244/",
+  "source": "Retail Dive",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-09T10:09:20.000Z",
-  "title": "Blackstone’s Siddharth Nawal set to take over as CEO of Nexus Select Trust",
-  "snippet": "Siddharth Nawal will soon replace Dalip Sehgal as CEO of Nexus Select Trust in India. Nawal has worked with Blackstone in retail real estate for about ten years. Nexus Select Trust plans to expand its portfolio by…"
+  "publishedAt": "2026-10-09T16:21:00.000Z",
+  "title": "Virtual try on launches on ChatGPT",
+  "snippet": "Users can take or upload a selfie to generate images and see how clothing and accessories look on them prior to purchase."
  },
  {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76216",
+  "id": "Retail Dive::https://www.retaildive.com/news/shoppers-worried-affording-holidays-icsc/832615/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-09T15:51:00.000Z",
+  "title": "Nearly half of shoppers are worried about affording holiday gifts this year",
+  "snippet": "Concerns about the job market, as well as personal and household debt, are affecting how much consumers plan to spend this season, per an ICSC report."
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76236",
   "source": "InternetRetailing",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-09T09:24:41.000Z",
-  "title": "AI will move at the speed of customer trust, not technology, says E.ON Next",
-  "snippet": "Businesses cannot assume that every customer will adopt AI in the same way or at the same speed, says Tim Lawless, digital AI enablement lead at E.ON Next The post AI will move at the speed of customer trust, not…"
+  "publishedAt": "2026-10-09T15:49:41.000Z",
+  "title": "INTERVIEW: H&M’s Ian Macfarlane on AI shoppers, GEO and the future of search",
+  "snippet": "Ian Macfarlane, acting Global SEO lead at H&M, discusses the rise of the AI-empowered customer, the growing importance of GEO, and why brand trust matters more than ever. The post INTERVIEW: H&M’s Ian Macfarlane on AI…"
  },
  {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/grocery/diageo-india-enters-ready-to-drink-alcohol-market-takes-on-bacardi-in-nascent-segment-with-smirnoff-ice/134828902",
-  "source": "ETRetail",
+  "id": "Retail Dive::https://www.retaildive.com/news/elf-brands-fragrance-athleta-ceo-lululemon-crocs-bark/832592/",
+  "source": "Retail Dive",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-09T09:16:50.000Z",
-  "title": "Diageo India enters ready-to-drink alcohol market, takes on Bacardi in nascent segment with Smirnoff Ice",
-  "snippet": "Diageo India is entering the ready-to-drink alcohol market with its Smirnoff brand and various flavors. The company aims to attract younger legal-age consumers who prefer convenient drinking options. While Bacardi has…"
+  "publishedAt": "2026-10-09T15:42:00.000Z",
+  "title": "The Weekly Closeout: E.l.f. Brands pushes into fragrance and is Athleta’s C-suite shakeup an opportunity?",
+  "snippet": "The beauty brand has launched its first fragrance and body care collection, while the Gap Inc. brand is searching for a new CEO after Maggie Gauger went to Lululemon."
  },
  {
-  "id": "Reuters::CBMiwwFBVV95cUxQbXNQOWFRUDZteDBPSUxaSGYzNGRydUhpVWtGbl95VzN0OHp6NHZrdUdoRmxJNy1kb2pTQjlVNGdEQktjdHRLZHNyUEo2QVdZMzF2dkZ3NjE3ekVXM0lnSWpNUFcyYlZvRndFZnN6UlA5dnZYSW96RVI1X0tCbW5LNnFPTnhuQ3RQY0xybEZuMEJyTmhVVnJJSzJ0QjlZeWlJR0tyNktTZmFjdzJhUkE5T0x1bnNtN3pDVTczQ09NMFdXdXM",
-  "source": "Reuters",
+  "id": "Retail Dive::https://www.retaildive.com/news/bloomingdales-merchant-bluemercury/832597/",
+  "source": "Retail Dive",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-09T09:05:14.000Z",
-  "title": "China Golden Week spending per trip hits four-year low amid overseas travel jump",
-  "snippet": ""
+  "publishedAt": "2026-10-09T15:33:00.000Z",
+  "title": "Bloomingdale’s merchant jumps to Bluemercury",
+  "snippet": "Stacie Borteck Dattner will report to Bluemercury CEO Alexandre Choueiri, the former Kering Beauté executive who arrived in August."
  },
  {
-  "id": "Omdia::CBMiuAFBVV95cUxQcWtQcWxmX1NLbllsQjdmdlc4ZVRQMWNfeEZ4REMwUFpHX2RHTEdSZHFYQ3pvX2xyMlh2ZnRNeFV2ZEhMVlpJVy0yUGtFZE1OQzVoQTBYbzZxdUVEdDlCSHNLd2dnc29oWGVMck5Nb2hIRWVCdkVjNnE2Ry1FWmluaC1xSDRIYmFmY3dxTi1yWFY2aXItTWd1T3FHMWVwdDktcGhNU2l1QWg3UnJrVHFzSGltMDEzMTJD",
-  "source": "Omdia",
+  "id": "Retail Dive::https://www.retaildive.com/news/amazon-prime-big-deal-days-online-spend-nears-ten-billion/832604/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-09T15:08:00.000Z",
+  "title": "Online spend during Amazon’s Prime Big Deal Days neared $10B in the US",
+  "snippet": "The retailer’s two-day event drove sales at multiple stores including Walmart as consumers hunted for bargains and discounts ahead of the holiday rush."
+ },
+ {
+  "id": "Inc42::https://inc42.com/?p=575396",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-09T14:07:52.000Z",
+  "title": "Bewakoof’s FY26 Net Loss Jumps Nearly 20% To ₹87.4 Cr; Revenue Crosses ₹200 Cr Mark",
+  "snippet": "After improving its bottom line performance in the fiscal year FY25, D2C fashion brand Bewakoof reversed the trend and slipped…"
+ },
+ {
+  "id": "Marketplace Pulse::http://www.marketplacepulse.com/articles/what-45-million-products-say-about-tiktok-shop",
+  "source": "Marketplace Pulse",
   "sourceType": "Analyst",
-  "publishedAt": "2026-10-09T08:33:48.000Z",
-  "title": "Omdia: Global PC shipments fall 21% in 3Q26 as pull-forward demand subsides",
-  "snippet": ""
+  "publishedAt": "2026-10-09T13:45:00.000Z",
+  "title": "What 4.5 Million Products Say About TikTok Shop",
+  "snippet": "TikTok Shop doesn’t sell what Amazon sells, and it doesn’t reward what Amazon rewards. That is the conclusion of the Marketplace Pulse TikTok Shop Trends Report 2026, published today, built from tracking more than…"
  },
  {
-  "id": "PYMNTS Data::CBMikwFBVV95cUxQQ0QtcDdadVAzblpUSGROVjNtcnZKMnVyNldJQTBVaDdLYTNtV1psNU16YXpqNWl0UWhhd0w0TVJlWmlsM1N0WVZrd3lqZnpscE9mLVdxZVB5anRkUHc2VW1BSXhkYVBXS242YUduVHVXbDh2SEFlUFBWeUtSSUU2MEpQMEZENHJvT29SMGNPcUFiU1k",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-09T08:03:10.000Z",
-  "title": "New Data Shows Small Businesses Use AI to Grow Without Hiring",
-  "snippet": ""
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/health-and-beauty/plush-targets-nearly-2x-revenue-scales-distribution-and-local-production/134807084",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-09T04:23:01.000Z",
-  "title": "Plush targets nearly 2X revenue, scales distribution and local production",
-  "snippet": "Intimate wellness brand Plush is targeting nearly Rs 180 crore in revenue for the fiscal year. The brand plans to expand its distribution model and increase customer acquisition in multiple cities. Currently, Plush's…"
- },
- {
-  "id": "Dell Blog::https://www.dell.com/blog/post-quantum-ready-or-not-why-your-next-pc-refresh-is-a-cryptography-decision",
-  "source": "Dell Blog",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-10-08T17:00:00.000Z",
-  "title": "Post-Quantum Ready… or Not: Why Your Next PC Refresh Is a Cryptography Decision",
-  "snippet": ""
- },
- {
-  "id": "Dell Blog::https://www.dell.com/blog/from-xps-to-runway-reimagining-mclaren-through-fashion",
-  "source": "Dell Blog",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-10-08T13:00:00.000Z",
-  "title": "From XPS to Runway: Reimagining McLaren Through Fashion",
-  "snippet": ""
- },
- {
-  "id": "Reuters::CBMirgFBVV95cUxOMXBaTUxRTVRaaEh2ajRtZWxDekFLVElmbi1oVEw1eFJyUDg4NG5TNGxTZGw1eUFSTWhTbHVERXU2R2p1YlBFRnZhcUFXSG9vQWhPcVFxN21jdDJaMFRLY0lSU0x0YUtBREl3UXBYaVFXZmNtNmdfVGhkUmt5bnZJOTg3eTBOdjlUdTNaRTlFSGQ5YTdLcjVwWnVkLUREN2dLSkhoaEhlMHQ0U2YwWWc",
+  "id": "Reuters::CBMiwwFBVV95cUxON1hqTEMxUXNhdTUya2dwTlA2VVktRm9QeWlYcDRJWkFiaGg4aXhpcTBFcnJETDJUZDZQRHdIdVBiVFl6UFdNU0VCdFlTRHhaaVk3akVSazBsN3QwOXBSUHFjckM4TWc4LUtIdzNyc2kyM0RjclFNOG1QYkplX3ljOHBFR1NibFRwUS1QMHAyd3ZhZjZTZGtoMmVjbGsyUWdaQ01FV21jSFFiM1FrQ0U4eHRYOTRUZlRTeTRlRFJVOFh4RVk",
   "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-08T01:16:00.000Z",
-  "title": "Amazon makes fresh job cuts, mainly in retail division",
+  "publishedAt": "2026-10-09T03:28:00.000Z",
+  "title": "China to resume October fuel exports after holiday pause, sources say",
   "snippet": ""
  },
  {
-  "id": "Dell Blog::https://www.dell.com/blog/dell-xps-16-creator-edition-where-nvidia-rtx-spark-meets-premium-design",
-  "source": "Dell Blog",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-10-07T18:00:00.000Z",
-  "title": "Dell XPS 16 Creator Edition: Where NVIDIA RTX Spark™ Meets Premium Design",
+  "id": "PYMNTS Data::CBMikwFBVV95cUxPR2tsYVFzWEQ0SHZackdkZDUyb2tyUmpFUjV5WXZRekhwNDcwZlpUeU5faGRaV3czNkJBSWkyS0s0aWpkdDd3Y01Da252Nk52NWM4WGhXSDFpWVlvUldTRnBRd09IZl9RdmdZM0UyWGM2a2VwbGN1Rlk1SW5mLXlNXzFmN3B6dkVlck5pdVpNYUVOTXM",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-09T02:11:35.000Z",
+  "title": "Apple Readies Launch of First Touchscreen MacBook",
   "snippet": ""
  },
  {
-  "id": "Reuters::CBMiyAFBVV95cUxOczZOOTk2b2wyX3RjWldGakx6UmE4SXlieHVKMGdnSWQyQzUycEZ5eFo1bWptaWdTc3V5M2gzUXItMG9wRUhwZTgwWXVhdE1UX0Z4ZUtwLWYtMlM3eHI0VF9ScVVhRmFpUmFOeS12bDlobG9KbERpSkpGX3YwcFhfeVZqYk05N3VVSzZwaG1idWtBSFBNcU1udVlFMVhzOVY1VXlReDUzZHZCZThXcmVnMzdRbjA0cTUtc1prb2x1UTF4TkZRVTNTeQ",
-  "source": "Reuters",
+  "id": "Retail TouchPoints::CBMiY0FVX3lxTE9FbnM3MF8xTkR2emdaU3p5VjNnM0FQbjhWWHRWUkp1NmsyMi1VV1FEOHQ0LWhGRDdOaWt6RWVxNkRkQjRwVm1tcW9QNGIxVGIzX0dpWHJpMTRaUERmVi05R2JySQ",
+  "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-07T15:13:43.000Z",
-  "title": "Crypto donors navigate mid-term spending dilemma after Senate bill defeat",
-  "snippet": ""
- },
- {
-  "id": "Dell Blog::https://www.dell.com/blog/new-dell-pro-rugged-laptops-built-for-the-field",
-  "source": "Dell Blog",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-10-06T14:00:00.000Z",
-  "title": "New Dell Pro Rugged Laptops Built for the Field",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMi6gFBVV95cUxQUDc2MklFQlhMTzVWZ1V6X2pXc1lOZmR2WkFmNnJrX1hvcXpTRkM3WUpPdENDWk1YNXZFYkFKTy1JOTdrVWdXZ0V0UjBOZXB1RjhDSHdrdDRGRXBydlhVX0tjQ1hDeVo0MDFrN3RrUTc4OEdnbW1KdlhVbUxJc0RhLTRiX0YyWVdEMUkzUktKQUdVVjhaeXZpS1NzNE03dnUwa21FMHBpZjlYMWJhU3hTRDdDV25RX0V3LTluYWJMSEFFMnNFTWhaOE5kWjREM0hkWkZYLXhSNDIzajI5MDBLc2tzRjNRU0gwLVE",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-05T07:29:00.000Z",
-  "title": "Smart Carts With Embedded Payments Put Consumers in Control of Checkout",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMimwFBVV95cUxQTlZHR2loQk9LSmcxR1RaYktjdzl0bzViRjNITUN5YlI4djJCUjVKenRiamJjc3UtZkVCay1wdnZrVGdOY210VG9SeF9hTFktQzlybzlNX0k4TS1GaGFMUEsyaEI4TGNxMkZPcWdXUnpVNGpVUE9ydS1tWjNmdlM0UERtUm5qU1pzWXFmRHRvdHh3ZFZqcWVZRnVfQQ",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-09-30T07:00:00.000Z",
-  "title": "Connected Cars Could Steer the Next Shopping Decision",
+  "publishedAt": "2026-10-08T07:00:00.000Z",
+  "title": "Latest In: data readiness",
   "snippet": ""
  }
 ]
