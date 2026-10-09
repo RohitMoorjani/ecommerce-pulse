@@ -1,31 +1,30 @@
 {
- "updatedAt": "2026-10-09T00:50:53.930Z",
- "title": "Shopping starts with AI, and our store must be ready for it",
- "summary": "55% of consumers use AI in product discovery (NIQ); 34% of US shoppers would use GenAI for gifts (Gartner). HP launched an agentic web platform; TikTok and Gap added AI shopping. Prime Big Deal Days drove $9.86B online (Adobe).",
+ "updatedAt": "2026-10-09T06:51:14.749Z",
+ "title": "Shopping starts with AI agents, so our store must be agent-ready",
+ "summary": "55% of consumers use AI in product discovery (NIQ); 34% of US shoppers would use GenAI for gift ideas (Gartner). HP launched Experience AI; TikTok, Gap and Walmart added AI shopping. Memory costs pressure PC prices.",
  "points": [
   {
-   "headline": "AI is now where shoppers begin, so our content must be readable by it",
-   "detail": "NIQ: 55% use AI in discovery; Gartner: 34% would use GenAI for gifts. Anti-bot defenses block shopping agents (TechCrunch). Check our product data and agent access.",
-   "segment": "trends",
-   "storyIds": [
-    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
-    "Gartner::CBMilAJBVV95cUxPdEI3MmZCa2FBWVVoSC1ZNGh2OUhLSnhPRUl1eWgtMHd2T2dNVXRnRUhJUVh1WVhYMWl1Mm5RLXZzZzBPdzBQalVXYzlLNmlwLXhzSE8zU0RCcHpjTHhQSWxZazNrcUZraEl0Z1VnYlBULW1TOUI4eWVRYlZiNlFkSVJyT3FleGJHOFNnTU5jY0JEZVhaN1RkU2NhZC1UVjVoQTZjLTk2ckVmVktrdnQyeUZmRl8yeG8zZkQ1N3dCSFhmMjJNRXBPdGdYRW9lVlRpRzVndUN0ZjFGeF9xVF9sc1IyVm1ZY1o5b21jNE9mX0ZqNzY2UVYyY211aXg0eGFpelZGUGZ6ajQwRU9GX3FyNElCYUM",
-    "TechCrunch::https://techcrunch.com/?p=3174440"
-   ]
-  },
-  {
-   "headline": "Competitors and platforms are rebuilding storefronts around AI agents",
-   "detail": "HP launched Experience AI, a web platform adapting to intent; TikTok added an AI shopping agent with one-click checkout; Gap added natural-language search. Benchmark our discovery.",
+   "headline": "AI is now a mainstream path to purchase, and rivals are building for it",
+   "detail": "NIQ: 55% use AI in discovery; HP launched Experience AI; TikTok and Gap added AI shopping. We should benchmark our search, content and checkout against these.",
    "segment": "agentic",
    "storyIds": [
+    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
     "HP Newsroom::CBMikAFBVV95cUxNMXhUTEZwVDZaMWlfNXFoM1BoN1ZzQzVHTGo0NjlUZjlWUm9mbXpxY1plbmxCZEpjbDA4eXdXWVJ0NWpNM1ZyNHZ4bnlVYlVRR2M3bDlfVS1TUE93OHJaYTZubHlUMGQwaE1NS3Q5VU41Z1FIOXZHZ0hGUzJlRFI0bzRMVnhid2Fyc1QzWmoteUw",
     "Retail Dive::https://www.retaildive.com/news/tiktok-ai-powered-discovery-one-click-checkout/832326/",
     "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363322"
    ]
   },
   {
-   "headline": "Memory costs squeeze AI PC pricing while premium tiers arrive",
-   "detail": "Suppliers favour server DRAM (DigiTimes); memory costs threaten shipments; Microsoft prices Surface Laptop Ultra at $2,599. Plan pricing and stock messaging on our store.",
+   "headline": "Anti-bot defenses block shopping agents, a risk for our store",
+   "detail": "TechCrunch reports bot defenses are blocking personal AI shopping agents. We should check that legitimate agents can reach and buy from our store.",
+   "segment": "agentic",
+   "storyIds": [
+    "TechCrunch::https://techcrunch.com/?p=3174440"
+   ]
+  },
+  {
+   "headline": "Memory costs and premium AI laptops reshape PC pricing",
+   "detail": "Suppliers prioritize server DRAM, threatening PC shipments, while Surface Laptop Ultra is priced at $2,599. We need to plan pricing and stock messaging for AI tiers.",
    "segment": "pc",
    "storyIds": [
     "DigiTimes::https://www.digitimes.com/news/a20261008VL216/microsoft-demand-dram-pc-revenue.html",
@@ -34,12 +33,11 @@
    ]
   },
   {
-   "headline": "Holiday demand is strong but selective, and Amazon sets the pace",
-   "detail": "Prime Big Deal Days hit $9.86B (Adobe); Adobe forecasts $275.1B holiday online sales; Amazon India sees a 35-40% festive spike. Prepare promotions and stock on marketplaces.",
+   "headline": "Amazon pushes into tablets and festive demand while delivery bar rises",
+   "detail": "Amazon launched Alexa-enabled Android tablets and expects 35-40% festive demand growth in India. We should watch its own-tablet ranking and our delivery promises.",
    "segment": "marketplaces",
    "storyIds": [
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363383",
-    "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c",
+    "Reuters::CBMizgFBVV95cUxOUE1oUFB5RzAyOTdPMGZlUEphcVlqMk01cnBHQzBTM0swSmFUMWNHVWhXdjgtczZqVndDVXF1YjZ2anlhRmdCVzBIRzJfQkRQUFBtUFdKOXlUdDJHQ09tT0toWUozR2N4dXNUMDB6R1NRWjZqUWdiZkdwdjd6dEN2REVmelczUjAxTWptM1NMZTUyd3dScVFGa2lnaXhmMnI0S3FIdW5YWTdDTWp2YkhRNlY3eEFjelhGajRSNGg1bXN1UFdkSjI5VUk5dDdvZw",
     "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/amazon-sees-35-40-pc-festive-demand-spike-adds-50-pc-capacity-with-rs-2800-crore-investment/134777774"
    ]
   }

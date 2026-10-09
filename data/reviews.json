@@ -1294,5 +1294,84 @@
  "McKinsey::CBMijgFBVV95cUxPZWQ3NW12Z3NrLTZERmx3ZG1LbVRfLXNjcGkzV0RnNVFPMG9pNmcyUGZRWFFIWmdNRlZoWTc0RnRnOW1qQ2VLYUhHbTF3Q0JOUy12RzM2TUNnTXhZSnozVkdFSUUtOUJSYlFnTkY0ZWl0YVZRazcyNEpyMGtmeDdFbWZhdFhYc1hySXdnaEtR": {
   "keep": false,
   "publishedAt": "2026-09-10T07:00:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=172820": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Brands test ChatGPT ads but expect little holiday budget to shift from Google or Meta",
+  "short_headline": "Brands test ChatGPT ads, shift little budget",
+  "takeaway": "High costs and weak sales mean we should test ChatGPT ads small and keep holiday spend on proven channels.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-09T04:00:00.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/google-study-finds-9-in-10-festive-shoppers-research-extensively-70-per-cent-make-impulse-purchases/134805406": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Google: 9 in 10 festive shoppers research extensively, 70% buy on impulse",
+  "short_headline": "9 in 10 festive shoppers research extensively",
+  "takeaway": "Search and YouTube remain key research steps after social discovery, so our store needs strong visibility there.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-09T03:29:42.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/health-and-beauty/fssai-issues-notices-to-dr-reddys-nestle-health-science-amazon-flipkart-over-misleading-protein-claims/134805197": {
+  "keep": false,
+  "publishedAt": "2026-10-09T03:18:16.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261008PD231/samsung-hbm-production-data-data-center.html": {
+  "keep": false,
+  "publishedAt": "2026-10-09T01:46:25.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261007PD247/revenue-demand-2026-sales-shipments.html": {
+  "keep": false,
+  "publishedAt": "2026-10-09T01:39:27.000Z"
+ },
+ "CRN::https://www.crn.com/news/ai/2026/microsoft-touts-hybrid-intelligence-agent-security-push-and-new-ai-pcs": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Microsoft pushes AI Windows strategy with new Nvidia-powered Copilot+ PCs",
+  "short_headline": "Microsoft adds Nvidia-powered Copilot+ PCs",
+  "takeaway": "New Nvidia-based Copilot+ PCs could shape AI PC messaging and range planning for us.",
+  "importance": 2,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-10-08T23:05:00.000Z"
+ },
+ "PYMNTS Data::CBMiqAFBVV95cUxPSy1pOWFqSFFPa3Iza19VUXZXT0hHY0xXcHdyTVdvaTNsSGxYZ0hzNkhXMUpqYmFQcGpxYld6cF8xNkpsXzlUcU5mLXlUZWFVREJoUThYeU5tNDFkMkJud2xSREJsR2l2Ri1xX0VibjN2bUozemw5eUxPcEJsMF9xeGhXZWpidmRfcEpDU3VfVEx5NzhnTlM1YW40dlRKTXdGX0tXUTlhMVI": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Amazon unveils line of tablets powered by Alexa+",
+  "short_headline": "Amazon launches Alexa+ tablet line",
+  "takeaway": "Alexa+ on Amazon tablets could pull shopping discovery into a new device category that competes with our tablets.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-10-08T18:41:37.000Z"
+ },
+ "IDC::CBMid0FVX3lxTE9fSEZQR3RqemF4bkw2MVFzbk8zVDlRdDBZVUVYaGNLQWNPT1JZaWhXbW9hQWVXRmx4Y3IwTXZoSjE0d01pSzdLay1OcC1PYmZqeTA1U0RqM1NLTUozT05FQ1pFOWlFQmxHMUhBeS1MY1JMUkN4ZzVz": {
+  "keep": false,
+  "publishedAt": "2026-10-08T18:39:35.000Z"
+ },
+ "IDC::CBMidEFVX3lxTE5yeGNwajUyWDB5UVlmSEhhMm5JVEU1T2g1bllPWlRuR2lEYXhkSkNsV3FmeDJtdnY0ZGdIRGMyRzYxWnUyWkhLMXVzOUpMOWdPbEtjejMzbWtad0dLb3oyZUFkTUt5aUNpaWlFcEdYMk05SjNY": {
+  "keep": false,
+  "publishedAt": "2026-10-08T08:39:39.000Z"
+ },
+ "Global Marketplaces::CBMiywFBVV95cUxQcGpPcWtGSUU1NVZlY1p6bnBmNnhqQ3owekVzTGpsMWxvSkM5c0trLVFVZUtySS1TcVRZZGFuWUpSR0JTaUgyWE5HNzJjbUNvd1Bma2RURkdMUFliaUw1Q3BPbHlMTm9aR05uUV9aZV9TV1k4T1Y3OW80Q0cteDFpM0Z0aVJwbFF6YUF1RExIdUlPRWtRb1YtQk1lWXIyZnBLT0lnSTRMTm1NejdSOEpTcGtCYy1HZWk2a3dMS0tka2FkdmE5b3Q4STcxSQ": {
+  "keep": false,
+  "publishedAt": "2026-10-07T22:10:19.000Z"
+ },
+ "PYMNTS Data::CBMiogFBVV95cUxQVDRBdlRZbFRHR1ZlMUdfOHBBNGZ4NFJUenZhVkZGdlctZGg0ZmxLUkJiZ1NxRmFKUlFnN1dUS2hqOHVYUEhKc0Z6UGJvUmgwcU9qNXg2U3E1Q2xhUFllOHIzRmRTUGhaZ0ZRVlU5UUUyVjVyOEl3Wkp6VHJ1N2xIVUFtM2luUXF0akxXVFNHRUx5WFY1NmFVTU1sb2k3SS1mTXc": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Amazon lets merchants add free Prime delivery to their own websites",
+  "short_headline": "Amazon offers free Prime delivery on merchant sites",
+  "takeaway": "Prime delivery on brand sites could raise shopper delivery expectations for our own store.",
+  "importance": 4,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-09-24T19:05:55.000Z"
  }
 }
