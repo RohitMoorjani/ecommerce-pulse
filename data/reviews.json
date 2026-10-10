@@ -1572,5 +1572,40 @@
  "Retail TouchPoints::CBMiY0FVX3lxTE9FbnM3MF8xTkR2emdaU3p5VjNnM0FQbjhWWHRWUkp1NmsyMi1VV1FEOHQ0LWhGRDdOaWt6RWVxNkRkQjRwVm1tcW9QNGIxVGIzX0dpWHJpMTRaUERmVi05R2JySQ": {
   "keep": false,
   "publishedAt": "2026-10-08T07:00:00.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363427": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Walmart opens fifth automated fulfillment center, 900,000 sq ft, in Stockton, California",
+  "short_headline": "Walmart opens automated Stockton fulfillment center",
+  "takeaway": "Walmart is adding storage and fulfillment capacity, which may help it make faster delivery promises on electronics that compete with our store.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-09T22:42:17.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363424": {
+  "keep": false,
+  "publishedAt": "2026-10-09T21:15:15.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363415": {
+  "keep": false,
+  "publishedAt": "2026-10-09T20:38:21.000Z"
+ },
+ "Circana::CBMigAFBVV95cUxPT2Y0cElJZDZEcVlqQTBFd3NUcjhFSERVcEEwdlFiSVFQREcwV3hpMWstVFNleUJRNXJJLVFWdFJCMi1YQ0xUVzJYUkZhZ3dHOGF6UDMzWXdLOVRiY1ZiNUxoM1pUemZYWUYzcXdVSlVCVll1MExPZHAzNkhzNF9WYQ": {
+  "keep": false,
+  "publishedAt": "2026-10-09T19:04:28.000Z"
+ },
+ "IDC::CBMigAFBVV95cUxNOHA5eWk4OTBaUmVXSWlmOHF6RGV5WGNYYUhRb2IxWlk2bXFKbU9XeUlqMGhoQTdyMmRldExhU09PMzZ0eGpCcjhxc0xOcWhFeXdwdUZGQjJzY3Via3gzOTExcWlrUk9hbmNUeVVJS0ZDcExUbC13NEtGNklqV2Etbg": {
+  "keep": false,
+  "publishedAt": "2026-10-08T03:35:40.000Z"
+ },
+ "Reuters::CBMivwFBVV95cUxNSmlfdHVPODBnTWJnYUs2UWZ6QjU2aHRvSHRJaFFyU1dxTnFNWmdiZTQtSmZ6NXJKSm5yWmxCRjZkTXM5a2EwNDAyR1FHT0ZWMU1DdjRHMkZmekNaQ1FETFJpd3ZGb2d2YmtXZE5sR0VjNFVGZkRCWkpnTjNsRWNlbmltVjFGZldBUmJWQXhmNzFkSXhXdUVadE12RTZ2M2R4NjNGZHl6MjhFTkdZOGpMRU81aHhRSjd6c0VobWZtQQ": {
+  "keep": false,
+  "publishedAt": "2026-10-06T13:18:37.000Z"
+ },
+ "PYMNTS Data::CBMi5gFBVV95cUxQV09yN2lwRHNqT0tzR1FheklhNkt5U0dBdDY4Wm5qV2VlVGU0U1J6c2xucnNNNTRYZWtCOTQwRVhYU1hqZ01XLTBzYWNTRGplODhLbXp1d0hiTVR3M0RlYS01cHlLT0pUNENBcXM3cjlzcjdGT21ibC1RZks2UnBLUllrdDNuNlVqOWZRNWFLSVI5TXhuWlFQeUlmUnVCSlBMcFI2NmF1ejRuVGUzZFl0MmRkQVpoQ1c1TE1aSFpaYjROMzREanZUYS1hT2p3bno2UlRXZTExUTRpT2FRR1lpS0syam9pQQ": {
+  "keep": false,
+  "publishedAt": "2026-10-02T19:23:10.000Z"
  }
 }
