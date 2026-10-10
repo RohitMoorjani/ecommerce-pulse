@@ -1607,5 +1607,55 @@
  "PYMNTS Data::CBMi5gFBVV95cUxQV09yN2lwRHNqT0tzR1FheklhNkt5U0dBdDY4Wm5qV2VlVGU0U1J6c2xucnNNNTRYZWtCOTQwRVhYU1hqZ01XLTBzYWNTRGplODhLbXp1d0hiTVR3M0RlYS01cHlLT0pUNENBcXM3cjlzcjdGT21ibC1RZks2UnBLUllrdDNuNlVqOWZRNWFLSVI5TXhuWlFQeUlmUnVCSlBMcFI2NmF1ejRuVGUzZFl0MmRkQVpoQ1c1TE1aSFpaYjROMzREanZUYS1hT2p3bno2UlRXZTExUTRpT2FRR1lpS0syam9pQQ": {
   "keep": false,
   "publishedAt": "2026-10-02T19:23:10.000Z"
+ },
+ "Retail TouchPoints::CBMixgFBVV95cUxNRUt5WWV2YVFjZU5OT3FleHRNUFl3bjBJbVpjTm03cVlRQXYwUElTam9UNjFfZFUzQU5qbjdFa2tfRlRqS1NvSlNfMlVLcFVRRzBMOTgxemZHNWJVMXo5dk0teWRsZEVnWFV2ZnhNUFAyX2x4ZHpXRDJMNW9RdnU0Rm1ZeEZoRl85SWkyNnNleEo2Z205NFR5Tlc0UWxTS0tZZHJYRDhvOWJlcEtsOU5INnVMT3Z5WWxacV9iRE9RRjNSUS1WbEE": {
+  "keep": false,
+  "publishedAt": "2026-10-10T08:35:13.000Z"
+ },
+ "IDC::CBMigAFBVV95cUxOOGNLX3AwM3d0Z2gzbWgtQzc5ZS16RlI5RFdTN3J3dlBCaXZXMnNKVVY3SnVtNm81bzNVamQ0VkxZY2Y1Yll0ajV0QTYxUFowVnRaRUVlQlJjSjJXU3YwOG9CU0pBcmRpVmlfZll1b0FCMVZ1bUpueXVUVXotaGwwMg": {
+  "keep": false,
+  "publishedAt": "2026-10-10T06:45:21.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261008PD250/phison-revenue-demand-data-medical.html": {
+  "keep": false,
+  "publishedAt": "2026-10-10T06:30:11.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261008VL215/hardware-ai-pc-pc-market-windows.html?chid=10": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "PC vendors add unified memory as larger open-weight AI models move to local inference",
+  "short_headline": "PC makers add memory for local AI models",
+  "takeaway": "Memory capacity is becoming the AI PC selling point; we should make RAM and local-AI capability clear in our store listings and comparisons.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-10T06:27:32.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261008VL225/sk-hynix-testing-dram-ufs-launch.html": {
+  "keep": false,
+  "publishedAt": "2026-10-10T06:26:32.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173035": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Fall Prime Big Deals Days pulls holiday shopping into October as sellers prep for Black Friday",
+  "short_headline": "Prime fall deals pull holiday shopping earlier",
+  "takeaway": "Shoppers are comparing prices earlier, so we should plan our holiday promotions to match Amazon’s event timing and keep our prices competitive.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-10T04:00:00.000Z"
+ },
+ "IDC::CBMiYkFVX3lxTE4zamtncl8wTklLcFhRblZXSHVkOGtoSUJxQkpRLWJOYjl0dG96SHFDOVdiY1QwYkZKbEZ3QTJOai1mdGNLMjhIOVpBUVpaVTBQcERDUmFwSll5S3dlelZLVlBB": {
+  "keep": false,
+  "publishedAt": "2026-10-10T01:38:22.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/consumer-electronics/too-pricey-to-sell-apple-cuts-iphone-18-pro-orders-by-20-per-cent-duo-faces-similar-risk/134823504": {
+  "keep": false,
+  "publishedAt": "2026-10-09T08:08:29.000Z"
+ },
+ "NIQ::CBMi0wFBVV95cUxQWGtGREo2NVdNQVFBVU9Nd3UyempKZFItcGtsV2I4TVA4RWx1VUZOZWxLTWg4TnNsQ1hzaDVJT3ZtbVFtVGljd1Jnd1dncDhOWHAzWk1SdlRUbURtTklpZm9iRzFral9xaHJkOWpKYTNSMnhmRk9qRmQxVEFzTXZjZGpPc2lJcF9rLUJ3c2tqb0prb3FpWjBRSzhocUR6eW1NNU10b05lVTJCOFFfSy11RjVqZTltckJuNkxOcjEtWHZGSGJFSHRyNVpFVE1FdDNCVE1Z": {
+  "keep": false,
+  "publishedAt": "2026-09-28T07:00:00.000Z"
  }
 }
