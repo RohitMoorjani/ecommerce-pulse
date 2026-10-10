@@ -1,58 +1,74 @@
 [
  {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363427",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-10-09T22:42:17.000Z",
-  "title": "Walmart opens automation-infused fulfillment center in California",
-  "snippet": "Walmart announced the opening of its fifth next-generation fulfillment center in Stockton, California. The facility, spread across 900,000 square feet, will increase Walmart’s storage capacity and allow it to fulfill…"
- },
- {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363424",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-10-09T21:15:15.000Z",
-  "title": "Ethereum Price USD: Consumer Safeguards Could Matter",
-  "snippet": "Sponsor content is created on behalf of and in collaboration with Bazoom by DigitalCommerce360. Our editorial staff is not involved in the creation of the sponsored content. Why Consumer Safeguards May Shape Ethereum…"
- },
- {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363415",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-10-09T20:38:21.000Z",
-  "title": "TD Synnex to acquire specialty distributor BlueStar",
-  "snippet": "TD Synnex, one of the world’s largest technology distributors, announced that it signed a definitive agreement to acquire Clearwater, Florida-based BlueStar. BlueStar is a specialty distributor of barcode scanners…"
- },
- {
-  "id": "Circana::CBMigAFBVV95cUxPT2Y0cElJZDZEcVlqQTBFd3NUcjhFSERVcEEwdlFiSVFQREcwV3hpMWstVFNleUJRNXJJLVFWdFJCMi1YQ0xUVzJYUkZhZ3dHOGF6UDMzWXdLOVRiY1ZiNUxoM1pUemZYWUYzcXdVSlVCVll1MExPZHAzNkhzNF9WYQ",
-  "source": "Circana",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-09T19:04:28.000Z",
-  "title": "A leading personal care brand boosts sales by optimizing holiday inventory | Circana Case Study",
+  "id": "Retail TouchPoints::CBMixgFBVV95cUxNRUt5WWV2YVFjZU5OT3FleHRNUFl3bjBJbVpjTm03cVlRQXYwUElTam9UNjFfZFUzQU5qbjdFa2tfRlRqS1NvSlNfMlVLcFVRRzBMOTgxemZHNWJVMXo5dk0teWRsZEVnWFV2ZnhNUFAyX2x4ZHpXRDJMNW9RdnU0Rm1ZeEZoRl85SWkyNnNleEo2Z205NFR5Tlc0UWxTS0tZZHJYRDhvOWJlcEtsOU5INnVMT3Z5WWxacV9iRE9RRjNSUS1WbEE",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-10T08:35:13.000Z",
+  "title": "Retail News & Insights",
   "snippet": ""
  },
  {
-  "id": "IDC::CBMigAFBVV95cUxNOHA5eWk4OTBaUmVXSWlmOHF6RGV5WGNYYUhRb2IxWlk2bXFKbU9XeUlqMGhoQTdyMmRldExhU09PMzZ0eGpCcjhxc0xOcWhFeXdwdUZGQjJzY3Via3gzOTExcWlrUk9hbmNUeVVJS0ZDcExUbC13NEtGNklqV2Etbg",
+  "id": "IDC::CBMigAFBVV95cUxOOGNLX3AwM3d0Z2gzbWgtQzc5ZS16RlI5RFdTN3J3dlBCaXZXMnNKVVY3SnVtNm81bzNVamQ0VkxZY2Y1Yll0ajV0QTYxUFowVnRaRUVlQlJjSjJXU3YwOG9CU0pBcmRpVmlfZll1b0FCMVZ1bUpueXVUVXotaGwwMg",
   "source": "IDC",
   "sourceType": "Analyst",
-  "publishedAt": "2026-10-08T03:35:40.000Z",
-  "title": "Worldwide Technology Buyer and Spending Outlook, September 2026: Banners",
+  "publishedAt": "2026-10-10T06:45:21.000Z",
+  "title": "Industry Market Forecast: Worldwide Agriculture and Fishing, 2026 — Digital Transformation Spending Guide",
   "snippet": ""
  },
  {
-  "id": "Reuters::CBMivwFBVV95cUxNSmlfdHVPODBnTWJnYUs2UWZ6QjU2aHRvSHRJaFFyU1dxTnFNWmdiZTQtSmZ6NXJKSm5yWmxCRjZkTXM5a2EwNDAyR1FHT0ZWMU1DdjRHMkZmekNaQ1FETFJpd3ZGb2d2YmtXZE5sR0VjNFVGZkRCWkpnTjNsRWNlbmltVjFGZldBUmJWQXhmNzFkSXhXdUVadE12RTZ2M2R4NjNGZHl6MjhFTkdZOGpMRU81aHhRSjd6c0VobWZtQQ",
-  "source": "Reuters",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261008PD250/phison-revenue-demand-data-medical.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-10T06:30:11.000Z",
+  "title": "Phison posts record September revenue as AI tops half of sales",
+  "snippet": "Phison Electronics reported record September consolidated revenue of NT$30.639 billion (US$959 million), up 8% from August and 370% from a year earlier. The Taiwanese storage chipmaker said AI-related applications…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261008VL215/hardware-ai-pc-pc-market-windows.html?chid=10",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-10T06:27:32.000Z",
+  "title": "Unified memory lifts AI PC ambitions as Chinese open models gain local-inference ground",
+  "snippet": "The hardware boundary separating cloud-scale AI from local inference is becoming increasingly porous as PC vendors expand memory capacity and software platforms make larger open-weight models easier to run directly on…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261008VL225/sk-hynix-testing-dram-ufs-launch.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-10T06:26:32.000Z",
+  "title": "SK Hynix sends memory chips into orbit for testing",
+  "snippet": "SK Hynix's dynamic random-access memory (DRAM) and Universal Flash Storage (UFS) products have reached orbit aboard a South Korean satellite that successfully established communication with the ground following the…"
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=173035",
+  "source": "Modern Retail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-06T13:18:37.000Z",
-  "title": "Le Pen eyes bond markets with promise of bigger spending cuts if far right wins presidency",
+  "publishedAt": "2026-10-10T04:00:00.000Z",
+  "title": "How brands can capitalize on post-Fall Prime Day momentum",
+  "snippet": "This fall's Prime Big Deals Days is pushing holiday shopping into October as shoppers compare prices earlier and sellers prep for Black Friday."
+ },
+ {
+  "id": "IDC::CBMiYkFVX3lxTE4zamtncl8wTklLcFhRblZXSHVkOGtoSUJxQkpRLWJOYjl0dG96SHFDOVdiY1QwYkZKbEZ3QTJOai1mdGNLMjhIOVpBUVpaVTBQcERDUmFwSll5S3dlelZLVlBB",
+  "source": "IDC",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-10T01:38:22.000Z",
+  "title": "IDC Survey Spotlight: How Is 5G Changing What Consumers Do on Their Mobile Devices?",
   "snippet": ""
  },
  {
-  "id": "PYMNTS Data::CBMi5gFBVV95cUxQV09yN2lwRHNqT0tzR1FheklhNkt5U0dBdDY4Wm5qV2VlVGU0U1J6c2xucnNNNTRYZWtCOTQwRVhYU1hqZ01XLTBzYWNTRGplODhLbXp1d0hiTVR3M0RlYS01cHlLT0pUNENBcXM3cjlzcjdGT21ibC1RZks2UnBLUllrdDNuNlVqOWZRNWFLSVI5TXhuWlFQeUlmUnVCSlBMcFI2NmF1ejRuVGUzZFl0MmRkQVpoQ1c1TE1aSFpaYjROMzREanZUYS1hT2p3bno2UlRXZTExUTRpT2FRR1lpS0syam9pQQ",
-  "source": "PYMNTS Data",
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/consumer-electronics/too-pricey-to-sell-apple-cuts-iphone-18-pro-orders-by-20-per-cent-duo-faces-similar-risk/134823504",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-09T08:08:29.000Z",
+  "title": "Too pricey to sell? Apple cuts iPhone 18 Pro orders by 20 per cent, Duo faces similar risk",
+  "snippet": "Apple has reduced component orders for iPhone 18 Pro and iPhone 18 Pro Max by 15%. This reduction is a response to weaker-than-expected demand for these premium models. Concerns about the upcoming iPhone Duo's reception…"
+ },
+ {
+  "id": "NIQ::CBMi0wFBVV95cUxQWGtGREo2NVdNQVFBVU9Nd3UyempKZFItcGtsV2I4TVA4RWx1VUZOZWxLTWg4TnNsQ1hzaDVJT3ZtbVFtVGljd1Jnd1dncDhOWHAzWk1SdlRUbURtTklpZm9iRzFral9xaHJkOWpKYTNSMnhmRk9qRmQxVEFzTXZjZGpPc2lJcF9rLUJ3c2tqb0prb3FpWjBRSzhocUR6eW1NNU10b05lVTJCOFFfSy11RjVqZTltckJuNkxOcjEtWHZGSGJFSHRyNVpFVE1FdDNCVE1Z",
+  "source": "NIQ",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-02T19:23:10.000Z",
-  "title": "Careful Consumers Want Control. SoFi Tech Solutions Says Banks Should Hand It Over - Need to Know",
+  "publishedAt": "2026-09-28T07:00:00.000Z",
+  "title": "NIQ Expands Health & Beauty Measurement to Capture $56 Billion in Amazon Marketplace Sales",
   "snippet": ""
  }
 ]
