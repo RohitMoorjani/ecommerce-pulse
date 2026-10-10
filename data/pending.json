@@ -1,114 +1,58 @@
 [
  {
-  "id": "Modern Retail::https://www.modernretail.co/?p=173055",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-09T19:30:33.000Z",
-  "title": "How Amazon Fall Prime Day went for sellers",
-  "snippet": "Amazon’s fall Prime Big Deals Days helped kick off early holiday sales as shoppers chased discounts and bundles and stocked up on essentials. Here's how the event went, based on data and anecdotes from brands."
- },
- {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363388",
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363427",
   "source": "Digital Commerce 360",
   "sourceType": "Analyst",
-  "publishedAt": "2026-10-09T17:33:22.000Z",
-  "title": "Levi’s reports 10% ecommerce growth, eyes stronger holiday sales",
-  "snippet": "Levi Strauss & Co. reported a 10% increase in ecommerce revenue in its fiscal third quarter, outpacing growth across its broader direct-to-consumer (DTC) business. DTC revenue, which includes sales through the company’s…"
+  "publishedAt": "2026-10-09T22:42:17.000Z",
+  "title": "Walmart opens automation-infused fulfillment center in California",
+  "snippet": "Walmart announced the opening of its fifth next-generation fulfillment center in Stockton, California. The facility, spread across 900,000 square feet, will increase Walmart’s storage capacity and allow it to fulfill…"
  },
  {
-  "id": "CRN::https://www.crn.com/news/ai/2026/microsoft-s-ai-powered-windows-strategy-5-things-to-know",
-  "source": "CRN",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-09T16:25:00.000Z",
-  "title": "Microsoft’s AI-Powered Windows Strategy: 5 Things To Know",
-  "snippet": "From AI agent security and hybrid intelligence to Nvidia-powered Copilot+ PCs, here are five major takeaways from Microsoft’s Windows event."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/virtual-try-on-launch-chatgpt/832244/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-09T16:21:00.000Z",
-  "title": "Virtual try on launches on ChatGPT",
-  "snippet": "Users can take or upload a selfie to generate images and see how clothing and accessories look on them prior to purchase."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/shoppers-worried-affording-holidays-icsc/832615/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-09T15:51:00.000Z",
-  "title": "Nearly half of shoppers are worried about affording holiday gifts this year",
-  "snippet": "Concerns about the job market, as well as personal and household debt, are affecting how much consumers plan to spend this season, per an ICSC report."
- },
- {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76236",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-09T15:49:41.000Z",
-  "title": "INTERVIEW: H&M’s Ian Macfarlane on AI shoppers, GEO and the future of search",
-  "snippet": "Ian Macfarlane, acting Global SEO lead at H&M, discusses the rise of the AI-empowered customer, the growing importance of GEO, and why brand trust matters more than ever. The post INTERVIEW: H&M’s Ian Macfarlane on AI…"
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/elf-brands-fragrance-athleta-ceo-lululemon-crocs-bark/832592/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-09T15:42:00.000Z",
-  "title": "The Weekly Closeout: E.l.f. Brands pushes into fragrance and is Athleta’s C-suite shakeup an opportunity?",
-  "snippet": "The beauty brand has launched its first fragrance and body care collection, while the Gap Inc. brand is searching for a new CEO after Maggie Gauger went to Lululemon."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/bloomingdales-merchant-bluemercury/832597/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-09T15:33:00.000Z",
-  "title": "Bloomingdale’s merchant jumps to Bluemercury",
-  "snippet": "Stacie Borteck Dattner will report to Bluemercury CEO Alexandre Choueiri, the former Kering Beauté executive who arrived in August."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/amazon-prime-big-deal-days-online-spend-nears-ten-billion/832604/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-09T15:08:00.000Z",
-  "title": "Online spend during Amazon’s Prime Big Deal Days neared $10B in the US",
-  "snippet": "The retailer’s two-day event drove sales at multiple stores including Walmart as consumers hunted for bargains and discounts ahead of the holiday rush."
- },
- {
-  "id": "Inc42::https://inc42.com/?p=575396",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-09T14:07:52.000Z",
-  "title": "Bewakoof’s FY26 Net Loss Jumps Nearly 20% To ₹87.4 Cr; Revenue Crosses ₹200 Cr Mark",
-  "snippet": "After improving its bottom line performance in the fiscal year FY25, D2C fashion brand Bewakoof reversed the trend and slipped…"
- },
- {
-  "id": "Marketplace Pulse::http://www.marketplacepulse.com/articles/what-45-million-products-say-about-tiktok-shop",
-  "source": "Marketplace Pulse",
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363424",
+  "source": "Digital Commerce 360",
   "sourceType": "Analyst",
-  "publishedAt": "2026-10-09T13:45:00.000Z",
-  "title": "What 4.5 Million Products Say About TikTok Shop",
-  "snippet": "TikTok Shop doesn’t sell what Amazon sells, and it doesn’t reward what Amazon rewards. That is the conclusion of the Marketplace Pulse TikTok Shop Trends Report 2026, published today, built from tracking more than…"
+  "publishedAt": "2026-10-09T21:15:15.000Z",
+  "title": "Ethereum Price USD: Consumer Safeguards Could Matter",
+  "snippet": "Sponsor content is created on behalf of and in collaboration with Bazoom by DigitalCommerce360. Our editorial staff is not involved in the creation of the sponsored content. Why Consumer Safeguards May Shape Ethereum…"
  },
  {
-  "id": "Reuters::CBMiwwFBVV95cUxON1hqTEMxUXNhdTUya2dwTlA2VVktRm9QeWlYcDRJWkFiaGg4aXhpcTBFcnJETDJUZDZQRHdIdVBiVFl6UFdNU0VCdFlTRHhaaVk3akVSazBsN3QwOXBSUHFjckM4TWc4LUtIdzNyc2kyM0RjclFNOG1QYkplX3ljOHBFR1NibFRwUS1QMHAyd3ZhZjZTZGtoMmVjbGsyUWdaQ01FV21jSFFiM1FrQ0U4eHRYOTRUZlRTeTRlRFJVOFh4RVk",
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363415",
+  "source": "Digital Commerce 360",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-09T20:38:21.000Z",
+  "title": "TD Synnex to acquire specialty distributor BlueStar",
+  "snippet": "TD Synnex, one of the world’s largest technology distributors, announced that it signed a definitive agreement to acquire Clearwater, Florida-based BlueStar. BlueStar is a specialty distributor of barcode scanners…"
+ },
+ {
+  "id": "Circana::CBMigAFBVV95cUxPT2Y0cElJZDZEcVlqQTBFd3NUcjhFSERVcEEwdlFiSVFQREcwV3hpMWstVFNleUJRNXJJLVFWdFJCMi1YQ0xUVzJYUkZhZ3dHOGF6UDMzWXdLOVRiY1ZiNUxoM1pUemZYWUYzcXdVSlVCVll1MExPZHAzNkhzNF9WYQ",
+  "source": "Circana",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-09T19:04:28.000Z",
+  "title": "A leading personal care brand boosts sales by optimizing holiday inventory | Circana Case Study",
+  "snippet": ""
+ },
+ {
+  "id": "IDC::CBMigAFBVV95cUxNOHA5eWk4OTBaUmVXSWlmOHF6RGV5WGNYYUhRb2IxWlk2bXFKbU9XeUlqMGhoQTdyMmRldExhU09PMzZ0eGpCcjhxc0xOcWhFeXdwdUZGQjJzY3Via3gzOTExcWlrUk9hbmNUeVVJS0ZDcExUbC13NEtGNklqV2Etbg",
+  "source": "IDC",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-08T03:35:40.000Z",
+  "title": "Worldwide Technology Buyer and Spending Outlook, September 2026: Banners",
+  "snippet": ""
+ },
+ {
+  "id": "Reuters::CBMivwFBVV95cUxNSmlfdHVPODBnTWJnYUs2UWZ6QjU2aHRvSHRJaFFyU1dxTnFNWmdiZTQtSmZ6NXJKSm5yWmxCRjZkTXM5a2EwNDAyR1FHT0ZWMU1DdjRHMkZmekNaQ1FETFJpd3ZGb2d2YmtXZE5sR0VjNFVGZkRCWkpnTjNsRWNlbmltVjFGZldBUmJWQXhmNzFkSXhXdUVadE12RTZ2M2R4NjNGZHl6MjhFTkdZOGpMRU81aHhRSjd6c0VobWZtQQ",
   "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-09T03:28:00.000Z",
-  "title": "China to resume October fuel exports after holiday pause, sources say",
+  "publishedAt": "2026-10-06T13:18:37.000Z",
+  "title": "Le Pen eyes bond markets with promise of bigger spending cuts if far right wins presidency",
   "snippet": ""
  },
  {
-  "id": "PYMNTS Data::CBMikwFBVV95cUxPR2tsYVFzWEQ0SHZackdkZDUyb2tyUmpFUjV5WXZRekhwNDcwZlpUeU5faGRaV3czNkJBSWkyS0s0aWpkdDd3Y01Da252Nk52NWM4WGhXSDFpWVlvUldTRnBRd09IZl9RdmdZM0UyWGM2a2VwbGN1Rlk1SW5mLXlNXzFmN3B6dkVlck5pdVpNYUVOTXM",
+  "id": "PYMNTS Data::CBMi5gFBVV95cUxQV09yN2lwRHNqT0tzR1FheklhNkt5U0dBdDY4Wm5qV2VlVGU0U1J6c2xucnNNNTRYZWtCOTQwRVhYU1hqZ01XLTBzYWNTRGplODhLbXp1d0hiTVR3M0RlYS01cHlLT0pUNENBcXM3cjlzcjdGT21ibC1RZks2UnBLUllrdDNuNlVqOWZRNWFLSVI5TXhuWlFQeUlmUnVCSlBMcFI2NmF1ejRuVGUzZFl0MmRkQVpoQ1c1TE1aSFpaYjROMzREanZUYS1hT2p3bno2UlRXZTExUTRpT2FRR1lpS0syam9pQQ",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-09T02:11:35.000Z",
-  "title": "Apple Readies Launch of First Touchscreen MacBook",
-  "snippet": ""
- },
- {
-  "id": "Retail TouchPoints::CBMiY0FVX3lxTE9FbnM3MF8xTkR2emdaU3p5VjNnM0FQbjhWWHRWUkp1NmsyMi1VV1FEOHQ0LWhGRDdOaWt6RWVxNkRkQjRwVm1tcW9QNGIxVGIzX0dpWHJpMTRaUERmVi05R2JySQ",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-08T07:00:00.000Z",
-  "title": "Latest In: data readiness",
+  "publishedAt": "2026-10-02T19:23:10.000Z",
+  "title": "Careful Consumers Want Control. SoFi Tech Solutions Says Banks Should Hand It Over - Need to Know",
   "snippet": ""
  }
 ]
