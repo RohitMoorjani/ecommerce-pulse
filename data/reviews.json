@@ -1657,5 +1657,24 @@
  "NIQ::CBMi0wFBVV95cUxQWGtGREo2NVdNQVFBVU9Nd3UyempKZFItcGtsV2I4TVA4RWx1VUZOZWxLTWg4TnNsQ1hzaDVJT3ZtbVFtVGljd1Jnd1dncDhOWHAzWk1SdlRUbURtTklpZm9iRzFral9xaHJkOWpKYTNSMnhmRk9qRmQxVEFzTXZjZGpPc2lJcF9rLUJ3c2tqb0prb3FpWjBRSzhocUR6eW1NNU10b05lVTJCOFFfSy11RjVqZTltckJuNkxOcjEtWHZGSGJFSHRyNVpFVE1FdDNCVE1Z": {
   "keep": false,
   "publishedAt": "2026-09-28T07:00:00.000Z"
+ },
+ "Inc42::https://inc42.com/?p=575466": {
+  "keep": false,
+  "publishedAt": "2026-10-10T10:31:17.000Z"
+ },
+ "PYMNTS Data::CBMizAFBVV95cUxPTVhKandTdHR0dDBwNmxiaTBDQ3JiSlVseEpwYktjd2FabkRTcVlSTVdycERBZGljVldudzVwWG15Ym1GY2xRTUFCd2dya3A4YlNCUEtDWG5SSldIWXZwZEVCZG83ZkZYUXJva1BkV1l2U3VCbWFQNnpucTJaUEc2bGdYRjUxbzlfRWQxTWR0SjlXMzcwMXRuakNMbFdpV3FXcU9ZYXJJcGwwaDg4RDRZYTUzQ0hudWxHUUxDXzBtdVlzQ2pCUlNTUTdqdlc": {
+  "keep": false,
+  "publishedAt": "2026-10-09T22:29:55.000Z"
+ },
+ "Mastercard::CBMi9AFBVV95cUxQVExjWFludUozdUpTdl9id3JkX1VGa0pvUUM1Vzhrb05jSnNfZ2wxNG15b3NCLWZ5NDZNTlBhcG9NWnZPTUJzbC1laVZQMDlPb1RjWGduaWJKN1lWY0FFUkl3UllacTE1Sm9BNm0wMkVsbm5Nd19EaDRkVEc5bUdWWlRhcmhEN0VPUlRQazVQN3BmUHBaYXRsRkYxcEZXQnNXLVloeExhTEptbGo5a2ptZzNPUWlZOHItMm9kdXBuZVdMeEFTN0xrbFVqMWRiSkR5TThZWm45SEdxSzN1a3BzVjZlVFRmdExHdWktYXBFSVh0VGRv": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Mastercard and Trip.com team up to enable agentic commerce in travel",
+  "short_headline": "Mastercard, Trip.com back agentic travel commerce",
+  "takeaway": "Card networks are partnering with merchants on agent-led purchasing; we should watch the payment rails agents will use to buy from our store.",
+  "importance": 2,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-09-16T07:00:00.000Z"
  }
 }
