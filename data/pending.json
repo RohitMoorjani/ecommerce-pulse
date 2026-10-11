@@ -1,18 +1,26 @@
 [
  {
-  "id": "Retail TouchPoints::CBMiWkFVX3lxTFBiYnpYYU1mNTBnTXVRNjB3ZS1ZV2dHd3hTMm45RUYxMGsxazN4LWFwR1plX2x1ZlNmc25SRDVjYS1pelRZbVVlcEhkYkUzQ3V5Y1ozZFVDQ0g3UQ",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-08T07:00:00.000Z",
-  "title": "Latest In: Avanade",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261008PD238/production-manufacturing-pc-ipc-california.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-11T02:42:30.000Z",
+  "title": "IPC makers expand US production as supply chains, tariffs shift",
+  "snippet": "Industrial PC (IPC) makers are adding US manufacturing as supply chains regionalize, tariff policy tightens, and government buyers press for local sourcing. For global readers, the shift signals a broader reordering of…"
  },
  {
-  "id": "McKinsey::CBMingFBVV95cUxNT2lRWDM5R2oteG1IZTlhWklicnp1bmxlc21KMnY4NzU5MjFsTFFJZ1FQUkgwNEVWeEY1V0tGZEVjX2dUTnhCLUJJS2J5SWV1RFhDM0JPajBZd2YzMmdDa08tNlRFNWNtb0ZCdzA1VTkxNEx4WDM5eGQ4eXZWWnUxb0JhVncxS2NxeUNCWlpYc0tZdU0zTTZPODlpYmJTdw",
-  "source": "McKinsey",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-09-22T07:00:00.000Z",
-  "title": "China Auto Consumer Insights 2026: Consumers set the pace",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261008PD239/novatek-revenue-chips-smartphone-demand-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-11T02:41:50.000Z",
+  "title": "Novatek quarterly revenue tops NT$30B as smartphone demand, edge AI chips lift results",
+  "snippet": "Novatek reported stronger September and third-quarter 2026 revenue, suggesting seasonal smartphone demand and growth in edge AI chips are supporting the global display and chip supply chain. The results matter for…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261008PD219/revenue-2028-sales-2026-growth.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-11T02:39:55.000Z",
+  "title": "Sysgration bets on battery backup, drones to hit US$314 million in sales by 2028",
+  "snippet": "Sysgration posted record monthly consolidated revenue in September 2026 for the third consecutive month, pushing third-quarter revenue above NT$1 billion (approx. US$31.4 million) for the first time. At an investor…"
  }
 ]
