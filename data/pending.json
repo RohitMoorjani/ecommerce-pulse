@@ -1,18 +1,162 @@
 [
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261008PD237/electronic-components-inflation-taiwan-copper-foil-2026.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-11T23:42:13.000Z",
-  "title": "ICT inflation impact limited as supply shock falls short",
-  "snippet": "Prices for electronic components such as memory, advanced copper foil, glass fiber cloth, and ABF substrates have been rising for some time as makers pass on costs amid tight supply. For the US, even if Apple raises…"
+  "id": "InternetRetailing::https://internetretailing.net/?p=76243",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-12T10:10:56.000Z",
+  "title": "Department stores gain ground as digital-only fashion retailers lose share ahead of Golden Quarter",
+  "snippet": "As the Golden Quarter approaches, some of Britain's best-known retail names are gaining traction in fashion despite softer demand across the wider market. The post Department stores gain ground as digital-only fashion…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261008PD230/2026-revenue-robotics-demand-semiconductors.html",
+  "id": "Retail Dive::https://www.retaildive.com/spons/the-next-era-of-retail-tech-with-ai-at-the-core/832339/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-12T09:00:00.000Z",
+  "title": "The next era of retail tech — with AI at the core",
+  "snippet": "Retail is changing fast. Discover how AI and mobility are redefining the store of tomorrow."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261012VL226/samsung-2027-2026-hbm-data-center.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-11T23:41:11.000Z",
-  "title": "Winmate rolls out rugged edge AI platform for drones, robotics",
-  "snippet": "Winmate posted September 2026 revenue of NT$535 million (approx. US$16.8 million), up 31.8% month-on-month and 95.9% year-on-year, driven by strong end-market demand in defense, semiconductors, and edge AI. The…"
+  "publishedAt": "2026-10-12T08:45:32.000Z",
+  "title": "Samsung reportedly secures long-term contracts covering up to 80% of 2027 memory supply",
+  "snippet": "Samsung Electronics has committed 75–80% of its 2027 memory supply, including high-bandwidth memory (HBM), to long-term agreements (LTAs), the Korea Economic Daily reported on October 9, 2026, citing industry sources…"
+ },
+ {
+  "id": "Gartner::CBMimgJBVV95cUxPUE8xYThKVU9OOUhIaUF1T3hwM0ItRVZ2V05wei15d0gwMWpwVm0zZm90c2k4dUZzcXdyc1BNdXB4eVJ4TGQzampxVG9ZRlBBTjVZRmhvNldLSzVHNDI0b1AtZEhHY0g2TkdwckFfRjQxMHBpX0FCYXBHOWFnZ2ZoSnAyV0o2cFdqYWp2alJsYVI1RWxydnhicERwLWY5XzJnN1VNX2ctUC1VMEI0YUhJMU1vU0JzdFFtdlRqaWFHVDZjS0NrQVdSZWtWZ1lGMFpHNzA2VHA1d0ZmeW04cGlyaWhBX0FWMndzOUtHRnpqM1hreklMTTgzeWJrQ0ZZaXAtQzNpcXR3U0JleEp0U05kNnJNRkc2R1UzYUE",
+  "source": "Gartner",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-12T07:34:20.000Z",
+  "title": "Gartner Says Worldwide PC Shipments Declined 22.4% in Third Quarter of 2026 As Component Cost Inflation Raised ASPs",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261012VL220/samsung-sk-hynix-hbm-hbm4-2027.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-12T06:31:44.000Z",
+  "title": "Samsung could unseat SK Hynix as HBM leader in 2027",
+  "snippet": "Samsung Electronics could overtake SK Hynix as the world's largest supplier of high-bandwidth memory (HBM) in 2027, as HBM4 prices climb and memory manufacturers compete for limited DRAM production capacity, according…"
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76226",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-12T05:24:00.000Z",
+  "title": "GUEST COMMENT Social: the retail channel FMCG can’t live without",
+  "snippet": "Tom Sneddon, head of social at House of Communication, looks at how social channels have democratised brand discovery - and what FMCG brands can do to ensure they make a genuine impact. The post GUEST COMMENT Social…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261012PD214/audi-automotive-taiwan-supply-chain-talent-data.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-12T04:29:18.000Z",
+  "title": "Audi's defense pivot mirrors Taiwan supply chain's AI shift",
+  "snippet": "German automaker Audi has launched a flexible workforce program allowing employees to voluntarily transfer to aerospace and defense companies such as Airbus, with Audi reporting strong employee interest. The move…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261012VL210/apple-iphone-demand-launch-component.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-12T04:21:39.000Z",
+  "title": "Apple's iPhone 18 order cuts expose widening divide in premium demand",
+  "snippet": "Apple's iPhone 18 Pro lineup is showing mixed demand signals weeks after launch. Reports of component order cuts suggest weaker-than-expected sales, while Chinese supply-chain sources point to stronger demand for the…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261012PD210/gan-sic-silicon-expansion-infrastructure.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-12T04:15:25.000Z",
+  "title": "AI racks approach megawatt power levels as SiC, GaN, silicon divide power delivery roles",
+  "snippet": "The rapid expansion of AI infrastructure is driving demand for higher power and voltage levels, pushing power semiconductor development toward greater efficiency, higher power density, and tighter integration."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261012PD206/ic-inventory-pc-2026-revenue.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-12T04:04:42.000Z",
+  "title": "ELAN Microelectrics's 3Q26 PC momentum stalls on shortages, inventory overhang",
+  "snippet": "Touch IC leader Elan Microelectronics recently announced its September 2026 consolidated revenue of NT$602 million (approx. US$18.9 million), down 18.74% month-over-month and 46.9% year-over-year. Third-quarter revenue…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261012VL202/materials-plant-subsidiary-investment-packaging.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-12T03:37:26.000Z",
+  "title": "Chinese thermal materials maker SJ Electronics to build US$70 million plant in Penang",
+  "snippet": "PEN SJ Electronics, a subsidiary of China's SJ Electronics, will invest more than US$70 million in an advanced packaging materials and thermal management facility at Batu Kawan Industrial Park 3 (BKIP3) in Penang…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261012VL211/samsung-sk-hynix-asml-equipment-revenue.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-12T03:12:32.000Z",
+  "title": "Samsung, SK Hynix accept ASML's 10% price hike in parts, report says",
+  "snippet": "Samsung Electronics and SK Hynix have accepted a 10% increase in ASML's replacement-part prices for lithography systems in South Korea, with the higher rates taking effect for deliveries starting in January 2027, The…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/indias-quick-commerce-growth-set-to-accelerate-food-delivery-to-remain-steady-report/134880965",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-12T02:31:58.000Z",
+  "title": "India's quick commerce growth set to accelerate, food delivery to remain steady: Report",
+  "snippet": "According to an Emkay report, India's quick commerce sector is projected to accelerate NOV growth to 21.6 percent in Q2FY27. Food delivery platforms are expected to sustain around 18 percent year-on-year NOV growth as…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/former-flipkart-group-employees-launch-petition-seeking-inclusion-in-proposed-2-billion-esop-buyback/134880902",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-12T02:27:04.000Z",
+  "title": "Former Flipkart group employees launch petition seeking inclusion in proposed $2 billion Esop buyback",
+  "snippet": "On October 10, a group of former executives launched a petition aiming to bring together 20,000-30,000 former employees of Flipkart and its group companies, including Myntra, Cleartrip, Shopsy, Super Money and ANS…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-commerce-festive-sales-touch-rs-24000-crore-in-first-two-days-mobiles-lead/134880770",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-12T02:17:59.000Z",
+  "title": "E-commerce festive sales touch Rs 24,000 crore in first two days, mobiles lead",
+  "snippet": "E-commerce companies in India sold about Rs 24,000 crore in the first two days of festive sales. Mobile phones accounted for the largest share of sales, representing nearly 40 percent of total revenue. Fashion and…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/fmcg-majors-in-race-for-big-bite-of-snacks-brand-farmley/134880712",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-12T02:15:16.000Z",
+  "title": "FMCG majors in race for big bite of snacks brand Farmley",
+  "snippet": "Multiple FMCG companies are expressing interest in acquiring stakes in the healthy snacking brand Farmley. A group of early investors with a 31% stake is looking to sell their shares. Founders Akash Sharma and Abhishek…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261012PD200/market-ap-samsung-mediatek-global-smartphone.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-12T01:56:00.000Z",
+  "title": "MediaTek flagship AP share to surpass Samsung as TSMC boosts Dimensity",
+  "snippet": "As the global smartphone system-on-chip (SoC) market contracts, competition in the high-end application processor (AP) segment is intensifying. MediaTek is accelerating its push into the flagship market, putting greater…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261011VL201/fab-wafer-production-capacity-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-12T01:45:15.000Z",
+  "title": "Booked before launch, Tata's Dholera fab faces test of turning commitments into wafer volume",
+  "snippet": "Tata Electronics has six customers at different stages of engagement with its Dholera semiconductor fab, including three with what a person familiar with the project described as binding offtake commitments, as the…"
+ },
+ {
+  "id": "IDC::CBMidEFVX3lxTE90VVhxcHJBQVhhN2d2Z0VFUUdnRm9kd1ZWUW9WVmxWYWQ5VjFLa3NpMmJncmVPRm5hOW1GNE0tV3VzclV4WTlPN1d3OWhQb2pXQXFfVVVwR3lwNFZtVDBhLTVkRHdTVzB0SWI5MUx3N2dmUmxX",
+  "source": "IDC",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-10T13:08:00.000Z",
+  "title": "Industry Market Forecast: Worldwide Agriculture and Fishing, 2026 — Digital Transformation Spending Guide",
+  "snippet": ""
+ },
+ {
+  "id": "Reuters::CBMiwAFBVV95cUxNOHl5TmRPZGVsVEdPRHhYZElOdS1RSmRyTHZTZG5ETFlFTHhkUWZTXzROUjRnX184cXNjVFRSU2dNOE1XRnJOaEN6T3hQSXRCWU5FZXlnQlVEMXJvX2tDSEYxeXJ3bFI0b2c0MmxHMFY4SjBzWWp6WElTTGo3bm4xRm9YR3FsX2NlZWNYeVF6dXhQYmRSZXYzMXNKZV9rVmhxZU1VdlJnd1pMYzlnNDZ6Nzd3R1dGenFPTkRWZWRJS3Y",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-09T07:49:22.000Z",
+  "title": "Wealthy Gen Z collectors spend more on art than older buyers, report shows",
+  "snippet": ""
  }
 ]
