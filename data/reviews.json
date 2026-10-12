@@ -1836,5 +1836,112 @@
  "Reuters::CBMiwAFBVV95cUxNOHl5TmRPZGVsVEdPRHhYZElOdS1RSmRyTHZTZG5ETFlFTHhkUWZTXzROUjRnX184cXNjVFRSU2dNOE1XRnJOaEN6T3hQSXRCWU5FZXlnQlVEMXJvX2tDSEYxeXJ3bFI0b2c0MmxHMFY4SjBzWWp6WElTTGo3bm4xRm9YR3FsX2NlZWNYeVF6dXhQYmRSZXYzMXNKZV9rVmhxZU1VdlJnd1pMYzlnNDZ6Nzd3R1dGenFPTkRWZWRJS3Y": {
   "keep": false,
   "publishedAt": "2026-10-09T07:49:22.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363069": {
+  "keep": false,
+  "publishedAt": "2026-10-12T20:36:39.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/lowes-launches-black-friday-deals-in-october/832730/": {
+  "keep": false,
+  "publishedAt": "2026-10-12T15:55:00.000Z"
+ },
+ "Retail TouchPoints::CBMitwFBVV95cUxQcjFxRkFKTGNpZVNvaC1pdHFGdUxNR1l2SEhZWHdrbGNiNDRJY3V5OXV4d29ROHU2VmF2aDYwcEJEQ2tNX2tvemQ2XzhuZ3JFcFZ0c1lpY0IyZXpNMngwNThwX0M1QTFTV3Z5WWNfV2FPQ1NrVzV3NWJxS2lVV1JDLWFrTFJCVmNHT25qUHpyWUdVZ2t6d0pIZnZUWUxZSzVhOHJEemV5SkRHREVZbGNsQkpSVDB6TDQ": {
+  "keep": false,
+  "publishedAt": "2026-10-12T15:29:30.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/ross-opens-51-new-stores/832721/": {
+  "keep": false,
+  "publishedAt": "2026-10-12T15:18:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/spirit-halloween-store-openings-spirit-christmas-2026/832675/": {
+  "keep": false,
+  "publishedAt": "2026-10-12T14:54:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/free-people-willow-smith-marketing-cultural-co-authorship/832707/": {
+  "keep": false,
+  "publishedAt": "2026-10-12T14:31:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/tariffs-pushed-up-consumer-goods-prices-ny-fed-inflation-elections-tax-taxes/832701/": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "NY Fed: tariffs lifted consumer goods prices 2.9 points as inflation expectations rise",
+  "short_headline": "Tariffs added 2.9 points to goods prices: NY Fed",
+  "takeaway": "Rising inflation expectations ahead of holiday suggest price-sensitive shoppers; we should test promotions and financing for hardware.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-12T14:01:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173090": {
+  "keep": false,
+  "publishedAt": "2026-10-12T14:00:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/target-denies-cooperating-with-ice-heres-why-that-may-not-matter/832645/": {
+  "keep": false,
+  "publishedAt": "2026-10-12T13:17:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/tractor-supply-opens-idaho-distribution-center-with-automation-dedicated-a/832591/": {
+  "keep": false,
+  "publishedAt": "2026-10-12T13:00:00.000Z"
+ },
+ "Inc42::https://inc42.com/?p=575634": {
+  "keep": false,
+  "publishedAt": "2026-10-12T12:27:23.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261012PD246/fubon-demand-revenue-launch-iphone.html": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Taiwan e-commerce platform Momo posts record September revenue on iPhone launch, holiday demand",
+  "short_headline": "Momo hits record September revenue on iPhone launch",
+  "takeaway": "Device launches drive marketplace sales spikes in Taiwan; we should line up channel promotions around competitor launches.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-12T12:20:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261012PD247/revenue-demand-e-commerce-data-taiwan.html": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "HHGalaxy reports record September revenue up 31.7% as brands prep for Double 11",
+  "short_headline": "Taiwan e-commerce provider up 31.7% before Double 11",
+  "takeaway": "Brands are front-loading Singles Day preparation; we should confirm our Double 11 offers and inventory in Asian markets.",
+  "importance": 2,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-12T11:45:00.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/industry/indias-office-hubs-turn-into-retail-hotspots-as-developers-tap-captive-shoppers/134888271": {
+  "keep": false,
+  "publishedAt": "2026-10-12T09:22:04.000Z"
+ },
+ "Reuters::CBMiwwFBVV95cUxNTnZqam92b2tEcU5LcTM5WG5mYWFuUDgzdm1aY0R6azEtNlhWM0dGVkFIcGt4aWdiMmxBREhHdzRkT2JRN0E4X0QzeUF5NmxLSDlBXzJlMEdvWDBkWWZHYmRrVjdvdlkyYnM3MWV6dXdHTEJvalNpYVkyOFl6UG40Q09Oc1RRLW9PSjVkZTllcUtCbVlVZHAxS3dIQTd5XzRxZXhBbFh1bldrYXlKZFo3UklraUd4WWx1NWNMaHhuNUd3a2c": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Amazon shuffles Alexa leadership following high-end tablet release",
+  "short_headline": "Amazon reshuffles Alexa leadership after tablet launch",
+  "takeaway": "Changes in Alexa leadership may shift Amazon’s assistant and device strategy; we should watch how it affects shopping on Amazon.",
+  "importance": 2,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-09T21:38:16.000Z"
+ },
+ "Reuters::CBMiwwFBVV95cUxQQVVQS191Y0hYUXlXZEdWMjhqWWVKTXU2R1l5NF9IQTFPVWFDZE9ncnhZcHM5allacTh1dENFbnc5a3MwVHJaU3NSOWxMaW5FTzkwMGpEOHE4aTdYT0RPMnYxMWk3YXdaa1NDZUxIVjBTYXBHc2lZcndBRDBoeTRROXVVOENldjI5ck02NXBvV0pCWXBoRmZPekNPcGVLMDhhaWFsZGpZeDZoa080Y05mYTZ1RW10TjMwUDdfVm40cy1VRWM": {
+  "keep": false,
+  "publishedAt": "2026-10-09T05:10:48.000Z"
+ },
+ "PYMNTS Data::CBMi3AFBVV95cUxQVVV2YXdReTFlWklxTlJKeUlOdWlERy1VOUgyUm1mV3J6MzdtNERwVWFuWjdGdTFiUGlQYXd0OGtJa2l3Q3lyNG1QUXJzY2hKTlZ6djQ5ZVpfN0FjaWxLcWlZWUNDV0s4MEI3TTk2LWhRRjBJZHQxbmhNTkd0VWtnOE5hNFFGUHhZdUJVUW1TdzN2eHdiajNUOGxnQS1jRkdyclRUcm5jZkdDa19MZ2tYdXh5a0tCVkpoUjJCYkFwZS1ONjZraTdhMk1PWmtqemh1bUxBVG9SQVhWeGIy": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "AI agents bring shoppers to merchants, but merchants must still close the sale",
+  "short_headline": "AI agents send shoppers, merchants must close sale",
+  "takeaway": "If agents drive traffic to us, our store’s checkout and product pages must convert agent-referred shoppers.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-07T03:58:53.000Z"
+ },
+ "NIQ::CBMi0wFBVV95cUxOY0FPOHpYN2ZHLTl4elBNcklsZ3ktbHBkc19kLVdvakVLSTdDYnZaOWVQbVBUUTdjY1l1a3dTVDlWTHZfYVQ2SklaamNubUNDY0Foc3pfcWdUUzNfU0Y4Z2tEeFpWd1lmME9VTm52M3Fub01Mb25FNjN3dno4NFhnalNhbnBSUHFGWlgwY0liQ3VQRVFWbThoeGNSZGhTUDVoRnNNbDRia2dTVkx3MHZyN3pCbTMza2R3MlZtaFB5WFpoQkRXbERoSGs3dmVTN2FrOTZF": {
+  "keep": false,
+  "publishedAt": "2026-09-25T07:00:00.000Z"
  }
 }

@@ -1,45 +1,42 @@
 {
- "updatedAt": "2026-10-12T12:51:46.864Z",
- "title": "AI-led discovery and costlier PCs mean our store must win on AI visibility",
- "summary": "55% of consumers use AI in product discovery (NIQ); HP launched Experience AI; TikTok and Gap added AI shopping. Gartner: Q3 PC shipments fell 22.4% as costs lifted ASPs; Surface Laptop Ultra is $2,599.",
+ "updatedAt": "2026-10-12T21:51:22.213Z",
+ "title": "Shopping starts with AI while PC costs rise; our store must adapt to both",
+ "summary": "55% of consumers use AI in product discovery (NIQ); 34% of US shoppers would use GenAI for gift ideas (Gartner). HP launched an agentic web platform; TikTok and Gap added AI shopping. Gartner: Q3 PC shipments fell 22.4%.",
  "points": [
   {
-   "headline": "AI discovery is mainstream and rivals are rebuilding their stores for it",
-   "detail": "NIQ finds 55% use AI in discovery; HP launched an agentic web platform; TikTok and Gap added AI shopping. Make our product data and search work for AI tools and plain-language queries.",
+   "headline": "Competitors and platforms are rebuilding shopping around AI agents",
+   "detail": "HP launched Experience AI, an agentic web platform; TikTok added a conversational shopping agent with one-click checkout; Gap added natural-language discovery. We should benchmark our discovery and checkout against these.",
    "segment": "agentic",
    "storyIds": [
-    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
     "HP Newsroom::CBMikAFBVV95cUxNMXhUTEZwVDZaMWlfNXFoM1BoN1ZzQzVHTGo0NjlUZjlWUm9mbXpxY1plbmxCZEpjbDA4eXdXWVJ0NWpNM1ZyNHZ4bnlVYlVRR2M3bDlfVS1TUE93OHJaYTZubHlUMGQwaE1NS3Q5VU41Z1FIOXZHZ0hGUzJlRFI0bzRMVnhid2Fyc1QzWmoteUw",
     "Retail Dive::https://www.retaildive.com/news/tiktok-ai-powered-discovery-one-click-checkout/832326/",
     "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363322"
    ]
   },
   {
-   "headline": "PC volume is falling while component costs push prices up",
-   "detail": "Gartner reports Q3 shipments down 22.4% with higher ASPs; memory is prioritised for servers. Plan pricing, configurations and stock messaging for a smaller, costlier market.",
+   "headline": "AI is now a mainstream discovery channel, but agents can be blocked",
+   "detail": "NIQ finds 55% of consumers use AI during product discovery. TechCrunch reports anti-bot defenses block personal shopping agents. We should check that our store is readable by legitimate agents.",
+   "segment": "trends",
+   "storyIds": [
+    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
+    "TechCrunch::https://techcrunch.com/?p=3174440"
+   ]
+  },
+  {
+   "headline": "PC volumes fall while costs and prices rise",
+   "detail": "Gartner says Q3 PC shipments fell 22.4% as component costs lifted ASPs; memory supply is shifting to server DRAM. We should plan pricing and promotions for a smaller, costlier market.",
    "segment": "pc",
    "storyIds": [
     "Gartner::CBMimgJBVV95cUxPUE8xYThKVU9OOUhIaUF1T3hwM0ItRVZ2V05wei15d0gwMWpwVm0zZm90c2k4dUZzcXdyc1BNdXB4eVJ4TGQzampxVG9ZRlBBTjVZRmhvNldLSzVHNDI0b1AtZEhHY0g2TkdwckFfRjQxMHBpX0FCYXBHOWFnZ2ZoSnAyV0o2cFdqYWp2alJsYVI1RWxydnhicERwLWY5XzJnN1VNX2ctUC1VMEI0YUhJMU1vU0JzdFFtdlRqaWFHVDZjS0NrQVdSZWtWZ1lGMFpHNzA2VHA1d0ZmeW04cGlyaWhBX0FWMndzOUtHRnpqM1hreklMTTgzeWJrQ0ZZaXAtQzNpcXR3U0JleEp0U05kNnJNRkc2R1UzYUE",
-    "DigiTimes::https://www.digitimes.com/news/a20261008VL216/microsoft-demand-dram-pc-revenue.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261008VL207/pc-shipments-forecast-nvidia-microsoft.html"
+    "DigiTimes::https://www.digitimes.com/news/a20261008VL216/microsoft-demand-dram-pc-revenue.html"
    ]
   },
   {
-   "headline": "Premium AI laptops are pricing up and going on sale direct",
-   "detail": "Surface Laptop Ultra is $2,599 and Nvidia RTX Windows laptops are open for pre-order. Set price anchors and merchandising for our top-end AI PCs.",
-   "segment": "pc",
-   "storyIds": [
-    "DigiTimes::https://www.digitimes.com/news/a20261008VL201/microsoft-windows-rtx-nvidia-pc.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261008VL200/nvidia-rtx-windows-apple-cuda.html"
-   ]
-  },
-  {
-   "headline": "Electronics drive peak sales events on marketplaces",
-   "detail": "Prime Big Deal Days hit $9.86B in US online sales with electronics up 85%; Amazon India expects a 35-40% festive spike. Line up promotions, stock and delivery promises early.",
+   "headline": "Electronics demand spikes at marketplace events",
+   "detail": "Prime Big Deal Days drove $9.86B in US online sales, up 8.5%, with electronics up 85% versus the September daily average. We should line up PC promotions and inventory early.",
    "segment": "marketplaces",
    "storyIds": [
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363383",
-    "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/amazon-sees-35-40-pc-festive-demand-spike-adds-50-pc-capacity-with-rs-2800-crore-investment/134777774"
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363383"
    ]
   }
  ]
