@@ -1,26 +1,18 @@
 [
  {
-  "id": "Reuters::CBMiwwFBVV95cUxPVDRzbE1PT1FMZGh0NlpiRzJua3BiVUNoeFhoTG9GRmJ4aENiZ3BJY0lBVnVrdkRKOFVBTUF4NXRhdjJPc2VlZEpwaWlhSEd3NDJGbW1aa3d3ajM5SnNiNGRYdGhxcTNyaVMzdWZrSkdrRmxXUzZSc3BvMzE0ZkFsZmpRZGFpeHZTWU9XN3VOMjZPUkNDdHRMVVFSWmRGenc0VWRsLURGcXZEVW5LNW9rcHk2WVFmOWE1LXJMUWdLcEJybjA",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-11T11:29:35.000Z",
-  "title": "From theatre to streets, Gen Z protester Neha Bora a new face of India's youth unrest",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261008PD237/electronic-components-inflation-taiwan-copper-foil-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-11T23:42:13.000Z",
+  "title": "ICT inflation impact limited as supply shock falls short",
+  "snippet": "Prices for electronic components such as memory, advanced copper foil, glass fiber cloth, and ABF substrates have been rising for some time as makers pass on costs amid tight supply. For the US, even if Apple raises…"
  },
  {
-  "id": "PYMNTS Data::CBMiwwFBVV95cUxONUkwUnpJQnJqVVpzZV9NM1czTXR4Z3pUbmZPQkUwbmY0UlNOX0I2T0Z1SERyTkVzVld0dEtCUkhMaWU4aUpPT01NdTdyb3BFNGZfalRQejNJWXowalE2cUlLR1lpTno5c3IxWDR0elJUWTNsVTNSTzNsZ3ppN2tvQ1hDcDRtM1BXRjFwb2JRTlFMWk1sYjJqM0pXOXhLb0xBX1l6SG1tVFNkd2gtWk5NX3ltSmZEU3cyaEZOYzdXODdHeDQ",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-09-25T07:00:00.000Z",
-  "title": "51% of eCommerce Merchants Hold the Line on Fraud Staffing",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMioAFBVV95cUxOd1hKeDlQMS12ZGNHNWlsTzJIeWJkM3ZrTnZFMlg1cnNXYlVmR09oQTZwbVlqQWRRbnRnZXBFSFpmY1R5cGxVQlZTNUhkTDR2dkhzRXl3UThNaGZSYXVMeVgwbTFUcm8zZGxaYzhsV1FtdERveGZwenUtLWdKZEdqSUlOU0k2WFVZYTdrNUJuYnNUNjhWUDRTUWRtcm56Ynhv",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-09-23T07:00:00.000Z",
-  "title": "Agentic Commerce Needs Its Febreze Moment",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261008PD230/2026-revenue-robotics-demand-semiconductors.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-11T23:41:11.000Z",
+  "title": "Winmate rolls out rugged edge AI platform for drones, robotics",
+  "snippet": "Winmate posted September 2026 revenue of NT$535 million (approx. US$16.8 million), up 31.8% month-on-month and 95.9% year-on-year, driven by strong end-market demand in defense, semiconductors, and edge AI. The…"
  }
 ]
