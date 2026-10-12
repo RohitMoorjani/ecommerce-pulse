@@ -1735,5 +1735,106 @@
  "DigiTimes::https://www.digitimes.com/news/a20261008PD230/2026-revenue-robotics-demand-semiconductors.html": {
   "keep": false,
   "publishedAt": "2026-10-11T23:41:11.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76243": {
+  "keep": false,
+  "publishedAt": "2026-10-12T10:10:56.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/spons/the-next-era-of-retail-tech-with-ai-at-the-core/832339/": {
+  "keep": false,
+  "publishedAt": "2026-10-12T09:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261012VL226/samsung-2027-2026-hbm-data-center.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Samsung reportedly commits 75-80% of 2027 memory supply to long-term contracts",
+  "short_headline": "Samsung locks up most 2027 memory supply",
+  "takeaway": "Memory committed to long-term deals may keep component costs high for PCs; we should watch how it affects our pricing and supply.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-12T08:45:32.000Z"
+ },
+ "Gartner::CBMimgJBVV95cUxPUE8xYThKVU9OOUhIaUF1T3hwM0ItRVZ2V05wei15d0gwMWpwVm0zZm90c2k4dUZzcXdyc1BNdXB4eVJ4TGQzampxVG9ZRlBBTjVZRmhvNldLSzVHNDI0b1AtZEhHY0g2TkdwckFfRjQxMHBpX0FCYXBHOWFnZ2ZoSnAyV0o2cFdqYWp2alJsYVI1RWxydnhicERwLWY5XzJnN1VNX2ctUC1VMEI0YUhJMU1vU0JzdFFtdlRqaWFHVDZjS0NrQVdSZWtWZ1lGMFpHNzA2VHA1d0ZmeW04cGlyaWhBX0FWMndzOUtHRnpqM1hreklMTTgzeWJrQ0ZZaXAtQzNpcXR3U0JleEp0U05kNnJNRkc2R1UzYUE": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Gartner: worldwide PC shipments fell 22.4% in Q3 2026 as component costs lifted ASPs",
+  "short_headline": "Gartner: Q3 PC shipments down 22.4%",
+  "takeaway": "Rising component costs are lifting prices while volume drops; we should plan pricing and promotions for a smaller, costlier PC market.",
+  "importance": 5,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-12T07:34:20.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261012VL220/samsung-sk-hynix-hbm-hbm4-2027.html": {
+  "keep": false,
+  "publishedAt": "2026-10-12T06:31:44.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76226": {
+  "keep": false,
+  "publishedAt": "2026-10-12T05:24:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261012PD214/audi-automotive-taiwan-supply-chain-talent-data.html": {
+  "keep": false,
+  "publishedAt": "2026-10-12T04:29:18.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261012VL210/apple-iphone-demand-launch-component.html": {
+  "keep": false,
+  "publishedAt": "2026-10-12T04:21:39.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261012PD210/gan-sic-silicon-expansion-infrastructure.html": {
+  "keep": false,
+  "publishedAt": "2026-10-12T04:15:25.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261012PD206/ic-inventory-pc-2026-revenue.html": {
+  "keep": false,
+  "publishedAt": "2026-10-12T04:04:42.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261012VL202/materials-plant-subsidiary-investment-packaging.html": {
+  "keep": false,
+  "publishedAt": "2026-10-12T03:37:26.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261012VL211/samsung-sk-hynix-asml-equipment-revenue.html": {
+  "keep": false,
+  "publishedAt": "2026-10-12T03:12:32.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/indias-quick-commerce-growth-set-to-accelerate-food-delivery-to-remain-steady-report/134880965": {
+  "keep": false,
+  "publishedAt": "2026-10-12T02:31:58.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/former-flipkart-group-employees-launch-petition-seeking-inclusion-in-proposed-2-billion-esop-buyback/134880902": {
+  "keep": false,
+  "publishedAt": "2026-10-12T02:27:04.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-commerce-festive-sales-touch-rs-24000-crore-in-first-two-days-mobiles-lead/134880770": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "India e-commerce festive sales hit Rs 24,000 crore in two days, mobiles lead at ~40%",
+  "short_headline": "India festive sales: Rs 24,000 crore, mobiles lead",
+  "takeaway": "Electronics-led festive demand in India shows where shoppers spend early; we should check our offers and stock for the festive season.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-12T02:17:59.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/fmcg-majors-in-race-for-big-bite-of-snacks-brand-farmley/134880712": {
+  "keep": false,
+  "publishedAt": "2026-10-12T02:15:16.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261012PD200/market-ap-samsung-mediatek-global-smartphone.html": {
+  "keep": false,
+  "publishedAt": "2026-10-12T01:56:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261011VL201/fab-wafer-production-capacity-demand.html": {
+  "keep": false,
+  "publishedAt": "2026-10-12T01:45:15.000Z"
+ },
+ "IDC::CBMidEFVX3lxTE90VVhxcHJBQVhhN2d2Z0VFUUdnRm9kd1ZWUW9WVmxWYWQ5VjFLa3NpMmJncmVPRm5hOW1GNE0tV3VzclV4WTlPN1d3OWhQb2pXQXFfVVVwR3lwNFZtVDBhLTVkRHdTVzB0SWI5MUx3N2dmUmxX": {
+  "keep": false,
+  "publishedAt": "2026-10-10T13:08:00.000Z"
+ },
+ "Reuters::CBMiwAFBVV95cUxNOHl5TmRPZGVsVEdPRHhYZElOdS1RSmRyTHZTZG5ETFlFTHhkUWZTXzROUjRnX184cXNjVFRSU2dNOE1XRnJOaEN6T3hQSXRCWU5FZXlnQlVEMXJvX2tDSEYxeXJ3bFI0b2c0MmxHMFY4SjBzWWp6WElTTGo3bm4xRm9YR3FsX2NlZWNYeVF6dXhQYmRSZXYzMXNKZV9rVmhxZU1VdlJnd1pMYzlnNDZ6Nzd3R1dGenFPTkRWZWRJS3Y": {
+  "keep": false,
+  "publishedAt": "2026-10-09T07:49:22.000Z"
  }
 }

@@ -1,60 +1,45 @@
 {
- "updatedAt": "2026-10-12T00:50:13.127Z",
- "title": "Win the early holiday on Amazon and AI search while PC costs rise",
- "summary": "Prime days hit $9.86B (+8.5%), electronics +85% (Adobe). 55% use AI in discovery (NIQ); 9 in 10 festive shoppers research (Google). HP launched Experience AI. Omdia: PC shipments -21% in 3Q26.",
+ "updatedAt": "2026-10-12T12:51:46.864Z",
+ "title": "AI-led discovery and costlier PCs mean our store must win on AI visibility",
+ "summary": "55% of consumers use AI in product discovery (NIQ); HP launched Experience AI; TikTok and Gap added AI shopping. Gartner: Q3 PC shipments fell 22.4% as costs lifted ASPs; Surface Laptop Ultra is $2,599.",
  "points": [
   {
-   "headline": "Holiday demand now peaks early, and electronics lead it",
-   "detail": "Adobe: Prime days drove $9.86B (+8.5% YoY), electronics +85% vs September; Adobe forecasts $275.1B holiday online sales. We should time PC deals and stock to October events.",
-   "segment": "marketplaces",
-   "storyIds": [
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363383",
-    "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c",
-    "Retail Dive::https://www.retaildive.com/news/shoppers-worried-affording-holidays-icsc/832615/",
-    "Modern Retail::https://www.modernretail.co/?p=173035"
-   ]
-  },
-  {
-   "headline": "PC volumes are falling while memory costs push AI PC prices up",
-   "detail": "Omdia: shipments -21% in 3Q26; DigiTimes: DRAM goes to servers, component costs keep rising. Surface Laptop Ultra is $2,599. We should plan pricing and premium AI configs.",
-   "segment": "pc",
-   "storyIds": [
-    "Omdia::CBMiuAFBVV95cUxQcWtQcWxmX1NLbllsQjdmdlc4ZVRQMWNfeEZ4REMwUFpHX2RHTEdSZHFYQ3pvX2xyMlh2ZnRNeFV2ZEhMVlpJVy0yUGtFZE1OQzVoQTBYbzZxdUVEdDlCSHNLd2dnc29oWGVMck5Nb2hIRWVCdkVjNnE2Ry1FWmluaC1xSDRIYmFmY3dxTi1yWFY2aXItTWd1T3FHMWVwdDktcGhNU2l1QWg3UnJrVHFzSGltMDEzMTJD",
-    "DigiTimes::https://www.digitimes.com/news/a20261008VL216/microsoft-demand-dram-pc-revenue.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261008VL201/microsoft-windows-rtx-nvidia-pc.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261008PD237/electronic-components-inflation-taiwan-copper-foil-2026.html"
-   ]
-  },
-  {
-   "headline": "AI is a mainstream way to find products, and rivals are building for it",
-   "detail": "NIQ: 55% use AI in discovery; Gartner: 34% would use GenAI for gifts. HP launched Experience AI; TikTok added an AI agent. Bot defences block shopping agents. We should make our store agent-readable.",
+   "headline": "AI discovery is mainstream and rivals are rebuilding their stores for it",
+   "detail": "NIQ finds 55% use AI in discovery; HP launched an agentic web platform; TikTok and Gap added AI shopping. Make our product data and search work for AI tools and plain-language queries.",
    "segment": "agentic",
    "storyIds": [
     "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
     "HP Newsroom::CBMikAFBVV95cUxNMXhUTEZwVDZaMWlfNXFoM1BoN1ZzQzVHTGo0NjlUZjlWUm9mbXpxY1plbmxCZEpjbDA4eXdXWVJ0NWpNM1ZyNHZ4bnlVYlVRR2M3bDlfVS1TUE93OHJaYTZubHlUMGQwaE1NS3Q5VU41Z1FIOXZHZ0hGUzJlRFI0bzRMVnhid2Fyc1QzWmoteUw",
     "Retail Dive::https://www.retaildive.com/news/tiktok-ai-powered-discovery-one-click-checkout/832326/",
-    "TechCrunch::https://techcrunch.com/?p=3174440"
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363322"
    ]
   },
   {
-   "headline": "Channels are diverging as marketplaces build capacity and own devices",
-   "detail": "TikTok Shop sells differently than Amazon (Marketplace Pulse); Best Buy retail media reach exceeds clicks (Circana); Walmart opened its fifth automated fulfillment center. We should tailor assortment, ads and delivery per channel.",
+   "headline": "PC volume is falling while component costs push prices up",
+   "detail": "Gartner reports Q3 shipments down 22.4% with higher ASPs; memory is prioritised for servers. Plan pricing, configurations and stock messaging for a smaller, costlier market.",
+   "segment": "pc",
+   "storyIds": [
+    "Gartner::CBMimgJBVV95cUxPUE8xYThKVU9OOUhIaUF1T3hwM0ItRVZ2V05wei15d0gwMWpwVm0zZm90c2k4dUZzcXdyc1BNdXB4eVJ4TGQzampxVG9ZRlBBTjVZRmhvNldLSzVHNDI0b1AtZEhHY0g2TkdwckFfRjQxMHBpX0FCYXBHOWFnZ2ZoSnAyV0o2cFdqYWp2alJsYVI1RWxydnhicERwLWY5XzJnN1VNX2ctUC1VMEI0YUhJMU1vU0JzdFFtdlRqaWFHVDZjS0NrQVdSZWtWZ1lGMFpHNzA2VHA1d0ZmeW04cGlyaWhBX0FWMndzOUtHRnpqM1hreklMTTgzeWJrQ0ZZaXAtQzNpcXR3U0JleEp0U05kNnJNRkc2R1UzYUE",
+    "DigiTimes::https://www.digitimes.com/news/a20261008VL216/microsoft-demand-dram-pc-revenue.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261008VL207/pc-shipments-forecast-nvidia-microsoft.html"
+   ]
+  },
+  {
+   "headline": "Premium AI laptops are pricing up and going on sale direct",
+   "detail": "Surface Laptop Ultra is $2,599 and Nvidia RTX Windows laptops are open for pre-order. Set price anchors and merchandising for our top-end AI PCs.",
+   "segment": "pc",
+   "storyIds": [
+    "DigiTimes::https://www.digitimes.com/news/a20261008VL201/microsoft-windows-rtx-nvidia-pc.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261008VL200/nvidia-rtx-windows-apple-cuda.html"
+   ]
+  },
+  {
+   "headline": "Electronics drive peak sales events on marketplaces",
+   "detail": "Prime Big Deal Days hit $9.86B in US online sales with electronics up 85%; Amazon India expects a 35-40% festive spike. Line up promotions, stock and delivery promises early.",
    "segment": "marketplaces",
    "storyIds": [
-    "Marketplace Pulse::http://www.marketplacepulse.com/articles/what-45-million-products-say-about-tiktok-shop",
-    "Circana::CBMiuwFBVV95cUxOVjlIVzR6WjVxWUVXamJaMUEwQmtOS2k0U25qWnFKTTY3XzhmdldrZmEtdFZtYWMySVRaRTFnNHRDa0ZEcVBKYzdaNGZIR2FJLVk1a0hsMW94RW0wc2tVc3BKQnlDZ0RJUWxNVE84aUU2T2lQTUU0eFR1dHdkNWxDTDFqRC1VZFZoZHUwMHBtb0lEbEFvc1VOSWFBdjZSZjZSelMtRkxwVWNJZldoUkMteVJNbDNsX2lVeUs0",
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363427",
-    "Reuters::CBMizgFBVV95cUxOUE1oUFB5RzAyOTdPMGZlUEphcVlqMk01cnBHQzBTM0swSmFUMWNHVWhXdjgtczZqVndDVXF1YjZ2anlhRmdCVzBIRzJfQkRQUFBtUFdKOXlUdDJHQ09tT0toWUozR2N4dXNUMDB6R1NRWjZqUWdiZkdwdjd6dEN2REVmelczUjAxTWptM1NMZTUyd3dScVFGa2lnaXhmMnI0S3FIdW5YWTdDTWp2YkhRNlY3eEFjelhGajRSNGg1bXN1UFdkSjI5VUk5dDdvZw"
-   ]
-  },
-  {
-   "headline": "Small businesses and AI power users are buyers worth targeting",
-   "detail": "PYMNTS: AI power users spend like small businesses; Capital One: SMBs are confident about growth. 47% of abandoners wanted a digital wallet. We should aim device offers and wallet options at them.",
-   "segment": "trends",
-   "storyIds": [
-    "PYMNTS Data::CBMiogFBVV95cUxOSzE0ajBnTEsyaW9tckJKdS00Ymo3R2VrNk9ZdDJNZkliaE9YaXhfeVB3V25uYnpaczlablpkOXZhZFFNVnF2SGQxTFdLYTJUSUdDUDlEVWc4NlljRldXMF9OUlRRWkN0N29VVTRlUE1ZQ01VS2RoTXBWaFdCMTZjMVpHZ0t5SzlZb19HVVdTQkNPUzNGSjVtTEhoaVc0c2Rzc0E",
-    "PYMNTS Data::CBMi9gFBVV95cUxQU2c4Q2hXWGZMNUQ4V2w0ODNpV2lXQ1hsTzl2cEwzWG1xOF9MTDFDOHMxa0p5VnA3QjI0bkkzaU54OWlHQndpYkVnQnlaaWQxWDFNaFNMNXRxbXRsQmFWMnB4QU4xczR1dGNBT0sxeEVDUmJJMEg1MDhfZ0t6MGZsNUhrempJY0JDTlZkd2dBeHB2YnotbkJZbUo2akQ5ZXhkbWwxOVh6OUlBaFppNjkyQUhNYXhPN3B1YUdqSjRCanlsaWF6Mk4yd0hOM196OTN3cXV1QWhabkxWV0h1Nmx1UHduSXo4LWVic1FpVHRHNjZoTnJoQmc",
-    "PYMNTS Data::CBMiwwFBVV95cUxNNHQwZEpzOFNob0FIeXF2dXFzT0hkOWhUMFZaS0VQUTc1QjZ1R1AxcjhGcWt1a1hWRXhGZV9RZ1BCaHBSYlZaQ01BYkJHNlRMcjBpWUZrMnlFR0dkSkdOU0FZS0J2RWtVa3M0eXh0QzlfMmZ1eWQ1X3RFZUktVE1JdXY4TnctQmVxNDBhSlVGWnRzQ3d2dGpQRWE4SW0zM1A3MmphX0tCa0VKa1BTd2JPLU1xS0xvV0lINGRrOHhBMmtwSEk"
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363383",
+    "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/amazon-sees-35-40-pc-festive-demand-spike-adds-50-pc-capacity-with-rs-2800-crore-investment/134777774"
    ]
   }
  ]
