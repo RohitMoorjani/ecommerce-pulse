@@ -1720,5 +1720,20 @@
  "PYMNTS Data::CBMioAFBVV95cUxOd1hKeDlQMS12ZGNHNWlsTzJIeWJkM3ZrTnZFMlg1cnNXYlVmR09oQTZwbVlqQWRRbnRnZXBFSFpmY1R5cGxVQlZTNUhkTDR2dkhzRXl3UThNaGZSYXVMeVgwbTFUcm8zZGxaYzhsV1FtdERveGZwenUtLWdKZEdqSUlOU0k2WFVZYTdrNUJuYnNUNjhWUDRTUWRtcm56Ynhv": {
   "keep": false,
   "publishedAt": "2026-09-23T07:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261008PD237/electronic-components-inflation-taiwan-copper-foil-2026.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Rising memory and substrate costs seen having limited ICT inflation impact in the US",
+  "short_headline": "Component cost rise seen limited for ICT prices",
+  "takeaway": "Component price pass-through continues; we should watch how much of it reaches PC shelf prices and plan promotions accordingly.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-11T23:42:13.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261008PD230/2026-revenue-robotics-demand-semiconductors.html": {
+  "keep": false,
+  "publishedAt": "2026-10-11T23:41:11.000Z"
  }
 }
