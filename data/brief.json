@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-10-13T06:50:48.250Z",
- "title": "Shopping starts with AI while PC volumes fall; our store must win both",
- "summary": "55% of consumers use AI in product discovery (NIQ); HP launched an agentic web platform; TikTok, Gap and Newegg added AI or agent checkout. Q3 PC shipments fell 22.4% (Gartner) and 21% (Omdia) as memory costs rose.",
+ "updatedAt": "2026-10-13T18:50:21.707Z",
+ "title": "Shopping starts with AI; our store must be agent-ready as PC volumes fall",
+ "summary": "55% of consumers use AI in product discovery (NIQ); HP launched an agentic web platform; TikTok and Newegg added agent or one-click checkout; Amex set agent-purchase rules. Q3 PC shipments fell 22.4% (Gartner), 21% (Omdia).",
  "points": [
   {
-   "headline": "Retailers and competitors are rebuilding shopping around AI agents",
+   "headline": "Competitors and retailers are rebuilding shopping around AI agents",
    "detail": "HP launched Experience AI; TikTok added a conversational agent with one-click checkout; Newegg integrated Google UCP checkout. We should benchmark our discovery and checkout against these.",
    "segment": "agentic",
    "storyIds": [
@@ -14,12 +14,13 @@
    ]
   },
   {
-   "headline": "AI is a mainstream discovery channel, but anti-bot defenses can block agents",
-   "detail": "NIQ finds 55% of consumers use AI in product discovery, while anti-bot defenses block personal shopping agents. We should check that our store is readable by legitimate agents.",
-   "segment": "trends",
+   "headline": "AI discovery is mainstream, but trust and bot defenses gate agent buying",
+   "detail": "NIQ: 55% of consumers use AI in discovery. Anti-bot defenses block shopping agents, and Amex now sets rules for authorized agent purchases. We should make our store readable and safe for agents.",
+   "segment": "agentic",
    "storyIds": [
     "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
-    "TechCrunch::https://techcrunch.com/?p=3174440"
+    "TechCrunch::https://techcrunch.com/?p=3174440",
+    "TechCrunch::https://techcrunch.com/?p=3175284"
    ]
   },
   {
