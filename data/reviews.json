@@ -1943,5 +1943,105 @@
  "NIQ::CBMi0wFBVV95cUxOY0FPOHpYN2ZHLTl4elBNcklsZ3ktbHBkc19kLVdvakVLSTdDYnZaOWVQbVBUUTdjY1l1a3dTVDlWTHZfYVQ2SklaamNubUNDY0Foc3pfcWdUUzNfU0Y4Z2tEeFpWd1lmME9VTm52M3Fub01Mb25FNjN3dno4NFhnalNhbnBSUHFGWlgwY0liQ3VQRVFWbThoeGNSZGhTUDVoRnNNbDRia2dTVkx3MHZyN3pCbTMza2R3MlZtaFB5WFpoQkRXbERoSGs3dmVTN2FrOTZF": {
   "keep": false,
   "publishedAt": "2026-09-25T07:00:00.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76240": {
+  "keep": false,
+  "publishedAt": "2026-10-13T06:34:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261013PD225/demand-taiwan-capacity-price-capacitor.html": {
+  "keep": false,
+  "publishedAt": "2026-10-13T05:50:53.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261013VL218/arm-x86-risc-v-shenzhen-production.html": {
+  "keep": false,
+  "publishedAt": "2026-10-13T05:44:12.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261013VL217/omron-acquisition-ipc-revenue.html": {
+  "keep": false,
+  "publishedAt": "2026-10-13T04:25:49.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=172749": {
+  "keep": false,
+  "publishedAt": "2026-10-13T04:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261013VL214/pcb-ccl-ic-substrate-laminate-revenue-taiwan.html": {
+  "keep": false,
+  "publishedAt": "2026-10-13T03:47:03.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261013PD229/pc-shipments-inventory-market-demand.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Global PC shipments plunge more than 20% year over year in Q3 2026",
+  "short_headline": "Global PC shipments fall 20%+ in Q3",
+  "takeaway": "Inventory pressure and weak demand mean we should expect tougher promotion pressure and plan stock and pricing carefully for the holidays.",
+  "importance": 5,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-13T03:42:37.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/fssai-may-amend-laws-to-make-online-players-more-accountable/134906753": {
+  "keep": false,
+  "publishedAt": "2026-10-13T03:12:54.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261012PD249/wistron-taiwan-plant-investment-capacity.html": {
+  "keep": false,
+  "publishedAt": "2026-10-13T03:07:43.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261013VL201/semicon-plant-packaging-materials-electronics.html": {
+  "keep": false,
+  "publishedAt": "2026-10-13T02:36:50.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261013PD204/automotive-cis-robot-sensor-growth.html": {
+  "keep": false,
+  "publishedAt": "2026-10-13T02:00:35.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261013PD213/applied-materials-development-equipment-california-materials.html": {
+  "keep": false,
+  "publishedAt": "2026-10-13T01:48:12.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261013PD206/microsoft-asic-2027-2nm-cloud-ai.html": {
+  "keep": false,
+  "publishedAt": "2026-10-13T01:43:49.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261012VL227/nand-samsung-sk-hynix-demand-ssd.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Samsung and SK Hynix NAND profits seen surging as enterprise SSD demand lifts prices",
+  "short_headline": "Enterprise SSD demand lifts NAND prices, profits",
+  "takeaway": "Rising memory prices could push up storage costs in our PCs, so we should watch pricing and configuration margins.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-13T00:08:27.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261012VL230/samsung-operating-profit-earnings-2027-2026.html": {
+  "keep": false,
+  "publishedAt": "2026-10-13T00:06:09.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261012VL231/lg-display-rtx-sdc-nvidia-shipments.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Samsung and LG Display reportedly supply OLED panels for seven Nvidia RTX Spark laptops",
+  "short_headline": "OLED panels tapped for seven RTX Spark laptops",
+  "takeaway": "Premium OLED laptops on the Nvidia platform may arrive despite falling shipments; we should plan how to range and merchandise them.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-13T00:05:19.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363450": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Newegg integrates Google UCP checkout, expanding its agentic commerce channels",
+  "short_headline": "Newegg adds Google UCP agentic checkout",
+  "takeaway": "A direct tech retailer is going live on Google agent checkout; we should assess our own readiness for UCP-style purchases.",
+  "importance": 4,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-10-12T22:15:02.000Z"
+ },
+ "McKinsey::CBMiowFBVV95cUxPcTh6OFd6cFY3UDM0R2VERDMxdDI3MDVCY3ZUVUlldTdCSkJxbzBIVFQyU01xZTZhSnpwR0VYQlFkOC1kN29KS0R3QlVxT0Zic1NEdHZaMGdzM2FnMEN1RWZUNXF1MjRQVmtOTFRJNDBrS19YZjJmMjAwTUhUZHAyUlc4TVk4V1VTOUZjRnh2MDEzdWRiSzZ5YU1JS1pEbDF3ZGU4": {
+  "keep": false,
+  "publishedAt": "2026-10-12T00:00:00.000Z"
  }
 }
