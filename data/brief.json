@@ -1,46 +1,44 @@
 {
- "updatedAt": "2026-10-14T06:51:36.975Z",
- "title": "Shopping starts with AI; our store must be agent-ready as PCs shrink",
- "summary": "61M shoppers start searches with AI (PYMNTS), 55% use it in discovery (NIQ); HP launched an agentic web platform; TikTok and Newegg added agent or one-click checkout. Q3 PC shipments fell 22.4% (Gartner), 21% (Omdia).",
+ "updatedAt": "2026-10-14T12:51:16.914Z",
+ "title": "Shopping starts with AI; our store must be agent-ready as PCs get pricier",
+ "summary": "55% of consumers use AI in discovery (NIQ); Shopify reports AI discovery converts better than search; HP launched Experience AI; TikTok and Gap added AI shopping. Q3 PC shipments fell 22.4% (Gartner).",
  "points": [
   {
-   "headline": "Competitors and retailers are rebuilding shopping around AI agents",
-   "detail": "HP launched Experience AI; TikTok added a conversational agent with one-click checkout; Newegg integrated Google UCP checkout. We should benchmark our discovery and checkout against these.",
+   "headline": "AI discovery is converting, and competitors are rebuilding stores around it",
+   "detail": "HP launched Experience AI; TikTok added an AI agent with one-click checkout; Shopify says AI discovery converts above search. We should make our catalog AI-readable and track AI-sourced traffic.",
    "segment": "agentic",
    "storyIds": [
     "HP Newsroom::CBMikAFBVV95cUxNMXhUTEZwVDZaMWlfNXFoM1BoN1ZzQzVHTGo0NjlUZjlWUm9mbXpxY1plbmxCZEpjbDA4eXdXWVJ0NWpNM1ZyNHZ4bnlVYlVRR2M3bDlfVS1TUE93OHJaYTZubHlUMGQwaE1NS3Q5VU41Z1FIOXZHZ0hGUzJlRFI0bzRMVnhid2Fyc1QzWmoteUw",
+    "InternetRetailing::https://internetretailing.net/?p=76266",
     "Retail Dive::https://www.retaildive.com/news/tiktok-ai-powered-discovery-one-click-checkout/832326/",
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363450"
+    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0"
    ]
   },
   {
-   "headline": "AI discovery is mainstream, but trust and bot defenses gate agent buying",
-   "detail": "PYMNTS: 61M shoppers now start searches with AI; NIQ: 55% use it in discovery. Anti-bot defenses block shopping agents and Amex sets agent-purchase rules. We should make our store readable and safe for agents.",
-   "segment": "agentic",
-   "storyIds": [
-    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
-    "PYMNTS Data::CBMiuwFBVV95cUxQaFIteVI0cEZ5TnZLNFJEMEx3WkJNUF94NkZoNmRLQU1NUkJQd0pWRWxwRklYOVpyUWZneUFPSkVqaWxmZXMxY096clM3ZE9FTjNFdlBpX3gxV0lCRGp1MzlFdElZeG5LazR5U096cGp2ZjdjT25fX3lxWk85N05NUkYyaUFOM3dXRHljcVNpNnJncG5MZ3EyYmlBSlR4SFNWSU1FZXhzYnU5SDBfWk1sZ0Q2enhSQ0NaaGFV",
-    "TechCrunch::https://techcrunch.com/?p=3174440",
-    "TechCrunch::https://techcrunch.com/?p=3175284"
-   ]
-  },
-  {
-   "headline": "PC shipments fell 20%+ in Q3 as memory and component costs rise",
-   "detail": "Gartner reports a 22.4% fall and Omdia 21%; memory prices up 4-5x are already hurting phone sales. We should plan pricing, promotions and stock for a smaller, costlier PC market.",
+   "headline": "PC volumes are collapsing while component costs push prices up",
+   "detail": "Gartner reports Q3 shipments down 22.4% with higher ASPs; memory is being prioritised for servers. Plan pricing, stock and holiday promotions for a smaller, costlier market.",
    "segment": "pc",
    "storyIds": [
     "Gartner::CBMimgJBVV95cUxPUE8xYThKVU9OOUhIaUF1T3hwM0ItRVZ2V05wei15d0gwMWpwVm0zZm90c2k4dUZzcXdyc1BNdXB4eVJ4TGQzampxVG9ZRlBBTjVZRmhvNldLSzVHNDI0b1AtZEhHY0g2TkdwckFfRjQxMHBpX0FCYXBHOWFnZ2ZoSnAyV0o2cFdqYWp2alJsYVI1RWxydnhicERwLWY5XzJnN1VNX2ctUC1VMEI0YUhJMU1vU0JzdFFtdlRqaWFHVDZjS0NrQVdSZWtWZ1lGMFpHNzA2VHA1d0ZmeW04cGlyaWhBX0FWMndzOUtHRnpqM1hreklMTTgzeWJrQ0ZZaXAtQzNpcXR3U0JleEp0U05kNnJNRkc2R1UzYUE",
     "DigiTimes::https://www.digitimes.com/news/a20261013PD229/pc-shipments-inventory-market-demand.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261012PD237/smartphone-sales-2026-vivo-flagship.html"
+    "DigiTimes::https://www.digitimes.com/news/a20261008VL216/microsoft-demand-dram-pc-revenue.html"
    ]
   },
   {
-   "headline": "Marketplace sales events pull electronics demand forward",
-   "detail": "Prime Big Deal Days drove $9.86B in US online sales, with electronics up 85% on the September daily average. We should line up PC promotions and inventory for early-season events.",
+   "headline": "Premium AI laptops now have a price anchor and a sales window",
+   "detail": "Surface Laptop Ultra is priced at $2,599 pitching on-device AI agents. Benchmark our top-end AI PCs and merchandising against it.",
+   "segment": "pc",
+   "storyIds": [
+    "DigiTimes::https://www.digitimes.com/news/a20261008VL201/microsoft-windows-rtx-nvidia-pc.html"
+   ]
+  },
+  {
+   "headline": "Marketplace sales events are lifting electronics demand early",
+   "detail": "Prime Big Deal Days drove $9.86B US online sales with electronics up 85%; Amazon India sees a 35-40% festive spike. Line up PC promotions, stock and delivery promises.",
    "segment": "marketplaces",
    "storyIds": [
     "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363383",
-    "Retail Dive::https://www.retaildive.com/news/amazon-prime-big-deal-days-online-spend-nears-ten-billion/832604/"
+    "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/amazon-sees-35-40-pc-festive-demand-spike-adds-50-pc-capacity-with-rs-2800-crore-investment/134777774"
    ]
   }
  ]
