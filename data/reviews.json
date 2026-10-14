@@ -2439,5 +2439,64 @@
   "content_type": "data",
   "competitors": [],
   "publishedAt": "2026-09-16T07:00:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/target-upgrades-store-operations-app-employees/832989/": {
+  "keep": false,
+  "publishedAt": "2026-10-14T16:35:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/toy-prices-jump-holiday-season-inflation/832955/": {
+  "keep": false,
+  "publishedAt": "2026-10-14T16:13:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/saks-fifth-avenue-holiday-campaign-main-character-energy-post-bankruptcy/832961/": {
+  "keep": false,
+  "publishedAt": "2026-10-14T16:11:00.000Z"
+ },
+ "PYMNTS Data::CBMitgFBVV95cUxQMUhqWWIzSzZqdmk1RjVNTURjbUhMcEFEclJYMmRqRnZiYWJxWnI1VDJZMnpJeWVVOHFjWmVXODBCcm43eEl0ck1XMkdLc0hPVkV6TlRPYVRRWThSc09YdHNWMHFYcTdkbXJEcTFEQWVacGJFdTNzMUVLSlZJTTZ6Z0VUdFowUER6QklidFJDOGJtQWgyMXkxTFhIZHYwcjJFZVJlcXdYRGQySzdFU01LVkhjdjU5Zw": {
+  "keep": false,
+  "publishedAt": "2026-10-14T15:48:38.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/moodys-retail-apparel-outlook-boosted-tariff-refunds/832964/": {
+  "keep": false,
+  "publishedAt": "2026-10-14T15:27:00.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76270": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Poor product data could make retailers invisible to AI shopping agents",
+  "short_headline": "Weak product data hides retailers from AI agents",
+  "takeaway": "Agents choose products from structured data, so we should audit our catalog attributes and feeds for machine readability.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-14T15:20:28.000Z"
+ },
+ "Mastercard::CBMi6gFBVV95cUxNaldCNEpiYy1XZW9KeUxQandkNUVZU3U1aFRrQk5FODVGZjVfamtPX3ZwYXdKY3JhR2ZtcEt1YXh5cU1GOXUwT0lDX3IxQnV3NkQweEsyQ2Jxd3FYa1lIUWRZSWxGV2doeXFPX2RnbUJESUJNYWNEandWb0dHY0I0aTZ0UUJrN2tmNDg3NzVvNXpCNi01VTA3TDRLVmMwQjctbVBsN1o3Y2J6ZUVqb2MtdnpMRzQxbEtXNUtQM2h6Q0FMWk9oaDFwREc2NTBEM3BUYktTZXhuZXlsX0NrRzZJc2ljNjhPaFF0V3c": {
+  "keep": false,
+  "publishedAt": "2026-10-14T14:03:45.000Z"
+ },
+ "Dell Blog::https://www.dell.com/blog/the-best-workstations-for-running-agentic-ai-workflows-locally-in-2026": {
+  "keep": false,
+  "publishedAt": "2026-10-14T14:00:00.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166554": {
+  "keep": false,
+  "publishedAt": "2026-10-14T13:01:29.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166565": {
+  "keep": false,
+  "publishedAt": "2026-10-14T13:01:27.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166549": {
+  "keep": false,
+  "publishedAt": "2026-10-14T13:00:55.000Z"
+ },
+ "Global Marketplaces::CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU": {
+  "keep": false,
+  "publishedAt": "2026-10-13T01:41:00.000Z"
+ },
+ "Circana::CBMiggFBVV95cUxNYm83UENnYTR4c2J0WjczekNDbk5DN3FCZy1MWjRwWDdJLTdBbTdBZkdreHRHWEl0MWViS29NMGRZeG9nV093cS1kVkYwcWVCZFFuTFhicGJvc1EwOVBPWmtld1U4OTA5MndCUUZSYnd3UF9wRjA4VGRRZ3BIOUptZlpB": {
+  "keep": false,
+  "publishedAt": "2026-09-17T07:00:00.000Z"
  }
 }
