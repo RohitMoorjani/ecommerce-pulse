@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-13T18:50:21.707Z",
- "title": "Shopping starts with AI; our store must be agent-ready as PC volumes fall",
- "summary": "55% of consumers use AI in product discovery (NIQ); HP launched an agentic web platform; TikTok and Newegg added agent or one-click checkout; Amex set agent-purchase rules. Q3 PC shipments fell 22.4% (Gartner), 21% (Omdia).",
+ "updatedAt": "2026-10-14T00:50:10.984Z",
+ "title": "Shopping starts with AI; our store must be agent-ready as PCs shrink",
+ "summary": "61M shoppers start searches with AI (PYMNTS), 55% use it in discovery (NIQ); HP launched an agentic web platform; TikTok and Newegg added agent or one-click checkout. Q3 PC shipments fell 22.4% (Gartner), 21% (Omdia).",
  "points": [
   {
    "headline": "Competitors and retailers are rebuilding shopping around AI agents",
@@ -15,10 +15,11 @@
   },
   {
    "headline": "AI discovery is mainstream, but trust and bot defenses gate agent buying",
-   "detail": "NIQ: 55% of consumers use AI in discovery. Anti-bot defenses block shopping agents, and Amex now sets rules for authorized agent purchases. We should make our store readable and safe for agents.",
+   "detail": "PYMNTS: 61M shoppers now start searches with AI; NIQ: 55% use it in discovery. Anti-bot defenses block shopping agents and Amex sets agent-purchase rules. We should make our store readable and safe for agents.",
    "segment": "agentic",
    "storyIds": [
     "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
+    "PYMNTS Data::CBMiuwFBVV95cUxQaFIteVI0cEZ5TnZLNFJEMEx3WkJNUF94NkZoNmRLQU1NUkJQd0pWRWxwRklYOVpyUWZneUFPSkVqaWxmZXMxY096clM3ZE9FTjNFdlBpX3gxV0lCRGp1MzlFdElZeG5LazR5U096cGp2ZjdjT25fX3lxWk85N05NUkYyaUFOM3dXRHljcVNpNnJncG5MZ3EyYmlBSlR4SFNWSU1FZXhzYnU5SDBfWk1sZ0Q2enhSQ0NaaGFV",
     "TechCrunch::https://techcrunch.com/?p=3174440",
     "TechCrunch::https://techcrunch.com/?p=3175284"
    ]
