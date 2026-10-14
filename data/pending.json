@@ -1,162 +1,106 @@
 [
  {
-  "id": "Inc42::https://inc42.com/?p=576263",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T11:16:24.000Z",
-  "title": "The Stack Raises ₹21.5 Cr To Broaden Its Supplements Portfolio",
-  "snippet": "D2C supplement brand The Stack has raised ₹21.5 Cr ($2.2 Mn) in fresh capital to bolster its R&D and expand…"
+  "id": "Retail Dive::https://www.retaildive.com/news/target-upgrades-store-operations-app-employees/832989/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-14T16:35:00.000Z",
+  "title": "Target wants more efficient stores. An upgraded employee app could help.",
+  "snippet": "The retailer’s myDay app features a newly customizable home screen functionality and will soon include access to AI-backed insights."
  },
  {
-  "id": "Retail TouchPoints::CBMivwFBVV95cUxQOVJuTDM0R19mN3g0bnZfbkhxTFVva2xGOENHUDJ4a1U4amEyRFFyN0daUnM4VnlHS3FRQWVJb2RyVnRPYW4tLUxDb09sOTNPWVJIVkF3VnozUllGSV9KLWEtZ3pfRW9xQlhQM0prWHpPUkRzVUliTllKMTctYUpZY3RUdkkycDNhdEZaRDNuOXNydGdBaVpjT0E3Uk5TR2dtbmNrZGNzNmc5Q0puNDdGMUFfUFRxcjVWNUt0QXdfQQ",
-  "source": "Retail TouchPoints",
+  "id": "Retail Dive::https://www.retaildive.com/news/toy-prices-jump-holiday-season-inflation/832955/",
+  "source": "Retail Dive",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-14T11:03:49.000Z",
-  "title": "The Great Destocking Is About to Meet Its First Peak Season",
+  "publishedAt": "2026-10-14T16:13:00.000Z",
+  "title": "Toy prices jump 4.2% ahead of the holidays",
+  "snippet": "The September price bump came amid a “tough” inflation report, with the overall Consumer Price Index up 0.6%."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/saks-fifth-avenue-holiday-campaign-main-character-energy-post-bankruptcy/832961/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-14T16:11:00.000Z",
+  "title": "Saks channels ‘main character energy’ for first post-bankruptcy holiday",
+  "snippet": "A few months after its parent company exited Chapter 11, a leaner Saks Fifth Avenue is out to show it still has holiday heft."
+ },
+ {
+  "id": "PYMNTS Data::CBMitgFBVV95cUxQMUhqWWIzSzZqdmk1RjVNTURjbUhMcEFEclJYMmRqRnZiYWJxWnI1VDJZMnpJeWVVOHFjWmVXODBCcm43eEl0ck1XMkdLc0hPVkV6TlRPYVRRWThSc09YdHNWMHFYcTdkbXJEcTFEQWVacGJFdTNzMUVLSlZJTTZ6Z0VUdFowUER6QklidFJDOGJtQWgyMXkxTFhIZHYwcjJFZVJlcXdYRGQySzdFU01LVkhjdjU5Zw",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-14T15:48:38.000Z",
+  "title": "Bank of America Consumers Boost Spending 8% as Digital Banking Deepens",
   "snippet": ""
  },
  {
-  "id": "Modern Retail::https://www.modernretail.co/?p=173233",
-  "source": "Modern Retail",
+  "id": "Retail Dive::https://www.retaildive.com/news/moodys-retail-apparel-outlook-boosted-tariff-refunds/832964/",
+  "source": "Retail Dive",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-14T10:00:00.000Z",
-  "title": "Monica + Andy expands beyond kids’ clothing and into baby care",
-  "snippet": "More than a decade after launching, kids' clothing brand Monica + Andy is embarking on its first big category expansion. Within the past month, the company has launched a line of baby-care products"
+  "publishedAt": "2026-10-14T15:27:00.000Z",
+  "title": "Moody’s upgrades retail and apparel outlook as tariffs ease",
+  "snippet": "The firm now expects “solid household finances” to lead to more stability in the sector, although rising energy costs and geopolitical risks are still a factor."
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL216/300mm-equipment-semi-fab-2026.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T09:18:42.000Z",
-  "title": "300mm fab equipment spending to hit US$227 billion by 2029, SEMI says",
-  "snippet": "Global spending on 300mm front-end fab equipment is projected to reach US$149 billion in 2026, up 31% from a year earlier. Spending is expected to keep growing at double-digit rates and reach US$227 billion in 2029…"
+  "id": "InternetRetailing::https://internetretailing.net/?p=76270",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-14T15:20:28.000Z",
+  "title": "How poor product data could make retailers invisible to AI shoppers",
+  "snippet": "Product data is the critical foundation of agentic shopping – that is, autonomous AI agents finding, evaluating and purchasing products on behalf of humans. The post How poor product data could make retailers invisible…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL215/boe-glass-substrate-production-ipad.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T09:11:06.000Z",
-  "title": "BOE struggles with glass breakage at US$9.4 billion OLED plant as it seeks Apple iPad orders",
-  "snippet": "China's BOE has spent approximately six months trying to resolve recurring glass substrate breakage at its Gen 8.6 OLED plant in Chengdu, raising concerns about production stability as the display maker seeks approval…"
- },
- {
-  "id": "Mastercard::CBMi6wFBVV95cUxPdWV4cHZqeUMwUkZ0MFhBOUdnTklhZTExZEluWml5TWVnaUU1MFJJRVVCREVHa2VqaEp1RnRkSFoxNG5TMFAzdVdQOFE0V3cybHlyQ3RrV1hWM0EzdER0MTlWUkZMNGdmMUstSXRiT2tyZnF6NlhwQlFlYXZUMUlWNFhmSlVJUFd4RDgtVnJCZWpLaVg3dU9OSzgwdWtOMU5lQmZ0SHk5dXJMbHY3dkVLNXM5MWNDYUwwRVMwSi1nS1E1OTBReWhUY2FUd3lQTUs4anh5c2hOdjlFUTY4eU5XWnN4eGdqQXE0T2FZ",
+  "id": "Mastercard::CBMi6gFBVV95cUxNaldCNEpiYy1XZW9KeUxQandkNUVZU3U1aFRrQk5FODVGZjVfamtPX3ZwYXdKY3JhR2ZtcEt1YXh5cU1GOXUwT0lDX3IxQnV3NkQweEsyQ2Jxd3FYa1lIUWRZSWxGV2doeXFPX2RnbUJESUJNYWNEandWb0dHY0I0aTZ0UUJrN2tmNDg3NzVvNXpCNi01VTA3TDRLVmMwQjctbVBsN1o3Y2J6ZUVqb2MtdnpMRzQxbEtXNUtQM2h6Q0FMWk9oaDFwREc2NTBEM3BUYktTZXhuZXlsX0NrRzZJc2ljNjhPaFF0V3c",
   "source": "Mastercard",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-14T08:53:53.000Z",
+  "publishedAt": "2026-10-14T14:03:45.000Z",
   "title": "Mastercard, NatWest and the Home Office team up to keep students safe from scams",
   "snippet": ""
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261014PR202/ase-efficiency-data-center-3d-2026.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T08:38:50.000Z",
-  "title": "ASE expands PowerSiP platform to improve AI data center power efficiency",
-  "snippet": "ASE has expanded its PowerSiP platform with a 3D system-in-package solution aimed at vertical voltage regulator modules (VRMs) for AI data centers and high-performance computing systems. The move could matter globally…"
+  "id": "Dell Blog::https://www.dell.com/blog/the-best-workstations-for-running-agentic-ai-workflows-locally-in-2026",
+  "source": "Dell Blog",
+  "sourceType": "Competitor Newsroom",
+  "publishedAt": "2026-10-14T14:00:00.000Z",
+  "title": "The best workstations for running agentic AI workflows locally in 2026",
+  "snippet": ""
  },
  {
-  "id": "PYMNTS Data::CBMinwFBVV95cUxNU2k5QVNteF9GTGVjamcyci0welY1VVBMandDQkdiUlJZTjJINWxtbmJDQVl1bkZhUHBPRVpZSWU1SVVtVFlZT2dFVWIwQ2diMXRGdXI4cE9sQVRrbk1RR01HS2VzcGIwUjlXdGFLTjV5RVM0dzFTeGlIUVpEWVNZbFE2dEMwRlk1blc5YXBYM0RVdzdkdHdSQ3JXTV93cW8",
-  "source": "PYMNTS Data",
+  "id": "TWICE::https://www.twice.com/?p=166554",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-14T13:01:29.000Z",
+  "title": "BVIO’s Violoop Wants To Turn Any Computer Into An Agentic AI PC",
+  "snippet": "Device takes a hardware-first approach to AI agents, promising to work across applications, understand what is happening on screen and take action while keeping the user in control"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=166565",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-14T13:01:27.000Z",
+  "title": "LG SIGNATURE Unveils Three Appliance Collections At Guggenheim",
+  "snippet": "Iconic, Seamless and Tailored collections emphasize design and technology"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=166549",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-14T13:00:55.000Z",
+  "title": "AI, Robotics And Next-Generation Electronics Take Center Stage At Hong Kong Electronics Fair 2026",
+  "snippet": "The HKTDC Hong Kong Electronics Fair (Autumn Edition) 2026 and electronicAsia 2026 will take place October 13–16"
+ },
+ {
+  "id": "Global Marketplaces::CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU",
+  "source": "Global Marketplaces",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-13T01:41:00.000Z",
+  "title": "World stocks dip on AI spending concerns; Brent settles lower",
+  "snippet": ""
+ },
+ {
+  "id": "Circana::CBMiggFBVV95cUxNYm83UENnYTR4c2J0WjczekNDbk5DN3FCZy1MWjRwWDdJLTdBbTdBZkdreHRHWEl0MWViS29NMGRZeG9nV093cS1kVkYwcWVCZFFuTFhicGJvc1EwOVBPWmtld1U4OTA5MndCUUZSYnd3UF9wRjA4VGRRZ3BIOUptZlpB",
+  "source": "Circana",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-14T08:03:38.000Z",
-  "title": "33% of US Shoppers Use Digital Wallets Online",
-  "snippet": ""
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL214/apple-iphone-china-smartphone-market-sales.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T07:54:59.000Z",
-  "title": "China's smartphone slump: Can Apple's new lineup light a spark?",
-  "snippet": "China's smartphone market faces dual pressures as weakening consumer spending and rising component costs continue to weigh on the handset sector. According to third-quarter data from market research firm IDC, nationwide…"
- },
- {
-  "id": "Gartner::CBMivgJBVV95cUxNdDQ5Y0JkT0RHTDFISm1hN3Ffbm9odGFpQm9Fd19KV3JXbDRNODV3VjZrbGRrZmVMbHlrQ011TGllUVRWeFNzN2QzOXl4U2RIZWNCajdmRFQtTEFYdjZTY1Jadm1FSzlEdVF0THljLWxlUnBmNU0xdVkySDJpZ1F4b3pLMDB2MUc1dVAtWDBub0l2YXBsQXZ6TzZGSlVYdG1hNGs1TnRSb1lNT0gzOGlVd1kxbnZ0cE9lUlM4SGZTZ3ppdDhMWjdzMF9fX25Gb2dSeVpVSU9CQ2NrX29HZmpPUUQ2VzRfWV83T21GNzdQNGtsNVNRcEg3Y0h1czBzOGg5cXBzd29MU0tXMGdLLVJaMWlhSnZJZExkS0tyZUZPM3JtRHh4eUtfUEt1LUdvLUZNNlRuc1JQOHdVSlFvd0E",
-  "source": "Gartner",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-10-14T07:39:05.000Z",
-  "title": "Gartner Says Over $3.5 Trillion of AI Infrastructure Spending Could Be Exposed to Impairment by the End of 2030",
-  "snippet": ""
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/beyond-discounts-what-will-drive-the-next-phase-of-indias-online-grocery-growth/134935710",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-14T07:31:46.000Z",
-  "title": "Beyond discounts: What will drive the next phase of India’s online grocery growth?",
-  "snippet": "The scale of this shift is evident in the numbers. Data from Bain & Company and Flipkart’s e-retail report underscores this reality, revealing that quick commerce accounted for more than two-thirds of India’s e-grocery…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL213/equipment-hbm4-sk-hynix-2027-investment.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T07:25:32.000Z",
-  "title": "SK Hynix HBM4 equipment installations reportedly face partial deferral to 2027",
-  "snippet": "Some back-end manufacturing equipment intended for SK Hynix's sixth-generation high-bandwidth memory (HBM4) production may be deferred from the second half of 2026 into 2027, raising questions about the chipmaker's…"
- },
- {
-  "id": "Inc42::https://inc42.com/?p=576026",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T06:20:48.000Z",
-  "title": "Circle Raises ₹25 Cr To Expand Its Pre-Owned Goods Marketplace Beyond Bengaluru",
-  "snippet": "Pre-owned goods marketplace Circle has raised ₹25 Cr (about $2.6 Mn) in a seed funding round led by Nexus Venture…"
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/small-pains-inflation-squeeze-likely-to-choke-fmcg-volume-growth-again/134933359",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-14T05:36:27.000Z",
-  "title": "'Small' pains: Inflation squeeze likely to choke FMCG volume growth again",
-  "snippet": "India's fast-moving consumer goods sector is under pressure as inflation reshapes how consumers spend their money. Rather than splurging on high-end products, buyers are preferring smaller, budget-friendly options. Data…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL207/jcet-packaging-growth-2026-demand.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T05:17:58.000Z",
-  "title": "JCET redirects Korean factories towards AI to counter weak smartphone growth",
-  "snippet": "JCET is directing most of its increased capital spending towards advanced packaging, modules and testing while reorganising its two South Korean factories to meet AI infrastructure demand. The company expects benefits…"
- },
- {
-  "id": "TrendForce::CBMi7gFBVV95cUxNbkpxT2FDeTlyRHhxdk1WSjdxWERqeU8yc2lFOGZzVGV6VEo0d3dvQ2xjRnY5OGMwdWlRMkJMVGlWbERSWWN2c0Z0a2ZKd0VoSllYbEtKd19abU9xM2ZXTW9NUjFIdERzX0h3S0dYM0FYeVFvNlBWakMycFJzWFdfZ2NQT1V6dWltekhvcFlFRFBIQmNDNUw5ME1JTXU4dFRPTG8zb3FpSHoxWmRzVmd0MXpzajkzcDhTV3RJV2Qwb1NuYmZZMFByOHJyOXZ4TGdSQnNyUzk0NzQyVlo3SkFUdEk2Xzk4TFR0TklrWWt3",
-  "source": "TrendForce",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-10-14T05:14:38.000Z",
-  "title": "[News] SEMI Sees Americas Fab Tool Spending Double to US$40.6B by 2029 as TSMC, Intel, Micron, Samsung Expand",
-  "snippet": ""
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261014PD210/broadcom-packaging-materials-asic-performance.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T04:11:30.000Z",
-  "title": "Broadcom executive says chipmakers must tackle packaging, power limits together",
-  "snippet": "Broadcom's Frank Ostojic said semiconductor firms need joint innovation across equipment, materials, and design to overcome bottlenecks that affect AI chips worldwide. He warned that die size, packaging, power delivery…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL208/samsung-amd-cxl-ai-server-bandwidth.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T04:04:18.000Z",
-  "title": "Samsung, AMD validate CXL memory for AI servers",
-  "snippet": "Samsung Electronics and AMD have collaborated to validate Compute Express Link (CXL) memory technology designed to expand capacity and bandwidth for AI servers, as Samsung broadens its AI infrastructure strategy beyond…"
- },
- {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76266",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-14T01:46:00.000Z",
-  "title": "Shopify report suggests AI is becoming a major retail discovery channel",
-  "snippet": "AI-driven product discovery is delivering significantly stronger conversion rates than traditional search, according to new data from Shopify. The post Shopify report suggests AI is becoming a major retail discovery…"
- },
- {
-  "id": "PYMNTS Data::CBMinwFBVV95cUxNTXRUd21Pd3BpaEdDSGgyMHA0VFpiaFhLb0FNZVlXeFYzdnlvZU5uYjdkX002T05kOUUtWjRKQk5XZWZFTWp4UVlzWl9OLVJncFoybFJkWnVwV0ttNzdPMUU2bUctNHAtVmgwZllwN2xLLUZoOTNCLXRTSEJGc1JaYnl1UmlaMFN2YUJ0VmhJRnRqLXZVdF9zWENBaUdxN2M",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-09-16T07:00:00.000Z",
-  "title": "Big-Ticket Buyers Keep Retail’s Holiday Hopes Alive",
+  "publishedAt": "2026-09-17T07:00:00.000Z",
+  "title": "How Advertisers Should Prepare for Holiday 2026: Five Trends and a Media Playbook",
   "snippet": ""
  }
 ]
