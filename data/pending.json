@@ -1,34 +1,170 @@
 [
  {
-  "id": "PYMNTS Data::CBMiuwFBVV95cUxQaFIteVI0cEZ5TnZLNFJEMEx3WkJNUF94NkZoNmRLQU1NUkJQd0pWRWxwRklYOVpyUWZneUFPSkVqaWxmZXMxY096clM3ZE9FTjNFdlBpX3gxV0lCRGp1MzlFdElZeG5LazR5U096cGp2ZjdjT25fX3lxWk85N05NUkYyaUFOM3dXRHljcVNpNnJncG5MZ3EyYmlBSlR4SFNWSU1FZXhzYnU5SDBfWk1sZ0Q2enhSQ0NaaGFV",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-13T19:18:40.000Z",
-  "title": "61 Million Shoppers Now Start Their Search With AI Assistance",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMirgFBVV95cUxOWHB0NGZ5UkktWXhQRmhpMUpIbFNYZEc3akpINHFURlhFV0NYMU1LUE5yMnFzZC1jZm5hU2JsOHJKM2stNjZiWmhSR0I2MHhDdWJROFU1WHdiYnhISk5WeTRLY2lCNXZoX3NqRkNnd0p3dGpYeE9IR2dkUnZoOWNuSkJWeVFpbHpJUmtnVVFJQk1Edk9EY3lDLTFMRjdWR21RV3Eza2pzS3VVbVlOTGc",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-13T18:08:41.000Z",
-  "title": "AI Robots Are Ready for Whatever Shoppers Send Back",
-  "snippet": ""
- },
- {
-  "id": "Reuters::CBMi1gFBVV95cUxOWjdkTWFfZEhzUzhBM1M2Y3NfZVVPcnpZN1ZfUXRFNmFFOHlYZ0NXa05tdUtSSjhKaTF3Q0pDRExvSnBLcC1IWlFYMnM3b0U5U0pBR0dpYWZ5TmRyNUUzVEdneFdsLTZORXpoRFJsSnlLVmVxbjR4TXV3elRTbGU3SXZxemZXaDc2WEVMd3BaWTZNWExrd0hBUkEwYVJHQlgtb2lnVEJMSmhkaGE0clBiUU9rLUphQmZMTlk3QmYxSlhRQzJTY05zcVJudG41R0JPb1pKeUpn",
-  "source": "Reuters",
+  "id": "Modern Retail::https://www.modernretail.co/?p=173125",
+  "source": "Modern Retail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-13T14:09:52.000Z",
-  "title": "Domino's forecasts muted annual same-store sales as competition, cautious consumers weigh on demand",
+  "publishedAt": "2026-10-14T04:00:00.000Z",
+  "title": "Hint water bets on indulgent dessert flavors to recruit new customers",
+  "snippet": "This week, Hint is launching a limited-edition \"Treat Yourself\" pack of dessert-inspired, zero-calorie waters. The company is betting on indulgent, sweet flavors to drive adoption among young and new customers."
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=173148",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-14T04:00:00.000Z",
+  "title": "Bath & Body Works is testing smaller-batch fragrances through Hype Lab",
+  "snippet": "Bath & Body Works, as part of its Consumer First Formula turnaround plan, is quickly testing new small-batch fragrances through an initiative called Hype Lab. The goal is to gather more information about what cultural…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261014PD208/lg-automotive-bosch-lg-electronics-soc.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-14T03:58:43.000Z",
+  "title": "LG, Bosch team up on automotive chiplets",
+  "snippet": "LG Electronics is reportedly working with Bosch to develop automotive chiplets, a move that would mark LG's formal entry into the automotive semiconductor market if the technology reaches production and wins customers…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/d2c-brands-need-distribution-shift-to-scale-up-to-500-crore-revenue/134930656",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-14T02:56:51.000Z",
+  "title": "D2C brands need distribution shift to scale up to 500 crore revenue'",
+  "snippet": "In India, emerging direct-to-consumer (D2C) brands have the potential to generate Rs 100 crore in revenue within a span of two to four years. To escalate this figure to Rs 500 crore, these brands must broaden their…"
+ },
+ {
+  "id": "Inc42::https://inc42.com/?p=575932",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-14T02:30:57.000Z",
+  "title": "UC Hungry For Funds Again, DailyObjects’ D2C Playbook & More",
+  "snippet": "UC Taps Public Markets Again for Funds Urban Company is hungry for more cash. Despite sitting on over hundreds of…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261014PD219/king-yuan-testing-nvidia-ai-chip-texas.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-14T02:17:31.000Z",
+  "title": "KYEC, Nvidia eye Texas site for US AI chip testing plant",
+  "snippet": "King Yuan Electronics (KYEC) has signed a prepayment agreement with Nvidia to support its wholly owned US subsidiary, AeternZ, in building local testing capacity, giving Nvidia early access to AI chip testing capacity…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261014PD211/cxmt-3d-dram-production.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-14T01:35:10.000Z",
+  "title": "CXMT targets 4F&sup2; DRAM production two years ahead of Samsung, but can China close technology gap?",
+  "snippet": "China's ChangXin Memory Technologies (CXMT) plans to mass-produce next-generation 4F² DRAM by the end of 2026, potentially ahead of South Korean rivals Samsung Electronics and SK Hynix. The announcement has fuelled…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261013PD257/testing-king-yuan-nvidia-expansion-capacity.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-14T01:31:15.000Z",
+  "title": "KYEC signs advanced payment deal with Nvidia for US testing expansion",
+  "snippet": "Taiwanese semiconductor testing services provider King Yuan Electronics (KYEC) is expanding its US footprint, with its board approving an advance payment agreement with Nvidia. Under the arrangement, Nvidia will make…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261014PD201/samsung-lg-cooling-lg-electronics-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-14T01:22:51.000Z",
+  "title": "Samsung integrates AI into daily life as LG showcases smart factories, data-center cooling",
+  "snippet": "Samsung Electronics and LG Electronics showcased their AI strategies at KES 2026 in South Korea, with Samsung focusing on smartphones, TVs, and home appliances while emphasizing an integrated AI ecosystem for everyday…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL200/apple-siri-display-tv-launch.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-14T01:12:27.000Z",
+  "title": "Apple launches HomeView display, rebuilding home lineup around Siri AI",
+  "snippet": "Apple is betting that its new Siri AI assistant can revive a business in which, according to Reuters, the company \"has tinkered for a decade without major success.\" At its \"Welcome Home\" launch in New York on October…"
+ },
+ {
+  "id": "IDC::CBMiYkFVX3lxTE9BUDRoVDcxVHIxazRpbmpONGhWX0poa25WcTUwSmdmazV0Q1Z2eXJsRnhoRkVNZ2t0bmpzUmwzeFBhSk4zZDJLN3BHbWVIODNic2FaOWxnVWlkdzBsd241cmZ3",
+  "source": "IDC",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-14T01:12:23.000Z",
+  "title": "IDC TechBrief: AI-Powered Shopping Assistants in Conversational Commerce and the Compression of Retail Purchase Paths",
   "snippet": ""
  },
  {
-  "id": "NIQ::CBMiygFBVV95cUxNVXNJc3ZvUlpjbm43ejl5bXdMdFlQSElRYWZHOS0yV2J5aEFYRkxrSjNXenhiS2E1ODBnVHpBU21GU2MzRkhmRFNPSFA3VzlPaGxldUV1RG1yUlFSa3NkNWtMZ1lZV0ZTRVJ0LVhqOWxraVJHTHVveW1Bd0NaZmtaX0VpQ3VCUFpVOEtKZTFMdFdUYXpadHBkZHMwTmhIUG1EWTVPbkFHQ25qREVsY0JMU0Z3ZUxKTjhsY2toaGkxUUU1OWtxNEFzc1B3",
-  "source": "NIQ",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261013PD240/intel-tsmc-samsung-technology-development.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-14T01:09:01.000Z",
+  "title": "TSMC, Intel, Samsung seek to break AI chipmaking's next barrier through early technology integration",
+  "snippet": "Senior executives from TSMC, Intel, and Samsung Electronics outlined the growing challenges of AI chip development, spanning advanced semiconductor processes, 3D integration, and research models, at the October 12…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261013PD244/pegatron-infrastructure-design-manufacturing-development.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-14T01:04:55.000Z",
+  "title": "Pegatron showcases rack-scale AI infrastructure at OCP Global Summit",
+  "snippet": "Pegatron showcased its end-to-end AI infrastructure capabilities at the Open Compute Project (OCP) Global Summit 2026, highlighting Nvidia-based products designed to move from engineering development to large-scale…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL202/applied-materials-2030-forecast-equipment-revenue.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-14T00:58:17.000Z",
+  "title": "Applied Materials lifts 2030 margin goals, but a missing industry forecast sends a disappointing signal",
+  "snippet": "Applied Materials used its investor day to argue that AI will let it outgrow the chip equipment market through 2030. Investors, however, focused on what the company left out: a forecast for wafer fab equipment (WFE)…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261013PD245/foxconn-rubin-fit-infrastructure-liquid-cooling.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-14T00:55:34.000Z",
+  "title": "Foxconn unveils Vera Rubin AI racks, liquid-cooling systems at OCP Summit",
+  "snippet": "Foxconn Technology Group showcased rack-scale artificial intelligence infrastructure at the Open Compute Project (OCP) Global Summit 2026 in San Jose, California, combining computing platforms, high-speed interconnects…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261012PD225/revenue-pc-pmic-management-ic.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-14T00:45:43.000Z",
+  "title": "PMIC vendors diverge as PC exposure drives revenue gap",
+  "snippet": "Taiwanese power management IC (PMIC) vendors reported their September and third-quarter 2026 revenue, with results diverging as PC exposure widened the performance gap. Global Mixed-mode Technology and Leadtrend posted…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261012PD237/smartphone-sales-2026-vivo-flagship.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-14T00:42:38.000Z",
+  "title": "Smartphone costs surge as brands take divergent action",
+  "snippet": "Memory prices have surged 4–5x in recent years, and smartphone brands' efforts to pass those costs on to consumers have already hurt sales of new devices in 2026. With large-scale AI deployments continuing to drive…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261012PD244/2028-revenue-automotive-electronics-cooling-hpc.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-14T00:41:30.000Z",
+  "title": "Y.S. Tech reports liquid-cooling orders secured through early 2028",
+  "snippet": "Y.S. Tech said automotive product orders were visible through the first quarter of 2028 as the automotive electronics and technology systems maker expanded its automotive and high-performance computing (HPC) cooling…"
+ },
+ {
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363484",
+  "source": "Digital Commerce 360",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-14T00:23:53.000Z",
+  "title": "Distribution Solutions Group to acquire GradeEight, gaining Winzer and FastServ Supply operations",
+  "snippet": "Distribution Solutions Group Inc. plans to expand its sales reach — both online and in physical stores — with the acquisition of GradeEight Holdings LLC. GradeEight, which distributes maintenance, repair and operations…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/gold-price-surge-boosts-diamond-jewellery-sales-15-20-per-cent/134906716",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-13T03:11:38.000Z",
+  "title": "Gold price surge boosts diamond jewellery sales 15-20 per cent",
+  "snippet": "With gold jewellery turning increasingly pricier, consumers are looking at diamond-studded pieces in the Rs 10,000-Rs 1 lakh price bracket. Jewellers are using 18-carat, 14-carat and 9-carat gold to make diamond…"
+ },
+ {
+  "id": "Circana::CBMitwFBVV95cUxQMXh2ME9kUjM5cTZhNEZRVEtaTWhKd0YySnZKMW53YS1Ib0plaS1GUWpZTUViSEhORnZrN2lfNHp6QTNLNTNyRFBUQy1Ebi1QV2dyVFM0aERNMzVYOUczYjFVUEp3TWRLdXhnTWFZTy0zZ1ZYaTJyRGw3QnloOTQyMDdUMGo0VEQwQXRDdkdKUXJKcWFWaEx1akR0aEw1ZEZ0dTJTM1NWcW1fUXFpNkVOOFA4Q3FhZ1U",
+  "source": "Circana",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-09-25T07:00:00.000Z",
-  "title": "Delivery rollouts boost restaurants’ at-home sales but like-for-like growth slows",
+  "publishedAt": "2026-09-14T07:00:00.000Z",
+  "title": "As Spending Tightens, Consumers Choose What They Need and What They Love, Reports Circana",
   "snippet": ""
  }
 ]
