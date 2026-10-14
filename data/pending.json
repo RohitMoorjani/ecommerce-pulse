@@ -1,106 +1,58 @@
 [
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/target-upgrades-store-operations-app-employees/832989/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-14T16:35:00.000Z",
-  "title": "Target wants more efficient stores. An upgraded employee app could help.",
-  "snippet": "The retailer’s myDay app features a newly customizable home screen functionality and will soon include access to AI-backed insights."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/toy-prices-jump-holiday-season-inflation/832955/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-14T16:13:00.000Z",
-  "title": "Toy prices jump 4.2% ahead of the holidays",
-  "snippet": "The September price bump came amid a “tough” inflation report, with the overall Consumer Price Index up 0.6%."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/saks-fifth-avenue-holiday-campaign-main-character-energy-post-bankruptcy/832961/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-14T16:11:00.000Z",
-  "title": "Saks channels ‘main character energy’ for first post-bankruptcy holiday",
-  "snippet": "A few months after its parent company exited Chapter 11, a leaner Saks Fifth Avenue is out to show it still has holiday heft."
- },
- {
-  "id": "PYMNTS Data::CBMitgFBVV95cUxQMUhqWWIzSzZqdmk1RjVNTURjbUhMcEFEclJYMmRqRnZiYWJxWnI1VDJZMnpJeWVVOHFjWmVXODBCcm43eEl0ck1XMkdLc0hPVkV6TlRPYVRRWThSc09YdHNWMHFYcTdkbXJEcTFEQWVacGJFdTNzMUVLSlZJTTZ6Z0VUdFowUER6QklidFJDOGJtQWgyMXkxTFhIZHYwcjJFZVJlcXdYRGQySzdFU01LVkhjdjU5Zw",
+  "id": "PYMNTS Data::CBMisAFBVV95cUxOdmRZenR3ZXlpeUJ4VmttSjZXT3ZKeU51Uk1lOFBXVkY3THlaV0pGdGZfM01IRDN0XzFMd1FqNzk5TDZSQmF2SG9vSVloT2oxYlBpajZ2RHdTeHo2U0RIck5uUkFUc0J5MkFtQlgtd0NPNm84N2gySXpVN2ItZVZaaEtwRFN5VzE2dEN5cmNsNUUxR2tadnFFb0J1MWhvdWY5MTg2NkdQcEh5YjhUVDU2TQ",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-14T15:48:38.000Z",
-  "title": "Bank of America Consumers Boost Spending 8% as Digital Banking Deepens",
+  "publishedAt": "2026-10-14T21:29:38.000Z",
+  "title": "Fed Finds Consumer Spending Holding as Confidence Slips",
   "snippet": ""
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/moodys-retail-apparel-outlook-boosted-tariff-refunds/832964/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-14T15:27:00.000Z",
-  "title": "Moody’s upgrades retail and apparel outlook as tariffs ease",
-  "snippet": "The firm now expects “solid household finances” to lead to more stability in the sector, although rising energy costs and geopolitical risks are still a factor."
- },
- {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76270",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-14T15:20:28.000Z",
-  "title": "How poor product data could make retailers invisible to AI shoppers",
-  "snippet": "Product data is the critical foundation of agentic shopping – that is, autonomous AI agents finding, evaluating and purchasing products on behalf of humans. The post How poor product data could make retailers invisible…"
- },
- {
-  "id": "Mastercard::CBMi6gFBVV95cUxNaldCNEpiYy1XZW9KeUxQandkNUVZU3U1aFRrQk5FODVGZjVfamtPX3ZwYXdKY3JhR2ZtcEt1YXh5cU1GOXUwT0lDX3IxQnV3NkQweEsyQ2Jxd3FYa1lIUWRZSWxGV2doeXFPX2RnbUJESUJNYWNEandWb0dHY0I0aTZ0UUJrN2tmNDg3NzVvNXpCNi01VTA3TDRLVmMwQjctbVBsN1o3Y2J6ZUVqb2MtdnpMRzQxbEtXNUtQM2h6Q0FMWk9oaDFwREc2NTBEM3BUYktTZXhuZXlsX0NrRzZJc2ljNjhPaFF0V3c",
-  "source": "Mastercard",
+  "id": "PYMNTS Data::CBMikwFBVV95cUxPT3FreGpQQk12SjU3MkZodEU5LWEtbGd2NzV3YVVoQThrMGtKWDRLUnY2TXYtU1lzSkExOEZuYXlKYk9hWmZJbXV4d3NNZXVIUmRYLTNZX2tFYnhBbko0QW9oUTdlOWdLMG1GV2FFeEhGamhiN2twSVlNVWpPcFg1ZU93M2lheElZSWZmU3U2eVNxMDg",
+  "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-14T14:03:45.000Z",
-  "title": "Mastercard, NatWest and the Home Office team up to keep students safe from scams",
+  "publishedAt": "2026-10-14T20:14:15.000Z",
+  "title": "Shipping Data Could Decide the Next Small Business Loan",
   "snippet": ""
  },
  {
-  "id": "Dell Blog::https://www.dell.com/blog/the-best-workstations-for-running-agentic-ai-workflows-locally-in-2026",
-  "source": "Dell Blog",
+  "id": "PYMNTS Data::CBMinAFBVV95cUxQWXRzaUdxSkNrUk82Tkc3eUc3MzNuYUpfRlhVdW54aXdfaDJOMjdZWFQ5azZsVnlqWl92OV9OVFpvanhrekpxYU1vOWZrOXF4N3N1WnM3V0xYVm4wTnB3U2w0NHhGcFhIeFJ1MTFoYUY4WlRrb1RBT1ZhMjRLcTBaR1dkUjBlTDZaRExOUjJOcGQyRkhkV0N3MFcydHc",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-14T18:13:38.000Z",
+  "title": "Gasoline Surge Tests Consumers With Little Left in the Tank",
+  "snippet": ""
+ },
+ {
+  "id": "Apple Newsroom::https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
+  "source": "Apple Newsroom",
   "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-10-14T14:00:00.000Z",
-  "title": "The best workstations for running agentic AI workflows locally in 2026",
+  "publishedAt": "2026-10-14T17:39:29.065Z",
+  "title": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
+  "snippet": "Bünyamin Aydın brought together Turkish heritage, rock influences, and futurism for a landmark fashion show in Cappadocia shot on iPhone 18 Pro Max."
+ },
+ {
+  "id": "Reuters::CBMiywFBVV95cUxQVUc1NlRfWEZfX1BJelMzUWl3R1VCajlweDBxX3M0bjUwMW1Yc1hLd2ZXT2hENnlJaUlXNldqU3Y5MUhmbXktdl9vMktQdFZtZVQxZnB5a0FxY1kxX05YbnVrMHlzZjZmWjFlanFINGhPN1lrUjM1ZGpFejZaZDR5bEF5ZUVaMHJWNlZKNTUyd2I3ZWFIT1NzYTZ6WkxSVGluWjgzUDRJQ2FnX2hUZTlhV085NWZXOVFPeGt0ZzBqcUUzME9PT1gtU1RQOA",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-13T15:07:44.000Z",
+  "title": "French ministries' pension costs drain public service spending, report says",
   "snippet": ""
  },
  {
-  "id": "TWICE::https://www.twice.com/?p=166554",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-14T13:01:29.000Z",
-  "title": "BVIO’s Violoop Wants To Turn Any Computer Into An Agentic AI PC",
-  "snippet": "Device takes a hardware-first approach to AI agents, promising to work across applications, understand what is happening on screen and take action while keeping the user in control"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166565",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-14T13:01:27.000Z",
-  "title": "LG SIGNATURE Unveils Three Appliance Collections At Guggenheim",
-  "snippet": "Iconic, Seamless and Tailored collections emphasize design and technology"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166549",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-14T13:00:55.000Z",
-  "title": "AI, Robotics And Next-Generation Electronics Take Center Stage At Hong Kong Electronics Fair 2026",
-  "snippet": "The HKTDC Hong Kong Electronics Fair (Autumn Edition) 2026 and electronicAsia 2026 will take place October 13–16"
- },
- {
-  "id": "Global Marketplaces::CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU",
-  "source": "Global Marketplaces",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-13T01:41:00.000Z",
-  "title": "World stocks dip on AI spending concerns; Brent settles lower",
-  "snippet": ""
- },
- {
-  "id": "Circana::CBMiggFBVV95cUxNYm83UENnYTR4c2J0WjczekNDbk5DN3FCZy1MWjRwWDdJLTdBbTdBZkdreHRHWEl0MWViS29NMGRZeG9nV093cS1kVkYwcWVCZFFuTFhicGJvc1EwOVBPWmtld1U4OTA5MndCUUZSYnd3UF9wRjA4VGRRZ3BIOUptZlpB",
-  "source": "Circana",
+  "id": "PYMNTS Data::CBMiqAFBVV95cUxPZ0VKSTN1MkZTcFVCcW91YzFfb3c0SGhLRUh3aTJoN2h5cFZZUGpEY0ROS2VCbDZxcUY3dFJGMFhpMmVnS2s0YnBnVGFjMFJQVVFBUUJSek0xLXc0cFhJTHk0M2ZsekVpVEFiXzNxNzROZzVwVGNYUDhMVmZCS2h5ZmdVeGYyN0x1MzhBOFI2dnhGWWpOalg3Zy1kYUpHdW1CVGtNRE5DS1o",
+  "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-09-17T07:00:00.000Z",
-  "title": "How Advertisers Should Prepare for Holiday 2026: Five Trends and a Media Playbook",
+  "publishedAt": "2026-09-16T07:00:00.000Z",
+  "title": "AI Moves Into Brazil’s Everyday Shopping Journey",
+  "snippet": ""
+ },
+ {
+  "id": "NIQ::CBMisAFBVV95cUxQOGRKb0Q0N1JnSGl3SVVHQmpBUXgzZWlzZ3R0ZkZISVcwMkR6emE3ejljYUxPNWJNTi1UMjFiSE1rRkx0S04tMFpwbUdKSHROVm1qOXMzMTFGblQ3cWRIYm5sMmROVlFQMUpOaW9YaUplQXRHaTg0d295NGFjVlVfd2lhVjBueHpjWnU3UWxpazRiZ3FibnhCZFRxYzVLSENxcXp5dENGY0Z5Q21yaDUyUg",
+  "source": "NIQ",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-09-15T07:00:00.000Z",
+  "title": "​​​Summer slowdown sparks a September reset in UK grocery shopping",
   "snippet": ""
  }
 ]
