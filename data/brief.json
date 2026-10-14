@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T00:50:10.984Z",
+ "updatedAt": "2026-10-14T06:51:36.975Z",
  "title": "Shopping starts with AI; our store must be agent-ready as PCs shrink",
  "summary": "61M shoppers start searches with AI (PYMNTS), 55% use it in discovery (NIQ); HP launched an agentic web platform; TikTok and Newegg added agent or one-click checkout. Q3 PC shipments fell 22.4% (Gartner), 21% (Omdia).",
  "points": [
@@ -25,13 +25,13 @@
    ]
   },
   {
-   "headline": "PC shipments are down more than 20% in Q3 as component costs rise",
-   "detail": "Gartner reports a 22.4% fall and Omdia 21%, with component costs lifting prices. We should plan pricing, promotions and stock for a smaller, costlier PC market.",
+   "headline": "PC shipments fell 20%+ in Q3 as memory and component costs rise",
+   "detail": "Gartner reports a 22.4% fall and Omdia 21%; memory prices up 4-5x are already hurting phone sales. We should plan pricing, promotions and stock for a smaller, costlier PC market.",
    "segment": "pc",
    "storyIds": [
     "Gartner::CBMimgJBVV95cUxPUE8xYThKVU9OOUhIaUF1T3hwM0ItRVZ2V05wei15d0gwMWpwVm0zZm90c2k4dUZzcXdyc1BNdXB4eVJ4TGQzampxVG9ZRlBBTjVZRmhvNldLSzVHNDI0b1AtZEhHY0g2TkdwckFfRjQxMHBpX0FCYXBHOWFnZ2ZoSnAyV0o2cFdqYWp2alJsYVI1RWxydnhicERwLWY5XzJnN1VNX2ctUC1VMEI0YUhJMU1vU0JzdFFtdlRqaWFHVDZjS0NrQVdSZWtWZ1lGMFpHNzA2VHA1d0ZmeW04cGlyaWhBX0FWMndzOUtHRnpqM1hreklMTTgzeWJrQ0ZZaXAtQzNpcXR3U0JleEp0U05kNnJNRkc2R1UzYUE",
-    "Omdia::CBMiuAFBVV95cUxQcWtQcWxmX1NLbllsQjdmdlc4ZVRQMWNfeEZ4REMwUFpHX2RHTEdSZHFYQ3pvX2xyMlh2ZnRNeFV2ZEhMVlpJVy0yUGtFZE1OQzVoQTBYbzZxdUVEdDlCSHNLd2dnc29oWGVMck5Nb2hIRWVCdkVjNnE2Ry1FWmluaC1xSDRIYmFmY3dxTi1yWFY2aXItTWd1T3FHMWVwdDktcGhNU2l1QWg3UnJrVHFzSGltMDEzMTJD",
-    "DigiTimes::https://www.digitimes.com/news/a20261013PD229/pc-shipments-inventory-market-demand.html"
+    "DigiTimes::https://www.digitimes.com/news/a20261013PD229/pc-shipments-inventory-market-demand.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261012PD237/smartphone-sales-2026-vivo-flagship.html"
    ]
   },
   {

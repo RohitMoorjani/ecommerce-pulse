@@ -2236,5 +2236,119 @@
  "NIQ::CBMiygFBVV95cUxNVXNJc3ZvUlpjbm43ejl5bXdMdFlQSElRYWZHOS0yV2J5aEFYRkxrSjNXenhiS2E1ODBnVHpBU21GU2MzRkhmRFNPSFA3VzlPaGxldUV1RG1yUlFSa3NkNWtMZ1lZV0ZTRVJ0LVhqOWxraVJHTHVveW1Bd0NaZmtaX0VpQ3VCUFpVOEtKZTFMdFdUYXpadHBkZHMwTmhIUG1EWTVPbkFHQ25qREVsY0JMU0Z3ZUxKTjhsY2toaGkxUUU1OWtxNEFzc1B3": {
   "keep": false,
   "publishedAt": "2026-09-25T07:00:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173125": {
+  "keep": false,
+  "publishedAt": "2026-10-14T04:00:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173148": {
+  "keep": false,
+  "publishedAt": "2026-10-14T04:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261014PD208/lg-automotive-bosch-lg-electronics-soc.html": {
+  "keep": false,
+  "publishedAt": "2026-10-14T03:58:43.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/d2c-brands-need-distribution-shift-to-scale-up-to-500-crore-revenue/134930656": {
+  "keep": false,
+  "publishedAt": "2026-10-14T02:56:51.000Z"
+ },
+ "Inc42::https://inc42.com/?p=575932": {
+  "keep": false,
+  "publishedAt": "2026-10-14T02:30:57.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261014PD219/king-yuan-testing-nvidia-ai-chip-texas.html": {
+  "keep": false,
+  "publishedAt": "2026-10-14T02:17:31.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261014PD211/cxmt-3d-dram-production.html": {
+  "keep": false,
+  "publishedAt": "2026-10-14T01:35:10.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261013PD257/testing-king-yuan-nvidia-expansion-capacity.html": {
+  "keep": false,
+  "publishedAt": "2026-10-14T01:31:15.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261014PD201/samsung-lg-cooling-lg-electronics-2026.html": {
+  "keep": false,
+  "publishedAt": "2026-10-14T01:22:51.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261014VL200/apple-siri-display-tv-launch.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Apple launches HomeView display, rebuilding its home lineup around Siri AI",
+  "short_headline": "Apple launches Siri-led HomeView display",
+  "takeaway": "Apple is extending AI-led devices into a new home category; we should watch how it is sold online and through which channels.",
+  "importance": 2,
+  "content_type": "announcement",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-10-14T01:12:27.000Z"
+ },
+ "IDC::CBMiYkFVX3lxTE9BUDRoVDcxVHIxazRpbmpONGhWX0poa25WcTUwSmdmazV0Q1Z2eXJsRnhoRkVNZ2t0bmpzUmwzeFBhSk4zZDJLN3BHbWVIODNic2FaOWxnVWlkdzBsd241cmZ3": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "IDC: AI shopping assistants are compressing retail purchase paths",
+  "short_headline": "IDC: AI assistants shorten purchase paths",
+  "takeaway": "If assistants shorten the path to purchase, our product data and offers must be readable by them, not only by shoppers on our store.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-14T01:12:23.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261013PD240/intel-tsmc-samsung-technology-development.html": {
+  "keep": false,
+  "publishedAt": "2026-10-14T01:09:01.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261013PD244/pegatron-infrastructure-design-manufacturing-development.html": {
+  "keep": false,
+  "publishedAt": "2026-10-14T01:04:55.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261014VL202/applied-materials-2030-forecast-equipment-revenue.html": {
+  "keep": false,
+  "publishedAt": "2026-10-14T00:58:17.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261013PD245/foxconn-rubin-fit-infrastructure-liquid-cooling.html": {
+  "keep": false,
+  "publishedAt": "2026-10-14T00:55:34.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261012PD225/revenue-pc-pmic-management-ic.html": {
+  "keep": false,
+  "publishedAt": "2026-10-14T00:45:43.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261012PD237/smartphone-sales-2026-vivo-flagship.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Memory prices up 4-5x hit smartphone sales as brands diverge on passing on costs",
+  "short_headline": "Memory costs hurt device sales as brands diverge",
+  "takeaway": "The memory squeeze that is hurting phone demand could hit PC pricing too, so we should plan pricing and promotions around component costs.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-14T00:42:38.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261012PD244/2028-revenue-automotive-electronics-cooling-hpc.html": {
+  "keep": false,
+  "publishedAt": "2026-10-14T00:41:30.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363484": {
+  "keep": false,
+  "publishedAt": "2026-10-14T00:23:53.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/gold-price-surge-boosts-diamond-jewellery-sales-15-20-per-cent/134906716": {
+  "keep": false,
+  "publishedAt": "2026-10-13T03:11:38.000Z"
+ },
+ "Circana::CBMitwFBVV95cUxQMXh2ME9kUjM5cTZhNEZRVEtaTWhKd0YySnZKMW53YS1Ib0plaS1GUWpZTUViSEhORnZrN2lfNHp6QTNLNTNyRFBUQy1Ebi1QV2dyVFM0aERNMzVYOUczYjFVUEp3TWRLdXhnTWFZTy0zZ1ZYaTJyRGw3QnloOTQyMDdUMGo0VEQwQXRDdkdKUXJKcWFWaEx1akR0aEw1ZEZ0dTJTM1NWcW1fUXFpNkVOOFA4Q3FhZ1U": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Circana: tighter spending pushes shoppers to buy what they need and what they love",
+  "short_headline": "Circana: shoppers split needs from wants",
+  "takeaway": "Shoppers are prioritising essentials and favourites, so we should sharpen value messaging and highlight what makes our products worth the spend.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-09-14T07:00:00.000Z"
  }
 }
