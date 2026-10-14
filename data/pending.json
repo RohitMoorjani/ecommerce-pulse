@@ -1,170 +1,162 @@
 [
  {
-  "id": "Modern Retail::https://www.modernretail.co/?p=173125",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-14T04:00:00.000Z",
-  "title": "Hint water bets on indulgent dessert flavors to recruit new customers",
-  "snippet": "This week, Hint is launching a limited-edition \"Treat Yourself\" pack of dessert-inspired, zero-calorie waters. The company is betting on indulgent, sweet flavors to drive adoption among young and new customers."
- },
- {
-  "id": "Modern Retail::https://www.modernretail.co/?p=173148",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-14T04:00:00.000Z",
-  "title": "Bath & Body Works is testing smaller-batch fragrances through Hype Lab",
-  "snippet": "Bath & Body Works, as part of its Consumer First Formula turnaround plan, is quickly testing new small-batch fragrances through an initiative called Hype Lab. The goal is to gather more information about what cultural…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261014PD208/lg-automotive-bosch-lg-electronics-soc.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T03:58:43.000Z",
-  "title": "LG, Bosch team up on automotive chiplets",
-  "snippet": "LG Electronics is reportedly working with Bosch to develop automotive chiplets, a move that would mark LG's formal entry into the automotive semiconductor market if the technology reaches production and wins customers…"
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/d2c-brands-need-distribution-shift-to-scale-up-to-500-crore-revenue/134930656",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-14T02:56:51.000Z",
-  "title": "D2C brands need distribution shift to scale up to 500 crore revenue'",
-  "snippet": "In India, emerging direct-to-consumer (D2C) brands have the potential to generate Rs 100 crore in revenue within a span of two to four years. To escalate this figure to Rs 500 crore, these brands must broaden their…"
- },
- {
-  "id": "Inc42::https://inc42.com/?p=575932",
+  "id": "Inc42::https://inc42.com/?p=576263",
   "source": "Inc42",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T02:30:57.000Z",
-  "title": "UC Hungry For Funds Again, DailyObjects’ D2C Playbook & More",
-  "snippet": "UC Taps Public Markets Again for Funds Urban Company is hungry for more cash. Despite sitting on over hundreds of…"
+  "publishedAt": "2026-10-14T11:16:24.000Z",
+  "title": "The Stack Raises ₹21.5 Cr To Broaden Its Supplements Portfolio",
+  "snippet": "D2C supplement brand The Stack has raised ₹21.5 Cr ($2.2 Mn) in fresh capital to bolster its R&D and expand…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261014PD219/king-yuan-testing-nvidia-ai-chip-texas.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T02:17:31.000Z",
-  "title": "KYEC, Nvidia eye Texas site for US AI chip testing plant",
-  "snippet": "King Yuan Electronics (KYEC) has signed a prepayment agreement with Nvidia to support its wholly owned US subsidiary, AeternZ, in building local testing capacity, giving Nvidia early access to AI chip testing capacity…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261014PD211/cxmt-3d-dram-production.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T01:35:10.000Z",
-  "title": "CXMT targets 4F&sup2; DRAM production two years ahead of Samsung, but can China close technology gap?",
-  "snippet": "China's ChangXin Memory Technologies (CXMT) plans to mass-produce next-generation 4F² DRAM by the end of 2026, potentially ahead of South Korean rivals Samsung Electronics and SK Hynix. The announcement has fuelled…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261013PD257/testing-king-yuan-nvidia-expansion-capacity.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T01:31:15.000Z",
-  "title": "KYEC signs advanced payment deal with Nvidia for US testing expansion",
-  "snippet": "Taiwanese semiconductor testing services provider King Yuan Electronics (KYEC) is expanding its US footprint, with its board approving an advance payment agreement with Nvidia. Under the arrangement, Nvidia will make…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261014PD201/samsung-lg-cooling-lg-electronics-2026.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T01:22:51.000Z",
-  "title": "Samsung integrates AI into daily life as LG showcases smart factories, data-center cooling",
-  "snippet": "Samsung Electronics and LG Electronics showcased their AI strategies at KES 2026 in South Korea, with Samsung focusing on smartphones, TVs, and home appliances while emphasizing an integrated AI ecosystem for everyday…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL200/apple-siri-display-tv-launch.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T01:12:27.000Z",
-  "title": "Apple launches HomeView display, rebuilding home lineup around Siri AI",
-  "snippet": "Apple is betting that its new Siri AI assistant can revive a business in which, according to Reuters, the company \"has tinkered for a decade without major success.\" At its \"Welcome Home\" launch in New York on October…"
- },
- {
-  "id": "IDC::CBMiYkFVX3lxTE9BUDRoVDcxVHIxazRpbmpONGhWX0poa25WcTUwSmdmazV0Q1Z2eXJsRnhoRkVNZ2t0bmpzUmwzeFBhSk4zZDJLN3BHbWVIODNic2FaOWxnVWlkdzBsd241cmZ3",
-  "source": "IDC",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-10-14T01:12:23.000Z",
-  "title": "IDC TechBrief: AI-Powered Shopping Assistants in Conversational Commerce and the Compression of Retail Purchase Paths",
+  "id": "Retail TouchPoints::CBMivwFBVV95cUxQOVJuTDM0R19mN3g0bnZfbkhxTFVva2xGOENHUDJ4a1U4amEyRFFyN0daUnM4VnlHS3FRQWVJb2RyVnRPYW4tLUxDb09sOTNPWVJIVkF3VnozUllGSV9KLWEtZ3pfRW9xQlhQM0prWHpPUkRzVUliTllKMTctYUpZY3RUdkkycDNhdEZaRDNuOXNydGdBaVpjT0E3Uk5TR2dtbmNrZGNzNmc5Q0puNDdGMUFfUFRxcjVWNUt0QXdfQQ",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-14T11:03:49.000Z",
+  "title": "The Great Destocking Is About to Meet Its First Peak Season",
   "snippet": ""
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261013PD240/intel-tsmc-samsung-technology-development.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T01:09:01.000Z",
-  "title": "TSMC, Intel, Samsung seek to break AI chipmaking's next barrier through early technology integration",
-  "snippet": "Senior executives from TSMC, Intel, and Samsung Electronics outlined the growing challenges of AI chip development, spanning advanced semiconductor processes, 3D integration, and research models, at the October 12…"
+  "id": "Modern Retail::https://www.modernretail.co/?p=173233",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-14T10:00:00.000Z",
+  "title": "Monica + Andy expands beyond kids’ clothing and into baby care",
+  "snippet": "More than a decade after launching, kids' clothing brand Monica + Andy is embarking on its first big category expansion. Within the past month, the company has launched a line of baby-care products"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261013PD244/pegatron-infrastructure-design-manufacturing-development.html",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL216/300mm-equipment-semi-fab-2026.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T01:04:55.000Z",
-  "title": "Pegatron showcases rack-scale AI infrastructure at OCP Global Summit",
-  "snippet": "Pegatron showcased its end-to-end AI infrastructure capabilities at the Open Compute Project (OCP) Global Summit 2026, highlighting Nvidia-based products designed to move from engineering development to large-scale…"
+  "publishedAt": "2026-10-14T09:18:42.000Z",
+  "title": "300mm fab equipment spending to hit US$227 billion by 2029, SEMI says",
+  "snippet": "Global spending on 300mm front-end fab equipment is projected to reach US$149 billion in 2026, up 31% from a year earlier. Spending is expected to keep growing at double-digit rates and reach US$227 billion in 2029…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL202/applied-materials-2030-forecast-equipment-revenue.html",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL215/boe-glass-substrate-production-ipad.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T00:58:17.000Z",
-  "title": "Applied Materials lifts 2030 margin goals, but a missing industry forecast sends a disappointing signal",
-  "snippet": "Applied Materials used its investor day to argue that AI will let it outgrow the chip equipment market through 2030. Investors, however, focused on what the company left out: a forecast for wafer fab equipment (WFE)…"
+  "publishedAt": "2026-10-14T09:11:06.000Z",
+  "title": "BOE struggles with glass breakage at US$9.4 billion OLED plant as it seeks Apple iPad orders",
+  "snippet": "China's BOE has spent approximately six months trying to resolve recurring glass substrate breakage at its Gen 8.6 OLED plant in Chengdu, raising concerns about production stability as the display maker seeks approval…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261013PD245/foxconn-rubin-fit-infrastructure-liquid-cooling.html",
+  "id": "Mastercard::CBMi6wFBVV95cUxPdWV4cHZqeUMwUkZ0MFhBOUdnTklhZTExZEluWml5TWVnaUU1MFJJRVVCREVHa2VqaEp1RnRkSFoxNG5TMFAzdVdQOFE0V3cybHlyQ3RrV1hWM0EzdER0MTlWUkZMNGdmMUstSXRiT2tyZnF6NlhwQlFlYXZUMUlWNFhmSlVJUFd4RDgtVnJCZWpLaVg3dU9OSzgwdWtOMU5lQmZ0SHk5dXJMbHY3dkVLNXM5MWNDYUwwRVMwSi1nS1E1OTBReWhUY2FUd3lQTUs4anh5c2hOdjlFUTY4eU5XWnN4eGdqQXE0T2FZ",
+  "source": "Mastercard",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-14T08:53:53.000Z",
+  "title": "Mastercard, NatWest and the Home Office team up to keep students safe from scams",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261014PR202/ase-efficiency-data-center-3d-2026.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T00:55:34.000Z",
-  "title": "Foxconn unveils Vera Rubin AI racks, liquid-cooling systems at OCP Summit",
-  "snippet": "Foxconn Technology Group showcased rack-scale artificial intelligence infrastructure at the Open Compute Project (OCP) Global Summit 2026 in San Jose, California, combining computing platforms, high-speed interconnects…"
+  "publishedAt": "2026-10-14T08:38:50.000Z",
+  "title": "ASE expands PowerSiP platform to improve AI data center power efficiency",
+  "snippet": "ASE has expanded its PowerSiP platform with a 3D system-in-package solution aimed at vertical voltage regulator modules (VRMs) for AI data centers and high-performance computing systems. The move could matter globally…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261012PD225/revenue-pc-pmic-management-ic.html",
+  "id": "PYMNTS Data::CBMinwFBVV95cUxNU2k5QVNteF9GTGVjamcyci0welY1VVBMandDQkdiUlJZTjJINWxtbmJDQVl1bkZhUHBPRVpZSWU1SVVtVFlZT2dFVWIwQ2diMXRGdXI4cE9sQVRrbk1RR01HS2VzcGIwUjlXdGFLTjV5RVM0dzFTeGlIUVpEWVNZbFE2dEMwRlk1blc5YXBYM0RVdzdkdHdSQ3JXTV93cW8",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-14T08:03:38.000Z",
+  "title": "33% of US Shoppers Use Digital Wallets Online",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL214/apple-iphone-china-smartphone-market-sales.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T00:45:43.000Z",
-  "title": "PMIC vendors diverge as PC exposure drives revenue gap",
-  "snippet": "Taiwanese power management IC (PMIC) vendors reported their September and third-quarter 2026 revenue, with results diverging as PC exposure widened the performance gap. Global Mixed-mode Technology and Leadtrend posted…"
+  "publishedAt": "2026-10-14T07:54:59.000Z",
+  "title": "China's smartphone slump: Can Apple's new lineup light a spark?",
+  "snippet": "China's smartphone market faces dual pressures as weakening consumer spending and rising component costs continue to weigh on the handset sector. According to third-quarter data from market research firm IDC, nationwide…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261012PD237/smartphone-sales-2026-vivo-flagship.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T00:42:38.000Z",
-  "title": "Smartphone costs surge as brands take divergent action",
-  "snippet": "Memory prices have surged 4–5x in recent years, and smartphone brands' efforts to pass those costs on to consumers have already hurt sales of new devices in 2026. With large-scale AI deployments continuing to drive…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261012PD244/2028-revenue-automotive-electronics-cooling-hpc.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-14T00:41:30.000Z",
-  "title": "Y.S. Tech reports liquid-cooling orders secured through early 2028",
-  "snippet": "Y.S. Tech said automotive product orders were visible through the first quarter of 2028 as the automotive electronics and technology systems maker expanded its automotive and high-performance computing (HPC) cooling…"
- },
- {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363484",
-  "source": "Digital Commerce 360",
+  "id": "Gartner::CBMivgJBVV95cUxNdDQ5Y0JkT0RHTDFISm1hN3Ffbm9odGFpQm9Fd19KV3JXbDRNODV3VjZrbGRrZmVMbHlrQ011TGllUVRWeFNzN2QzOXl4U2RIZWNCajdmRFQtTEFYdjZTY1Jadm1FSzlEdVF0THljLWxlUnBmNU0xdVkySDJpZ1F4b3pLMDB2MUc1dVAtWDBub0l2YXBsQXZ6TzZGSlVYdG1hNGs1TnRSb1lNT0gzOGlVd1kxbnZ0cE9lUlM4SGZTZ3ppdDhMWjdzMF9fX25Gb2dSeVpVSU9CQ2NrX29HZmpPUUQ2VzRfWV83T21GNzdQNGtsNVNRcEg3Y0h1czBzOGg5cXBzd29MU0tXMGdLLVJaMWlhSnZJZExkS0tyZUZPM3JtRHh4eUtfUEt1LUdvLUZNNlRuc1JQOHdVSlFvd0E",
+  "source": "Gartner",
   "sourceType": "Analyst",
-  "publishedAt": "2026-10-14T00:23:53.000Z",
-  "title": "Distribution Solutions Group to acquire GradeEight, gaining Winzer and FastServ Supply operations",
-  "snippet": "Distribution Solutions Group Inc. plans to expand its sales reach — both online and in physical stores — with the acquisition of GradeEight Holdings LLC. GradeEight, which distributes maintenance, repair and operations…"
+  "publishedAt": "2026-10-14T07:39:05.000Z",
+  "title": "Gartner Says Over $3.5 Trillion of AI Infrastructure Spending Could Be Exposed to Impairment by the End of 2030",
+  "snippet": ""
  },
  {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/gold-price-surge-boosts-diamond-jewellery-sales-15-20-per-cent/134906716",
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/beyond-discounts-what-will-drive-the-next-phase-of-indias-online-grocery-growth/134935710",
   "source": "ETRetail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-13T03:11:38.000Z",
-  "title": "Gold price surge boosts diamond jewellery sales 15-20 per cent",
-  "snippet": "With gold jewellery turning increasingly pricier, consumers are looking at diamond-studded pieces in the Rs 10,000-Rs 1 lakh price bracket. Jewellers are using 18-carat, 14-carat and 9-carat gold to make diamond…"
+  "publishedAt": "2026-10-14T07:31:46.000Z",
+  "title": "Beyond discounts: What will drive the next phase of India’s online grocery growth?",
+  "snippet": "The scale of this shift is evident in the numbers. Data from Bain & Company and Flipkart’s e-retail report underscores this reality, revealing that quick commerce accounted for more than two-thirds of India’s e-grocery…"
  },
  {
-  "id": "Circana::CBMitwFBVV95cUxQMXh2ME9kUjM5cTZhNEZRVEtaTWhKd0YySnZKMW53YS1Ib0plaS1GUWpZTUViSEhORnZrN2lfNHp6QTNLNTNyRFBUQy1Ebi1QV2dyVFM0aERNMzVYOUczYjFVUEp3TWRLdXhnTWFZTy0zZ1ZYaTJyRGw3QnloOTQyMDdUMGo0VEQwQXRDdkdKUXJKcWFWaEx1akR0aEw1ZEZ0dTJTM1NWcW1fUXFpNkVOOFA4Q3FhZ1U",
-  "source": "Circana",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL213/equipment-hbm4-sk-hynix-2027-investment.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-14T07:25:32.000Z",
+  "title": "SK Hynix HBM4 equipment installations reportedly face partial deferral to 2027",
+  "snippet": "Some back-end manufacturing equipment intended for SK Hynix's sixth-generation high-bandwidth memory (HBM4) production may be deferred from the second half of 2026 into 2027, raising questions about the chipmaker's…"
+ },
+ {
+  "id": "Inc42::https://inc42.com/?p=576026",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-14T06:20:48.000Z",
+  "title": "Circle Raises ₹25 Cr To Expand Its Pre-Owned Goods Marketplace Beyond Bengaluru",
+  "snippet": "Pre-owned goods marketplace Circle has raised ₹25 Cr (about $2.6 Mn) in a seed funding round led by Nexus Venture…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/small-pains-inflation-squeeze-likely-to-choke-fmcg-volume-growth-again/134933359",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-14T05:36:27.000Z",
+  "title": "'Small' pains: Inflation squeeze likely to choke FMCG volume growth again",
+  "snippet": "India's fast-moving consumer goods sector is under pressure as inflation reshapes how consumers spend their money. Rather than splurging on high-end products, buyers are preferring smaller, budget-friendly options. Data…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL207/jcet-packaging-growth-2026-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-14T05:17:58.000Z",
+  "title": "JCET redirects Korean factories towards AI to counter weak smartphone growth",
+  "snippet": "JCET is directing most of its increased capital spending towards advanced packaging, modules and testing while reorganising its two South Korean factories to meet AI infrastructure demand. The company expects benefits…"
+ },
+ {
+  "id": "TrendForce::CBMi7gFBVV95cUxNbkpxT2FDeTlyRHhxdk1WSjdxWERqeU8yc2lFOGZzVGV6VEo0d3dvQ2xjRnY5OGMwdWlRMkJMVGlWbERSWWN2c0Z0a2ZKd0VoSllYbEtKd19abU9xM2ZXTW9NUjFIdERzX0h3S0dYM0FYeVFvNlBWakMycFJzWFdfZ2NQT1V6dWltekhvcFlFRFBIQmNDNUw5ME1JTXU4dFRPTG8zb3FpSHoxWmRzVmd0MXpzajkzcDhTV3RJV2Qwb1NuYmZZMFByOHJyOXZ4TGdSQnNyUzk0NzQyVlo3SkFUdEk2Xzk4TFR0TklrWWt3",
+  "source": "TrendForce",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-14T05:14:38.000Z",
+  "title": "[News] SEMI Sees Americas Fab Tool Spending Double to US$40.6B by 2029 as TSMC, Intel, Micron, Samsung Expand",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261014PD210/broadcom-packaging-materials-asic-performance.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-14T04:11:30.000Z",
+  "title": "Broadcom executive says chipmakers must tackle packaging, power limits together",
+  "snippet": "Broadcom's Frank Ostojic said semiconductor firms need joint innovation across equipment, materials, and design to overcome bottlenecks that affect AI chips worldwide. He warned that die size, packaging, power delivery…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL208/samsung-amd-cxl-ai-server-bandwidth.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-14T04:04:18.000Z",
+  "title": "Samsung, AMD validate CXL memory for AI servers",
+  "snippet": "Samsung Electronics and AMD have collaborated to validate Compute Express Link (CXL) memory technology designed to expand capacity and bandwidth for AI servers, as Samsung broadens its AI infrastructure strategy beyond…"
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76266",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-14T01:46:00.000Z",
+  "title": "Shopify report suggests AI is becoming a major retail discovery channel",
+  "snippet": "AI-driven product discovery is delivering significantly stronger conversion rates than traditional search, according to new data from Shopify. The post Shopify report suggests AI is becoming a major retail discovery…"
+ },
+ {
+  "id": "PYMNTS Data::CBMinwFBVV95cUxNTXRUd21Pd3BpaEdDSGgyMHA0VFpiaFhLb0FNZVlXeFYzdnlvZU5uYjdkX002T05kOUUtWjRKQk5XZWZFTWp4UVlzWl9OLVJncFoybFJkWnVwV0ttNzdPMUU2bUctNHAtVmgwZllwN2xLLUZoOTNCLXRTSEJGc1JaYnl1UmlaMFN2YUJ0VmhJRnRqLXZVdF9zWENBaUdxN2M",
+  "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-09-14T07:00:00.000Z",
-  "title": "As Spending Tightens, Consumers Choose What They Need and What They Love, Reports Circana",
+  "publishedAt": "2026-09-16T07:00:00.000Z",
+  "title": "Big-Ticket Buyers Keep Retail’s Holiday Hopes Alive",
   "snippet": ""
  }
 ]
