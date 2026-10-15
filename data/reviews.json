@@ -2659,5 +2659,108 @@
  "DigiTimes::https://www.digitimes.com/news/a20261015PD222/delta-electronics-production-taipei-technology-electricity.html": {
   "keep": false,
   "publishedAt": "2026-10-15T05:03:00.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76288": {
+  "keep": false,
+  "publishedAt": "2026-10-15T16:55:25.000Z"
+ },
+ "PYMNTS Data::CBMirgFBVV95cUxQR3NJMk8tTjBpSjg4V3c2clNlZ1RsY1lfNkI3UTRaZExlaHNVWV9HQWpiY20yV2xFZFJiYmtWSVY5VUx2alZCS3pacEZrR0hyRlUwaXZ5T3djcE9BUWptclI0NGxuVnNFcV9hRmhkdnhKa190VzZvaEtHdzdzUHVyQjRfaUszV1oxMEpfaER0MzdFLWxOTGJ5dXhYS3BhWXZieDIyRndydDdVbUh4WlE": {
+  "keep": false,
+  "publishedAt": "2026-10-15T16:29:28.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/bealls-debuts-mobile-app-marketing-campaign/832855/": {
+  "keep": false,
+  "publishedAt": "2026-10-15T16:03:00.000Z"
+ },
+ "Retail TouchPoints::CBMiogFBVV95cUxPb2k0alVGSUljVVJ0RUVuTmFzTEY0MjNQSFd4dU5IdjVMV0FhaTV6ZWhFNGoyV05GWkpjbkppbEdvZGtzUGFTd2RkZ3BUWFlFdzBCdzNSRDhpWTBhaWdyR0xwaDlrUzlZem80MFFjdTQzV3V5RUNackM3WnkwT2dCWVFaNlpqRjdnSVFpc3RBWGh4RTVubG94MnotVW4waXc1Q1E": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "NRF says 2026 holiday sales could reach $1 trillion",
+  "short_headline": "NRF: holiday sales may hit $1 trillion",
+  "takeaway": "A strong holiday forecast supports planning promotions and inventory for our store’s Cyber 5 demand.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-15T15:50:26.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/lululemon-restructures-raw-materials-team-layoffs/833106/": {
+  "keep": false,
+  "publishedAt": "2026-10-15T15:49:00.000Z"
+ },
+ "TechCrunch::https://techcrunch.com/?p=3178088": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Google’s Universal Cart shopping tool launches in the US across Search and Gemini",
+  "short_headline": "Google Universal Cart launches in the US",
+  "takeaway": "A cross-merchant cart inside Search and Gemini could shift where PC purchases start; we should check our store’s product feed readiness.",
+  "importance": 4,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-10-15T14:29:33.000Z"
+ },
+ "NRF::CBMiswFBVV95cUxPU2NrZmFPdlZGOThqN01NcWsxOTU4RVNCUFp6cXg0QlN0R3JfN0J2NXJLdGdEYlF2a0NoR1dTMHVhMUY2SmVNLWwzbmdrU0ZrTHV2QlozQlZ0cHRvVWFsYTFrLXA5RHdCbC1ZYkZGNTR1bzVXQ0x6dEZ3dk1Wam1aSVI2NXVRbUVzWDR0TlZZa3NjUGxCcVQxYkhaTmg0LXJLdTh2ekZLQ1RfajZmZXEtMlBMSQ": {
+  "keep": false,
+  "publishedAt": "2026-10-15T14:11:23.000Z"
+ },
+ "Circana::CBMixAFBVV95cUxQRl9STnBZRkJqY1EtMXB2cEJZSEc0cVZaUmYyTHkxUjlNNVJ0cUduMkZRd2ZNUG8ydUp4RENwbjNoS041aWJodVEtQkRkd0FSUnZ3Zld6RWc1bG5rYTVQX3JyaDdfN0RUUWZrb0ZiQm5xeUhBRUdGZ1ktYk8yMldpT2FPcnNNaW9hWDBac2cyanpPTmg0cDlXVDdTMDMtRlA0LU8tUnJwSVV3RzdDT1EyajdFTTA3WHZQMUxId0lZZUdiQ3lW": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Circana brings $200B in hidden marketplace demand into measurement",
+  "short_headline": "Circana measures $200B of hidden marketplace demand",
+  "takeaway": "Better visibility of marketplace sales may change how we judge channel mix between our store and marketplaces.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-15T14:03:45.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173308": {
+  "keep": false,
+  "publishedAt": "2026-10-15T14:00:00.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166552": {
+  "keep": false,
+  "publishedAt": "2026-10-15T13:01:49.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166567": {
+  "keep": false,
+  "publishedAt": "2026-10-15T13:01:32.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166603": {
+  "keep": false,
+  "publishedAt": "2026-10-15T13:00:44.000Z"
+ },
+ "Inc42::https://inc42.com/?p=576406": {
+  "keep": true,
+  "segment": "plays",
+  "headline": "Shopify to bring Shop Pay accelerated checkout to India by Q1",
+  "short_headline": "Shopify brings Shop Pay to India",
+  "takeaway": "Faster one-tap checkout in India could raise shopper expectations there; we should review our store’s checkout friction in that market.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-15T12:59:36.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/myntra-swings-to-net-loss-of-rs-579-crore-in-fy26-revenue-drops-13-per-cent/134966924": {
+  "keep": false,
+  "publishedAt": "2026-10-15T11:44:38.000Z"
+ },
+ "Reuters::CBMizAFBVV95cUxPUWVCNGhqaElYVEdtQXA1SUhOSzFvVDc2YUMxWFdDTGhUOTFIR2taTXFwbzRoM0xlZWxsYkozc0NYejhNb2VpdHZ1VDUxQkZ0ZnNjMFVtRF9GRzBMaFBBYXNzTHRGd2pxbWpweXJqY1JjNnNVd3lHTXU3bmpDQ1J1QWphUk43VEVuSXZnNmZFdzkwZHJHLU55SGU0N1I5amh5Tmt2UEs3cUxoRkFkV1k5UFlIdlpqU3pFZE0tbVNFWnR4eDFRektpeVQzWmw": {
+  "keep": false,
+  "publishedAt": "2026-10-15T10:18:56.000Z"
+ },
+ "Reuters::CBMipAFBVV95cUxOZFZsa19tQTZzTmpjeDVDenFPTGdxSTJVS1k5bTNrakxDWEtUelY1SWlDdnhNZDVoUmY1dkhoWXdJMWQtS1pjR3drMndqc0kxT00zVkM1bUIyRXM3X011cGhMaUNvbXdtUzVaNUhWWEMzOEN5Q0luZEQ3MzE5M2J2N2h3Mko4eUg3NkZJY2pBbG03UzRwVGs5MVl4dWxWbjNJeVN0OA": {
+  "keep": false,
+  "publishedAt": "2026-10-14T05:07:00.000Z"
+ },
+ "PYMNTS Data::CBMirwFBVV95cUxQckFmdndkOW8wRlRvaTFheHZmLVlGSl9ibWNacUFUUG40VmNNOE1nai1BOXVmaGh1MU5HbDJNSmx3SFlXdTJ2VG1aQ1VVMFRNVzdfS0dUZHRCaXB5RjRGSXh1b1RrRkFLMUZHVjRQSmZiUFdrdmJXeHpvY1RxZHdNVmwzTXRNaHdodzEwZ3lZNGRfSDFOR3BrVEMwWnBTRnRuTFY5Q19ldHJZblNkSWxr": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Card installment use jumps 13 points as BNPL usage holds steady",
+  "short_headline": "Card installments jump 13 points as BNPL holds",
+  "takeaway": "Shoppers are shifting toward card instalments; we should compare our store’s financing options against this.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-09-18T07:00:00.000Z"
  }
 }
