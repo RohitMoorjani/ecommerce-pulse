@@ -1,138 +1,42 @@
 [
  {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76288",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-15T16:55:25.000Z",
-  "title": "Beyond sponsored ads: how Commerce Media turns connected data into better decisions",
-  "snippet": "João Werner, CEO of VTEX Ads Platform explores the evolution of Commerce Media. The post Beyond sponsored ads: how Commerce Media turns connected data into better decisions appeared first on InternetRetailing."
- },
- {
-  "id": "PYMNTS Data::CBMirgFBVV95cUxQR3NJMk8tTjBpSjg4V3c2clNlZ1RsY1lfNkI3UTRaZExlaHNVWV9HQWpiY20yV2xFZFJiYmtWSVY5VUx2alZCS3pacEZrR0hyRlUwaXZ5T3djcE9BUWptclI0NGxuVnNFcV9hRmhkdnhKa190VzZvaEtHdzdzUHVyQjRfaUszV1oxMEpfaER0MzdFLWxOTGJ5dXhYS3BhWXZieDIyRndydDdVbUh4WlE",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-15T16:29:28.000Z",
-  "title": "Online Retail Spending Gains as Consumers Navigate Higher Prices",
-  "snippet": ""
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/bealls-debuts-mobile-app-marketing-campaign/832855/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-15T16:03:00.000Z",
-  "title": "Bealls to debut mobile app",
-  "snippet": "The app is intended to create a more connected shopping experience across channels, while also supporting the retailer’s strategy around loyalty."
- },
- {
-  "id": "Retail TouchPoints::CBMiogFBVV95cUxPb2k0alVGSUljVVJ0RUVuTmFzTEY0MjNQSFd4dU5IdjVMV0FhaTV6ZWhFNGoyV05GWkpjbkppbEdvZGtzUGFTd2RkZ3BUWFlFdzBCdzNSRDhpWTBhaWdyR0xwaDlrUzlZem80MFFjdTQzV3V5RUNackM3WnkwT2dCWVFaNlpqRjdnSVFpc3RBWGh4RTVubG94MnotVW4waXc1Q1E",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-15T15:50:26.000Z",
-  "title": "Will 2026 Holiday Sales Reach $1 Trillion? NRF Says Yes",
-  "snippet": ""
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/lululemon-restructures-raw-materials-team-layoffs/833106/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-15T15:49:00.000Z",
-  "title": "Lululemon restructures raw materials team, lays off 7 people",
-  "snippet": "The changes came in August, a spokesperson told Retail Dive, just a few weeks before the arrival of new CEO Heidi O’Neill."
- },
- {
-  "id": "TechCrunch::https://techcrunch.com/?p=3178088",
-  "source": "TechCrunch",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-15T14:29:33.000Z",
-  "title": "Google’s Universal Cart shopping tool launches in the US",
-  "snippet": "The new shopping tool is available in the U.S. across Google Search and the Gemini app."
- },
- {
-  "id": "NRF::CBMiswFBVV95cUxPU2NrZmFPdlZGOThqN01NcWsxOTU4RVNCUFp6cXg0QlN0R3JfN0J2NXJLdGdEYlF2a0NoR1dTMHVhMUY2SmVNLWwzbmdrU0ZrTHV2QlozQlZ0cHRvVWFsYTFrLXA5RHdCbC1ZYkZGNTR1bzVXQ0x6dEZ3dk1Wam1aSVI2NXVRbUVzWDR0TlZZa3NjUGxCcVQxYkhaTmg0LXJLdTh2ekZLQ1RfajZmZXEtMlBMSQ",
-  "source": "NRF",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-15T14:11:23.000Z",
-  "title": "NRF Forecasts 2026 Holiday Sales Growth as Consumers Remain Resilient",
-  "snippet": ""
- },
- {
-  "id": "Circana::CBMixAFBVV95cUxQRl9STnBZRkJqY1EtMXB2cEJZSEc0cVZaUmYyTHkxUjlNNVJ0cUduMkZRd2ZNUG8ydUp4RENwbjNoS041aWJodVEtQkRkd0FSUnZ3Zld6RWc1bG5rYTVQX3JyaDdfN0RUUWZrb0ZiQm5xeUhBRUdGZ1ktYk8yMldpT2FPcnNNaW9hWDBac2cyanpPTmg0cDlXVDdTMDMtRlA0LU8tUnJwSVV3RzdDT1EyajdFTTA3WHZQMUxId0lZZUdiQ3lW",
-  "source": "Circana",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-15T14:03:45.000Z",
-  "title": "Circana Brings $200B in Hidden Marketplace Demand Into Measurement",
-  "snippet": ""
- },
- {
-  "id": "Modern Retail::https://www.modernretail.co/?p=173308",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-15T14:00:00.000Z",
-  "title": "Big-Box Briefing: What’s fueling Albertsons’ identity crisis as it accelerates turnaround efforts",
-  "snippet": "The grocery business has been uniquely challenging in 2026, thanks to sky-high inflation. But Albertsons' second-quarter earnings call on Tuesday was still unusually dour."
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166552",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-15T13:01:49.000Z",
-  "title": "DREO Whole-Room Heater 720S Review: A Smarter Way To Stay Warm",
-  "snippet": "Personal heating and 360-degree whole-room heating in one compact, thoughtfully designed unit"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166567",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-15T13:01:32.000Z",
-  "title": "Hisense Adds 27-Cu.-Ft. PureFlat Smart Refrigerator",
-  "snippet": "French-door model combines counter-depth design with app controls and flexible storage"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166603",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-15T13:00:44.000Z",
-  "title": "Review: Kiwibit Bird Feeder 2 Pro Sharpens Its Smart Birdwatching Game",
-  "snippet": "PDAF autofocus, HDR video and slow motion headline the upgrades, while a larger hopper and revised AI options add to the package"
- },
- {
-  "id": "Inc42::https://inc42.com/?p=576406",
+  "id": "Inc42::https://inc42.com/?p=576436",
   "source": "Inc42",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-15T12:59:36.000Z",
-  "title": "Exclusive: Shopify To Bring Accelerated Checkout Service ‘Shop Pay’ To India",
-  "snippet": "Commerce technology company Shopify is preparing to bring its accelerated checkout product, Shop Pay, to India by the first quarter…"
+  "publishedAt": "2026-10-15T20:00:47.000Z",
+  "title": "Flipkart Group FY26: Revenue Nears ₹1.5 Lakh Cr, Loss Narrows To ₹8,468 Cr",
+  "snippet": "Flipkart Group reported an 18.2% jump in consolidated revenue from operations to ₹1.45 Lakh Cr in the fiscal year 2025-26…"
  },
  {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/myntra-swings-to-net-loss-of-rs-579-crore-in-fy26-revenue-drops-13-per-cent/134966924",
-  "source": "ETRetail",
+  "id": "PYMNTS::https://www.pymnts.com/?p=4316773",
+  "source": "PYMNTS",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-15T11:44:38.000Z",
-  "title": "Myntra swings to net loss of Rs 579 crore in FY26, revenue drops 13 per cent",
-  "snippet": "Myntra was the only profitable unit within the Flipkart group in FY25. The company saw a leadership change in 2026, when CEO Nandita Sinha departed after four years at the helm. Sinha was replaced by Sharon Pais, who…"
+  "publishedAt": "2026-10-15T19:58:02.000Z",
+  "title": "Google Launches Intelligent Shopping Cart for Search and Gemini App",
+  "snippet": "Google began rolling out its Universal Cart in the United States Thursday (Oct. 15), making it available in Google Search and in the Gemini app, the company said in a Thursday blog post. Google unveiled the Universal…"
  },
  {
-  "id": "Reuters::CBMizAFBVV95cUxPUWVCNGhqaElYVEdtQXA1SUhOSzFvVDc2YUMxWFdDTGhUOTFIR2taTXFwbzRoM0xlZWxsYkozc0NYejhNb2VpdHZ1VDUxQkZ0ZnNjMFVtRF9GRzBMaFBBYXNzTHRGd2pxbWpweXJqY1JjNnNVd3lHTXU3bmpDQ1J1QWphUk43VEVuSXZnNmZFdzkwZHJHLU55SGU0N1I5amh5Tmt2UEs3cUxoRkFkV1k5UFlIdlpqU3pFZE0tbVNFWnR4eDFRektpeVQzWmw",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-15T10:18:56.000Z",
-  "title": "US toy prices surge ahead of holiday shopping season as tariffs, Iran war bite",
-  "snippet": ""
- },
- {
-  "id": "Reuters::CBMipAFBVV95cUxOZFZsa19tQTZzTmpjeDVDenFPTGdxSTJVS1k5bTNrakxDWEtUelY1SWlDdnhNZDVoUmY1dkhoWXdJMWQtS1pjR3drMndqc0kxT00zVkM1bUIyRXM3X011cGhMaUNvbXdtUzVaNUhWWEMzOEN5Q0luZEQ3MzE5M2J2N2h3Mko4eUg3NkZJY2pBbG03UzRwVGs5MVl4dWxWbjNJeVN0OA",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-14T05:07:00.000Z",
-  "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMirwFBVV95cUxQckFmdndkOW8wRlRvaTFheHZmLVlGSl9ibWNacUFUUG40VmNNOE1nai1BOXVmaGh1MU5HbDJNSmx3SFlXdTJ2VG1aQ1VVMFRNVzdfS0dUZHRCaXB5RjRGSXh1b1RrRkFLMUZHVjRQSmZiUFdrdmJXeHpvY1RxZHdNVmwzTXRNaHdodzEwZ3lZNGRfSDFOR3BrVEMwWnBTRnRuTFY5Q19ldHJZblNkSWxr",
-  "source": "PYMNTS Data",
+  "id": "Mastercard::CBMitAJBVV95cUxPWXpGN0pEUnQtTWhHRThvWk1fTUV5bDhtb0RMUzRlMnBEbkpock9md0g3S3ZxLUMxcURIYkwyS2lRbGtCX0R1eG5hc29GaFBMdk9NdllsUWxhdUNPaWJSNXVEVDd3bWtDbGJZZmZvcFpUXzh1RWZFeExIRl9Vd0hqSTcyTzNvVUxrTHZmd1lNYUlzSDM1WUZrNjUtWGltTlJfZkt4Y2JOVERtOWxTa3lOV1lMN0hXVXF6NWpZVkdON1pqanpXOE9NMXk2Tjd0Z3M2MWtCSFJodmlvVjcwYk1RRDV2TUV1dzZnN0NTUjZxN1p2dVIwbnhuWWg2OUNGbzZoR1dXOFFpZnRSTHVabkVQUHVKaHVuU3pIbmFHSUdxVGhlYjVuM0NnOHlqNUkxZlh5bE5yWQ",
+  "source": "Mastercard",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-09-18T07:00:00.000Z",
-  "title": "Card Installment Use Jumps 13 Percentage Points as BNPL Holds Steady",
+  "publishedAt": "2026-10-15T16:25:30.000Z",
+  "title": "Mastercard modernizes credit solutions for small businesses in Puerto Rico with new tools to operate, protect and grow",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS::https://www.pymnts.com/?p=4315763",
+  "source": "PYMNTS",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-15T16:13:32.000Z",
+  "title": "Online Retail Spending Gains as Consumers Navigate Higher Prices",
+  "snippet": "Online retail kept taking consumer dollars in September, extending an annual growth rate that outpaced overall retail even as inflation reduced the purchasing power behind the broader sales increase. Sales at non-store…"
+ },
+ {
+  "id": "Reuters::CBMiywFBVV95cUxQR3JpdUdPcXZSWWdYakdCZkJYZnFmcVExcXpnTlRVSW1MeW1YTGdIUXdVREZneWZXbkE5bXpxc1I3cFFYN0VTeElGOGJwTVZmWWltQlZWaldlVWJOaWVmWGZSNUFzSXBfaWpZdDNmOFFnUVdoU19zR041bTZ1cmszdWstUExFN0w0TkpHcHhudXpxLWFOcU9fQ29SdWtoTld0VkF0YmJHeTcta0RIZEtCcXFGR1JXT1NRdzg1VzNaMmUwVXQ3UFR2RWZLSQ",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-15T15:01:44.000Z",
+  "title": "US holiday sales growth to speed up as shoppers stay resilient, NRF forecasts",
   "snippet": ""
  }
 ]
