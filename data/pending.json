@@ -1,138 +1,114 @@
 [
  {
-  "id": "Modern Retail::https://www.modernretail.co/?p=173104",
+  "id": "Inc42::https://inc42.com/?p=576395",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-15T10:23:34.000Z",
+  "title": "Udaan’s FY26 Revenue Rises 13% To ₹5,134 Cr, Loss Narrows To ₹852 Cr",
+  "snippet": "B2B ecommerce unicorn Udaan’s operating revenue grew 12.6% to ₹5,134 Cr in the financial year ended March 2026 (FY26) from…"
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76283",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-15T10:02:56.000Z",
+  "title": "THG upgrades profit outlook as Myprotein partnerships drive growth",
+  "snippet": "THG has upgraded its full-year profit expectations after a stronger-than-expected third quarter, thanks to a nutrition business that continues to benefit from growing demand. The post THG upgrades profit outlook as…"
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=173262",
   "source": "Modern Retail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-15T04:00:00.000Z",
-  "title": "Why Crocs, Vera Bradley and other brands are diving into their archives for fashion inspiration",
-  "snippet": "For some fashion brands, what's old is literally new again. Here's why brands like Crocs, Vera Bradley and Express are looking to their archives for current fashion inspiration."
+  "publishedAt": "2026-10-15T10:00:00.000Z",
+  "title": "Why Bogg is moving away from its signature EVA beach bag",
+  "snippet": "Bogg is diversifying beyond the beach as it works to win over commuters, athletes and travelers with its new Go Tote."
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261015PD210/delta-electronics-data-testing-efficiency-2026.html",
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/looksmaxxing-blurs-line-between-essential-and-discretionary-for-genz-shoppers-myntra-head/134963945",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-15T09:59:02.000Z",
+  "title": "Looksmaxxing blurs line between essential and discretionary for GenZ shoppers - Myntra Head",
+  "snippet": "Myntra is seeing over 30% growth in orders and customers this year as Gen Z accounts for half its customer base. Business head Sharon Pais says fashion spending is becoming essential for young consumers, while festive…"
+ },
+ {
+  "id": "Counterpoint Research::CBMivgFBVV95cUxObDdYUjBFNDFHNVhqNkdrTzN3SjZLbF8tS1Jsc2ZWS2tCV2hzNDBEMXJFTTkzdlIwTGJBRXdzYlE5MHV2ck1uOGp3amE4RjhrZzZTaEFnNWVvS3N1UzZ6NG9KUjh0SDU0alFSeXlUSkR0ZVZBNEpaaUplcG90ZEVfMjRESXpOTGJfTTJpMklIajFrbHpSSVoxM3AtVndUbUZUNzkwQWwxMHZ1d3AzdjI3aVdwcVUxS01SeWNKQ0hn",
+  "source": "Counterpoint Research",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-15T09:48:04.000Z",
+  "title": "Meet Counterpoint Research at Lenovo Global Industry Analyst Conference 2026",
+  "snippet": ""
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76280",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-15T09:41:18.000Z",
+  "title": "Dunelm’s digital sales reach 41% of revenue as homewares retailer grows Q1 sales",
+  "snippet": "Digital channels accounted for 41% of Dunelm’s sales in the first quarter, demonstrating the strength of its omnichannel proposition. The post Dunelm’s digital sales reach 41% of revenue as homewares retailer grows Q1…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261015PD241/revenue-demand-automation-growth-equipment.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-15T03:22:00.000Z",
-  "title": "Delta Electronics' 13.8kV SST gains traction in China, with US cloud giant testing AI data centre microgrids",
-  "snippet": "Delta Electronics unveiled its prefabricated solid-state transformer (SST) DC power solution at Energy Taiwan 2026 on October 14, targeting power efficiency, deployment speed and supply resilience in AI data centres, AI…"
+  "publishedAt": "2026-10-15T08:40:58.000Z",
+  "title": "Aurotek posts record 3Q26 revenue, up 58% on automation demand",
+  "snippet": "Aurotek Corp. reported record consolidated revenue of NT$1.113 billion (US$34.7 million) in the third quarter of 2026, up 57.93% from a year earlier. Orders from semiconductor, high-end artificial intelligence (AI)…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261015VL210/idc-infrastructure-forecast-equipment-worldwide.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-15T03:14:59.000Z",
-  "title": "OCP-recognized infrastructure spending forecast to hit US$800 billion by 2029, nearly triple prior estimate",
-  "snippet": "IDC now expects worldwide spending on IT equipment recognized by the Open Compute Project (OCP) to reach about US$800 billion in 2029."
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261015VL208/shipments-smartphone-global-smartphone-apple-demand.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-15T03:00:38.000Z",
-  "title": "Memory crisis drives global smartphone shipments down 20%, deepening premium-budget divide",
-  "snippet": "Global smartphone shipments fell 20% year-on-year in the third quarter of 2026, their lowest 3Q level since 2012, as persistent DRAM and NAND shortages inflated production costs, constrained supply, and weakened demand…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261015PR200/onsemi-demand-efficiency-performance-design.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-15T02:55:00.000Z",
-  "title": "Onsemi and Sungrow deepen battery storage tie-up as demand rises for grid power",
-  "snippet": "Onsemi has said its latest EliteSiC hybrid power module is now being used in Sungrow's PowerTitan 3.0 energy storage platform, a move aimed at improving efficiency, power density, and reliability in utility-scale…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261015PD221/pc-market-lg-display-sdc-technology.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-15T02:45:00.000Z",
-  "title": "Premium PC demand fuels tandem OLED race between Samsung Display, LG Display",
-  "snippet": "Competition in the global PC market is shifting from a focus on shipment volumes of low-cost models towards premium, high-performance devices, intensifying the race in OLED display technology. Tandem OLED, which…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261015PD208/production-manufacturing-ai-server-2026-infrastructure.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-15T02:30:00.000Z",
-  "title": "StarSeeds, Kaga Electronics target December 2026 AI server production in Japan",
-  "snippet": "Kaga Electronics and AI infrastructure provider StarSeeds have signed a basic contract manufacturing agreement to produce AI servers at a partner facility in Japan, targeting mass production in December 2026."
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261015PD213/inspection-equipment-mlcc-delta-electronics-component.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-15T02:17:17.000Z",
-  "title": "South Korea's Hanwool wins Delta Electronics MLCC inspection equipment order, breaking Japanese dominance",
-  "snippet": "South Korean inspection equipment manufacturer Hanwool Semiconductor has secured an order to supply ultrasonic inspection equipment for multilayer ceramic capacitors (MLCCs) to a subsidiary of Taiwan's Delta Electronics…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261015PR202/ibm-technology-mou-startup-development.html?chid=10",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-15T02:12:25.000Z",
-  "title": "IBM, MeitY Startup Hub sign pact to boost India's deep tech startups",
-  "snippet": "IBM and MeitY Startup Hub, an initiative of India's Ministry of Electronics and Information Technology (MeitY), have signed a memorandum of understanding (MoU) to support India's deep tech startups with enterprise…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL221/dram-demand-robot-2030-samsung.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-15T01:34:10.000Z",
-  "title": "Samsung, SK Hynix stand to benefit as humanoid robot DRAM demand is forecast to jump 20-fold by 2030",
-  "snippet": "Global DRAM demand for humanoid robots is projected to increase more than 20-fold by 2030 as robot deployments expand and memory capacity per unit doubles, potentially opening a new growth market for Samsung Electronics…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL224/nvidia-hbm4-rubin-hbm-dram.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-15T01:32:09.000Z",
-  "title": "Nvidia's Rubin expected to use mostly 12-layer HBM4 despite reported 8-layer shift",
-  "snippet": "Nvidia's next-generation Rubin AI accelerators are expected to rely predominantly on 12-layer HBM4 high-bandwidth memory, despite reports that the chipmaker has asked Samsung Electronics and SK hynix to increase…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261014PD250/samsung-galaxy-ddi-demand-umc-globalfoundries.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-15T00:11:57.000Z",
-  "title": "UMC declines expedited Samsung order for Galaxy Z Fold8; GF eyed as backup DDI foundry",
-  "snippet": "Following stronger-than-expected demand for its Galaxy Z Fold8, Samsung Electronics submitted an expedited wafer production request to United Microelectronics Corporation (UMC) that was ultimately turned down. As a…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261014PD223/dell-investment-ceo-growth-demand.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-15T00:03:39.000Z",
-  "title": "Dell CEO urges AI growth without sacrificing safety",
-  "snippet": "As AI investment continues to expand, concerns are mounting over whether capital spending can translate into real revenue and whether data center construction is becoming excessive. Dell Technologies CEO Michael Dell…"
- },
- {
-  "id": "PYMNTS Data::CBMikwFBVV95cUxONXRHMkx2cGlNV29FVGNzc0tMU044ck1aVVpPTWRYeUd4ZG1JQW5WaGxOc3ZvZ2VMV1RuMF9ZMndLSDB3b2VieXV5ZzRoUzhFUTFPNWhPVFJfWDNabkRWT2gwalZoMm9JNVNMR3FwWlJuM1hWNnFJSGRVZVpTODZ4WUYzbV9IWWFGak42UGhuVWVQWWs",
+  "id": "PYMNTS Data::CBMilAFBVV95cUxQbVZHZ0JkSHFaOFZCRTE0YTJMSG1YbWxwX3hPcWdQNXNQY3hTNm5BRWZIT2w4d3pJLWc4Y3FQczFhaUxMWl9KYWlmbkF5aVYySFNwMGFSVFFhUjMtN1BPYW5NOEpqRDMxOXpxM1RGejBhbGNoZG9oZFZvc01heHdpU0gxZG5tM2NlR1AyakJLaGItTnR0",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-14T23:33:39.000Z",
-  "title": "Kohl’s Takes Its AI Gift Finder Into the Holiday Quarter",
+  "publishedAt": "2026-10-15T08:03:39.000Z",
+  "title": "BNPL Providers Look Beyond Grocery for More Wallet Share",
   "snippet": ""
  },
  {
-  "id": "Retail TouchPoints::CBMiqgFBVV95cUxPUnd6bkFOVk1FNFIzVW0wcmU1VVdyakE1QmhwVS04bDNKZm5SMThVR0JvQlhTQWFDWURwalNER2s3b0hyV0ppSGlzLVRnc3IyMXkzdjc4YjFWWERSVjJGODV2azZyN0RmckN2dTdRU2thcEhPSXJ1UjNOdmFnZDltRW9MTWlSTEN3dXZSNDZjTm9GLXNyR3ZwQko4RTJ6TWJwNnB4WkhPZkp4dw",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-14T21:44:07.000Z",
-  "title": "How Leading Brands Launch Peak Season Campaigns Faster",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL217/rrp-electronics-mumbai-packaging-chairman-testing.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-15T07:59:00.000Z",
+  "title": "India's RRP Electronics opens advanced wafer-level packaging facility in Navi Mumbai",
+  "snippet": "India's RRP Electronics has inaugurated an Advanced Wafer-Level Packaging (AWLP) facility at its semiconductor unit in Navi Mumbai, Maharashtra, adding SIM and eSIM module production and specialized testing to its…"
  },
  {
-  "id": "IDC::CBMid0FVX3lxTE5rQ0x1OGNvX0pUdVNHYnoya3hvemplcXJCbEdOU2FQYURnbDhaeGV6VTg4ZHZrNktGNk1jUEJpMEE5Y2sxdVZOaEdZWEdQaWJvT05sMUtWdWpGcDYyRUg5OTVtYTFFODFIZHowNmtwdGpwemdLRC0w",
+  "id": "IDC::CBMiakFVX3lxTE4tZVBaX2Q2VG1CVVhFMG5DSnN6QmRvMXowRGVOZ3RTWjZ2RUxndlA0Z3F6NU9TVzJPM2lNYTJfVmRfU2JHMWZtbzRvemlTQkdVakJvQy1Md0taTHhjWU9ZVWxwVjNpWldPZHc",
   "source": "IDC",
   "sourceType": "Analyst",
-  "publishedAt": "2026-10-14T09:15:37.000Z",
-  "title": "IDC Survey: The Customer Is Already Buying — What Large Energy Consumers Want from Their Energy Supplier",
+  "publishedAt": "2026-10-15T07:24:40.000Z",
+  "title": "IDC & Lenovo Executive Education Roundtable Thailand",
   "snippet": ""
  },
  {
-  "id": "PYMNTS Data::CBMinAFBVV95cUxNb3pUWUlFUHphMlgxMXFVXzlUY0NISXBpY0VZUHAybktueVVLYmxSTW9peHprY0dkcW1UME1mdTFCTlNsMUtOM2Q1VHNiS0haMVZQQkhpbFJKRUhpUV9hT2c0b1hGbndESzRhWTNUai1nbUw5ZF90TnJSaDhvM0FDNEJYeGREUTRQejhjYlBpZHk3dkFEQ0xyV2xCZ3c",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-13T16:03:36.000Z",
-  "title": "JPMorgan Card Spending Hits $539 Billion as Credit Improves",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261015VL219/samsung-dram-development-cxmt.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-15T07:16:51.000Z",
+  "title": "Samsung reportedly completes 4F&sup2; DRAM development as China's CXMT targets year-end launch",
+  "snippet": "Samsung Electronics has reportedly completed development of next-generation 4F² DRAM technology and is aligning commercialization with customer requirements, even as China's ChangXin Memory Technologies (CXMT) prepares…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/consumer-electronics/boat-enters-sri-lanka-bhutan-says-international-revenue-more-than-doubled-in-fy26/134959932",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-15T06:48:05.000Z",
+  "title": "boAt enters Sri Lanka, Bhutan; says international revenue more than doubled in FY26",
+  "snippet": "boAt has announced its entry into Sri Lanka and Bhutan with a range of personal audio products, smartwatches, and charging solutions. The company aims to understand local consumers and adapt its offerings according to…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261015VL214/anthropic-ipo-ai-business-revenue.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-15T05:55:29.000Z",
+  "title": "Anthropic boosts 3Q26 revenue by 45% and stays profitable as IPO approaches",
+  "snippet": "Anthropic's third-quarter revenue surged 45% from the previous quarter and has been profitable on an adjusted basis for the last two quarters, the AI lab told prospective investors. As the company nears a record-setting…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261015PD222/delta-electronics-production-taipei-technology-electricity.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-15T05:03:00.000Z",
+  "title": "Delta Electronics targets SOFC pilot production by year-end, partners with Great Taipei Gas on 550kW installation",
+  "snippet": "Delta Electronics showcased its on-site solid oxide fuel cell (SOFC) power generation solution at Energy Taiwan 2026, alongside its first physical solid-state transformer (SST) product."
  }
 ]
