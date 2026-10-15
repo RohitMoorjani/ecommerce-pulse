@@ -1,44 +1,37 @@
 {
- "updatedAt": "2026-10-14T21:50:14.947Z",
- "title": "Shopping starts with AI; our store must be agent-ready as PCs get pricier",
- "summary": "55% of consumers use AI in discovery (NIQ); Shopify says AI discovery converts better than search; HP launched Experience AI; Newegg added Google UCP checkout. Q3 PC shipments fell 22.4% (Gartner).",
+ "updatedAt": "2026-10-15T06:51:21.937Z",
+ "title": "Our store must win AI-led discovery while PC costs and prices rise",
+ "summary": "55% of consumers use AI in discovery (NIQ); Shopify says AI discovery converts better. HP launched Experience AI; Newegg added Google UCP checkout. Q3 PC shipments fell 22.4% (Gartner); Prime Big Deal Days hit $9.86B.",
  "points": [
   {
    "headline": "AI discovery converts, and rivals are opening agent checkout",
-   "detail": "HP launched Experience AI; Newegg added Google UCP checkout; Shopify says AI discovery beats search; AI is entering Brazil’s shopping journey. Audit our catalog data and track AI traffic.",
+   "detail": "HP launched Experience AI, Newegg added Google UCP checkout, Amex built agent-purchase authorization. Make our catalog AI-readable, track AI-sourced traffic, and assess agent checkout readiness.",
    "segment": "agentic",
    "storyIds": [
     "HP Newsroom::CBMikAFBVV95cUxNMXhUTEZwVDZaMWlfNXFoM1BoN1ZzQzVHTGo0NjlUZjlWUm9mbXpxY1plbmxCZEpjbDA4eXdXWVJ0NWpNM1ZyNHZ4bnlVYlVRR2M3bDlfVS1TUE93OHJaYTZubHlUMGQwaE1NS3Q5VU41Z1FIOXZHZ0hGUzJlRFI0bzRMVnhid2Fyc1QzWmoteUw",
     "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363450",
     "InternetRetailing::https://internetretailing.net/?p=76266",
-    "InternetRetailing::https://internetretailing.net/?p=76270"
+    "PYMNTS Data::CBMikwFBVV95cUxONXRHMkx2cGlNV29FVGNzc0tMU044ck1aVVpPTWRYeUd4ZG1JQW5WaGxOc3ZvZ2VMV1RuMF9ZMndLSDB3b2VieXV5ZzRoUzhFUTFPNWhPVFJfWDNabkRWT2gwalZoMm9JNVNMR3FwWlJuM1hWNnFJSGRVZVpTODZ4WUYzbV9IWWFGak42UGhuVWVQWWs"
    ]
   },
   {
-   "headline": "PC volumes are collapsing while component costs push prices up",
-   "detail": "Gartner reports Q3 shipments down 22.4% with higher ASPs; memory is being prioritised for servers. Plan pricing, stock and holiday promotions for a smaller, costlier market.",
+   "headline": "PC volumes are falling while component costs lift prices",
+   "detail": "Gartner shows Q3 PC shipments down 22.4% and Omdia 21%, with component costs lifting ASPs. Plan pricing, promotions and stock for a smaller, costlier market.",
    "segment": "pc",
    "storyIds": [
     "Gartner::CBMimgJBVV95cUxPUE8xYThKVU9OOUhIaUF1T3hwM0ItRVZ2V05wei15d0gwMWpwVm0zZm90c2k4dUZzcXdyc1BNdXB4eVJ4TGQzampxVG9ZRlBBTjVZRmhvNldLSzVHNDI0b1AtZEhHY0g2TkdwckFfRjQxMHBpX0FCYXBHOWFnZ2ZoSnAyV0o2cFdqYWp2alJsYVI1RWxydnhicERwLWY5XzJnN1VNX2ctUC1VMEI0YUhJMU1vU0JzdFFtdlRqaWFHVDZjS0NrQVdSZWtWZ1lGMFpHNzA2VHA1d0ZmeW04cGlyaWhBX0FWMndzOUtHRnpqM1hreklMTTgzeWJrQ0ZZaXAtQzNpcXR3U0JleEp0U05kNnJNRkc2R1UzYUE",
     "DigiTimes::https://www.digitimes.com/news/a20261013PD229/pc-shipments-inventory-market-demand.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261008VL216/microsoft-demand-dram-pc-revenue.html"
+    "Omdia::CBMiuAFBVV95cUxQcWtQcWxmX1NLbllsQjdmdlc4ZVRQMWNfeEZ4REMwUFpHX2RHTEdSZHFYQ3pvX2xyMlh2ZnRNeFV2ZEhMVlpJVy0yUGtFZE1OQzVoQTBYbzZxdUVEdDlCSHNLd2dnc29oWGVMck5Nb2hIRWVCdkVjNnE2Ry1FWmluaC1xSDRIYmFmY3dxTi1yWFY2aXItTWd1T3FHMWVwdDktcGhNU2l1QWg3UnJrVHFzSGltMDEzMTJD"
    ]
   },
   {
-   "headline": "Premium AI laptops now have a price anchor and a sales window",
-   "detail": "Surface Laptop Ultra is priced at $2,599 pitching on-device AI agents. Benchmark our top-end AI PCs and merchandising against it.",
-   "segment": "pc",
+   "headline": "Shoppers start with AI and big sale events concentrate demand",
+   "detail": "55% of consumers use AI in discovery (NIQ). Prime Big Deal Days drove $9.86B in US online sales with electronics up 85%. Align promotions with rival sale windows.",
+   "segment": "trends",
    "storyIds": [
-    "DigiTimes::https://www.digitimes.com/news/a20261008VL201/microsoft-windows-rtx-nvidia-pc.html"
-   ]
-  },
-  {
-   "headline": "Marketplace sales events are lifting electronics demand early",
-   "detail": "Prime Big Deal Days drove $9.86B US online sales with electronics up 85%; Amazon India sees a 35-40% festive spike. Line up PC promotions, stock and delivery promises.",
-   "segment": "marketplaces",
-   "storyIds": [
+    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
     "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363383",
-    "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/amazon-sees-35-40-pc-festive-demand-spike-adds-50-pc-capacity-with-rs-2800-crore-investment/134777774"
+    "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c"
    ]
   }
  ]

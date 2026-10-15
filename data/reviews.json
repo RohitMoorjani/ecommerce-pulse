@@ -2533,5 +2533,94 @@
  "NIQ::CBMisAFBVV95cUxQOGRKb0Q0N1JnSGl3SVVHQmpBUXgzZWlzZ3R0ZkZISVcwMkR6emE3ejljYUxPNWJNTi1UMjFiSE1rRkx0S04tMFpwbUdKSHROVm1qOXMzMTFGblQ3cWRIYm5sMmROVlFQMUpOaW9YaUplQXRHaTg0d295NGFjVlVfd2lhVjBueHpjWnU3UWxpazRiZ3FibnhCZFRxYzVLSENxcXp5dENGY0Z5Q21yaDUyUg": {
   "keep": false,
   "publishedAt": "2026-09-15T07:00:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173104": {
+  "keep": false,
+  "publishedAt": "2026-10-15T04:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261015PD210/delta-electronics-data-testing-efficiency-2026.html": {
+  "keep": false,
+  "publishedAt": "2026-10-15T03:22:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261015VL210/idc-infrastructure-forecast-equipment-worldwide.html": {
+  "keep": false,
+  "publishedAt": "2026-10-15T03:14:59.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261015VL208/shipments-smartphone-global-smartphone-apple-demand.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Memory shortage cuts Q3 global smartphone shipments 20%, lowest 3Q since 2012",
+  "short_headline": "Memory crisis cuts smartphone shipments 20%",
+  "takeaway": "DRAM and NAND shortages are raising device costs; we should expect similar pricing and supply pressure on our PCs and tablets.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-15T03:00:38.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261015PR200/onsemi-demand-efficiency-performance-design.html": {
+  "keep": false,
+  "publishedAt": "2026-10-15T02:55:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261015PD221/pc-market-lg-display-sdc-technology.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "PC market shifts to premium devices as Samsung and LG race on tandem OLED",
+  "short_headline": "Premium PC demand fuels tandem OLED race",
+  "takeaway": "Demand moving from low-cost volume to premium PCs suggests we should lead our store merchandising with higher-spec, OLED-equipped models.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-15T02:45:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261015PD208/production-manufacturing-ai-server-2026-infrastructure.html": {
+  "keep": false,
+  "publishedAt": "2026-10-15T02:30:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261015PD213/inspection-equipment-mlcc-delta-electronics-component.html": {
+  "keep": false,
+  "publishedAt": "2026-10-15T02:17:17.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261015PR202/ibm-technology-mou-startup-development.html?chid=10": {
+  "keep": false,
+  "publishedAt": "2026-10-15T02:12:25.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261014VL221/dram-demand-robot-2030-samsung.html": {
+  "keep": false,
+  "publishedAt": "2026-10-15T01:34:10.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261014VL224/nvidia-hbm4-rubin-hbm-dram.html": {
+  "keep": false,
+  "publishedAt": "2026-10-15T01:32:09.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261014PD250/samsung-galaxy-ddi-demand-umc-globalfoundries.html": {
+  "keep": false,
+  "publishedAt": "2026-10-15T00:11:57.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261014PD223/dell-investment-ceo-growth-demand.html": {
+  "keep": false,
+  "publishedAt": "2026-10-15T00:03:39.000Z"
+ },
+ "PYMNTS Data::CBMikwFBVV95cUxONXRHMkx2cGlNV29FVGNzc0tMU044ck1aVVpPTWRYeUd4ZG1JQW5WaGxOc3ZvZ2VMV1RuMF9ZMndLSDB3b2VieXV5ZzRoUzhFUTFPNWhPVFJfWDNabkRWT2gwalZoMm9JNVNMR3FwWlJuM1hWNnFJSGRVZVpTODZ4WUYzbV9IWWFGak42UGhuVWVQWWs": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Kohl’s takes its AI gift finder into the holiday quarter",
+  "short_headline": "Kohl’s extends AI gift finder into holiday quarter",
+  "takeaway": "A retailer is leaning on AI gift discovery for holiday; we should test a similar guided gift finder for tech in our store.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-14T23:33:39.000Z"
+ },
+ "Retail TouchPoints::CBMiqgFBVV95cUxPUnd6bkFOVk1FNFIzVW0wcmU1VVdyakE1QmhwVS04bDNKZm5SMThVR0JvQlhTQWFDWURwalNER2s3b0hyV0ppSGlzLVRnc3IyMXkzdjc4YjFWWERSVjJGODV2azZyN0RmckN2dTdRU2thcEhPSXJ1UjNOdmFnZDltRW9MTWlSTEN3dXZSNDZjTm9GLXNyR3ZwQko4RTJ6TWJwNnB4WkhPZkp4dw": {
+  "keep": false,
+  "publishedAt": "2026-10-14T21:44:07.000Z"
+ },
+ "IDC::CBMid0FVX3lxTE5rQ0x1OGNvX0pUdVNHYnoya3hvemplcXJCbEdOU2FQYURnbDhaeGV6VTg4ZHZrNktGNk1jUEJpMEE5Y2sxdVZOaEdZWEdQaWJvT05sMUtWdWpGcDYyRUg5OTVtYTFFODFIZHowNmtwdGpwemdLRC0w": {
+  "keep": false,
+  "publishedAt": "2026-10-14T09:15:37.000Z"
+ },
+ "PYMNTS Data::CBMinAFBVV95cUxNb3pUWUlFUHphMlgxMXFVXzlUY0NISXBpY0VZUHAybktueVVLYmxSTW9peHprY0dkcW1UME1mdTFCTlNsMUtOM2Q1VHNiS0haMVZQQkhpbFJKRUhpUV9hT2c0b1hGbndESzRhWTNUai1nbUw5ZF90TnJSaDhvM0FDNEJYeGREUTRQejhjYlBpZHk3dkFEQ0xyV2xCZ3c": {
+  "keep": false,
+  "publishedAt": "2026-10-13T16:03:36.000Z"
  }
 }
