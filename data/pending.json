@@ -1,58 +1,138 @@
 [
  {
-  "id": "PYMNTS Data::CBMisAFBVV95cUxOdmRZenR3ZXlpeUJ4VmttSjZXT3ZKeU51Uk1lOFBXVkY3THlaV0pGdGZfM01IRDN0XzFMd1FqNzk5TDZSQmF2SG9vSVloT2oxYlBpajZ2RHdTeHo2U0RIck5uUkFUc0J5MkFtQlgtd0NPNm84N2gySXpVN2ItZVZaaEtwRFN5VzE2dEN5cmNsNUUxR2tadnFFb0J1MWhvdWY5MTg2NkdQcEh5YjhUVDU2TQ",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-14T21:29:38.000Z",
-  "title": "Fed Finds Consumer Spending Holding as Confidence Slips",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMikwFBVV95cUxPT3FreGpQQk12SjU3MkZodEU5LWEtbGd2NzV3YVVoQThrMGtKWDRLUnY2TXYtU1lzSkExOEZuYXlKYk9hWmZJbXV4d3NNZXVIUmRYLTNZX2tFYnhBbko0QW9oUTdlOWdLMG1GV2FFeEhGamhiN2twSVlNVWpPcFg1ZU93M2lheElZSWZmU3U2eVNxMDg",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-14T20:14:15.000Z",
-  "title": "Shipping Data Could Decide the Next Small Business Loan",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMinAFBVV95cUxQWXRzaUdxSkNrUk82Tkc3eUc3MzNuYUpfRlhVdW54aXdfaDJOMjdZWFQ5azZsVnlqWl92OV9OVFpvanhrekpxYU1vOWZrOXF4N3N1WnM3V0xYVm4wTnB3U2w0NHhGcFhIeFJ1MTFoYUY4WlRrb1RBT1ZhMjRLcTBaR1dkUjBlTDZaRExOUjJOcGQyRkhkV0N3MFcydHc",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-14T18:13:38.000Z",
-  "title": "Gasoline Surge Tests Consumers With Little Left in the Tank",
-  "snippet": ""
- },
- {
-  "id": "Apple Newsroom::https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
-  "source": "Apple Newsroom",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-10-14T17:39:29.065Z",
-  "title": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
-  "snippet": "Bünyamin Aydın brought together Turkish heritage, rock influences, and futurism for a landmark fashion show in Cappadocia shot on iPhone 18 Pro Max."
- },
- {
-  "id": "Reuters::CBMiywFBVV95cUxQVUc1NlRfWEZfX1BJelMzUWl3R1VCajlweDBxX3M0bjUwMW1Yc1hLd2ZXT2hENnlJaUlXNldqU3Y5MUhmbXktdl9vMktQdFZtZVQxZnB5a0FxY1kxX05YbnVrMHlzZjZmWjFlanFINGhPN1lrUjM1ZGpFejZaZDR5bEF5ZUVaMHJWNlZKNTUyd2I3ZWFIT1NzYTZ6WkxSVGluWjgzUDRJQ2FnX2hUZTlhV085NWZXOVFPeGt0ZzBqcUUzME9PT1gtU1RQOA",
-  "source": "Reuters",
+  "id": "Modern Retail::https://www.modernretail.co/?p=173104",
+  "source": "Modern Retail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-13T15:07:44.000Z",
-  "title": "French ministries' pension costs drain public service spending, report says",
-  "snippet": ""
+  "publishedAt": "2026-10-15T04:00:00.000Z",
+  "title": "Why Crocs, Vera Bradley and other brands are diving into their archives for fashion inspiration",
+  "snippet": "For some fashion brands, what's old is literally new again. Here's why brands like Crocs, Vera Bradley and Express are looking to their archives for current fashion inspiration."
  },
  {
-  "id": "PYMNTS Data::CBMiqAFBVV95cUxPZ0VKSTN1MkZTcFVCcW91YzFfb3c0SGhLRUh3aTJoN2h5cFZZUGpEY0ROS2VCbDZxcUY3dFJGMFhpMmVnS2s0YnBnVGFjMFJQVVFBUUJSek0xLXc0cFhJTHk0M2ZsekVpVEFiXzNxNzROZzVwVGNYUDhMVmZCS2h5ZmdVeGYyN0x1MzhBOFI2dnhGWWpOalg3Zy1kYUpHdW1CVGtNRE5DS1o",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261015PD210/delta-electronics-data-testing-efficiency-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-15T03:22:00.000Z",
+  "title": "Delta Electronics' 13.8kV SST gains traction in China, with US cloud giant testing AI data centre microgrids",
+  "snippet": "Delta Electronics unveiled its prefabricated solid-state transformer (SST) DC power solution at Energy Taiwan 2026 on October 14, targeting power efficiency, deployment speed and supply resilience in AI data centres, AI…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261015VL210/idc-infrastructure-forecast-equipment-worldwide.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-15T03:14:59.000Z",
+  "title": "OCP-recognized infrastructure spending forecast to hit US$800 billion by 2029, nearly triple prior estimate",
+  "snippet": "IDC now expects worldwide spending on IT equipment recognized by the Open Compute Project (OCP) to reach about US$800 billion in 2029."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261015VL208/shipments-smartphone-global-smartphone-apple-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-15T03:00:38.000Z",
+  "title": "Memory crisis drives global smartphone shipments down 20%, deepening premium-budget divide",
+  "snippet": "Global smartphone shipments fell 20% year-on-year in the third quarter of 2026, their lowest 3Q level since 2012, as persistent DRAM and NAND shortages inflated production costs, constrained supply, and weakened demand…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261015PR200/onsemi-demand-efficiency-performance-design.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-15T02:55:00.000Z",
+  "title": "Onsemi and Sungrow deepen battery storage tie-up as demand rises for grid power",
+  "snippet": "Onsemi has said its latest EliteSiC hybrid power module is now being used in Sungrow's PowerTitan 3.0 energy storage platform, a move aimed at improving efficiency, power density, and reliability in utility-scale…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261015PD221/pc-market-lg-display-sdc-technology.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-15T02:45:00.000Z",
+  "title": "Premium PC demand fuels tandem OLED race between Samsung Display, LG Display",
+  "snippet": "Competition in the global PC market is shifting from a focus on shipment volumes of low-cost models towards premium, high-performance devices, intensifying the race in OLED display technology. Tandem OLED, which…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261015PD208/production-manufacturing-ai-server-2026-infrastructure.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-15T02:30:00.000Z",
+  "title": "StarSeeds, Kaga Electronics target December 2026 AI server production in Japan",
+  "snippet": "Kaga Electronics and AI infrastructure provider StarSeeds have signed a basic contract manufacturing agreement to produce AI servers at a partner facility in Japan, targeting mass production in December 2026."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261015PD213/inspection-equipment-mlcc-delta-electronics-component.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-15T02:17:17.000Z",
+  "title": "South Korea's Hanwool wins Delta Electronics MLCC inspection equipment order, breaking Japanese dominance",
+  "snippet": "South Korean inspection equipment manufacturer Hanwool Semiconductor has secured an order to supply ultrasonic inspection equipment for multilayer ceramic capacitors (MLCCs) to a subsidiary of Taiwan's Delta Electronics…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261015PR202/ibm-technology-mou-startup-development.html?chid=10",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-15T02:12:25.000Z",
+  "title": "IBM, MeitY Startup Hub sign pact to boost India's deep tech startups",
+  "snippet": "IBM and MeitY Startup Hub, an initiative of India's Ministry of Electronics and Information Technology (MeitY), have signed a memorandum of understanding (MoU) to support India's deep tech startups with enterprise…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL221/dram-demand-robot-2030-samsung.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-15T01:34:10.000Z",
+  "title": "Samsung, SK Hynix stand to benefit as humanoid robot DRAM demand is forecast to jump 20-fold by 2030",
+  "snippet": "Global DRAM demand for humanoid robots is projected to increase more than 20-fold by 2030 as robot deployments expand and memory capacity per unit doubles, potentially opening a new growth market for Samsung Electronics…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261014VL224/nvidia-hbm4-rubin-hbm-dram.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-15T01:32:09.000Z",
+  "title": "Nvidia's Rubin expected to use mostly 12-layer HBM4 despite reported 8-layer shift",
+  "snippet": "Nvidia's next-generation Rubin AI accelerators are expected to rely predominantly on 12-layer HBM4 high-bandwidth memory, despite reports that the chipmaker has asked Samsung Electronics and SK hynix to increase…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261014PD250/samsung-galaxy-ddi-demand-umc-globalfoundries.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-15T00:11:57.000Z",
+  "title": "UMC declines expedited Samsung order for Galaxy Z Fold8; GF eyed as backup DDI foundry",
+  "snippet": "Following stronger-than-expected demand for its Galaxy Z Fold8, Samsung Electronics submitted an expedited wafer production request to United Microelectronics Corporation (UMC) that was ultimately turned down. As a…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261014PD223/dell-investment-ceo-growth-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-15T00:03:39.000Z",
+  "title": "Dell CEO urges AI growth without sacrificing safety",
+  "snippet": "As AI investment continues to expand, concerns are mounting over whether capital spending can translate into real revenue and whether data center construction is becoming excessive. Dell Technologies CEO Michael Dell…"
+ },
+ {
+  "id": "PYMNTS Data::CBMikwFBVV95cUxONXRHMkx2cGlNV29FVGNzc0tMU044ck1aVVpPTWRYeUd4ZG1JQW5WaGxOc3ZvZ2VMV1RuMF9ZMndLSDB3b2VieXV5ZzRoUzhFUTFPNWhPVFJfWDNabkRWT2gwalZoMm9JNVNMR3FwWlJuM1hWNnFJSGRVZVpTODZ4WUYzbV9IWWFGak42UGhuVWVQWWs",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-09-16T07:00:00.000Z",
-  "title": "AI Moves Into Brazil’s Everyday Shopping Journey",
+  "publishedAt": "2026-10-14T23:33:39.000Z",
+  "title": "Kohl’s Takes Its AI Gift Finder Into the Holiday Quarter",
   "snippet": ""
  },
  {
-  "id": "NIQ::CBMisAFBVV95cUxQOGRKb0Q0N1JnSGl3SVVHQmpBUXgzZWlzZ3R0ZkZISVcwMkR6emE3ejljYUxPNWJNTi1UMjFiSE1rRkx0S04tMFpwbUdKSHROVm1qOXMzMTFGblQ3cWRIYm5sMmROVlFQMUpOaW9YaUplQXRHaTg0d295NGFjVlVfd2lhVjBueHpjWnU3UWxpazRiZ3FibnhCZFRxYzVLSENxcXp5dENGY0Z5Q21yaDUyUg",
-  "source": "NIQ",
+  "id": "Retail TouchPoints::CBMiqgFBVV95cUxPUnd6bkFOVk1FNFIzVW0wcmU1VVdyakE1QmhwVS04bDNKZm5SMThVR0JvQlhTQWFDWURwalNER2s3b0hyV0ppSGlzLVRnc3IyMXkzdjc4YjFWWERSVjJGODV2azZyN0RmckN2dTdRU2thcEhPSXJ1UjNOdmFnZDltRW9MTWlSTEN3dXZSNDZjTm9GLXNyR3ZwQko4RTJ6TWJwNnB4WkhPZkp4dw",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-14T21:44:07.000Z",
+  "title": "How Leading Brands Launch Peak Season Campaigns Faster",
+  "snippet": ""
+ },
+ {
+  "id": "IDC::CBMid0FVX3lxTE5rQ0x1OGNvX0pUdVNHYnoya3hvemplcXJCbEdOU2FQYURnbDhaeGV6VTg4ZHZrNktGNk1jUEJpMEE5Y2sxdVZOaEdZWEdQaWJvT05sMUtWdWpGcDYyRUg5OTVtYTFFODFIZHowNmtwdGpwemdLRC0w",
+  "source": "IDC",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-14T09:15:37.000Z",
+  "title": "IDC Survey: The Customer Is Already Buying — What Large Energy Consumers Want from Their Energy Supplier",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS Data::CBMinAFBVV95cUxNb3pUWUlFUHphMlgxMXFVXzlUY0NISXBpY0VZUHAybktueVVLYmxSTW9peHprY0dkcW1UME1mdTFCTlNsMUtOM2Q1VHNiS0haMVZQQkhpbFJKRUhpUV9hT2c0b1hGbndESzRhWTNUai1nbUw5ZF90TnJSaDhvM0FDNEJYeGREUTRQejhjYlBpZHk3dkFEQ0xyV2xCZ3c",
+  "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-09-15T07:00:00.000Z",
-  "title": "​​​Summer slowdown sparks a September reset in UK grocery shopping",
+  "publishedAt": "2026-10-13T16:03:36.000Z",
+  "title": "JPMorgan Card Spending Hits $539 Billion as Credit Improves",
   "snippet": ""
  }
 ]
