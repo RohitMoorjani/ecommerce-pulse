@@ -2762,5 +2762,53 @@
   "content_type": "data",
   "competitors": [],
   "publishedAt": "2026-09-18T07:00:00.000Z"
+ },
+ "Inc42::https://inc42.com/?p=576436": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Flipkart Group FY26 revenue rises 18.2% to ₹1.45 lakh crore as loss narrows to ₹8,468 crore",
+  "short_headline": "Flipkart FY26 revenue up 18%, loss narrows",
+  "takeaway": "Flipkart is growing fast while cutting losses, so it remains a key India channel where we should keep investing in brand presence.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-15T20:00:47.000Z"
+ },
+ "PYMNTS::https://www.pymnts.com/?p=4316773": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Google rolls out Universal Cart in US Search and the Gemini app",
+  "short_headline": "Google launches Universal Cart in Search and Gemini",
+  "takeaway": "A cart spanning Google Search and Gemini changes where purchases start; we should make sure our store's product data and checkout work there.",
+  "importance": 4,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-10-15T19:58:02.000Z"
+ },
+ "Mastercard::CBMitAJBVV95cUxPWXpGN0pEUnQtTWhHRThvWk1fTUV5bDhtb0RMUzRlMnBEbkpock9md0g3S3ZxLUMxcURIYkwyS2lRbGtCX0R1eG5hc29GaFBMdk9NdllsUWxhdUNPaWJSNXVEVDd3bWtDbGJZZmZvcFpUXzh1RWZFeExIRl9Vd0hqSTcyTzNvVUxrTHZmd1lNYUlzSDM1WUZrNjUtWGltTlJfZkt4Y2JOVERtOWxTa3lOV1lMN0hXVXF6NWpZVkdON1pqanpXOE9NMXk2Tjd0Z3M2MWtCSFJodmlvVjcwYk1RRDV2TUV1dzZnN0NTUjZxN1p2dVIwbnhuWWg2OUNGbzZoR1dXOFFpZnRSTHVabkVQUHVKaHVuU3pIbmFHSUdxVGhlYjVuM0NnOHlqNUkxZlh5bE5yWQ": {
+  "keep": false,
+  "publishedAt": "2026-10-15T16:25:30.000Z"
+ },
+ "PYMNTS::https://www.pymnts.com/?p=4315763": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Online retail keeps outpacing overall retail in September despite higher prices",
+  "short_headline": "Online sales outpace retail as prices rise",
+  "takeaway": "Online keeps taking share even as inflation erodes buying power, supporting continued focus on our direct store over price-led promotion.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-15T16:13:32.000Z"
+ },
+ "Reuters::CBMiywFBVV95cUxQR3JpdUdPcXZSWWdYakdCZkJYZnFmcVExcXpnTlRVSW1MeW1YTGdIUXdVREZneWZXbkE5bXpxc1I3cFFYN0VTeElGOGJwTVZmWWltQlZWaldlVWJOaWVmWGZSNUFzSXBfaWpZdDNmOFFnUVdoU19zR041bTZ1cmszdWstUExFN0w0TkpHcHhudXpxLWFOcU9fQ29SdWtoTld0VkF0YmJHeTcta0RIZEtCcXFGR1JXT1NRdzg1VzNaMmUwVXQ3UFR2RWZLSQ": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "NRF forecasts faster US holiday sales growth as shoppers stay resilient",
+  "short_headline": "NRF expects holiday sales growth to speed up",
+  "takeaway": "A stronger forecast season means we should plan inventory and promotions for higher holiday demand.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-15T15:01:44.000Z"
  }
 }

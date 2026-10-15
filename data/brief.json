@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-15T18:50:42.387Z",
- "title": "AI now starts the shopping journey; our store must be ready for it",
- "summary": "55% of consumers use AI in discovery (NIQ); Google launched Universal Cart in the US and Newegg added Google UCP checkout. Q3 PC shipments fell 22.4% (Gartner); Adobe forecasts $275.1B US online holiday sales.",
+ "updatedAt": "2026-10-15T21:50:42.076Z",
+ "title": "Shopping starts with AI while PC demand shrinks; our store must adapt",
+ "summary": "55% of consumers use AI in discovery (NIQ); Google launched Universal Cart and Newegg added Google UCP checkout. Q3 PC shipments fell 22.4% (Gartner); Adobe forecasts $275.1B US online holiday sales.",
  "points": [
   {
    "headline": "Google puts a cart inside Search and Gemini as retailers open agent checkout",
@@ -24,21 +24,22 @@
    ]
   },
   {
-   "headline": "PC volumes are falling sharply while prices climb",
-   "detail": "Gartner reports Q3 shipments down 22.4% with higher ASPs; DigiTimes sees a 20%+ drop. We should plan pricing, promotions and stock for a smaller, costlier market.",
+   "headline": "PC shipments fall over 20% in Q3 as component costs lift prices",
+   "detail": "Gartner reports a 22.4% drop and Omdia 21%, with higher component costs lifting ASPs. We should plan pricing, promotions and stock for a smaller, costlier market.",
    "segment": "pc",
    "storyIds": [
     "Gartner::CBMimgJBVV95cUxPUE8xYThKVU9OOUhIaUF1T3hwM0ItRVZ2V05wei15d0gwMWpwVm0zZm90c2k4dUZzcXdyc1BNdXB4eVJ4TGQzampxVG9ZRlBBTjVZRmhvNldLSzVHNDI0b1AtZEhHY0g2TkdwckFfRjQxMHBpX0FCYXBHOWFnZ2ZoSnAyV0o2cFdqYWp2alJsYVI1RWxydnhicERwLWY5XzJnN1VNX2ctUC1VMEI0YUhJMU1vU0JzdFFtdlRqaWFHVDZjS0NrQVdSZWtWZ1lGMFpHNzA2VHA1d0ZmeW04cGlyaWhBX0FWMndzOUtHRnpqM1hreklMTTgzeWJrQ0ZZaXAtQzNpcXR3U0JleEp0U05kNnJNRkc2R1UzYUE",
-    "DigiTimes::https://www.digitimes.com/news/a20261013PD229/pc-shipments-inventory-market-demand.html"
+    "Omdia::CBMiuAFBVV95cUxQcWtQcWxmX1NLbllsQjdmdlc4ZVRQMWNfeEZ4REMwUFpHX2RHTEdSZHFYQ3pvX2xyMlh2ZnRNeFV2ZEhMVlpJVy0yUGtFZE1OQzVoQTBYbzZxdUVEdDlCSHNLd2dnc29oWGVMck5Nb2hIRWVCdkVjNnE2Ry1FWmluaC1xSDRIYmFmY3dxTi1yWFY2aXItTWd1T3FHMWVwdDktcGhNU2l1QWg3UnJrVHFzSGltMDEzMTJD"
    ]
   },
   {
-   "headline": "Online holiday demand is growing, and marketplace events set the pace",
-   "detail": "Adobe forecasts $275.1B US online holiday sales; Prime Big Deal Days hit $9.86B with electronics up 85%. We should align PC deals to competitor sale windows.",
+   "headline": "Online holiday demand keeps growing and electronics lead the sale spikes",
+   "detail": "Adobe forecasts $275.1B US online holiday sales (+6.7%); Prime Big Deal Days hit $9.86B with electronics up 85%. We should align PC offers to rival sale windows.",
    "segment": "marketplaces",
    "storyIds": [
     "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c",
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363383"
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363383",
+    "Retail Dive::https://www.retaildive.com/news/amazon-prime-big-deal-days-online-spend-nears-ten-billion/832604/"
    ]
   }
  ]
