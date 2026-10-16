@@ -1,82 +1,42 @@
 [
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/halloween-without-candy-holiday-shoppers-cutting-budgets/833212/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-16T16:09:00.000Z",
-  "title": "Halloween without candy? What shoppers are cutting from budgets this year",
-  "snippet": "Nearly two-thirds of shoppers plan to skip some purchases this year, including staple items like costumes and candy, a new LendingTree survey finds."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/bath-body-works-ulta-beauty-pink-suede/833214/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-16T15:56:00.000Z",
-  "title": "Bath & Body Works expands partnership to all Ulta stores for the holidays",
-  "snippet": "Pink Suede is back as a limited-edition scent exclusive to Ulta. Meanwhile, customers can shop a curated selection of seasonal products at the beauty retailer through Dec. 26."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/nordstrom-rack-returns-san-francisco-store-opening/833229/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-16T15:55:00.000Z",
-  "title": "Nordstrom Rack comes back to San Francisco",
-  "snippet": "The off-price retailer left its Union Square location three years ago but is reopening a 51,500-square-foot store in fall 2027 as the city’s retail revitalization continues."
- },
- {
-  "id": "PYMNTS Data::CBMiwAFBVV95cUxPeFZrNThCdFR0bGxSMXBxV2tLbXRWM0tINmRjSk95V0xaejZOZzN3bEVOODlTWDJPSUJFR1hIVXJ1MVFMWjQyQl9tdjZSSURZNlQ3TzlhMGRQeHE1Nk5FczdMX3FoTExGWTR4M1pJT0FJT3ViTkhLTkVCRTJGZmxGUDRPSGJoMzdwTzJSeFk4a1duRUVYQzNpRFY1S3VCR1hRZlk5elVteFhCVF8tdzFvQWstYkRJeFBDaXBaLWMwMUs",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-16T15:39:31.000Z",
-  "title": "AI Shopping Agents Force Retailers to Rethink Customer Access and Payment Controls",
-  "snippet": ""
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/the-realreal-new-financing-gildan-ftc-price-fixing-scrutiny/833130/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-16T15:15:00.000Z",
-  "title": "The Weekly Closeout: The RealReal secures fresh financing, Roots buyout advances",
-  "snippet": "The resale marketplace refinanced to help strengthen its balance sheet, while the apparel brand's shareholders approved its acquisition by Marquee Brands."
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166570",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-16T13:01:57.000Z",
-  "title": "Audioscenic Names Former Sony VP Chris Spearing CEO",
-  "snippet": "New leader to expand spatial audio technology across consumer electronics and gaming"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166576",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-16T13:01:21.000Z",
-  "title": "CUK Appoints James Drummie To Technical And Training Manager",
-  "snippet": "AV veteran to strengthen dealer support across the U.K. and Ireland"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166543",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-16T13:00:02.000Z",
-  "title": "Epson Made Its Case For Projection In An Era Of Giant TVs At CEDIA 2026",
-  "snippet": "Competing head-on with a large direct-view display in every room is becoming a tougher proposition"
- },
- {
-  "id": "Counterpoint Research::CBMijwFBVV95cUxQMlRPbE1TSVVadTBvY0ZtekdSamlLMlZXcjlDRUJiX1FWNVdYbW5GelFINFpUcGpyU1VRZUo5d284SXV2VTVNR25XVjUyRno1VjlvU25ZT2pqNEJVM2RhTUhUdHItU214V2pjbWo3Vy1GZ1poUXBBS2lLVE9xMVVpcVFYTGJ6X3dtVzJmcDJ0NA",
-  "source": "Counterpoint Research",
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363555",
+  "source": "Digital Commerce 360",
   "sourceType": "Analyst",
-  "publishedAt": "2026-10-16T09:52:03.000Z",
-  "title": "Memory Price Tracker, October 2026: Servers Binge, Phones Recycle, PCs Go on a Diet",
+  "publishedAt": "2026-10-16T18:20:06.000Z",
+  "title": "Google launches Universal Cart for purchases across retailers",
+  "snippet": "Google formally opened up shopper access to its new Universal Cart for agentic shopping, laying out artificial intelligence (AI)-powered features for price-tracking and checking ahead of the 2026 holiday shopping…"
+ },
+ {
+  "id": "Inc42::https://inc42.com/?p=576597",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-16T16:40:40.000Z",
+  "title": "FirstCry’s Core Revenue Engine Is Fighting Too Many Battles",
+  "snippet": "Sixteen years since FirstCry began its journey, what began as a kidswear marketplace has spawned a massive multi-channel ecommerce and…"
+ },
+ {
+  "id": "Inc42::https://inc42.com/?p=576605",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-16T16:38:43.000Z",
+  "title": "Now, FSSAI Issues Show-Cause Notices To BigBasket, Flipkart Over Misleading Claims",
+  "snippet": "The Food Safety and Standards Authority of India (FSSAI) has issued show-cause notices to quick commerce and ecommerce platforms BigBasket…"
+ },
+ {
+  "id": "Circana::CBMiZ0FVX3lxTE5WZEt1Ulo0elNuQWk2QXZxNjJoMkpsU3pOZXpoOEh1S3ppMVNGS0FOQTR0MlFzM0FWQmpyVkdzcTlaamdFR0hoUndVNmU0ZU8xTGhRZEZ0Y0phSkkxVnpJUFlaY1F4V1U",
+  "source": "Circana",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-16T15:06:19.000Z",
+  "title": "The Truth Set Advantage: Measure AI Shopping, Trust Every AI Answer",
   "snippet": ""
  },
  {
-  "id": "PYMNTS Data::CBMiugFBVV95cUxQQ3B0Xzd0UlZaRHM4RTFaS211VjdxZWtfd2lRaEtQUDIzTGRaMXd1UkJQcHZzUHdjLV9Yd1NMLWh5Z3MzbVJEZVY0ZWtuNV8xMDQzQUpWZWtvdTNIU1U1aVNMNXBSN3JvQkhfcm9MSmNWNnVNTVJMYXk1RjhUa2dZdVNHWk5UQzczZlRTaFNxTGp3NWVJeVB3X0szUHNZdnVnR0RNc25ndjV4elpuMkZoVC1fWndnMVFaWFE",
+  "id": "PYMNTS Data::CBMipwFBVV95cUxObGxkRFkwTElMT05idE1pLVctaXV0M2FPTGNwR1ozY3FuUGg4NG5FYzZ0Qy1FazBycVNRNUZBVFNnUjc2R2lic1lzSnExNXJTZ3JmUnN4VDRZZ3BMdWZOd2V6ekZyOTdjQVU5NmY4N1RlNHYtVy1xbTc4bndsc0pKcXFOQ3ZKaS0ySXU5dWZhaTQ2dlYwaW5nMFpvcERWUlJkeVVSVHRnYw",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-09-28T07:00:00.000Z",
-  "title": "Grok Puts the AI Assistant Between Consumers and Their Banks",
+  "publishedAt": "2026-09-25T07:00:00.000Z",
+  "title": "Amazon Adds Walmart Orders to Its View of Sellers",
   "snippet": ""
  }
 ]
