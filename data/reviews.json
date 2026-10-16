@@ -2872,5 +2872,73 @@
  "NIQ::CBMizgFBVV95cUxOVU5vR2NfZzdVbFZldTM3SmJmby0xZE5pRHhYR1d5cGVaR1RhQjctMEhKbFFacGhBUUpSdjlONHJ4b2VxOElrekRvZzBXRDlMd0xnMi1JdGh6NHRPcEhJVEtlQ0RVX3BYX2swcG43N3lKenRiaURyd2VqZDJsb0x0TTRIV1R3UTcyZURDX0ZuYVpyZGJjVUVwX1dNZlQxRUtjOWVzODhCaTJpS2lSeEZrUkQ0cmtVby1hUk4yOUlqdW0tTl8xQ0c0dGhNYmRZQQ": {
   "keep": false,
   "publishedAt": "2026-09-17T07:00:00.000Z"
+ },
+ "Retail TouchPoints::CBMiowFBVV95cUxOaElBMzMwRWVCNnM2VzZTYUNvN3FHakNPa0xVQ0ZGZFpkbE5JSjhCTmNsT0R1UC1HY0xtRTg4Uk9Gdl9KOW5BWGY2d0g4U0x6QlEtSTUxb1RZYVNNU0ZuejYwRjR0aXVlYXdhMjZlNk9sMWlDaDV0eGNod2JJRTB5YkRGVDV3WGlwSDkxa0RzejIxQmFvVm53WHNRYUFPZHZwejhr": {
+  "keep": false,
+  "publishedAt": "2026-10-16T11:01:10.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76303": {
+  "keep": false,
+  "publishedAt": "2026-10-16T10:21:54.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76297": {
+  "keep": false,
+  "publishedAt": "2026-10-16T09:44:51.000Z"
+ },
+ "PYMNTS Data::CBMingFBVV95cUxNZFJfZVRaeGJXVzlvM2RaWGFIQlhGOS1EdjktWDR3Q2JtTlhUdmwwUkQwN2FwNDZ3UjQ4SkV5T3VxR19FWmUxVGtjd25ENGgtcFhaanFTZ3VjRmJLWmZSUTVCVTVIUV85RzIzM3F3cUtNQnhvZ2JWTmkzcTNfeGZ6bUwyWTlHbmF0czR3a09qVE8wdmJsaEZfQXFOLXFfZw": {
+  "keep": false,
+  "publishedAt": "2026-10-16T08:04:30.000Z"
+ },
+ "TrendForce::CBMi5gFBVV95cUxPd1RCUy1FcndHQ0lESUJaQTlEMkxFNlBoLWJxSTM1VHU5VGVMU0ZzWjIyaTVmS2NOTEs2djcxS1ZUdVlEY21LbkhSSFBGNThKalpobmJxdEFzczZaZ0ZUT0VFcjJFNTUxdlRUcDgzV0dyc2pnaTNtWUpCU2p4VXZjeUk3OTRHN0VzMTlQUHRKVkU0b3M4MUtzU0VfOVl4WnJuOXFfU3NQbjE5WXBsN3RJMUNFQl9uQnA1RHpfTm1oek1JaEd3UGdDQi1kTjNFeXNUbzZ4MlZYd21sNWw5TVNYbGc5TlAtQQ": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Apple reportedly skips high-end M6 chips for M7, taps Meta Muse AI on Mac Studio",
+  "short_headline": "Apple reportedly skips M6 for M7, adds Muse AI",
+  "takeaway": "Apple may reshape its Mac roadmap and AI positioning; we should watch how it markets AI on high-end desktops against our workstation range.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-10-16T07:20:57.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261016VL214/samsung-texas-fab-expansion-production.html": {
+  "keep": false,
+  "publishedAt": "2026-10-16T07:01:23.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261016PD214/samsung-sk-hynix-hbm-data-capacity.html": {
+  "keep": false,
+  "publishedAt": "2026-10-16T06:57:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261016PD238/delta-electronics-electricity-micro-grid-2026.html": {
+  "keep": false,
+  "publishedAt": "2026-10-16T06:31:26.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261016PD201/taiwan-growth-forecast-2027-2026.html": {
+  "keep": false,
+  "publishedAt": "2026-10-16T06:20:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261016VL210/samsung-japan-packaging-materials.html": {
+  "keep": false,
+  "publishedAt": "2026-10-16T05:52:24.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261016PD229/intel-ceo-nvidia-packaging-market.html": {
+  "keep": false,
+  "publishedAt": "2026-10-16T04:23:06.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/flipkart-internets-sales-surge-18-per-cent-losses-shrink-as-the-e-commerce-giant-eyes-a-public-listing/134965728": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Flipkart Internet revenue up 18% in FY26 as losses shrink and IPO plans advance",
+  "short_headline": "Flipkart revenue up 18% as losses shrink",
+  "takeaway": "A stronger, more profitable Flipkart heading to listing could gain leverage over brands; we should review our India channel terms and dependence.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-15T11:00:56.000Z"
+ },
+ "PYMNTS Data::CBMilgFBVV95cUxOVUFxNkVLUTlPYkZZdUZRSWI1Ujk1ak8zZWw4NjRnTVhJOWRQYW5ZWk1hYlVQSFRQVUdmY0V1WkpHWkFpQnlpRWEtQUdJVUNIX2ZLMnBxNXZHMWpLcTdRbGNJZWVHODBKSlhzWTVKWHdDaVZEUlJlOUNNQzhQSDJDUldDR0o2eUNnNDJMazV0ai1xUnBONlE": {
+  "keep": false,
+  "publishedAt": "2026-09-23T07:00:00.000Z"
  }
 }
