@@ -2810,5 +2810,67 @@
   "content_type": "data",
   "competitors": [],
   "publishedAt": "2026-10-15T15:01:44.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173400": {
+  "keep": false,
+  "publishedAt": "2026-10-16T04:00:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173405": {
+  "keep": false,
+  "publishedAt": "2026-10-16T04:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261016PD205/tv-samsung-lg-market-inflation.html": {
+  "keep": false,
+  "publishedAt": "2026-10-16T02:32:40.000Z"
+ },
+ "Inc42::https://inc42.com/?p=576445": {
+  "keep": true,
+  "segment": "plays",
+  "headline": "Shopify readies Shop Pay for India, setting up a clash with domestic checkout players",
+  "short_headline": "Shopify prepares Shop Pay launch in India",
+  "takeaway": "Wallet-style one-tap checkout is spreading to India; we should check how our store's checkout compares in that market.",
+  "importance": 2,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-16T02:30:11.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261016PD203/e-commerce-genai-2026-data-management.html": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "AI-assisted shopping reshapes e-commerce traffic as Shopline reports 20% GMV rise",
+  "short_headline": "Shopline GMV up 20% as AI reshapes traffic",
+  "takeaway": "Merchants are moving from traffic management to AI-assisted shopping; we should ensure our store is discoverable by AI assistants.",
+  "importance": 2,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-16T01:47:29.000Z"
+ },
+ "PYMNTS Data::CBMirgFBVV95cUxNYjVleHEzMlhWd054ejIyZVdoSGpZVEJGSUtOTDlUejBNMWE1emtYcDkwNUZUZng4N1NZb2ViMmpLSDVZSk92YWNYa28xZEdpTE5RM1JLVmN3Wk9iOXliU0RYOUFRRm5OOVU0cjVmR2lXSWJ3RUNrQk1GM0lOWFJzdEdLYl9oNGFpZVRYMFdpNnhoOFo5R2hGd2x6QXk4NnlEVVRiSERJUzU1OFctUVE": {
+  "keep": false,
+  "publishedAt": "2026-10-16T01:47:10.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261015VL228/samsung-texas-workforce-2nm-2025.html": {
+  "keep": false,
+  "publishedAt": "2026-10-15T23:48:28.000Z"
+ },
+ "IDC::CBMiZEFVX3lxTE1IRVhBS1BOZVc0MERhbUVMajFwQzJEc0Nxa1JnbVhmRnN1di1QSGppdnZid0Z3dVg5ejJEZHk1cXRFajFjOU1OcElxZTBXYnRZTnhQdlVTWkJzdk5ZMVFIZ2w2alQ": {
+  "keep": false,
+  "publishedAt": "2026-10-15T21:22:28.000Z"
+ },
+ "PYMNTS Data::CBMilwFBVV95cUxQUmxBdU5EaUVFLURUNFBEV19XTlNQSEJCaFVZd0Yta3NPVjExM0FJeGNDWnlLeHdNRUxtRnloRHJCUG1Gc1JwRWdZOGxBV1pEWHNWVnFCclhlUXZzOF9QclRGU0F2Z1RrcU1hYkwzQ3lGSE9TN0hoTFVfTUxocG1TclpaYm9YcXQ4bGpTQVNPamREcWlKRkRr": {
+  "keep": false,
+  "publishedAt": "2026-10-15T19:49:29.000Z"
+ },
+ "PYMNTS Data::CBMitwFBVV95cUxPTjlRN1RDei1XV0lfT3dYWm53SGZDY0V5Ni15WW9YUWpOT2dqRk5nNjJBZEhkbWpTYVRIVVhIaUM3LUdpWGphNXhQM0ZlZFVEZ0xhejNwaGltZ0tDbHpBUlVLbUxjWXJmWVBTQkcyb3JfWDZHMi1EdTdTbWdxelA4RzhCeVE2NGNuZTUzZGZuaUNZWHBXbDViajY4SDFkVDFja2R5RldLMjJvN1NfaFBpOTdaX1BaWkU": {
+  "keep": false,
+  "publishedAt": "2026-10-15T18:29:28.000Z"
+ },
+ "PYMNTS Data::CBMisgFBVV95cUxPTkRBaFI2OFQ4SFR2Q0tkeFlvMVQyalduR3BDR2VYOVhjRmlqNmVqSzJqbXpyTEpqNWlsSDVRTV9lUW9GREdmMEJ4Wlp0MjkwTTB2enI0ZjRVSW1Gb3JQNDVZUTlOcGRYSy1YaDhEVVAzblRPRDlFbHpLckdnMGFxcXZ4cWpYRUNtazRTMkxxNWZESmFGQTRCVXZrS3poY05aTzZPZ1lhSFNxX2Rwc1gwR0V3": {
+  "keep": false,
+  "publishedAt": "2026-09-22T07:00:00.000Z"
+ },
+ "NIQ::CBMizgFBVV95cUxOVU5vR2NfZzdVbFZldTM3SmJmby0xZE5pRHhYR1d5cGVaR1RhQjctMEhKbFFacGhBUUpSdjlONHJ4b2VxOElrekRvZzBXRDlMd0xnMi1JdGh6NHRPcEhJVEtlQ0RVX3BYX2swcG43N3lKenRiaURyd2VqZDJsb0x0TTRIV1R3UTcyZURDX0ZuYVpyZGJjVUVwX1dNZlQxRUtjOWVzODhCaTJpS2lSeEZrUkQ0cmtVby1hUk4yOUlqdW0tTl8xQ0c0dGhNYmRZQQ": {
+  "keep": false,
+  "publishedAt": "2026-09-17T07:00:00.000Z"
  }
 }
