@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T18:51:03.738Z",
+ "updatedAt": "2026-10-16T21:50:29.168Z",
  "title": "Shopping now starts with AI, and our store must be agent-ready",
  "summary": "55% of consumers use AI in product discovery (NIQ); Google launched Universal Cart in Search and Gemini; Newegg added Google UCP checkout; Amex built agent-authorization rails. Q3 PC shipments fell 22.4% (Gartner).",
  "points": [
@@ -14,12 +14,13 @@
   },
   {
    "headline": "Agent checkout is going live across Google, Newegg and Amex",
-   "detail": "Google launched Universal Cart in Search and Gemini, Newegg integrated Google UCP checkout, and Amex introduced authorization controls for agents. We should check feed and checkout readiness.",
+   "detail": "Google opened Universal Cart to shoppers with AI price tracking before the holidays, Newegg integrated Google UCP checkout, and Amex added agent authorization. We should check feed and checkout readiness.",
    "segment": "agentic",
    "storyIds": [
     "TechCrunch::https://techcrunch.com/?p=3178088",
     "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363450",
-    "TechCrunch::https://techcrunch.com/?p=3175284"
+    "TechCrunch::https://techcrunch.com/?p=3175284",
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363555"
    ]
   },
   {
