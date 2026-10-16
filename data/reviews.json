@@ -2940,5 +2940,59 @@
  "PYMNTS Data::CBMilgFBVV95cUxOVUFxNkVLUTlPYkZZdUZRSWI1Ujk1ak8zZWw4NjRnTVhJOWRQYW5ZWk1hYlVQSFRQVUdmY0V1WkpHWkFpQnlpRWEtQUdJVUNIX2ZLMnBxNXZHMWpLcTdRbGNJZWVHODBKSlhzWTVKWHdDaVZEUlJlOUNNQzhQSDJDUldDR0o2eUNnNDJMazV0ai1xUnBONlE": {
   "keep": false,
   "publishedAt": "2026-09-23T07:00:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/halloween-without-candy-holiday-shoppers-cutting-budgets/833212/": {
+  "keep": false,
+  "publishedAt": "2026-10-16T16:09:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/bath-body-works-ulta-beauty-pink-suede/833214/": {
+  "keep": false,
+  "publishedAt": "2026-10-16T15:56:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/nordstrom-rack-returns-san-francisco-store-opening/833229/": {
+  "keep": false,
+  "publishedAt": "2026-10-16T15:55:00.000Z"
+ },
+ "PYMNTS Data::CBMiwAFBVV95cUxPeFZrNThCdFR0bGxSMXBxV2tLbXRWM0tINmRjSk95V0xaejZOZzN3bEVOODlTWDJPSUJFR1hIVXJ1MVFMWjQyQl9tdjZSSURZNlQ3TzlhMGRQeHE1Nk5FczdMX3FoTExGWTR4M1pJT0FJT3ViTkhLTkVCRTJGZmxGUDRPSGJoMzdwTzJSeFk4a1duRUVYQzNpRFY1S3VCR1hRZlk5elVteFhCVF8tdzFvQWstYkRJeFBDaXBaLWMwMUs": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "AI shopping agents push retailers to rethink customer access and payment controls",
+  "short_headline": "AI shopping agents force rethink of access, payments",
+  "takeaway": "If agents start buying for shoppers, we need to decide how our store treats them and how payment controls handle agent-initiated orders.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-16T15:39:31.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/the-realreal-new-financing-gildan-ftc-price-fixing-scrutiny/833130/": {
+  "keep": false,
+  "publishedAt": "2026-10-16T15:15:00.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166570": {
+  "keep": false,
+  "publishedAt": "2026-10-16T13:01:57.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166576": {
+  "keep": false,
+  "publishedAt": "2026-10-16T13:01:21.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166543": {
+  "keep": false,
+  "publishedAt": "2026-10-16T13:00:02.000Z"
+ },
+ "Counterpoint Research::CBMijwFBVV95cUxQMlRPbE1TSVVadTBvY0ZtekdSamlLMlZXcjlDRUJiX1FWNVdYbW5GelFINFpUcGpyU1VRZUo5d284SXV2VTVNR25XVjUyRno1VjlvU25ZT2pqNEJVM2RhTUhUdHItU214V2pjbWo3Vy1GZ1poUXBBS2lLVE9xMVVpcVFYTGJ6X3dtVzJmcDJ0NA": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Memory price tracker: servers binge, phones recycle, PCs go on a diet in October",
+  "short_headline": "Memory tracker: PCs go on a diet as servers binge",
+  "takeaway": "Memory pricing shifts toward servers could keep pressure on PC costs and pricing, so we should watch our margins and promotion plans.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-16T09:52:03.000Z"
+ },
+ "PYMNTS Data::CBMiugFBVV95cUxQQ3B0Xzd0UlZaRHM4RTFaS211VjdxZWtfd2lRaEtQUDIzTGRaMXd1UkJQcHZzUHdjLV9Yd1NMLWh5Z3MzbVJEZVY0ZWtuNV8xMDQzQUpWZWtvdTNIU1U1aVNMNXBSN3JvQkhfcm9MSmNWNnVNTVJMYXk1RjhUa2dZdVNHWk5UQzczZlRTaFNxTGp3NWVJeVB3X0szUHNZdnVnR0RNc25ndjV4elpuMkZoVC1fWndnMVFaWFE": {
+  "keep": false,
+  "publishedAt": "2026-09-28T07:00:00.000Z"
  }
 }
