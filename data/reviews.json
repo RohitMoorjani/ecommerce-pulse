@@ -3103,5 +3103,20 @@
  "PYMNTS Data::CBMiqAFBVV95cUxNX1d0RWxzUGdsRW1WcGNjeXIwWjB1eTFIdVg4Q3lVbWJaTVM0ZV9tbTJTOEZpd3pSd25oSllpaUFPQkxzMlNycHU3XzBNOVIyU2kzUjcyRFBhWmJaUFpvWldscGxUOHB6eXBxZFVYajJUQlFFRkswVEZJRmlkd0hKVFdvZVdZN3RmZmtoRjBUSWxHSFR6cGNhazI2b1AxU3NMQ2V5d1JVVlA": {
   "keep": false,
   "publishedAt": "2026-09-28T07:00:00.000Z"
+ },
+ "PYMNTS Data::CBMirwFBVV95cUxPUkI2blhmcXgyQXVXWVB6eFRfLWlPSFRROFhWdUtvWWhNLVdSenl1RGVVWGJNTUd0NzhPWlpCaGxBV29IYjVVTU9XRjZhWHMxcjdaUmRJbkZ0bjZSYk9td0EyZC1mNF9EMGRjWElFbkVDMVpDN05QVkF3SEg3Xzh3bFN1WWdDa0JTR2lTQ0NsMmNMZFkxTEJuS1p4a2g0SW1LX0RsdzZSRkJKMW9WNVI0": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Costco expands third-party same-day delivery and wins younger shoppers",
+  "short_headline": "Costco widens same-day delivery, gains younger buyers",
+  "takeaway": "Faster delivery promises are pulling younger shoppers to a key electronics retailer; we should check our own delivery speed against this.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-09-25T07:00:00.000Z"
+ },
+ "PYMNTS Data::CBMipAFBVV95cUxNWm42UWE1UWtac3QzT0hGcGU1ZjlxTjB4NmxVMkNMVW1kTFRBckh1MU9GcTlPS3hjQXpvSDBJUGhJNVAtSkRac1RmYmgxZms2cFp1cFM1bEVZN1pDZnJvdjh3QmpMWVd1T3JidVA0U2ltWXNrVkY0QjdrdXlrb1lEbmJ1Njh5cXFWZ1VGWUlsbGpTNmh2R2duN2NZM2tVNzZHRG1mMg": {
+  "keep": false,
+  "publishedAt": "2026-09-21T07:00:00.000Z"
  }
 }
