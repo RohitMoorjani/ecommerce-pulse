@@ -3052,5 +3052,44 @@
  "DigiTimes::https://www.digitimes.com/news/a20261016VL216/equipment-semco-expansion-production-substrate.html": {
   "keep": false,
   "publishedAt": "2026-10-17T00:07:22.000Z"
+ },
+ "PYMNTS Data::CBMikAFBVV95cUxPaFJkRnRTZzF1M3BER0tpckhqV0RxMFhQVWRUY2JNcnBzalBpLUNNbUY1VFJNUVJ6MHVEYThacnAzZ0ZzZEw1Xy1PMVJGRTkxSTFSYUdLaTdmc3JoLXJvTTlYLS1QX01zcVF3RUVTeWJWY2FXeEdyVHFPOS1sNkRlREIzbUF1VDBLOTJxQkFhbFI": {
+  "keep": false,
+  "publishedAt": "2026-10-17T08:03:45.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/lighter-pieces-smarter-buys-what-jewellers-are-betting-on-this-festive-season/135006830": {
+  "keep": false,
+  "publishedAt": "2026-10-17T03:49:00.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/shoppers-stop-turns-profitable-in-q2-fy27-as-consolidated-revenue-rises-7-per-cent-to-rs-1618-crore/134992980": {
+  "keep": false,
+  "publishedAt": "2026-10-16T11:32:47.000Z"
+ },
+ "Circana::CBMixgFBVV95cUxPVUVBdWlhaGNRSE14Mld6cHhQZWVQbm45a2Z5dEU5ZnoxZnlLUm9sNlRKQXNGVTc2SGVzT3dUNWZTVzB2a2NvcVFqUVpMS3VLMVdnX2FGX2pTLU5uNk9Ya3ZabXNJYnMwbm1kYTZUT3gzb3BMbFNzaHhqMTBORHRILWJrWTRTcGRZX0RGVFZQS3lmN3NRWEtJc2Mxb1kzR3NDMUlkejJLYlNyLTE1b3gtbzhPRlNQNF8xQjlLcXZFVmRyc211dFE": {
+  "keep": false,
+  "publishedAt": "2026-09-24T07:00:00.000Z"
+ },
+ "NIQ::CBMipwFBVV95cUxOQ2I3bUFjaTdhT1lWMzNvM1ZCbXh5Z0NMelhNRzBmRnVldk1LaFZJTTBEZHpRWU9wWElpV00tcVdqV09ibk4xdkFZYktIUC1LTnlfVDc2U0hyUzVkcU5zUDBoX2Foekd2bGpIT3NYRDBPcThzR0I3NHF4QUJmM1VxQ0JoRmppUlVueUluV2V6MklOaEV1empKTkJ6cFdMYUdxWmx5QWpqOA": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "NIQ: majority of U.S. consumers now use AI when shopping",
+  "short_headline": "Most U.S. shoppers now use AI to shop (NIQ)",
+  "takeaway": "AI use is now mainstream among U.S. shoppers, so our store should make its catalog and product data easy for AI tools to find and compare.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-09-24T07:00:00.000Z"
+ },
+ "PYMNTS Data::CBMijgFBVV95cUxOX3dKVHJjMmcxb29Hdkh0MklVX3RJbmw4cU9fNVJKbHdzU1dlVjkxR0Q5dnc3WUdOTVlzMm8wZXBLdDB0VDMzVUJjZGhVWVhfS28xdHg4cjZST2dpWXJ6UEFpNzN4eUpEeVctLXVscTh5cG53bl94RUF0ZXZSVWxYVXVzaVZWeGZvQ2h0dGNR": {
+  "keep": false,
+  "publishedAt": "2026-09-24T07:00:00.000Z"
+ },
+ "NIQ::CBMiiAFBVV95cUxNdERTY0xKVkR0bmdNRndlZlR5bVZ2RHRBV25UWllFcDlRUWw3Q1IxUm1GRlR1RjFxX1dMTDRuYmhGNTZTd1FlSkFmMnEtZXozVFlENENJcUExXzRtX2dtaFYwZUhtSUE1cWRWYmxHYmRXTVRLZnRmQmZqNGlYUDEyb0FHZlFFQTIy": {
+  "keep": false,
+  "publishedAt": "2026-09-23T07:00:00.000Z"
+ },
+ "PYMNTS Data::CBMirAFBVV95cUxNRDFBQmpOdFMyNkJSZUVhVW9TZ2Rkdk5xVTFxb2txNUZBanJpX253cjFFNmRoUWEzaHZZcWhtSGp0RWZ3LVFBRWw4cm1mMVIwbV9rNnBod1h0aHdLeWVFdzlnZmt5R2F4ekN4bW9xMW1JZmctVm5uNlZoM2N0bWN1UGRBZkxWR2Q3Yk10RmlOT2I2SGxQT3J4Yk1aZm9OOVppN25zcmJ2TkYwOEE0": {
+  "keep": false,
+  "publishedAt": "2026-09-22T08:04:32.000Z"
  }
 }
