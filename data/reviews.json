@@ -3122,5 +3122,20 @@
  "PYMNTS Data::CBMihgFBVV95cUxPSWlGWGU1em5teG0wU2pwZ0wwVG45N0J3dWE3Tm5tbjYwcXRQekpSVEJ0SWFqQjJBQkpBaGtrczRNZUlwR214ZTUxaGNyY2ExdXplUE9TeUpGNjZMenU4MjBfa3F0RjBvNy00bkc2ZHRLUzlhZUdkamlxVFlBVUp4M2VadWRfQQ": {
   "keep": false,
   "publishedAt": "2026-09-24T08:05:53.000Z"
+ },
+ "PYMNTS Data::CBMirgFBVV95cUxOSzJSX2wtUjZjX1BVaHdIU1ExcWl4eFF5NDNzeVVncnFPME1rUEtrblg0ZWVRT2FkSnNQUDgwbTNWWHBFanoya015bFozVUJsWEVWMGMzVWxNWXJ3RUN4dEIwV0JSY0VlV3dSTS1lRk1aRHBSWXFpR2JQWFdIR0E1ODdfU3hlUjRUT3U3eG1ZXzB4a09fQWxQSFFjbm1zMUc1NXlWUXZNdDN6OHo4RHc": {
+  "keep": false,
+  "publishedAt": "2026-10-15T01:43:39.000Z"
+ },
+ "PYMNTS Data::CBMilwFBVV95cUxOcmdEdW5KbmpTZzNBT2Y3ajdITHloN1hqd0c5QV9EQnJIYlVKd0xSOTlicktYSWpRSEVKcmh1bjBaS0dldkQyM0dob3lSMUVZRjhaeGtGeU82V0NWbTdqQndCRXNkbEFCSVZrU1J3Qm54cG5xY2lvX3QtYnYzSUJFSVVZWi1nUkZPVVFSc0VkMzhhRVA2blpZ": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Visa says small merchants could move faster on AI shopping",
+  "short_headline": "Visa: small merchants should speed up AI shopping",
+  "takeaway": "Payment networks are pushing merchants toward AI shopping; we should check that our store is ready for agent-led discovery and checkout.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-09-22T07:00:00.000Z"
  }
 }
