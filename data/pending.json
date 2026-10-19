@@ -1,10 +1,82 @@
 [
  {
-  "id": "PYMNTS Data::CBMisAFBVV95cUxPZVBzRFNDaXUxdGhVQ0wxcmotUXZRd0VGOEFMbk9jQURZZFVXRi1RM1FNNkU2SXcydUltZkM3SGk0OXNQaFdVZ1VLd0ZheU5uSFBUTzRZUjhvSUdmbGJhTFZvczdSZnlBSzExMzc0YjBVcTZsSV9TNDdXUDFoYk55VmpJWE9HVjN2dXppZnBkMGZTaEJWRVhvRVFPYjA5TXpwUUJEYjh4ajVGdVN1aGhocA",
-  "source": "PYMNTS Data",
+  "id": "Modern Retail::https://www.modernretail.co/?p=173369",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-19T04:00:00.000Z",
+  "title": "NBCUniversal’s shoppable TV business is seeing a boost from shows like ‘Traitors’ and ‘Love Island USA’",
+  "snippet": "NBCU is developing shoppable television across its own platforms, like Peacock, as well as third-party platforms, like LG TVs. Now, viewers can buy products from about 12 of their favorite shows, including \"Top Chef\"…"
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76310",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-19T03:24:00.000Z",
+  "title": "GUEST COMMENT Retailers are protecting their systems. Who is protecting the connections?",
+  "snippet": "Tom Exelby, head of cyber security at Red Helix, explains how suppliers can be exploited by cyber-criminals targeting retailers. The post GUEST COMMENT Retailers are protecting their systems. Who is protecting the…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261019VL208/ai-server-manufacturing-cooling-acquisition-infrastructure.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-19T03:19:51.000Z",
+  "title": "Lens Technology enters AI server cooling market with US$25 million PMG takeover",
+  "snippet": "China's precision manufacturing giant Lens Technology is expanding into AI server infrastructure through a proposed US$25 million acquisition of a controlling stake in PMG International, gaining access to server rack…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/eateries-cut-corners-as-high-costs-and-hygiene-crackdowns-take-a-toll/135037919",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-19T02:15:59.000Z",
+  "title": "Eateries cut corners as high costs and hygiene crackdowns take a toll",
+  "snippet": "Amid rising food inflation, many Indian restaurants are implementing various strategies to manage costs. These strategies include pausing high-cost menu items and introducing smaller portions for diners. Increased…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/haier-india-to-invest-7000-crore-in-new-facility-in-andhra/135037889",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-19T02:13:18.000Z",
+  "title": "Haier India to invest ₹7,000 crore in new facility in Andhra",
+  "snippet": "Haier India plans a ₹7,000 crore investment in a manufacturing facility in Andhra Pradesh, marking its largest investment in the country. The facility, expected to create 21,000 jobs by 2032, will focus on producing…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261019VL203/micron-sk-hynix-samsung-robot-data.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-19T02:10:05.000Z",
+  "title": "Micron develops robot memory as Samsung, SK Hynix target physical AI",
+  "snippet": "Micron is developing a memory architecture for humanoid robots, joining Samsung Electronics and SK Hynix in efforts to serve AI systems that must process sensor data while operating within battery power limits. The…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261019PD201/demand-2027-samsung-sk-hynix-outlook.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-19T01:37:20.000Z",
+  "title": "AI memory demand lifts Samsung, SK Hynix 2027 outlook",
+  "snippet": "AI data center investment continues to expand, keeping the global memory market undersupplied in the fourth quarter of 2026. Rising DRAM and NAND Flash contract prices are boosting expectations for Samsung Electronics…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261019VL201/nvidia-hbm-tsmc-samsung-3nm.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-19T01:04:27.000Z",
+  "title": "Nvidia's custom HBM pulls Samsung onto TSMC's 3nm process, report says",
+  "snippet": "Nvidia's custom memory design is shifting control of how high-bandwidth memory (HBM) is built from memory makers to its largest customer, and steering a key part of that work to TSMC. Samsung Electronics, which has made…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261016PD237/semi-equipment-demand-fab-12-inch.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-19T00:14:55.000Z",
+  "title": "Semiconductor equipment demand rises as risks curb AI bubble",
+  "snippet": "SEMI's latest 12-inch fab outlook projects double-digit annual growth in equipment spending from 2026 through 2029, with forecasts revised upward from its previous edition. However, Clark Tseng, senior director of…"
+ },
+ {
+  "id": "Morning Consult::CBMid0FVX3lxTE4tTmVFVnp6NzJWUlp0NkEtblc0VEhxX1hVS2N3TTdyQUJRa0VkdWEtQlBTeXBFb0ZWTEJiY0VwNFI3NElSRWN6Z0xZWVplNldTUnlFZEdnaFlZZGZZaEVsMDhxTk9nR1lrajFlWjA3cE1jOEpfaWNj",
+  "source": "Morning Consult",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-18T23:04:05.000Z",
-  "title": "Indian Consumers Embrace Cash Ahead of New Instant Payment Fees",
+  "publishedAt": "2026-10-16T09:05:48.000Z",
+  "title": "2026 Holiday Season Retail Trends | Morning Consult | Report Download",
   "snippet": ""
  }
 ]
