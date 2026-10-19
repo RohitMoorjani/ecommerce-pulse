@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-18T06:50:12.652Z",
+ "updatedAt": "2026-10-19T06:51:46.105Z",
  "title": "Shopping now starts with AI, and our store must be agent-ready",
- "summary": "55% of consumers use AI in product discovery (NIQ); Google launched Universal Cart in Search and Gemini; Newegg added Google UCP checkout; Amex launched a framework to verify AI-agent purchases. Q3 PC shipments fell 22.4% (Gartner).",
+ "summary": "55% of consumers use AI in product discovery (NIQ); Google launched Universal Cart; Newegg added Google UCP checkout; Amex launched an agent-purchase framework. Q3 PC shipments fell 22.4% (Gartner) as memory prices rise.",
  "points": [
   {
    "headline": "AI is becoming a mainstream way to discover products",
@@ -25,12 +25,13 @@
    ]
   },
   {
-   "headline": "PC volumes are collapsing while component costs lift prices",
-   "detail": "Gartner reports Q3 PC shipments down 22.4% as component costs lifted ASPs; DigiTimes sees a 20%+ drop with inventory pressure. We should plan pricing, stock and promotions for the holidays.",
+   "headline": "PC volumes are collapsing while memory costs lift prices",
+   "detail": "Gartner: Q3 PC shipments fell 22.4% as component costs lifted ASPs; DigiTimes sees DRAM and NAND prices rising into Q4. We should plan pricing, stock and promotions for the holidays.",
    "segment": "pc",
    "storyIds": [
     "Gartner::CBMimgJBVV95cUxPUE8xYThKVU9OOUhIaUF1T3hwM0ItRVZ2V05wei15d0gwMWpwVm0zZm90c2k4dUZzcXdyc1BNdXB4eVJ4TGQzampxVG9ZRlBBTjVZRmhvNldLSzVHNDI0b1AtZEhHY0g2TkdwckFfRjQxMHBpX0FCYXBHOWFnZ2ZoSnAyV0o2cFdqYWp2alJsYVI1RWxydnhicERwLWY5XzJnN1VNX2ctUC1VMEI0YUhJMU1vU0JzdFFtdlRqaWFHVDZjS0NrQVdSZWtWZ1lGMFpHNzA2VHA1d0ZmeW04cGlyaWhBX0FWMndzOUtHRnpqM1hreklMTTgzeWJrQ0ZZaXAtQzNpcXR3U0JleEp0U05kNnJNRkc2R1UzYUE",
-    "DigiTimes::https://www.digitimes.com/news/a20261013PD229/pc-shipments-inventory-market-demand.html"
+    "DigiTimes::https://www.digitimes.com/news/a20261013PD229/pc-shipments-inventory-market-demand.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261019PD201/demand-2027-samsung-sk-hynix-outlook.html"
    ]
   },
   {

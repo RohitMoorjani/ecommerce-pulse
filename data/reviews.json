@@ -3154,5 +3154,59 @@
  "PYMNTS Data::CBMisAFBVV95cUxPZVBzRFNDaXUxdGhVQ0wxcmotUXZRd0VGOEFMbk9jQURZZFVXRi1RM1FNNkU2SXcydUltZkM3SGk0OXNQaFdVZ1VLd0ZheU5uSFBUTzRZUjhvSUdmbGJhTFZvczdSZnlBSzExMzc0YjBVcTZsSV9TNDdXUDFoYk55VmpJWE9HVjN2dXppZnBkMGZTaEJWRVhvRVFPYjA5TXpwUUJEYjh4ajVGdVN1aGhocA": {
   "keep": false,
   "publishedAt": "2026-10-18T23:04:05.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173369": {
+  "keep": true,
+  "segment": "plays",
+  "headline": "NBCUniversal makes about 12 shows shoppable across Peacock and third-party LG TVs",
+  "short_headline": "NBCU expands shoppable TV across Peacock and LG TVs",
+  "takeaway": "Shoppable TV on connected screens is a new discovery path; we could test buy-from-screen formats for tech with streaming partners.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-19T04:00:00.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76310": {
+  "keep": false,
+  "publishedAt": "2026-10-19T03:24:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261019VL208/ai-server-manufacturing-cooling-acquisition-infrastructure.html": {
+  "keep": false,
+  "publishedAt": "2026-10-19T03:19:51.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/eateries-cut-corners-as-high-costs-and-hygiene-crackdowns-take-a-toll/135037919": {
+  "keep": false,
+  "publishedAt": "2026-10-19T02:15:59.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/haier-india-to-invest-7000-crore-in-new-facility-in-andhra/135037889": {
+  "keep": false,
+  "publishedAt": "2026-10-19T02:13:18.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261019VL203/micron-sk-hynix-samsung-robot-data.html": {
+  "keep": false,
+  "publishedAt": "2026-10-19T02:10:05.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261019PD201/demand-2027-samsung-sk-hynix-outlook.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "AI data center demand keeps memory undersupplied, lifting DRAM and NAND prices into Q4",
+  "short_headline": "Memory shortage keeps DRAM and NAND prices rising",
+  "takeaway": "Rising memory contract prices raise PC build costs; we should plan pricing and inventory for tighter supply and higher costs into 2027.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-19T01:37:20.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261019VL201/nvidia-hbm-tsmc-samsung-3nm.html": {
+  "keep": false,
+  "publishedAt": "2026-10-19T01:04:27.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261016PD237/semi-equipment-demand-fab-12-inch.html": {
+  "keep": false,
+  "publishedAt": "2026-10-19T00:14:55.000Z"
+ },
+ "Morning Consult::CBMid0FVX3lxTE4tTmVFVnp6NzJWUlp0NkEtblc0VEhxX1hVS2N3TTdyQUJRa0VkdWEtQlBTeXBFb0ZWTEJiY0VwNFI3NElSRWN6Z0xZWVplNldTUnlFZEdnaFlZZGZZaEVsMDhxTk9nR1lrajFlWjA3cE1jOEpfaWNj": {
+  "keep": false,
+  "publishedAt": "2026-10-16T09:05:48.000Z"
  }
 }
