@@ -1,82 +1,178 @@
 [
  {
-  "id": "Modern Retail::https://www.modernretail.co/?p=173369",
-  "source": "Modern Retail",
+  "id": "Retail Dive::https://www.retaildive.com/news/nike-ceo-elliott-hill-problems-keep-growing-china-sportswear-jordan/832803/",
+  "source": "Retail Dive",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-19T04:00:00.000Z",
-  "title": "NBCUniversal’s shoppable TV business is seeing a boost from shows like ‘Traitors’ and ‘Love Island USA’",
-  "snippet": "NBCU is developing shoppable television across its own platforms, like Peacock, as well as third-party platforms, like LG TVs. Now, viewers can buy products from about 12 of their favorite shows, including \"Top Chef\"…"
+  "publishedAt": "2026-10-19T13:08:00.000Z",
+  "title": "Nike hired Elliott Hill to fix a couple problems. They keep growing.",
+  "snippet": "Three years ago, Nike executives touted “strong growth” across Converse and Jordan Brand. Now, both are declining by double digits — and so is China."
  },
  {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76310",
+  "id": "TWICE::https://www.twice.com/?p=166579",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-19T13:01:22.000Z",
+  "title": "Home Assistant Cloud To Become Home Assistant Link",
+  "snippet": "Nabu Casa renames service to clarify its role in remote access and smart home connectivity"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=166583",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-19T13:00:07.000Z",
+  "title": "Circana Forecasts Flat To Modest Growth For 2026 Holiday Spending",
+  "snippet": "Shoppers prioritize value, convenience and meaningful gifts, with fourth-quarter spending expected to range from down 1% to up 2.5%"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/festive-supply-chains-go-hyperlocal-as-brands-move-inventory-closer-to-consumers/135048809",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-19T12:29:55.000Z",
+  "title": "Festive supply chains go hyperlocal as brands move inventory closer to consumers",
+  "snippet": "Retail brands are doubling down on quick-commerce inventory, dark stores and forward fulfillment as faster delivery becomes a consumer expectation and festive demand peaks across channels."
+ },
+ {
+  "id": "Retail TouchPoints::CBMilAFBVV95cUxPN2VYOUxRUi1lU2Y5b1NNR3ljU0ttOVRrZmZOSXNZMVdMcmx4d0MxbnN6T1N5ZDBfSF9nNkZWdVlsTExNZVhaQ21FekpaQ19sNS16dDFfWlA2bkRpZl9kRS1FdUxXdFR5dVgzbEFIMVZfejVQSmFkYlZlaHpBZFJZSUJQTEIzcXJKYWN6RWRNdF93cHlD",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-19T12:00:39.000Z",
+  "title": "Best Buy Gamers Launched in Partnership with IGN",
+  "snippet": ""
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76313",
   "source": "InternetRetailing",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-19T03:24:00.000Z",
-  "title": "GUEST COMMENT Retailers are protecting their systems. Who is protecting the connections?",
-  "snippet": "Tom Exelby, head of cyber security at Red Helix, explains how suppliers can be exploited by cyber-criminals targeting retailers. The post GUEST COMMENT Retailers are protecting their systems. Who is protecting the…"
+  "publishedAt": "2026-10-19T11:35:29.000Z",
+  "title": "ANALYSIS Sales are up. So why is Poundland still fighting for survival?",
+  "snippet": "Poundland’s uncertain future is a reflection of growing pressure on UK high streets, according to David Kemp, Director at Liquidation Centre. The post ANALYSIS Sales are up. So why is Poundland still fighting for…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261019VL208/ai-server-manufacturing-cooling-acquisition-infrastructure.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-19T03:19:51.000Z",
-  "title": "Lens Technology enters AI server cooling market with US$25 million PMG takeover",
-  "snippet": "China's precision manufacturing giant Lens Technology is expanding into AI server infrastructure through a proposed US$25 million acquisition of a controlling stake in PMG International, gaining access to server rack…"
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/eateries-cut-corners-as-high-costs-and-hygiene-crackdowns-take-a-toll/135037919",
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/health-and-beauty/k-beauty-up-200-pc-mens-skincare-78-pc-gen-z-reshapes-myntras-beauty-mix/135047582",
   "source": "ETRetail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-19T02:15:59.000Z",
-  "title": "Eateries cut corners as high costs and hygiene crackdowns take a toll",
-  "snippet": "Amid rising food inflation, many Indian restaurants are implementing various strategies to manage costs. These strategies include pausing high-cost menu items and introducing smaller portions for diners. Increased…"
+  "publishedAt": "2026-10-19T11:30:00.000Z",
+  "title": "K-Beauty up 200 pc, men’s skincare 78 pc: Gen Z reshapes Myntra’s beauty mix",
+  "snippet": "Gen Z is reshaping Myntra’s beauty business, contributing to substantial growth in various skincare and grooming categories. Demand for K-Beauty products and men's grooming has seen significant increases, reflecting…"
  },
  {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/haier-india-to-invest-7000-crore-in-new-facility-in-andhra/135037889",
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/krishival-foods-appoints-former-nestl-tata-consumer-executive-vivek-kumar-jain-as-cbo/135046594",
   "source": "ETRetail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-19T02:13:18.000Z",
-  "title": "Haier India to invest ₹7,000 crore in new facility in Andhra",
-  "snippet": "Haier India plans a ₹7,000 crore investment in a manufacturing facility in Andhra Pradesh, marking its largest investment in the country. The facility, expected to create 21,000 jobs by 2032, will focus on producing…"
+  "publishedAt": "2026-10-19T10:41:12.000Z",
+  "title": "Krishival Foods appoints former Nestlé, Tata Consumer executive Vivek Kumar Jain as CBO",
+  "snippet": "In his new role, Jain will lead business strategy and growth initiatives, focusing on profitability, portfolio expansion across domestic and international markets, product and category management, and distribution…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261019VL203/micron-sk-hynix-samsung-robot-data.html",
+  "id": "Counterpoint Research::CBMinwFBVV95cUxOb245bWd3UXF4WVBpbVFwWFRxeFVBamI4ME5INXJJcFdJbmJhdElycURsWk0wQWRUcFloOHdrWFBRcWdFTUJOLVItc2pFRXZhdFh3UG81NnFHRG5wTnJ1MUFyX01fS09BM091SmlqaDFfQjI2X2NnWWVHTlVQV2NJSEJEeE44VU8ybS14M1l5MFhKa012YzVlS3AtUkExVkU",
+  "source": "Counterpoint Research",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-19T10:01:38.000Z",
+  "title": "China Smartphone Shipments Hit 14-Year Low in Q3; Huawei and Apple Buck the Downtrend",
+  "snippet": ""
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=173559",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-19T10:00:00.000Z",
+  "title": "Love Actually’ reunions, delivered by DoorDash: Inside Anthropologie’s holiday sales pitch",
+  "snippet": "Launching October 19, Anthropologie's holiday spotlights products ranging from travel outfits to partywear to pajamas. But Anthropologie is also pairing that broader holiday wardrobe with more home collaborations and a…"
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/spons/power-profitable-growth-how-retailers-are-elevating-customer-experiences-w/832927/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-19T09:00:00.000Z",
+  "title": "Power profitable growth: How retailers are elevating customer experiences while unlocking new revenue without adding operational complexity",
+  "snippet": "Retailers face increasing pressure to drive growth, elevate customer experiences and improve profitability. Discover how leading retailers are partnering with NRG."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/spons/why-retail-is-positioned-to-win-the-flexible-credential-opportunity/833182/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-19T09:00:00.000Z",
+  "title": "Why retail is positioned to win the flexible credential opportunity",
+  "snippet": "Shoppers juggle debit, credit and BNPL. Here’s why retail is poised to win with one flexible card."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/spons/your-retail-network-isnt-ready-for-ai-heres-why/832985/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-19T09:00:00.000Z",
+  "title": "Your retail network isn’t ready for AI. Here’s why.",
+  "snippet": "Here's a practical list of network and IT challenges retailers need to overcome to support AI at scale."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261019PD247/samsung-exynos-kirin-huawei-chips.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-19T02:10:05.000Z",
-  "title": "Micron develops robot memory as Samsung, SK Hynix target physical AI",
-  "snippet": "Micron is developing a memory architecture for humanoid robots, joining Samsung Electronics and SK Hynix in efforts to serve AI systems that must process sensor data while operating within battery power limits. The…"
+  "publishedAt": "2026-10-19T08:55:00.000Z",
+  "title": "Samsung targets Exynos 2700 expansion as Huawei advances Kirin chips",
+  "snippet": "Samsung Electronics is developing the Exynos 2700 for broader use across its Galaxy S27 lineup in 2027, while Huawei has moved its next-generation Kirin chips into testing. The competing efforts are raising pressure on…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261019PD201/demand-2027-samsung-sk-hynix-outlook.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-19T01:37:20.000Z",
-  "title": "AI memory demand lifts Samsung, SK Hynix 2027 outlook",
-  "snippet": "AI data center investment continues to expand, keeping the global memory market undersupplied in the fourth quarter of 2026. Rising DRAM and NAND Flash contract prices are boosting expectations for Samsung Electronics…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261019VL201/nvidia-hbm-tsmc-samsung-3nm.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-19T01:04:27.000Z",
-  "title": "Nvidia's custom HBM pulls Samsung onto TSMC's 3nm process, report says",
-  "snippet": "Nvidia's custom memory design is shifting control of how high-bandwidth memory (HBM) is built from memory makers to its largest customer, and steering a key part of that work to TSMC. Samsung Electronics, which has made…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261016PD237/semi-equipment-demand-fab-12-inch.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-19T00:14:55.000Z",
-  "title": "Semiconductor equipment demand rises as risks curb AI bubble",
-  "snippet": "SEMI's latest 12-inch fab outlook projects double-digit annual growth in equipment spending from 2026 through 2029, with forecasts revised upward from its previous edition. However, Clark Tseng, senior director of…"
- },
- {
-  "id": "Morning Consult::CBMid0FVX3lxTE4tTmVFVnp6NzJWUlp0NkEtblc0VEhxX1hVS2N3TTdyQUJRa0VkdWEtQlBTeXBFb0ZWTEJiY0VwNFI3NElSRWN6Z0xZWVplNldTUnlFZEdnaFlZZGZZaEVsMDhxTk9nR1lrajFlWjA3cE1jOEpfaWNj",
-  "source": "Morning Consult",
+  "id": "PYMNTS Data::CBMitAFBVV95cUxNV1k4bi1fbnhrb0FJeXRPVkJNYkZmYkFLYWRGTE55SWxENTlBLTYtNDIySUhWODJGN0lXV2ItYmFjV1RFd1k2WU9ZZml1SWpDbkNWcHBRdjBidngxOWhkN2FLUG9GMXZnSDFxdXNRMk0zb0RVaXNHeUNfUHRkeWJoQ1BrdTZoQ3pkUFdJS0JVeThpdnNDMnJqZ0gyQW9WdEgtSG5LcDBXeXhEdDhiWTF6M1dyQzE",
+  "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-16T09:05:48.000Z",
-  "title": "2026 Holiday Season Retail Trends | Morning Consult | Report Download",
+  "publishedAt": "2026-10-19T08:12:05.000Z",
+  "title": "Brazilian Retailers Can Lose the Sale Even After Shoppers Enter the Store",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS Data::CBMikAFBVV95cUxPeXZ0WFpmZ0p3V183ZHh6OWk4QlVRRlNfTWJxYWhnSkZHSDJVV2EtX1I3dm5LMW16TldSVy0yUDNOWHlxQ3RiVGtTUUtfVm5CQk9UamtxckE0UVNwblBkcGp4WkFBQkxqSkRub1BKRUhzYUtvMmZ2STFxYUxGVVlwRjRld3V0TjlXOENPTnFyMjc",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-19T08:06:39.000Z",
+  "title": "Gen X Clicks, Then Commits: How to Win the Store Sale",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261019PD242/weblink-acer-governance-subsidiary-data.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-19T07:54:09.000Z",
+  "title": "Weblink International secures AvePoint agency rights to expand AI governance",
+  "snippet": "Acer Inc. subsidiary Weblink International Inc. has secured agency rights for AvePoint in Taiwan and the Asia-Pacific region, expanding its enterprise solutions portfolio amid accelerating cloud and AI adoption and the…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261019PD239/market-camera-recovery-growth-shipments.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-19T07:45:00.000Z",
+  "title": "Action cameras gain momentum as camera demand fragments",
+  "snippet": "After two years of recovery, the digital camera market is slowing in 2026, with action cameras and handheld smart cameras taking over as the next growth engines. Optical industry observers say consumers no longer expect…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261019VL210/elon-musk-dram-tesla-2028-samsung.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-19T07:43:43.000Z",
+  "title": "Elon Musk points to China's 2028 DRAM supply surge to challenge Samsung, SK Hynix pricing power",
+  "snippet": "Tesla CEO Elon Musk has predicted a surge in Chinese memory chip production by 2028, raising questions over Samsung Electronics and SK Hynix's pricing power during an AI-driven dynamic random-access memory (DRAM)…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261019PD224/auo-innolux-display-lcd-manufacturing-ic-packaging-taiwan.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-19T06:59:52.000Z",
+  "title": "From LCD powerhouse to AI enabler: Taiwan's display industry reinvents itself after 30 turbulent years",
+  "snippet": "Once a global LCD manufacturing powerhouse, Taiwan's display industry has weathered financial crises, antitrust penalties and fierce competition from state-backed Chinese rivals. Now, after three decades of…"
+ },
+ {
+  "id": "Reuters::CBMitAFBVV95cUxPelFIVGVwcy1oY2RvRVlaQTl5REpEc1hfS0ZUb1lTeWN0M2tBbTctTWo4NzVXeWthQVNab2p1eUFYQ2xtejBoc1ktQlZFQXh1U3hOSWdNdlBzTzNvcThPMFVyNnIzSTgyQ3lXbW8taGQtTV92Vl9uUGZOWjc1cGp6NTJBTDNpcWpEUnRCMjhXcVRYNkVXSFNwaHF3UGFGU0NqZTZWZzJXc0FyX3BnUkxhVWVSNzI",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-19T02:22:00.000Z",
+  "title": "China's economic growth picks up as exports boom, consumers balk",
+  "snippet": ""
+ },
+ {
+  "id": "Reuters::CBMiwAFBVV95cUxOalc5TDdscm1MdXk4eDdPdENIaFJ4Tml5Y0Q1Y29NUW9SRnBZQUxRRVk2SWdkaVpVNmRac2toa2JjcGFYUDY1akhJWTRkN0JzZ0F2YzJxVGZqZndQQU5zbWlzWm4ta245WjdNRUpVWVVHZVRfZVQyVjZaa0I5UDd0SUdFd0QzMTd0WWh6QVQ0QUxhYlZTekJHbVQ1a3dxcE1DRUVYczdmal9nZTBacjAzTU1ULXBQNXpaMTNPblltY2E",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-17T06:32:55.000Z",
+  "title": "FDA flags Edwards heart-valve delivery system issue after death, injury",
   "snippet": ""
  }
 ]

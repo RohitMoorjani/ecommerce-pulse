@@ -1147,10 +1147,6 @@
   "competitors": [],
   "publishedAt": "2026-09-16T07:00:00.000Z"
  },
- "NFIB & QuickBooks Small Business::CBMirwFBVV95cUxPenptSUpoYUowcHhBMElfVU5uNEw4NHpKZ09vSGN3MFVjdk9xQWdKR2dVVFhSaTdrZ0ViQ21ZNG5wUjBac0Z6ZEk0aXljSXNTenQwa1lqVEt3RG55SXFyTGxhSGl2VzU1bnRyYUhDLTQxcFZLOHkxRDI1WEttdWM1aTVqbnFkSmR1ZTNBZFhVNjlMTEV5cGpoREtiRXQ0aUIyRHpSSFlNZmt0XzhHZFA4": {
-  "keep": false,
-  "publishedAt": "2026-09-14T07:00:00.000Z"
- },
  "PYMNTS Data::CBMi4AFBVV95cUxNaHhCQVR6RlRwWF9KVTVxc2pEbnI2b2QwNk1fYWxGeWhQTHF4V08xY2lZWE5QQ0F2bGFmLWhhMVZWZkJhZko3M0h1ZldHUFc4YWZHb0UxbVRQa2w1OVJmY1FWT1l4c3BjSllnQXN5X3R3OGF2T2FMYWFWY0diTEtIRHdMQlpDUm1LMWNYdi1FY19CR1BEZEExcWduV3NmS00yQUVvLVFWWW1oZmZ3MmNOZGF6NHJmTTd3a2dXbnVfaTdTVl9aWXZFRUxOT2I4MzVrdkFaTGxzNHFUS1FDaFZnQw": {
   "keep": false,
   "publishedAt": "2026-10-07T16:56:06.000Z"
@@ -2282,17 +2278,6 @@
  "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/gold-price-surge-boosts-diamond-jewellery-sales-15-20-per-cent/134906716": {
   "keep": false,
   "publishedAt": "2026-10-13T03:11:38.000Z"
- },
- "Circana::CBMitwFBVV95cUxQMXh2ME9kUjM5cTZhNEZRVEtaTWhKd0YySnZKMW53YS1Ib0plaS1GUWpZTUViSEhORnZrN2lfNHp6QTNLNTNyRFBUQy1Ebi1QV2dyVFM0aERNMzVYOUczYjFVUEp3TWRLdXhnTWFZTy0zZ1ZYaTJyRGw3QnloOTQyMDdUMGo0VEQwQXRDdkdKUXJKcWFWaEx1akR0aEw1ZEZ0dTJTM1NWcW1fUXFpNkVOOFA4Q3FhZ1U": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "Circana: tighter spending pushes shoppers to buy what they need and what they love",
-  "short_headline": "Circana: shoppers split needs from wants",
-  "takeaway": "Shoppers are prioritising essentials and favourites, so we should sharpen value messaging and highlight what makes our products worth the spend.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-09-14T07:00:00.000Z"
  },
  "Inc42::https://inc42.com/?p=576263": {
   "keep": false,
