@@ -1,46 +1,46 @@
 {
- "updatedAt": "2026-10-19T06:51:46.105Z",
- "title": "Shopping now starts with AI, and our store must be agent-ready",
- "summary": "55% of consumers use AI in product discovery (NIQ); Google launched Universal Cart; Newegg added Google UCP checkout; Amex launched an agent-purchase framework. Q3 PC shipments fell 22.4% (Gartner) as memory prices rise.",
+ "updatedAt": "2026-10-19T15:50:55.166Z",
+ "title": "Shopping starts with AI and demand is cautious: make our store agent-ready",
+ "summary": "55% of consumers use AI in product discovery (NIQ); Google launched Universal Cart; Newegg added Google UCP checkout; Amex launched an agent-purchase framework. Q3 PC shipments fell over 20% (DigiTimes); Circana sees flat holiday spend.",
  "points": [
   {
    "headline": "AI is becoming a mainstream way to discover products",
-   "detail": "55% of consumers use AI in discovery and a majority of U.S. shoppers now use AI to shop (NIQ); Shopify says AI discovery converts better. We should make our catalog AI-readable and track AI traffic.",
+   "detail": "55% of consumers use AI in discovery (NIQ) and 34% of US consumers would use GenAI for holiday gift ideas (Gartner). We should make our catalog AI-readable and track AI-referred traffic.",
    "segment": "trends",
    "storyIds": [
     "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
-    "InternetRetailing::https://internetretailing.net/?p=76266",
-    "NIQ::CBMipwFBVV95cUxOQ2I3bUFjaTdhT1lWMzNvM1ZCbXh5Z0NMelhNRzBmRnVldk1LaFZJTTBEZHpRWU9wWElpV00tcVdqV09ibk4xdkFZYktIUC1LTnlfVDc2U0hyUzVkcU5zUDBoX2Foekd2bGpIT3NYRDBPcThzR0I3NHF4QUJmM1VxQ0JoRmppUlVueUluV2V6MklOaEV1empKTkJ6cFdMYUdxWmx5QWpqOA"
+    "Gartner::CBMilAJBVV95cUxPdEI3MmZCa2FBWVVoSC1ZNGh2OUhLSnhPRUl1eWgtMHd2T2dNVXRnRUhJUVh1WVhYMWl1Mm5RLXZzZzBPdzBQalVXYzlLNmlwLXhzSE8zU0RCcHpjTHhQSWxZazNrcUZraEl0Z1VnYlBULW1TOUI4eWVRYlZiNlFkSVJyT3FleGJHOFNnTU5jY0JEZVhaN1RkU2NhZC1UVjVoQTZjLTk2ckVmVktrdnQyeUZmRl8yeG8zZkQ1N3dCSFhmMjJNRXBPdGdYRW9lVlRpRzVndUN0ZjFGeF9xVF9sc1IyVm1ZY1o5b21jNE9mX0ZqNzY2UVYyY211aXg0eGFpelZGUGZ6ajQwRU9GX3FyNElCYUM",
+    "InternetRetailing::https://internetretailing.net/?p=76266"
    ]
   },
   {
    "headline": "Agent checkout is going live across Google, Newegg and Amex",
-   "detail": "Google opened Universal Cart with AI price tracking, Newegg added Google UCP checkout, and Amex published a framework to verify AI-agent purchases. We should check feed and checkout readiness.",
+   "detail": "Google opened Universal Cart in Search and Gemini, Newegg added Google UCP checkout, and Amex published a framework for agent purchases. We should assess our readiness for agent-led purchases.",
    "segment": "agentic",
    "storyIds": [
-    "TechCrunch::https://techcrunch.com/?p=3178088",
     "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363450",
     "TechCrunch::https://techcrunch.com/?p=3175284",
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363553"
+    "TechCrunch::https://techcrunch.com/?p=3178088"
    ]
   },
   {
-   "headline": "PC volumes are collapsing while memory costs lift prices",
-   "detail": "Gartner: Q3 PC shipments fell 22.4% as component costs lifted ASPs; DigiTimes sees DRAM and NAND prices rising into Q4. We should plan pricing, stock and promotions for the holidays.",
+   "headline": "PC demand is weak while memory costs stay high",
+   "detail": "Global PC shipments fell over 20% year over year in Q3, and AI data center demand keeps DRAM and NAND prices rising into Q4. We should plan holiday stock and pricing carefully.",
    "segment": "pc",
    "storyIds": [
-    "Gartner::CBMimgJBVV95cUxPUE8xYThKVU9OOUhIaUF1T3hwM0ItRVZ2V05wei15d0gwMWpwVm0zZm90c2k4dUZzcXdyc1BNdXB4eVJ4TGQzampxVG9ZRlBBTjVZRmhvNldLSzVHNDI0b1AtZEhHY0g2TkdwckFfRjQxMHBpX0FCYXBHOWFnZ2ZoSnAyV0o2cFdqYWp2alJsYVI1RWxydnhicERwLWY5XzJnN1VNX2ctUC1VMEI0YUhJMU1vU0JzdFFtdlRqaWFHVDZjS0NrQVdSZWtWZ1lGMFpHNzA2VHA1d0ZmeW04cGlyaWhBX0FWMndzOUtHRnpqM1hreklMTTgzeWJrQ0ZZaXAtQzNpcXR3U0JleEp0U05kNnJNRkc2R1UzYUE",
     "DigiTimes::https://www.digitimes.com/news/a20261013PD229/pc-shipments-inventory-market-demand.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261019PD201/demand-2027-samsung-sk-hynix-outlook.html"
+    "DigiTimes::https://www.digitimes.com/news/a20261019PD201/demand-2027-samsung-sk-hynix-outlook.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261019VL210/elon-musk-dram-tesla-2028-samsung.html"
    ]
   },
   {
-   "headline": "Holiday online demand keeps growing despite a cautious mood",
-   "detail": "Adobe forecasts record US online holiday sales of $275.1B, up 6.7%, and Gartner finds 34% of US consumers would use GenAI for gift ideas. We should plan Cyber 5 inventory and AI-friendly content.",
+   "headline": "Holiday online sales grow, but shoppers stay value-driven",
+   "detail": "Adobe forecasts record US online holiday sales of $275.1B (+6.7%), while Circana expects overall spending between down 1% and up 2.5%. We should lead with price and convenience in Cyber 5 plans.",
    "segment": "trends",
    "storyIds": [
     "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c",
-    "Gartner::CBMilAJBVV95cUxPdEI3MmZCa2FBWVVoSC1ZNGh2OUhLSnhPRUl1eWgtMHd2T2dNVXRnRUhJUVh1WVhYMWl1Mm5RLXZzZzBPdzBQalVXYzlLNmlwLXhzSE8zU0RCcHpjTHhQSWxZazNrcUZraEl0Z1VnYlBULW1TOUI4eWVRYlZiNlFkSVJyT3FleGJHOFNnTU5jY0JEZVhaN1RkU2NhZC1UVjVoQTZjLTk2ckVmVktrdnQyeUZmRl8yeG8zZkQ1N3dCSFhmMjJNRXBPdGdYRW9lVlRpRzVndUN0ZjFGeF9xVF9sc1IyVm1ZY1o5b21jNE9mX0ZqNzY2UVYyY211aXg0eGFpelZGUGZ6ajQwRU9GX3FyNElCYUM"
+    "TWICE::https://www.twice.com/?p=166583",
+    "Circana::CBMisgFBVV95cUxQYV9DbWNDbWZDV201SnJxX25Ub09ZYTZlTFZUcElpYnpDWDNqZENld0ZqX0tMY2RRVGxpOFdsLXE4b3pMVmgtQzhDZjc5bm9HbGh4RHZsSTZXYjRRc3p6U1BlQ1ZSN1d2QTltcUVLdVp4bkZDUURJeUVxcTBjYjY4cFR0YmJkSDczYTZFdFhWUXFlMFVOMm9maHZ2QjhnRU5NTklUVUI5LUM5OWRvSFluSXhB"
    ]
   }
  ]
