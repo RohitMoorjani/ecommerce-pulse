@@ -1,74 +1,130 @@
 [
  {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363608",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-10-19T23:35:56.000Z",
-  "title": "1-800-Flowers.com sells two business units to PlanetArt",
-  "snippet": "Less than one month after a final deal was announced, 1-800-Flowers.com confirmed that the sale of its PersonalizationMall.com and Things Remembered units to PlanetArt is now complete. 1-800-Flowers.com’s sale to the…"
+  "id": "PYMNTS Data::CBMiugFBVV95cUxQWGhoYXZsVG82eE8yRlRmbVYyWDhxeWc1ZVMyMl9iZDlGUzdDTEpRMnBiNzV6VEdQU2FWQXdvUkdvcy1FaWh4Mk5nRnhkSlg0RFNsTVVjQk52eEg3VGJXelJIUDR5ejNGMjdzeUtDb0YzZ0o2ZUl5TUxiVV9CaE4wTXo5U1NUUVFOSmNoM2JYSnRicXZMWFk4LURucUFxNGRfRkhqOVMxMXlBVFp3RzVpQzZRYnQ4WWF3WEE",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-20T08:03:58.000Z",
+  "title": "21% of Financially Stressed Grocery Shoppers Use Digital Wallets",
+  "snippet": ""
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261019VL214/mexico-electronics-exports-investment-development.html",
+  "id": "Inc42::https://inc42.com/?p=576872",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-20T06:55:58.000Z",
+  "title": "Flipkart Eyes October-End Launch For Food Delivery Service: Report",
+  "snippet": "Walmart-owned ecommerce major Flipkart is reportedly targeting an October-end public launch for its food delivery service, ‘Eat-in by Minutes’, to…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261020PD232/thermaltake-workstation-gaming-market-revenue.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-19T23:22:34.000Z",
-  "title": "Taiwanese server makers deepen Mexico investments amid US AI spending boom",
-  "snippet": "Taiwanese electronics makers are deepening their presence in Mexico's Chihuahua state, drawn by surging US demand for AI servers, officials and business leaders told a seminar in Taipei on October 19. The pace of…"
+  "publishedAt": "2026-10-20T06:45:00.000Z",
+  "title": "Thermaltake expands AI workstation lineup on edge AI demand",
+  "snippet": "Thermaltake is targeting the growing edge AI market with a new workstation lineup. Chairman Kenny Lin said the company has transformed from a gaming components maker into an AI PC and workstation systems provider. The…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261019PD237/renewable-energy-electricity-re100-taiwan-manufacturing.html",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261020VL218/samsung-cxmt-dram-hbm4.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-19T23:07:00.000Z",
-  "title": "Research: Renewable energy bottlenecks in South Korea, Taiwan, Singapore slow memory chipmakers' RE100 progress",
-  "snippet": "The world's three largest memory manufacturers—Samsung Electronics, SK Hynix, and Micron Technology—along with Taiwan-based Nanya Technology, Winbond Electronics, and Macronix International, face significant obstacles…"
+  "publishedAt": "2026-10-20T06:40:48.000Z",
+  "title": "Samsung's HBM4 supply lock-in exposes limits of China's CXMT as Apple and Tesla seek DRAM alternatives",
+  "snippet": "Samsung Electronics is expected to enter 2027 with approximately 80% of its planned memory production secured under long-term contracts, reinforcing its pricing position while China's ChangXin Memory Technologies (CXMT)…"
  },
  {
-  "id": "PYMNTS Data::CBMivgFBVV95cUxOeUZWTU9JbVlieUZMdEdVZ3RWcDc1RUdjYlhIeUpTNGVLR1gzYVM4TWgzY213M1ZXblo0Y1BORzlZM1UwVjFXb29ONU50Qkg4dUFWT01PR3lXMEFZUWpSTWtmMlhRTWJwYm9kaTQ4Z0llQVVpTU5WSWw4NEJaMndKdDlJaXNCenVzS3BUUklVWTdxU19La01SRDkxOVBJbE9hM3pPUDM0X0hEb2NnMlpUWnhQSk1SQ3FCVGF5V25R",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-19T21:35:21.000Z",
-  "title": "Generations Under Pressure: How Younger Consumers Are Coping With Higher Living Costs",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261020PD235/substrate-packaging-development-production-performance.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-20T06:33:49.000Z",
+  "title": "Daeduck Electronics targets 2029 ceramic substrates for AI packaging",
+  "snippet": "South Korean substrate maker Daeduck Electronics is accelerating development of ceramic core substrates (CCS) to address warpage and thermal-management challenges as AI semiconductor packages grow larger. The company is…"
  },
  {
-  "id": "PYMNTS Data::CBMinwFBVV95cUxNVHpfcVZscTcwdVJucFpyLTJyY2sxSkxLTUhaWTVTdWRydXJPMGZmVlJnSHB6bU5KVk9acmM4OWVVTlctMzFKOHVKSlVvX0Q5bGl5Sm5mU2VKYWNaV0diRTNweXR3SnRiN1Q3cHFMMHN3SXBrN0o5TkhHTHZZdFR5NlVLaW4tclRMUTM0a3hWako5SldmQlBIbjZuRlFoM1E",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-19T21:35:21.000Z",
-  "title": "The Pay Later Ecosystem Report: Consumers Will Let AI Recommend Pay Later, But They Want Control",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261020PD233/powertip-technology-design-demand-manufacturing-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-20T06:06:28.000Z",
+  "title": "Powertip Technology transitions into a solutions provider as demand and costs rise",
+  "snippet": "Powertip Technology is transitioning from a module design and supply company to a solutions provider. The company has seen rising demand in the first half of 2026 as the electronics and manufacturing industries faced…"
  },
  {
-  "id": "PYMNTS Data::CBMiqwFBVV95cUxORFJoejlFTU9XY3ZHOUNfOUxPUnFUYkZGNTlUNk9NZTBPWUQ2U1pwalNPY1I1UkVBRDh0bmFZdjM4cElVMGZvY1lIMDlJQU1aUDQwby02blpaWHlYdzFYLVlJWEJKWGVsWnBiMjczLV9FQlU1aFZfTThpZGdIVXdCN3RRalZGRm1SNEx0T1AzX2M4cVZxM3RWSDBtcVBiYWdVSElXWURnS3hfZkE",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-19T21:35:20.000Z",
-  "title": "The Pay Later Reset: Data Shows Young Consumers Retreat, Cards Hold Firm",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261020PD223/nvidia-cpu-robot-software-lg-electronics.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-20T04:27:46.000Z",
+  "title": "Nvidia says South Korea has Vera CPU customers, LG robot results ahead",
+  "snippet": "Nvidia's South Korea representative said the company's Vera CPU already has customers in South Korea and that collaboration with LG Electronics on humanoid robots is expected to deliver results soon. Speaking at KES…"
  },
  {
-  "id": "PYMNTS Data::CBMimwFBVV95cUxQQzhpTTAtdThKMEcyWXNSRThUbnF0Si04X2tOak9tYXhBZjVUSWM0RGI2SmhFa21Qcjk5aFlxTFgtUk9nSjFsUnZha09YbG02N1h3LUg5T2lXMUtKejFpNkdlNzlXSVRBalFnMVVCT2VZcnFUU1ZWaWJ1MnpEQVFhZEJka25vMVFseXdPYzdSZ2xBZUkyQjYyUFJ0dw",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-19T18:10:06.000Z",
-  "title": "Consumers Hold the Line as Their Financial Cushion Shrinks",
-  "snippet": ""
+  "id": "Modern Retail::https://www.modernretail.co/?p=173640",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-20T04:00:00.000Z",
+  "title": "PepsiCo bets on refrigerated fresh foods like gazpacho and guacamole to drive growth",
+  "snippet": "This year, PepsiCo is using refrigerated soups and guacamole to chase growth as consumers seek fresh, convenient foods."
  },
  {
-  "id": "PYMNTS Data::CBMilwFBVV95cUxNbDFDTUtmWmZITUY3N1M1VjhXUXJrZVZsdTc4SU9UekxDT2Znd2ppeWhDTDl3T2xmRkg0bXRpaWpzT2tEZS1FSVZlNGVrNGlUNTJHZDVpMGhOdmZlMmRVZXJoSlVNeFduM1pmUENZbEN2alRGSzVhMDdGWko5Z2tqQl9FMVpkRTdBYUg5MzV5amRhbUZpX2xV",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-01T08:05:05.000Z",
-  "title": "Consumers Trust Their Jobs as Savings Run Thin",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261020PD219/apple-microsoft-low-cost-12-inch-macbook.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-20T03:50:00.000Z",
+  "title": "Exclusive: Apple's MacBook Neo pressures Microsoft to cut specs for low-cost 12-inch Surface",
+  "snippet": "Apple's MacBook Neo is intensifying competition in the global low-cost notebook market as rising supply-chain costs push Microsoft and other notebook makers to reassess their product strategies. Microsoft is initially…"
  },
  {
-  "id": "NIQ::CBMitAFBVV95cUxNN0oySDNBbnZGaFNuWEg0cjQ4VXU2VVE2Rm5xclV4TmdaOTRSdGMyUl9hbUhYTVZMRTN0UlRQN0lualZyQ2d0cUxhZzc4TXhYTEJsTnNvTDQzWXMxVVEyYzNEZWZZU29UYXpWZk83TVhWMEdCREJsN09fRXh5SzJWdnVUT0U2YkM5UFg4MWhZXzVSbjFfV2p4dFFjS0Z4U054TUR3clVkdGMxM0dPZHFFZFpjU0Q",
-  "source": "NIQ",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-09-21T14:43:49.000Z",
-  "title": "The Power Shift: How European Consumers Will Shape Growth Through 2027",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261020PD222/taiwan-ifa-demand-ceo-market.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-20T03:39:49.000Z",
+  "title": "IFA CEO: Taiwan tech to leverage core silicon strengths to counter China's momentum",
+  "snippet": "Sluggish demand in the European consumer electronics and home appliance markets in recent years, combined with overcapacity built during the pandemic, has dealt European manufacturers a double blow of falling demand and…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261020PD221/apple-macbook-pro-touchscreen-launch-ipad-mini.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-20T03:27:34.000Z",
+  "title": "Apple sets October 28 event, eyes first touchscreen MacBook Pro",
+  "snippet": "Apple has announced a new-product event called \"Pro and tell\" in Los Angeles on October 28, with the company widely expected to unveil its first MacBook Pro with a touchscreen. The new model is expected to introduce…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261020VL202/government-2026-manufacturing-production-policy.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-20T03:07:28.000Z",
+  "title": "China's tech-driven commerce plan pushes AI into phones, PCs, and robots",
+  "snippet": "On October 19, 2026, China's Ministry of Commerce and eight other government departments issued guidelines on accelerating \"technology-driven commerce\" that call for deepening the country's \"AI+ manufacturing\" campaign…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261020PD218/samsung-2nm-fab-texas-production-tesla.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-20T02:32:50.000Z",
+  "title": "Commentary: Samsung's US 2nm ramp faces no room for error",
+  "snippet": "Samsung Electronics' 2nm mass-production capability at its Taylor, Texas fab has become critical to its efforts to close the gap with TSMC, as Tesla's AI5 chip delivery schedule and Broadcom's potential 2nm orders hang…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261020PD204/openai-chatgpt-advertising-2026-business.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-20T02:08:28.000Z",
+  "title": "ChatGPT hits 60,000 advertisers as OpenAI cuts prices",
+  "snippet": "OpenAI is expanding its ChatGPT advertising business by cutting ad prices, adding campaign tools and recruiting advertising talent. ChatGPT has also emerged as one of the platforms advertisers are most likely to…"
+ },
+ {
+  "id": "TechCrunch::https://techcrunch.com/?p=3179333",
+  "source": "TechCrunch",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-20T02:00:00.000Z",
+  "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+  "snippet": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261020VL201/samsung-mobile-technology-display-iot.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-20T00:34:08.000Z",
+  "title": "Samsung transfers 126 technologies free of charge to 99 smaller Korean firms",
+  "snippet": "Samsung Electronics has transferred 126 of its mobile, display, and home appliance technologies free of charge to 99 small and midsize companies this year, with mobile technologies making up the bulk of the handover…"
  }
 ]
