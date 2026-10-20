@@ -3614,5 +3614,96 @@
  "DigiTimes::https://www.digitimes.com/news/a20261020VL201/samsung-mobile-technology-display-iot.html": {
   "keep": false,
   "publishedAt": "2026-10-20T00:34:08.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173494": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Best Buy joins TikTok Shop for its biggest holiday season yet",
+  "short_headline": "Best Buy joins TikTok Shop this holiday",
+  "takeaway": "With Best Buy selling on TikTok Shop, electronics shoppers get a new channel; we should test our presence and promotions there.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-20T14:00:00.000Z"
+ },
+ "Retail TouchPoints::CBMiiwFBVV95cUxQNk9BMUJ1X1FUc0dZbXo5LXFSUmdlMWhqLWdPSHhMcHV1NS1PMDVUa2ZvanRkUDQ2QVNNdlpUUXAwbDlmZTMwOE9UVnMwTFp1a0NsZEZCSldSb3ZDOXBYRFVuN0Z5NW9zR1VVdDIxVzhyVjBfMzVWQzlieWFrRFZWZ0IyQ2YtU2NNTnow": {
+  "keep": false,
+  "publishedAt": "2026-10-20T13:31:20.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76320": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Research: shoppers start holiday buying earlier, beyond Black Friday and Cyber Monday",
+  "short_headline": "Shoppers start holiday buying earlier than expected",
+  "takeaway": "Concentrating promotions and ad spend on Black Friday may miss early buyers; we should start holiday offers and media earlier.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-20T13:11:04.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166658": {
+  "keep": false,
+  "publishedAt": "2026-10-20T13:01:55.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76317": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "AliExpress adds its catalogue to YouTube Shopping Affiliate Programme",
+  "short_headline": "AliExpress brings its catalogue to YouTube shopping",
+  "takeaway": "Creator-driven product discovery on YouTube is gaining a major marketplace; we should consider creator affiliate options for our store.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-10-20T13:01:52.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166674": {
+  "keep": false,
+  "publishedAt": "2026-10-20T13:01:32.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166640": {
+  "keep": false,
+  "publishedAt": "2026-10-20T13:00:44.000Z"
+ },
+ "Inc42::https://inc42.com/?p=576915": {
+  "keep": false,
+  "publishedAt": "2026-10-20T11:12:06.000Z"
+ },
+ "Retail TouchPoints::CBMi4AFBVV95cUxNQnhpRkM4M0lUOTQtaGJUbE55emR6VENBRDYyS2NrT0k1Nm5rUXFJNWlXSkRFdXhRUXZOelpuelhkaDdTdFUwRUhaQUNnNVRZVXRwRk1BNVIyTnRLenNWNXlpWjQ0UFNVRUphcmozUWo5aF9ROUoyaW5URWs0azBVbGVMX3JZbDNHUHJOcENHUnZFRjJFRXJBOFpLaXRrd050dXhiWklTaUtyRnMtaTM3cmQ0WGxhbktIUmNfclVQWDVvdm1JeTlodHNtMzVHU0JldW9EZ1cxdjlPV1k0dEp5MQ": {
+  "keep": false,
+  "publishedAt": "2026-10-20T11:05:16.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/holiday-season-retail-spending-sales-decline-outlook/832624/": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Holiday projections point to pressured shoppers and possible spending drop",
+  "short_headline": "Holiday spending projections show pressured shoppers",
+  "takeaway": "Some forecasts see holiday spending falling, so we should expect price sensitivity and plan value-led offers.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-20T11:00:00.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/flipkart-may-be-planning-to-challenge-zomato-and-swiggy-with-food-delivery-business/135067939": {
+  "keep": false,
+  "publishedAt": "2026-10-20T10:38:57.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261020PD245/samsung-galaxy-2027-foldable-smartphone-foldable.html": {
+  "keep": false,
+  "publishedAt": "2026-10-20T09:09:11.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261020PD216/fic-global-business-2027-pc-chairman.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "FIC Global chairman: PC market still hit by memory shortages, no recovery in H2 2026",
+  "short_headline": "Memory shortages keep PC market weak through 2026",
+  "takeaway": "Continued memory shortages mean ongoing cost and supply pressure on PC pricing; we should plan pricing and inventory accordingly.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-20T03:55:00.000Z"
+ },
+ "Circana::CBMiowFBVV95cUxQZ3RTX053MmZsQ3AwUGRadWtWa2VQQ0luRzBSWEJ2WDdUSzRqcGppSjh5Y183WGQzVlljN2QxcTlpV3pmQ3FoOXJ4VG53azZnZWxETXU5ZkkyQzQwcVZka3ppUGJFNEswWGUtc3V1YTZYdk1xbHVyTGFFbnoxX2hTNk5Od0lXNUp5ck94ZVBVRTVzbUY0anpJdGNXOUZCUW55VkdB": {
+  "keep": false,
+  "publishedAt": "2026-09-24T07:00:00.000Z"
  }
 }
