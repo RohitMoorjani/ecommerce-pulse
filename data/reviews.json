@@ -3451,5 +3451,69 @@
   "content_type": "announcement",
   "competitors": [],
   "publishedAt": "2026-10-16T01:35:53.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363608": {
+  "keep": false,
+  "publishedAt": "2026-10-19T23:35:56.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261019VL214/mexico-electronics-exports-investment-development.html": {
+  "keep": false,
+  "publishedAt": "2026-10-19T23:22:34.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261019PD237/renewable-energy-electricity-re100-taiwan-manufacturing.html": {
+  "keep": false,
+  "publishedAt": "2026-10-19T23:07:00.000Z"
+ },
+ "PYMNTS Data::CBMivgFBVV95cUxOeUZWTU9JbVlieUZMdEdVZ3RWcDc1RUdjYlhIeUpTNGVLR1gzYVM4TWgzY213M1ZXblo0Y1BORzlZM1UwVjFXb29ONU50Qkg4dUFWT01PR3lXMEFZUWpSTWtmMlhRTWJwYm9kaTQ4Z0llQVVpTU5WSWw4NEJaMndKdDlJaXNCenVzS3BUUklVWTdxU19La01SRDkxOVBJbE9hM3pPUDM0X0hEb2NnMlpUWnhQSk1SQ3FCVGF5V25R": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Younger consumers cope with higher living costs, PYMNTS Data research shows",
+  "short_headline": "Younger shoppers squeezed by living costs",
+  "takeaway": "Cost pressure on younger buyers could shape how they time and finance tech purchases; we should watch their price sensitivity.",
+  "importance": 2,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-19T21:35:21.000Z"
+ },
+ "PYMNTS Data::CBMinwFBVV95cUxNVHpfcVZscTcwdVJucFpyLTJyY2sxSkxLTUhaWTVTdWRydXJPMGZmVlJnSHB6bU5KVk9acmM4OWVVTlctMzFKOHVKSlVvX0Q5bGl5Sm5mU2VKYWNaV0diRTNweXR3SnRiN1Q3cHFMMHN3SXBrN0o5TkhHTHZZdFR5NlVLaW4tclRMUTM0a3hWako5SldmQlBIbjZuRlFoM1E": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Consumers will let AI recommend pay later, but want control, report finds",
+  "short_headline": "Shoppers open to AI-recommended pay later",
+  "takeaway": "Shoppers accept AI suggesting financing if they stay in control; we should consider how AI-led financing offers show up in our store.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-19T21:35:21.000Z"
+ },
+ "PYMNTS Data::CBMiqwFBVV95cUxORFJoejlFTU9XY3ZHOUNfOUxPUnFUYkZGNTlUNk9NZTBPWUQ2U1pwalNPY1I1UkVBRDh0bmFZdjM4cElVMGZvY1lIMDlJQU1aUDQwby02blpaWHlYdzFYLVlJWEJKWGVsWnBiMjczLV9FQlU1aFZfTThpZGdIVXdCN3RRalZGRm1SNEx0T1AzX2M4cVZxM3RWSDBtcVBiYWdVSElXWURnS3hfZkE": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Young consumers retreat from pay later while cards hold firm, data shows",
+  "short_headline": "Young shoppers pull back from pay later",
+  "takeaway": "Weaker BNPL use among younger buyers may shift financing mix for high-ticket PCs; we should review instalment versus card options.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-19T21:35:20.000Z"
+ },
+ "PYMNTS Data::CBMimwFBVV95cUxQQzhpTTAtdThKMEcyWXNSRThUbnF0Si04X2tOak9tYXhBZjVUSWM0RGI2SmhFa21Qcjk5aFlxTFgtUk9nSjFsUnZha09YbG02N1h3LUg5T2lXMUtKejFpNkdlNzlXSVRBalFnMVVCT2VZcnFUU1ZWaWJ1MnpEQVFhZEJka25vMVFseXdPYzdSZ2xBZUkyQjYyUFJ0dw": {
+  "keep": false,
+  "publishedAt": "2026-10-19T18:10:06.000Z"
+ },
+ "PYMNTS Data::CBMilwFBVV95cUxNbDFDTUtmWmZITUY3N1M1VjhXUXJrZVZsdTc4SU9UekxDT2Znd2ppeWhDTDl3T2xmRkg0bXRpaWpzT2tEZS1FSVZlNGVrNGlUNTJHZDVpMGhOdmZlMmRVZXJoSlVNeFduM1pmUENZbEN2alRGSzVhMDdGWko5Z2tqQl9FMVpkRTdBYUg5MzV5amRhbUZpX2xV": {
+  "keep": false,
+  "publishedAt": "2026-10-01T08:05:05.000Z"
+ },
+ "NIQ::CBMitAFBVV95cUxNN0oySDNBbnZGaFNuWEg0cjQ4VXU2VVE2Rm5xclV4TmdaOTRSdGMyUl9hbUhYTVZMRTN0UlRQN0lualZyQ2d0cUxhZzc4TXhYTEJsTnNvTDQzWXMxVVEyYzNEZWZZU29UYXpWZk83TVhWMEdCREJsN09fRXh5SzJWdnVUT0U2YkM5UFg4MWhZXzVSbjFfV2p4dFFjS0Z4U054TUR3clVkdGMxM0dPZHFFZFpjU0Q": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "NIQ: how European consumers will shape growth through 2027",
+  "short_headline": "NIQ outlook on European consumer growth to 2027",
+  "takeaway": "European demand outlook can inform regional planning and promotions for our store; we should check how it applies to tech categories.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-09-21T14:43:49.000Z"
  }
 }

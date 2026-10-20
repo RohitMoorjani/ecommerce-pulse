@@ -1,22 +1,30 @@
 {
- "updatedAt": "2026-10-19T21:51:18.701Z",
- "title": "Shopping starts with AI and demand is cautious: make our store agent-ready",
- "summary": "55% of consumers use AI in product discovery (NIQ); Google launched Universal Cart; Newegg added Google UCP checkout; Amex and Glance/PayPal launched agent checkout. Q3 PC shipments fell over 20%; NRF sees 4.2% holiday growth.",
+ "updatedAt": "2026-10-20T00:50:12.523Z",
+ "title": "Shopping now starts with AI, and our store must be ready for it",
+ "summary": "55% of consumers use AI in product discovery (NIQ); 34% of US shoppers would use GenAI for gift ideas (Gartner). Google launched Universal Cart in Search and Gemini; Amex added a framework to verify AI agent purchases. PC shipments fell 20%+ in Q3.",
  "points": [
   {
-   "headline": "AI discovery and agent checkout are arriving together",
-   "detail": "NIQ: 55% use AI in discovery; Shopify says AI discovery converts better; Google Universal Cart, Newegg UCP, Amex and Glance/PayPal enable agent buying. Our feeds and checkout must be agent-ready.",
+   "headline": "AI discovery and agent checkout are going mainstream",
+   "detail": "NIQ: 55% use AI in discovery; Shopify data shows AI discovery converts better. Google launched Universal Cart. We should make catalog data and checkout agent-ready.",
    "segment": "agentic",
    "storyIds": [
     "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
-    "TechCrunch::https://techcrunch.com/?p=3178088",
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363450",
-    "PYMNTS::https://www.pymnts.com/?p=4317643"
+    "InternetRetailing::https://internetretailing.net/?p=76266",
+    "TechCrunch::https://techcrunch.com/?p=3178088"
    ]
   },
   {
-   "headline": "PC demand is weak while memory costs rise",
-   "detail": "Global PC shipments fell more than 20% in Q3 (DigiTimes) and AI data center demand keeps DRAM and NAND prices rising into Q4. We should plan holiday stock and pricing carefully.",
+   "headline": "Agent purchases are getting payment trust rails",
+   "detail": "Amex introduced a framework so AI agents buy only what users authorize. Expect issuers to authenticate agent-made orders; we should prepare our store for them.",
+   "segment": "agentic",
+   "storyIds": [
+    "TechCrunch::https://techcrunch.com/?p=3175284",
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363553"
+   ]
+  },
+  {
+   "headline": "PC demand is weak while memory costs climb",
+   "detail": "Q3 PC shipments fell more than 20% year over year, while DRAM and NAND prices rise into Q4. We should plan holiday pricing, promotions and inventory carefully.",
    "segment": "pc",
    "storyIds": [
     "DigiTimes::https://www.digitimes.com/news/a20261013PD229/pc-shipments-inventory-market-demand.html",
@@ -24,23 +32,21 @@
    ]
   },
   {
-   "headline": "Holiday spending grows but shoppers start earlier and stay selective",
-   "detail": "NRF forecasts 4.2% growth and Adobe $275.1B online sales; Deloitte says 28% of budgets are spent by end of October. We should bring tech deals forward.",
+   "headline": "Holiday demand is growing but shoppers are price-wary",
+   "detail": "Adobe forecasts $275.1B US online holiday sales, up 6.7%, yet shoppers distrust dynamic pricing and split into price camps. Segment offers and keep price messaging clear.",
    "segment": "trends",
    "storyIds": [
     "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c",
-    "Retail Dive::https://www.retaildive.com/news/nrf-forecasts-2026-holiday-sales-growth-seasonal-hiring/833239/",
-    "Modern Retail::https://www.modernretail.co/?p=173552"
+    "Modern Retail::https://www.modernretail.co/?p=172533",
+    "PYMNTS Data::CBMiowFBVV95cUxNdjJ2dWRiaGdZanBLX3NXNklxc3A2SlhZdHc4YjJwcXp1VDExTDZpLUtRNVVfTlFfVFU5MmhlcUxGbXN6Y1pGaTBQbndkZ2NnWXFmTHhCcTAySHVxSXFHUXVuRGRTMnFsNzlrcFloMG8xS1B1Q3lJXy1ZcW9KNFB3ckFtS0E2dWhSM1ZsQXhVRndiNDFQN1pkV2oxWkdQclMtT3Vr"
    ]
   },
   {
-   "headline": "Small businesses and Gen Z are growing buyer groups",
-   "detail": "Capital One finds small businesses cautious but ready to grow, and nearly half of SMBs want digital payments; Gen Z games 9+ hours a week. We should target both with tailored offers and payments.",
-   "segment": "trends",
+   "headline": "Financing is shifting as Amazon UK adds BNPL",
+   "detail": "Amazon expanded buy now, pay later in the UK via Affirm, while young consumers pull back from pay later. We should compare our instalment options for big-ticket PCs.",
+   "segment": "marketplaces",
    "storyIds": [
-    "PYMNTS Data::CBMi9gFBVV95cUxQU2c4Q2hXWGZMNUQ4V2w0ODNpV2lXQ1hsTzl2cEwzWG1xOF9MTDFDOHMxa0p5VnA3QjI0bkkzaU54OWlHQndpYkVnQnlaaWQxWDFNaFNMNXRxbXRsQmFWMnB4QU4xczR1dGNBT0sxeEVDUmJJMEg1MDhfZ0t6MGZsNUhrempJY0JDTlZkd2dBeHB2YnotbkJZbUo2akQ5ZXhkbWwxOVh6OUlBaFppNjkyQUhNYXhPN3B1YUdqSjRCanlsaWF6Mk4yd0hOM196OTN3cXV1QWhabkxWV0h1Nmx1UHduSXo4LWVic1FpVHRHNjZoTnJoQmc",
-    "PYMNTS Data::CBMigAFBVV95cUxPb01IUDhvV0xSTndSOU1KdnU5MUFGT3hHVFRyOXBBMXhScW9wS2R4YzBXc0pYdjJYQWVTbnZVNTJkNnhwSlRmWEQzRVBuM3pKMjdFaEFYbmRlRDk1RHNPOEtSQk9lRzBLQVd6ZlpTblVDMko1MXhQN3lDbWFPQ0czNQ",
-    "GWI::https://www.gwi.com/blog/why-gaming-earns-gen-zs-attention"
+    "PYMNTS Data::CBMilAFBVV95cUxQNzFOc3hDNk0zUHNrMG9wSlc3eFdLaFBQZnhMaGZzY0dtMEg0eXRDSGluZXlTOFdXb3pUNkJMdFc1Z0dScU0yM21tcmdZQllUZjBCZUxSdEhSWG9LWUpOd0F2Z2RVaEdvZHpXTlhEUVdfdXVvcUx0TlZOdkNacl9GenBJWkJZc2Uwbk1pRzcxM3NIbHFk"
    ]
   }
  ]
