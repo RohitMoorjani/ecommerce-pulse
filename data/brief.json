@@ -1,21 +1,22 @@
 {
- "updatedAt": "2026-10-20T00:50:12.523Z",
- "title": "Shopping now starts with AI, and our store must be ready for it",
- "summary": "55% of consumers use AI in product discovery (NIQ); 34% of US shoppers would use GenAI for gift ideas (Gartner). Google launched Universal Cart in Search and Gemini; Amex added a framework to verify AI agent purchases. PC shipments fell 20%+ in Q3.",
+ "updatedAt": "2026-10-20T09:50:32.203Z",
+ "title": "AI now fronts shopping, so our store and feeds must be agent-ready",
+ "summary": "55% of consumers use AI in product discovery (NIQ); 34% of US shoppers would use GenAI for gift ideas (Gartner). Google launched Universal Cart in Search and Gemini; Amex built an AI-agent purchase framework; memory prices are rising.",
  "points": [
   {
-   "headline": "AI discovery and agent checkout are going mainstream",
-   "detail": "NIQ: 55% use AI in discovery; Shopify data shows AI discovery converts better. Google launched Universal Cart. We should make catalog data and checkout agent-ready.",
+   "headline": "AI discovery is mainstream and Google now owns a cross-retailer cart",
+   "detail": "NIQ: 55% use AI in discovery; Shopify says AI-driven discovery converts better; Google launched Universal Cart. We need AI-readable catalogs and feeds before holiday.",
    "segment": "agentic",
    "storyIds": [
     "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
-    "InternetRetailing::https://internetretailing.net/?p=76266",
-    "TechCrunch::https://techcrunch.com/?p=3178088"
+    "TechCrunch::https://techcrunch.com/?p=3178088",
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363555",
+    "InternetRetailing::https://internetretailing.net/?p=76266"
    ]
   },
   {
-   "headline": "Agent purchases are getting payment trust rails",
-   "detail": "Amex introduced a framework so AI agents buy only what users authorize. Expect issuers to authenticate agent-made orders; we should prepare our store for them.",
+   "headline": "Payment networks are building trust rails for agent checkout",
+   "detail": "Amex introduced a framework so AI agents only buy what users authorize. We should be ready to accept authorized agent orders for PCs and accessories.",
    "segment": "agentic",
    "storyIds": [
     "TechCrunch::https://techcrunch.com/?p=3175284",
@@ -23,29 +24,21 @@
    ]
   },
   {
-   "headline": "PC demand is weak while memory costs climb",
-   "detail": "Q3 PC shipments fell more than 20% year over year, while DRAM and NAND prices rise into Q4. We should plan holiday pricing, promotions and inventory carefully.",
+   "headline": "Memory undersupply keeps PC costs rising while Apple and Microsoft fight at the low end",
+   "detail": "DRAM and NAND prices rise into Q4 and Samsung locks 80% of 2027 output; Apple pressures Microsoft’s low-cost Surface. We should plan pricing and entry-level lineup.",
    "segment": "pc",
    "storyIds": [
-    "DigiTimes::https://www.digitimes.com/news/a20261013PD229/pc-shipments-inventory-market-demand.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261019PD201/demand-2027-samsung-sk-hynix-outlook.html"
+    "DigiTimes::https://www.digitimes.com/news/a20261019PD201/demand-2027-samsung-sk-hynix-outlook.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261020VL218/samsung-cxmt-dram-hbm4.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261020PD219/apple-microsoft-low-cost-12-inch-macbook.html"
    ]
   },
   {
-   "headline": "Holiday demand is growing but shoppers are price-wary",
-   "detail": "Adobe forecasts $275.1B US online holiday sales, up 6.7%, yet shoppers distrust dynamic pricing and split into price camps. Segment offers and keep price messaging clear.",
+   "headline": "Holiday demand is growing and financing is a competitive lever",
+   "detail": "Adobe forecasts record $275.1B US online holiday sales; Amazon added BNPL in the UK via Affirm. We should check Cyber 5 inventory and our instalment options.",
    "segment": "trends",
    "storyIds": [
     "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c",
-    "Modern Retail::https://www.modernretail.co/?p=172533",
-    "PYMNTS Data::CBMiowFBVV95cUxNdjJ2dWRiaGdZanBLX3NXNklxc3A2SlhZdHc4YjJwcXp1VDExTDZpLUtRNVVfTlFfVFU5MmhlcUxGbXN6Y1pGaTBQbndkZ2NnWXFmTHhCcTAySHVxSXFHUXVuRGRTMnFsNzlrcFloMG8xS1B1Q3lJXy1ZcW9KNFB3ckFtS0E2dWhSM1ZsQXhVRndiNDFQN1pkV2oxWkdQclMtT3Vr"
-   ]
-  },
-  {
-   "headline": "Financing is shifting as Amazon UK adds BNPL",
-   "detail": "Amazon expanded buy now, pay later in the UK via Affirm, while young consumers pull back from pay later. We should compare our instalment options for big-ticket PCs.",
-   "segment": "marketplaces",
-   "storyIds": [
     "PYMNTS Data::CBMilAFBVV95cUxQNzFOc3hDNk0zUHNrMG9wSlc3eFdLaFBQZnhMaGZzY0dtMEg0eXRDSGluZXlTOFdXb3pUNkJMdFc1Z0dScU0yM21tcmdZQllUZjBCZUxSdEhSWG9LWUpOd0F2Z2RVaEdvZHpXTlhEUVdfdXVvcUx0TlZOdkNacl9GenBJWkJZc2Uwbk1pRzcxM3NIbHFk"
    ]
   }
