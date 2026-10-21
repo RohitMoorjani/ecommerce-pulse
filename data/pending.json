@@ -1,170 +1,42 @@
 [
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/amazon-eyes-three-hundred-thousand-holiday-season-hires/833567/",
-  "source": "Retail Dive",
+  "id": "Modern Retail::https://www.modernretail.co/?p=173736",
+  "source": "Modern Retail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-21T16:40:00.000Z",
-  "title": "Amazon eyes 300K holiday hires",
-  "snippet": "The e-commerce giant is increasing U.S. holiday staffing by 20% compared to the past three seasons."
+  "publishedAt": "2026-10-21T20:59:00.000Z",
+  "title": "Kohl’s leans into clearer pricing, gift bundles and Uber Eats for the holidays",
+  "snippet": "Kohl's is emphasizing deeper discounts and delivery capabilities in its pitch to cash-strapped shoppers this holiday season."
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/adidas-record-q3-earnings-nike-turnaround/833592/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-21T16:37:00.000Z",
-  "title": "Adidas’ record Q3 is salt in the wound for Nike",
-  "snippet": "Preliminary figures show revenue reaching $8.1 billion, as the sportswear giant takes “significant” share from its rival."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/target-unwraps-high-concept-holiday-ads-gift-giving-academy/833596/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-21T16:29:00.000Z",
-  "title": "Target unwraps high-concept holiday ads focused on gift-giving academy",
-  "snippet": "Actor D’Arcy Carden serves as Chief Giftologist in a new campaign that will be supported by a bigger creator push around YouTube and TikTok."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/teen-spending-grows-trade-athletic-apparel-fashion-piper-sandler/833565/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-21T16:21:00.000Z",
-  "title": "Teen spending up 6% as they trade athletic apparel for fashion",
-  "snippet": "While footwear was down and traditional athletic brands lost share, Target and brands including On gained ground, per a survey from Piper Sandler."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/target-holiday-bargains-consumer-stress-toys-ai/833564/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-21T15:45:00.000Z",
-  "title": "Target touts holiday bargains as consumers stress out about their finances",
-  "snippet": "The offer includes what the mass merchant calls “luxe-for-less gifting.” But with apparel and home in turnaround mode, its strongest category is toys."
- },
- {
-  "id": "Reuters::CBMiwwFBVV95cUxNdXZTMU9WWlI5RHdJWm9rSFN6SXF1Q2ZfRUxXM1Y4dzVwbUVzNjNxeFRjcUdnRUpJcXZMUnVweXYySjRBcldhTTNFTk1vR3lCOVBrU2RxMUltNUtvVklUb2tJVk5oUmhRWTdjYmhpYjlIazFpYlhkb0pGbVF6UTRqS19mWUVfVmh4UDRqb1pUVEFJaEhTdlF6YWd3UVZxZVBITlFJR2FLOGUweDhsd1hpTHhxeU5EbjJTTkNtazUwa0ZvbU0",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-21T14:44:00.000Z",
-  "title": "Apple will have limited iPhone Duo units available in stores on Friday",
-  "snippet": ""
- },
- {
-  "id": "Capital One Shopping Research::CBMid0FVX3lxTE52WExWNXN0ZVI3UnFEeHFNSzlXY0xpUEhSZkItRzFndUx6M21Sc1lkVGpadS1xWVdQUnN3WGhGTHlCWmZxTEVDQ1gwUG5UNG5jWXRkQVA3NEtONHQtN19tTkVtX2V2Q19qTC10YTZmVWRsMmpYempR",
-  "source": "Capital One Shopping Research",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-21T14:43:05.000Z",
-  "title": "- Capital One Shopping",
-  "snippet": "Capital One Shopping"
- },
- {
-  "id": "Retail TouchPoints::CBMiugFBVV95cUxNU2s3VkNkbWZSMHhfQndxNmQ5QVl5S3ZPdG5UZVhOenA1WnBLRWZPTkxtZnJzOUlac3NPR0RwZmZ3ZU5DeHBWc2R2RGIyd0R0WG1fNHkwX2h3eG9mVmV2U25iU0xZWnloMFJiYXJCdFRDekZ5cGZyZGxLWkdrQ0lXbnliWXN0bWVrLVdNTnN0dnNidTJWYkkxQjNWWmdvUm9NQUwwcVhaTndQemEyMjVkZXZkVG1RWVhFY3c",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-21T13:02:35.000Z",
-  "title": "KPMG: Holiday Self-Gifting Jumps 18% As Shoppers Plan to Treat Themselves",
-  "snippet": ""
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166698",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-21T13:01:22.000Z",
-  "title": "Global Electronics Association Names New CFO",
-  "snippet": "Jason Palmi will take over the role in 2027 following a transition period with current CFO Tom Sandman"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166694",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-21T13:01:18.000Z",
-  "title": "ATSC Advances Broadcast-To-Everything Standard",
-  "snippet": "Candidate Standard opens B2X specification for industry review, with comments accepted through June 2027"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166686",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-21T13:00:43.000Z",
-  "title": "Apple Home Products Reveal Analysis",
-  "snippet": "Finally, AT LAST!"
- },
- {
-  "id": "PYMNTS Data::CBMirwFBVV95cUxNbTc2MzRub2ZsUVRVUEdIVzJ0dGxES0pETmpQeVZYcFRaZS0tdHpMelljVnJKdmNGUzFtZm5KZGt2X3liWjBwbHpLTGw0aDBvSFdmdE1VcExoU0V4c2dCNnZOV2lfYjNHX0t2b2dYa0twTGNLSmNDam0wX0Y4Q0pjWk9SYTRMTzlrT1ItOFlmN0tvMUdScHFpYk1LVUx4Wld1eUR0QnlqWGVXWkRlT3Rr",
+  "id": "PYMNTS Data::CBMijAFBVV95cUxON2NLWTc0WFJyYnk0MmtTNFZVcmVMSUVRS2ZYbDREaUZJcXgxbWMtNjJJNFRQcEVUeHBIYjU0RmNXbnJ1TXNXSXpZaVRUVlY5dUZIaTVPQzdQWVdZbzVhcF9nVmFFT1pSVzVuSUNqNnVWMWIwVkNlb181V2hJWUtrZ0w1cXNweFJEdE80Uw",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-21T12:35:41.000Z",
-  "title": "Speed vs. Strategy: How Consumers Choose Between BNPL and Card Installments",
+  "publishedAt": "2026-10-21T19:40:08.000Z",
+  "title": "Klarna and FreshBooks Team to Bring BNPL to Small Businesses",
   "snippet": ""
  },
  {
-  "id": "PYMNTS Data::CBMiowFBVV95cUxQaHRNTkxMQkM4U2JjU25CTUk0amZ6ZWhTTExNS2NhZ2hDc3F4cEZwcFFYMmQwS3hqMFJXT0ZGTWxCTnhhVDl6Z2NjNFJFSEhyQnpObzc4UzNWeGJIS2ljeWhOZVA0OUVmU0IxVzU5eTB5NUotVnN6YTRjc3J1bThTMUhPRnc1cFMwLVdYaF9ISElON084SFVEeUtWR2dIT0hJUmFJ",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-21T12:35:35.000Z",
-  "title": "BNPL’s Multi-Provider Moment: Why Shoppers No Longer Pick Just One",
-  "snippet": ""
+  "id": "TechCrunch::https://techcrunch.com/?p=3180139",
+  "source": "TechCrunch",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T19:30:00.000Z",
+  "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+  "snippet": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and…"
  },
  {
-  "id": "Gartner::CBMi7gFBVV95cUxOS00zZC1XWUZlR1BLNkM2UklCaGNPNzlhaWtISkV1Tk5hTjBCZnhDMmo1WXNPRkdVQkI2Q3JsQzVya25VRmF3NE9ObVF6YlVLby15bTBIbjEwQ1Vfa215ZmxCbVRhNUNmeU9NVFY2akx2d3RJUFpyQ2dmX3RFV2xCUWQtMUlOb3Y0b0xXQXdkdEdpMWtIbzJybjJDQnUxM1FKa2hkZ1RHc1BoOEFlX0ROeHdiX1BJZURVa3gxMl8wQ3c3VmMybDlDamE2UVJfRmg2bmV3VFpVVC04R3laNGRMSWJTVVd3TjU4TFFBdHZR",
-  "source": "Gartner",
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363640",
+  "source": "Digital Commerce 360",
   "sourceType": "Analyst",
-  "publishedAt": "2026-10-21T12:34:42.000Z",
-  "title": "Gartner Forecasts Worldwide IT Spending to Grow 15% in 2027, Totaling $7.35 Trillion",
-  "snippet": ""
+  "publishedAt": "2026-10-21T17:44:31.000Z",
+  "title": "Parts Town Unlimited names new CIO and chief accounting officer to leadership team",
+  "snippet": "Equipment distributor Parts Town Unlimited named two new executives to its leadership team, including a chief information officer (CIO) to oversee its digital efforts. The CIO role will belong to Pat Quint. Meanwhile…"
  },
  {
-  "id": "Reuters::CBMiwwFBVV95cUxNZGM1MmVrR2NUdFVTV1EyQlc1YW5aRzRacGM3VDNTSEFRVk4zYW1zVlI5cGpxbTNMY1Q5aGRjS2QybDZVNGd6QmszcHgzellTdmxUejRxNGc5OGdvUkdXRUg3eUZXRVpqcmhjRFc2U00zSWpjbFRtSFNOWkN4YmVveHdvR3A3LWw5VGxWZzNNSUd3OWlTaThFYmc3SGlaamZWbFhRQ0FRdUYzb0N0bWZySTkydW52VXFwY0NWZU9yMkhoRzA",
+  "id": "Reuters::CBMiywFBVV95cUxNdi1oa1VDTm0wMUJualVQRU5ieHFCQmFCejlxdEx1cEM3am1WaEV4LVJwRGVab29QU05IUl9fYzhsaFFFSk5hVGtTZFFLNGNOUVNFMjJ4RkE2b2RCdVJmN0t5UmVBeWpPb2ZwMThLcVRkVENsdFhRc0JOUml0Z3F3MFg5bDhsNmZrX2tuS1ZkRFl2elAzd0p0ZDlFb0E1MF9malVCZXhEZnJqRUFYMUxFNDV5ZmRrZkYxZndkWGthUEpPQVdOTHAtMHBVTQ",
   "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-21T10:11:19.000Z",
-  "title": "From cashmere to faux fur, Target's holiday push centers on affordable luxury",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMinwFBVV95cUxQNGFMTHp5NjdZM2ZLTmJwV3E2azRQVlF4aVZvVUcxV1N5X1dyY1hkMGV0aXdoVGpfa0prWkZZaWc2aWJPa19FNUxaTGFOejl0Y1ViOGd1bVBZR0dsbHkyY3hOUTZDMGZodU4xb0NqbmxmakV4UnREUm1jaGh2MXZWdTdheWRmVU9jVTJLZ1JrejRaaHBpdzV5SE9tem1iZzg",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-21T00:25:09.000Z",
-  "title": "Capital One Pushes Deeper Into AI as Card Spending Grows",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMilgFBVV95cUxNT09yX3FxTUlsYzIySHM1QWhEM0wta3ZhckNfZV9BRkJyN19aSUQtaElqMmJaekFSOFZGZFpta1Bnb1FrVDZRd0JtRTdQanJFUWV5UzM1X2haeXdnUFNWeE91cDBWRWRBcXl6Z3FWUm52Q2xuMHBJSFdnWWY1N2d1Zzh0azlJX3ozaHF4eDRQOWVjbkhCU1E",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-20T08:03:42.000Z",
-  "title": "Apple Pay At 8: Connected-Tech Consumers Lead The Way",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMigwFBVV95cUxQdUZzYjM1NzI3djZ6dkpxeC01dy1yZ1Y2QkhsY2ZnQmxIWC1zcEo5cEJFZmlDT3Y2WXNZOE9sSmpCSHBTdXZiRy1WOEZWWHpKT09iLWE5ZnJwZVEzZnRwaHdLa3hvMU1ER19UVUpJWkdYNHBUblBLSDl3em1SUU1TUXZ4TQ",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-19T22:39:46.000Z",
-  "title": "Will the 2026 Shopping Season Go Agentic?",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMimwFBVV95cUxOWThZZWtyLW1kUkVpYXV6eDI4SVRjN2VZclBBNElyTDRvUy03d1JjeV9xUjU1NVRrZ3l1cEZpeldjUjlWU2FnZUg5S3lfcGFsWlRuZXlNdGgwMWJyWDdha3BTbFBVckVSTHhqTVVGaC1leVFCN1JkSll4Z2pUNi1qdE4wYXNEYlNfS0RtVU9tY0ZSb3BlemJnS3RfZw",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-19T17:59:00.000Z",
-  "title": "Gen X at the Peak: Why High Earners Are Feeling the Squeeze",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMiqAFBVV95cUxQYkVsX2lOUFlOa2k4cTFhdkpTMWlDdHJqLTBfbWpOM2pEeVJYMU5rRVphLXBpbTBqenV1TW8tcDJmTHE2MVF2MnVTOGRKbHdEZDFoM3lyZFZqU3V3ZHU4LThwMFdQdGRyRC1fQmthTkZma2xMd2FLVV9YVTBnWDAtVnFVQy1oRkFEZElaTU0xZ0hXUjVyMkZQNjN5MnpOQUlUVk9JT0M5WEU",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-19T17:56:39.000Z",
-  "title": "Gen X Calls the Cards: What Gets This Generation to Try Something New",
-  "snippet": ""
- },
- {
-  "id": "NIQ::CBMioAFBVV95cUxQRUF4eVcwc0JvUFVfQlR3UGR3RDFQODNKNnZuZWdrVlNxSWVEc3RjM3RSSDVCTW1PVVc4ZXF5LXF3cTBwenFZTnM0czVENTluVTI4Nmxlbk53T0UtMkdsdVYxM3haTldRLTFzX2NBM2xIMDBDYW1oWjZ6czJZcVdBcGJnMW8tbHB3SnFkajg1TUR1UGFOVWtkcS0zVmpMbTlx",
-  "source": "NIQ",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-09-28T07:00:00.000Z",
-  "title": "Europe Edition 2026/2027: Navigate Europe’s markets with the latest purchasing power and digital maps",
+  "publishedAt": "2026-10-19T12:27:14.000Z",
+  "title": "SpaceX, Tesla earnings to test Musk's AI spending ambitions as merger talk grows",
   "snippet": ""
  }
 ]
