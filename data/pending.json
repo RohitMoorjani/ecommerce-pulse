@@ -1,130 +1,82 @@
 [
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD224/amec-mocvd-equipment-sk-hynix.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-21T03:54:56.000Z",
-  "title": "AMEC seeks South Korean foothold through MOCVD trials with SK Keyfoundry, Magnachip",
-  "snippet": "AMEC is seeking an entry into South Korea's power semiconductor market through MOCVD equipment trials with SK Keyfoundry and Magnachip. The Chinese equipment supplier holds a large share of its domestic MOCVD market but…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD225/sony-smartphone-mobile-business-competition.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-21T03:17:53.000Z",
-  "title": "Sony bets on cinema-grade audio, mobile accessories to counter smartphone sales slump",
-  "snippet": "Sony's smartphone business continues to struggle amid fierce competition from Apple, Samsung Electronics, and Chinese rivals, with annual shipments falling to just several million units. However, the growing adoption of…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PR200/apple-iphone-2026-usa-manufacturing-supplier.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-21T03:14:33.000Z",
-  "title": "Apple expands US iPhone supply ties with Perryman and Qnity",
-  "snippet": "Apple announced new and expanded US supplier partnerships on October 20, 2026, including plans to commit up to US$100 million to titanium producer Perryman Company over three years and broaden its camera-technology…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD219/2026-e-ink-demand-outlook-revenue.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-21T02:40:00.000Z",
-  "title": "Memory costs weaken e-reader demand as E Ink cuts 2026 outlook",
-  "snippet": "Surging memory prices are forcing e-reader makers to raise prices, weakening demand and clouding E Ink Holdings' 2026 outlook. E Ink has cut its revenue-growth forecast, while Netronix expects shipments to remain flat…"
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/sweet-sellers-face-heat-over-shelf-life-rules-ahead-of-diwali/135080256",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-21T02:37:44.000Z",
-  "title": "Sweet sellers face heat over shelf life rules ahead of Diwali",
-  "snippet": "Watchdog agencies in states such as Uttar Pradesh and Uttarakhand are among those that have made this mandatory. The directive aims to help consumers assess freshness as inspections have revealed that buyers were not…"
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/fmcg-brands-turn-up-the-volume-on-ads-as-costs-and-scrutiny-rise/135080241",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-21T02:35:08.000Z",
-  "title": "FMCG brands turn up the volume on ads as costs and scrutiny rise",
-  "snippet": "Multiple packaged goods companies are increasing their advertising expenditures to maintain consumer demand amid rising inflation. Nestle India reported a significant rise in ad spending during the September quarter to…"
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/industry/navratri-shoppers-splurge-on-clothes-appliances-as-gadgets-get-pricier/135080146",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-21T02:33:47.000Z",
-  "title": "Navratri shoppers splurge on clothes, appliances as gadgets get pricier",
-  "snippet": "Sales of apparel, footwear, and cosnumer durables increased over 20% during the recent Navratri-Dussehra festive period. Car retail sales saw a slight increase of 2% despite last year's GST-driven rush. Appliance sales…"
- },
- {
-  "id": "Inc42::https://inc42.com/?p=576926",
+  "id": "Inc42::https://inc42.com/?p=577009",
   "source": "Inc42",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-21T02:30:50.000Z",
-  "title": "Apple’s FY26 Snapshot, Flipkart’s Foodtech Foray & More",
-  "snippet": "Apple India Rolls In Profits Apple’s India story is no longer just about iPhone sales. In FY26, the smartphone maker’s…"
+  "publishedAt": "2026-10-21T11:30:14.000Z",
+  "title": "How Pee Safe Built A Profitable Quick Commerce Business That Drives 40% Domestic Sales",
+  "snippet": "For India’s D2C brands, quick commerce has opened up another route to millions of consumers. But turning that access into…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD222/samsung-2nm-4nm-capacity-production.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-21T02:08:08.000Z",
-  "title": "Samsung faces delays securing 2nm customers as 4nm capacity reaches full utilization",
-  "snippet": "Samsung Electronics' foundry business has yet to finalize contracts with major global technology companies for its 2nm process, while demand has pushed its 4nm production lines close to full capacity, according to…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261020RS400/iphone-apple-shipments-price-camera.html?chid=2",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-21T01:42:05.000Z",
-  "title": "iPhone Duo finally debuts, but with price increases across models, Apple's 4Q26 shipments will take hit",
-  "snippet": "DIGITIMES says the most closely watched model in Apple's high-end iPhone 18 lineup, launched in September 2026, is the long-anticipated first foldable smartphone, the iPhone Duo."
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD211/smartphone-shipments-market-2026-production.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-21T01:20:00.000Z",
-  "title": "Memory chip inflation accelerates smartphone brands' retreat from low-end devices",
-  "snippet": "Rising memory prices are squeezing smartphone makers and consumers, pushing shipments to their lowest third-quarter level since 2012, and accelerating the market's retreat from entry-level devices. Brands are raising…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261020VL220/substrate-pcb-supply-chain-wistron-hpc.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-21T00:35:39.000Z",
-  "title": "Packaging-to-board integration emerges as key gap as AI reshapes electronics supply chain",
-  "snippet": "Packaging, substrate, printed circuit board (PCB), and assembly makers need closer coordination to meet the demands of AI and high-performance computing (HPC), as package-to-board integration becomes a growing technical…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261021VL200/spacex-revenue-operating-profit-business-starlink.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-21T00:20:00.000Z",
-  "title": "SpaceX returns to operating profit in 3Q26; Super Intelligence revenue overtakes Connectivity",
-  "snippet": "SpaceX's third quarter of 2026 reshaped the business. Its Super Intelligence (SI) segment, the compute and AI unit previously reported as Artificial Intelligence, generated more revenue than the Starlink-led…"
- },
- {
-  "id": "Counterpoint Research::CBMimAFBVV95cUxOR2dyMjJOSnpOMWpmZzBxMzRhOWZWOFFOTTVzV1E0MUlPbFpGdVZ0Q0RrZHU5TEU3d0dQSGJsTGNvNl9jZzdIMUxzVmp6M2N2ODdFeV9EMnNsNkptNExzMDlIZXB2VHVaTDdmX3pBdUF0MllnSF9pV3NaRHZrTW5tOTV0emNHSmduYW9jYmFmZ2FlcUE1OEpBYQ",
-  "source": "Counterpoint Research",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-10-20T23:15:36.000Z",
-  "title": "Memory Shortage Driving Record PC Price Inflation",
+  "id": "Dell Blog::https://www.dell.com/blog/compute-that-matches-the-moment-dell-s-latest-poweredge-platforms-take-on-ai-at-scale",
+  "source": "Dell Blog",
+  "sourceType": "Competitor Newsroom",
+  "publishedAt": "2026-10-21T11:29:00.000Z",
+  "title": "Compute That Matches the Moment: Dell's Latest PowerEdge Platforms Take on AI at Scale",
   "snippet": ""
  },
  {
-  "id": "Capital One Shopping Research::CBMickFVX3lxTE55cV9zUXNJMHBYNjRmeWVKbzJpT19ySEJjQ0Y3MHZUc3pWZG5hT2tNSVJJa0NmcDdieW5sZzdUUTRCNklRdGNvV0M4S3cwRS1tZ3JuaUdVbnhuTTlxVl9LR1RtbERBeU9ZV3FIZHVLdmVxUQ",
-  "source": "Capital One Shopping Research",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-17T07:00:00.000Z",
-  "title": "Black Friday Statistics (2026): Sales Data by Year",
-  "snippet": ""
+  "id": "Modern Retail::https://www.modernretail.co/?p=173683",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-21T10:00:00.000Z",
+  "title": "Target’s holiday push stresses affordability, exclusives and an AI assistant",
+  "snippet": "Target is betting on daily deals and a digital assistant to woo budget-conscious shoppers this holiday season."
  },
  {
-  "id": "Circana::CBMifkFVX3lxTFA5M2hJdHZKTWtLM2d6TEV0QlJzQlpUR3p3VlJlYTAtcHZ0eDBmckdSVXpxWVlrUFhSN0EwSmVhS3JVSVNqSUNBb0hXQ3RWNWxFcUNscHhBNk5oTXdUQVdHVUhhOHdTd2xEdU9MT1NUaWg3S25BZV85ODhVUnZUZw",
-  "source": "Circana",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-09-30T07:00:00.000Z",
-  "title": "Agentic Commerce: 5 Levers for Brands & Retailers",
+  "id": "InternetRetailing::https://internetretailing.net/?p=76328",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-21T08:56:45.000Z",
+  "title": "GUEST COMMENT Will Vinted’s new rules drive the fight against fakes offline?",
+  "snippet": "IP lawyer Daniel Fletcher from Forbes Solicitors explains why Vinted's updated Terms and Conditions, designed to deter the sale of counterfeit goods, could have unintended consequences for retailers. The post GUEST…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD228/samsung-4nm-hbm-modem-capacity.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T08:04:56.000Z",
+  "title": "Samsung shifts M2800 modem to 2nm, frees 4nm capacity for HBM base dies",
+  "snippet": "Samsung Electronics is transitioning its 4nm production capacity to HBM, with its next-generation mobile modem, the M2800, set to move to a 2nm process. The freed 4nm capacity will primarily support production of HBM…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD247/sdc-oled-panel-production-visionox-development.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T08:03:37.000Z",
+  "title": "Samsung Display accelerates MPO and inkjet OLED development for laptops and monitors",
+  "snippet": "Samsung Display (SDC) is reportedly advancing both micro-patterned OLED (MPO) and inkjet-printed OLED technologies in parallel, expanding its non-fine metal mask (non-FMM) RGB OLED lineup. SDC is currently validating…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261021VL214/samsung-sk-hynix-nand-ymtc-chips.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T07:57:45.000Z",
+  "title": "Samsung, SK Hynix reportedly upgrading China NAND fabs to fend off YMTC amid softening US stance",
+  "snippet": "Samsung Electronics and SK Hynix are upgrading their NAND flash factories in China to make chips with more than 200 layers, Reuters reported on October 21, citing four people familiar with the plans. The move would let…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/health-and-beauty/beauty-firms-chase-ozempic-face-market-as-weight-loss-drugs-boom/135084831",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-21T06:56:18.000Z",
+  "title": "Beauty firms chase 'Ozempic face' market as weight-loss drugs boom",
+  "snippet": "Galderma, Natura, and L'Oreal are developing treatments for consumers experiencing facial sagging due to rapid weight loss. These companies are responding to increased demand linked to the popularity of GLP-1 obesity…"
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76325",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-21T06:51:00.000Z",
+  "title": "IKEA invests £31.5 million into improving UK online fulfilment as digital sales grow",
+  "snippet": "IKEA is investing £31.5 million into its UK online fulfilment to make it more efficient and sustainable. The post IKEA invests £31.5 million into improving UK online fulfilment as digital sales grow appeared first on…"
+ },
+ {
+  "id": "Reuters::CBMirwFBVV95cUxQTTZ4aW9rZHRKVUxlbEJ0M256bENvTG9sV3FFQUNqbTYtdk1kaHM0MHM3UEpDRHdYQ0FlcHQ0UUV4ZUc5Tllod0pqaXpGSE0zUmRDbm1SNm9sM1VaV1FGSDI3YVVDdXJnRXpPVXNQdi02V3ByOUgzQW9iZW11a2M4azBxam5mR2UzWjllVXg5SDNzZkdDRU56M01mZGp2VEItQ2trbnVWUGxfcUZMcThz",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-20T10:40:34.000Z",
+  "title": "Meta's AI spending, Muse assistant adoption in focus for quarterly results",
   "snippet": ""
  }
 ]
