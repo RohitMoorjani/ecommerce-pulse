@@ -3806,5 +3806,90 @@
  "Circana::CBMivAFBVV95cUxOVHEwZXNEU1FZMmZScG1aX3BXX05ROEJyUWN5OGNxSDFpbU1PXzFsUzN5YmJPVm5UbXR3c2stamdNSS1fb0NrMGJoaFFZbG9zakstck9uSzZKcVFMaGNpLTNuVzdqV2xaR0FRMExnbExuTVpoaGxRd2JXb2dIbGJrSjV1ZnhBNmtXZVZ0c295c1FpWkVsaXNfQ1Y3dkhZLUxhZVZuaWg4aVRCNUhfaDRtREZCRUE4eEV6R0labw": {
   "keep": false,
   "publishedAt": "2026-09-23T07:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261021PD224/amec-mocvd-equipment-sk-hynix.html": {
+  "keep": false,
+  "publishedAt": "2026-10-21T03:54:56.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261021PD225/sony-smartphone-mobile-business-competition.html": {
+  "keep": false,
+  "publishedAt": "2026-10-21T03:17:53.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261021PR200/apple-iphone-2026-usa-manufacturing-supplier.html": {
+  "keep": false,
+  "publishedAt": "2026-10-21T03:14:33.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261021PD219/2026-e-ink-demand-outlook-revenue.html": {
+  "keep": false,
+  "publishedAt": "2026-10-21T02:40:00.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/sweet-sellers-face-heat-over-shelf-life-rules-ahead-of-diwali/135080256": {
+  "keep": false,
+  "publishedAt": "2026-10-21T02:37:44.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/fmcg-brands-turn-up-the-volume-on-ads-as-costs-and-scrutiny-rise/135080241": {
+  "keep": false,
+  "publishedAt": "2026-10-21T02:35:08.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/industry/navratri-shoppers-splurge-on-clothes-appliances-as-gadgets-get-pricier/135080146": {
+  "keep": false,
+  "publishedAt": "2026-10-21T02:33:47.000Z"
+ },
+ "Inc42::https://inc42.com/?p=576926": {
+  "keep": false,
+  "publishedAt": "2026-10-21T02:30:50.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261021PD222/samsung-2nm-4nm-capacity-production.html": {
+  "keep": false,
+  "publishedAt": "2026-10-21T02:08:08.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261020RS400/iphone-apple-shipments-price-camera.html?chid=2": {
+  "keep": false,
+  "publishedAt": "2026-10-21T01:42:05.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261021PD211/smartphone-shipments-market-2026-production.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Memory chip inflation speeds smartphone brands' retreat from low-end devices",
+  "short_headline": "Memory inflation pushes brands away from low-end",
+  "takeaway": "Memory-driven cost pressure is reshaping entry-level hardware; we should expect similar price-tier shifts in our own low-end lineup.",
+  "importance": 2,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-21T01:20:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261020VL220/substrate-pcb-supply-chain-wistron-hpc.html": {
+  "keep": false,
+  "publishedAt": "2026-10-21T00:35:39.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261021VL200/spacex-revenue-operating-profit-business-starlink.html": {
+  "keep": false,
+  "publishedAt": "2026-10-21T00:20:00.000Z"
+ },
+ "Counterpoint Research::CBMimAFBVV95cUxOR2dyMjJOSnpOMWpmZzBxMzRhOWZWOFFOTTVzV1E0MUlPbFpGdVZ0Q0RrZHU5TEU3d0dQSGJsTGNvNl9jZzdIMUxzVmp6M2N2ODdFeV9EMnNsNkptNExzMDlIZXB2VHVaTDdmX3pBdUF0MllnSF9pV3NaRHZrTW5tOTV0emNHSmduYW9jYmFmZ2FlcUE1OEpBYQ": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Counterpoint: memory shortage is driving record PC price inflation",
+  "short_headline": "Memory shortage drives record PC price inflation",
+  "takeaway": "Rising memory costs are pushing PC prices up; we should plan pricing, promotions and mix for tighter margins and price-sensitive buyers.",
+  "importance": 4,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-20T23:15:36.000Z"
+ },
+ "Capital One Shopping Research::CBMickFVX3lxTE55cV9zUXNJMHBYNjRmeWVKbzJpT19ySEJjQ0Y3MHZUc3pWZG5hT2tNSVJJa0NmcDdieW5sZzdUUTRCNklRdGNvV0M4S3cwRS1tZ3JuaUdVbnhuTTlxVl9LR1RtbERBeU9ZV3FIZHVLdmVxUQ": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Black Friday statistics 2026 compile sales data by year",
+  "short_headline": "Black Friday 2026 sales data compiled by year",
+  "takeaway": "Historical Black Friday sales data can help us calibrate holiday demand and promotion planning for our store.",
+  "importance": 2,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-17T07:00:00.000Z"
+ },
+ "Circana::CBMifkFVX3lxTFA5M2hJdHZKTWtLM2d6TEV0QlJzQlpUR3p3VlJlYTAtcHZ0eDBmckdSVXpxWVlrUFhSN0EwSmVhS3JVSVNqSUNBb0hXQ3RWNWxFcUNscHhBNk5oTXdUQVdHVUhhOHdTd2xEdU9MT1NUaWg3S25BZV85ODhVUnZUZw": {
+  "keep": false,
+  "publishedAt": "2026-09-30T07:00:00.000Z"
  }
 }

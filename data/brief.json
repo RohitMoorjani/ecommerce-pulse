@@ -1,51 +1,42 @@
 {
- "updatedAt": "2026-10-21T00:50:26.663Z",
- "title": "Shopping now starts with AI, so our store must be built for agents",
- "summary": "55% of consumers use AI in product discovery (NIQ); 34% of US shoppers would use GenAI for gifts (Gartner). Google launched Universal Cart; Amex built agent-purchase verification; Best Buy joined TikTok Shop.",
+ "updatedAt": "2026-10-21T06:51:53.519Z",
+ "title": "Shopping now starts with AI, so our store must win in agents and feeds",
+ "summary": "55% of consumers use AI in product discovery (NIQ); 34% of US consumers would use GenAI for gifts (Gartner). Google launched Universal Cart; Amex built agent-purchase checks; Best Buy joined TikTok Shop; memory shortage drives record PC price inflation (Counterpoint).",
  "points": [
   {
-   "headline": "AI discovery is mainstream and Google now has a cross-retailer cart",
-   "detail": "NIQ: 55% use AI in discovery; Shopify says AI discovery converts better; Google Universal Cart launched in US Search and Gemini. Our product feeds and checkout must work there.",
+   "headline": "AI discovery and carts are becoming the front door to purchase",
+   "detail": "NIQ finds 55% of consumers use AI in discovery and Gartner 34% for gift ideas. Google's Universal Cart spans Search and Gemini. We should ready product feeds, content and checkout for it.",
    "segment": "agentic",
    "storyIds": [
     "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
-    "InternetRetailing::https://internetretailing.net/?p=76266",
-    "TechCrunch::https://techcrunch.com/?p=3178088"
+    "Gartner::CBMilAJBVV95cUxPdEI3MmZCa2FBWVVoSC1ZNGh2OUhLSnhPRUl1eWgtMHd2T2dNVXRnRUhJUVh1WVhYMWl1Mm5RLXZzZzBPdzBQalVXYzlLNmlwLXhzSE8zU0RCcHpjTHhQSWxZazNrcUZraEl0Z1VnYlBULW1TOUI4eWVRYlZiNlFkSVJyT3FleGJHOFNnTU5jY0JEZVhaN1RkU2NhZC1UVjVoQTZjLTk2ckVmVktrdnQyeUZmRl8yeG8zZkQ1N3dCSFhmMjJNRXBPdGdYRW9lVlRpRzVndUN0ZjFGeF9xVF9sc1IyVm1ZY1o5b21jNE9mX0ZqNzY2UVYyY211aXg0eGFpelZGUGZ6ajQwRU9GX3FyNElCYUM",
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363555"
    ]
   },
   {
-   "headline": "Agent-made purchases are becoming a payments and trust issue",
-   "detail": "American Express launched a framework to verify purchases made by AI shopping agents. We should watch how issuers authenticate agent orders on our store.",
+   "headline": "Agent-made orders are turning trust and payments into a new requirement",
+   "detail": "American Express launched a framework to verify purchases made by AI shopping agents. We should watch how issuers authenticate agent orders and make sure our store's checkout can accommodate them.",
    "segment": "agentic",
    "storyIds": [
     "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363553"
    ]
   },
   {
-   "headline": "Best Buy joins TikTok Shop and Walmart bundles memberships",
-   "detail": "Best Buy sells on TikTok Shop this holiday; Walmart merges Walmart+ and Sam’s Club Plus into one $120 plan. We should test TikTok Shop and weigh Walmart loyalty effects.",
-   "segment": "marketplaces",
-   "storyIds": [
-    "Modern Retail::https://www.modernretail.co/?p=173494",
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363631"
-   ]
-  },
-  {
-   "headline": "Memory undersupply keeps PC costs and prices under pressure into 2027",
-   "detail": "AI data center demand is lifting DRAM and NAND prices into Q4. We should plan pricing and inventory for higher costs and tighter supply.",
+   "headline": "Memory shortage is lifting PC prices and costs into 2027",
+   "detail": "Counterpoint reports record PC price inflation and DigiTimes sees DRAM and NAND prices rising into Q4 on AI demand. We should plan pricing, promotions and inventory for tighter margins.",
    "segment": "pc",
    "storyIds": [
+    "Counterpoint Research::CBMimAFBVV95cUxOR2dyMjJOSnpOMWpmZzBxMzRhOWZWOFFOTTVzV1E0MUlPbFpGdVZ0Q0RrZHU5TEU3d0dQSGJsTGNvNl9jZzdIMUxzVmp6M2N2ODdFeV9EMnNsNkptNExzMDlIZXB2VHVaTDdmX3pBdUF0MllnSF9pV3NaRHZrTW5tOTV0emNHSmduYW9jYmFmZ2FlcUE1OEpBYQ",
     "DigiTimes::https://www.digitimes.com/news/a20261019PD201/demand-2027-samsung-sk-hynix-outlook.html"
    ]
   },
   {
-   "headline": "Holiday online demand grows, but affordability and AI shape choices",
-   "detail": "Adobe: record $275.1B US online holiday sales (+6.7%); NRF: affordability shapes plans; Gartner: 34% would use GenAI for gifts. Plan value offers and AI-ready content.",
-   "segment": "trends",
+   "headline": "Electronics retail is widening channels and holiday demand is up",
+   "detail": "Best Buy joined TikTok Shop for its biggest holiday season, and Adobe forecasts record US online holiday sales of $275.1B, up 6.7%. We should test our channel presence and Cyber 5 offers.",
+   "segment": "marketplaces",
    "storyIds": [
-    "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c",
-    "NRF::CBMivAFBVV95cUxNNEg2OU1VZzNGT2QwcUxLZTZqQlRSV240Vkd0NWtVSjFYQlhHdE9ndHlhdjI1azNsM0pPTmlfUnZpY2hxU2E0UGt5WDRBSVNFTjBxc2hPNmh1UWJLWUhzQTZFSVJXNmJVSjQwOFNabzljbVBkTy1LQVFTRWpLUjMwcFVFQmpzSE1rLTEyUFBtSTVZZzVuaGlEM1R3ME9lSUdETWhSNDdyUl9HSk1Eb0gxSmhhQjcyWUJiWE8zMA",
-    "Gartner::CBMilAJBVV95cUxPdEI3MmZCa2FBWVVoSC1ZNGh2OUhLSnhPRUl1eWgtMHd2T2dNVXRnRUhJUVh1WVhYMWl1Mm5RLXZzZzBPdzBQalVXYzlLNmlwLXhzSE8zU0RCcHpjTHhQSWxZazNrcUZraEl0Z1VnYlBULW1TOUI4eWVRYlZiNlFkSVJyT3FleGJHOFNnTU5jY0JEZVhaN1RkU2NhZC1UVjVoQTZjLTk2ckVmVktrdnQyeUZmRl8yeG8zZkQ1N3dCSFhmMjJNRXBPdGdYRW9lVlRpRzVndUN0ZjFGeF9xVF9sc1IyVm1ZY1o5b21jNE9mX0ZqNzY2UVYyY211aXg0eGFpelZGUGZ6ajQwRU9GX3FyNElCYUM"
+    "Modern Retail::https://www.modernretail.co/?p=173494",
+    "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c"
    ]
   }
  ]
