@@ -1,26 +1,130 @@
 [
  {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363631",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-10-20T22:48:07.000Z",
-  "title": "Walmart+ and Sam’s Club Plus memberships to come bundled in $120 subscription",
-  "snippet": "Walmart Inc. will bundle memberships for its Walmart+ and Sam’s Club Plus programs, making a bet that shoppers will subscribe to both when given the chance to save nearly $100. The paid membership programs for Walmart…"
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD224/amec-mocvd-equipment-sk-hynix.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T03:54:56.000Z",
+  "title": "AMEC seeks South Korean foothold through MOCVD trials with SK Keyfoundry, Magnachip",
+  "snippet": "AMEC is seeking an entry into South Korea's power semiconductor market through MOCVD equipment trials with SK Keyfoundry and Magnachip. The Chinese equipment supplier holds a large share of its domestic MOCVD market but…"
  },
  {
-  "id": "NRF::CBMivAFBVV95cUxNNEg2OU1VZzNGT2QwcUxLZTZqQlRSV240Vkd0NWtVSjFYQlhHdE9ndHlhdjI1azNsM0pPTmlfUnZpY2hxU2E0UGt5WDRBSVNFTjBxc2hPNmh1UWJLWUhzQTZFSVJXNmJVSjQwOFNabzljbVBkTy1LQVFTRWpLUjMwcFVFQmpzSE1rLTEyUFBtSTVZZzVuaGlEM1R3ME9lSUdETWhSNDdyUl9HSk1Eb0gxSmhhQjcyWUJiWE8zMA",
-  "source": "NRF",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-20T19:42:21.000Z",
-  "title": "Affordability Shapes Winter Holiday Shopping, According to NRF Holiday Survey",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD225/sony-smartphone-mobile-business-competition.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T03:17:53.000Z",
+  "title": "Sony bets on cinema-grade audio, mobile accessories to counter smartphone sales slump",
+  "snippet": "Sony's smartphone business continues to struggle amid fierce competition from Apple, Samsung Electronics, and Chinese rivals, with annual shipments falling to just several million units. However, the growing adoption of…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PR200/apple-iphone-2026-usa-manufacturing-supplier.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T03:14:33.000Z",
+  "title": "Apple expands US iPhone supply ties with Perryman and Qnity",
+  "snippet": "Apple announced new and expanded US supplier partnerships on October 20, 2026, including plans to commit up to US$100 million to titanium producer Perryman Company over three years and broaden its camera-technology…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD219/2026-e-ink-demand-outlook-revenue.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T02:40:00.000Z",
+  "title": "Memory costs weaken e-reader demand as E Ink cuts 2026 outlook",
+  "snippet": "Surging memory prices are forcing e-reader makers to raise prices, weakening demand and clouding E Ink Holdings' 2026 outlook. E Ink has cut its revenue-growth forecast, while Netronix expects shipments to remain flat…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/sweet-sellers-face-heat-over-shelf-life-rules-ahead-of-diwali/135080256",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-21T02:37:44.000Z",
+  "title": "Sweet sellers face heat over shelf life rules ahead of Diwali",
+  "snippet": "Watchdog agencies in states such as Uttar Pradesh and Uttarakhand are among those that have made this mandatory. The directive aims to help consumers assess freshness as inspections have revealed that buyers were not…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/fmcg-brands-turn-up-the-volume-on-ads-as-costs-and-scrutiny-rise/135080241",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-21T02:35:08.000Z",
+  "title": "FMCG brands turn up the volume on ads as costs and scrutiny rise",
+  "snippet": "Multiple packaged goods companies are increasing their advertising expenditures to maintain consumer demand amid rising inflation. Nestle India reported a significant rise in ad spending during the September quarter to…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/industry/navratri-shoppers-splurge-on-clothes-appliances-as-gadgets-get-pricier/135080146",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-21T02:33:47.000Z",
+  "title": "Navratri shoppers splurge on clothes, appliances as gadgets get pricier",
+  "snippet": "Sales of apparel, footwear, and cosnumer durables increased over 20% during the recent Navratri-Dussehra festive period. Car retail sales saw a slight increase of 2% despite last year's GST-driven rush. Appliance sales…"
+ },
+ {
+  "id": "Inc42::https://inc42.com/?p=576926",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T02:30:50.000Z",
+  "title": "Apple’s FY26 Snapshot, Flipkart’s Foodtech Foray & More",
+  "snippet": "Apple India Rolls In Profits Apple’s India story is no longer just about iPhone sales. In FY26, the smartphone maker’s…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD222/samsung-2nm-4nm-capacity-production.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T02:08:08.000Z",
+  "title": "Samsung faces delays securing 2nm customers as 4nm capacity reaches full utilization",
+  "snippet": "Samsung Electronics' foundry business has yet to finalize contracts with major global technology companies for its 2nm process, while demand has pushed its 4nm production lines close to full capacity, according to…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261020RS400/iphone-apple-shipments-price-camera.html?chid=2",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T01:42:05.000Z",
+  "title": "iPhone Duo finally debuts, but with price increases across models, Apple's 4Q26 shipments will take hit",
+  "snippet": "DIGITIMES says the most closely watched model in Apple's high-end iPhone 18 lineup, launched in September 2026, is the long-anticipated first foldable smartphone, the iPhone Duo."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD211/smartphone-shipments-market-2026-production.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T01:20:00.000Z",
+  "title": "Memory chip inflation accelerates smartphone brands' retreat from low-end devices",
+  "snippet": "Rising memory prices are squeezing smartphone makers and consumers, pushing shipments to their lowest third-quarter level since 2012, and accelerating the market's retreat from entry-level devices. Brands are raising…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261020VL220/substrate-pcb-supply-chain-wistron-hpc.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T00:35:39.000Z",
+  "title": "Packaging-to-board integration emerges as key gap as AI reshapes electronics supply chain",
+  "snippet": "Packaging, substrate, printed circuit board (PCB), and assembly makers need closer coordination to meet the demands of AI and high-performance computing (HPC), as package-to-board integration becomes a growing technical…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261021VL200/spacex-revenue-operating-profit-business-starlink.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T00:20:00.000Z",
+  "title": "SpaceX returns to operating profit in 3Q26; Super Intelligence revenue overtakes Connectivity",
+  "snippet": "SpaceX's third quarter of 2026 reshaped the business. Its Super Intelligence (SI) segment, the compute and AI unit previously reported as Artificial Intelligence, generated more revenue than the Starlink-led…"
+ },
+ {
+  "id": "Counterpoint Research::CBMimAFBVV95cUxOR2dyMjJOSnpOMWpmZzBxMzRhOWZWOFFOTTVzV1E0MUlPbFpGdVZ0Q0RrZHU5TEU3d0dQSGJsTGNvNl9jZzdIMUxzVmp6M2N2ODdFeV9EMnNsNkptNExzMDlIZXB2VHVaTDdmX3pBdUF0MllnSF9pV3NaRHZrTW5tOTV0emNHSmduYW9jYmFmZ2FlcUE1OEpBYQ",
+  "source": "Counterpoint Research",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-20T23:15:36.000Z",
+  "title": "Memory Shortage Driving Record PC Price Inflation",
   "snippet": ""
  },
  {
-  "id": "Circana::CBMivAFBVV95cUxOVHEwZXNEU1FZMmZScG1aX3BXX05ROEJyUWN5OGNxSDFpbU1PXzFsUzN5YmJPVm5UbXR3c2stamdNSS1fb0NrMGJoaFFZbG9zakstck9uSzZKcVFMaGNpLTNuVzdqV2xaR0FRMExnbExuTVpoaGxRd2JXb2dIbGJrSjV1ZnhBNmtXZVZ0c295c1FpWkVsaXNfQ1Y3dkhZLUxhZVZuaWg4aVRCNUhfaDRtREZCRUE4eEV6R0labw",
+  "id": "Capital One Shopping Research::CBMickFVX3lxTE55cV9zUXNJMHBYNjRmeWVKbzJpT19ySEJjQ0Y3MHZUc3pWZG5hT2tNSVJJa0NmcDdieW5sZzdUUTRCNklRdGNvV0M4S3cwRS1tZ3JuaUdVbnhuTTlxVl9LR1RtbERBeU9ZV3FIZHVLdmVxUQ",
+  "source": "Capital One Shopping Research",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-17T07:00:00.000Z",
+  "title": "Black Friday Statistics (2026): Sales Data by Year",
+  "snippet": ""
+ },
+ {
+  "id": "Circana::CBMifkFVX3lxTFA5M2hJdHZKTWtLM2d6TEV0QlJzQlpUR3p3VlJlYTAtcHZ0eDBmckdSVXpxWVlrUFhSN0EwSmVhS3JVSVNqSUNBb0hXQ3RWNWxFcUNscHhBNk5oTXdUQVdHVUhhOHdTd2xEdU9MT1NUaWg3S25BZV85ODhVUnZUZw",
   "source": "Circana",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-09-23T07:00:00.000Z",
-  "title": "Circana 2026 Holiday Media Report Reveals How Advertisers Can Act on Demand Before Purchase",
+  "publishedAt": "2026-09-30T07:00:00.000Z",
+  "title": "Agentic Commerce: 5 Levers for Brands & Retailers",
   "snippet": ""
  }
 ]
