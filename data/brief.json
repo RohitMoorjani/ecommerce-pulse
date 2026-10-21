@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T06:51:53.519Z",
+ "updatedAt": "2026-10-21T12:51:24.637Z",
  "title": "Shopping now starts with AI, so our store must win in agents and feeds",
  "summary": "55% of consumers use AI in product discovery (NIQ); 34% of US consumers would use GenAI for gifts (Gartner). Google launched Universal Cart; Amex built agent-purchase checks; Best Buy joined TikTok Shop; memory shortage drives record PC price inflation (Counterpoint).",
  "points": [
@@ -31,12 +31,13 @@
    ]
   },
   {
-   "headline": "Electronics retail is widening channels and holiday demand is up",
-   "detail": "Best Buy joined TikTok Shop for its biggest holiday season, and Adobe forecasts record US online holiday sales of $275.1B, up 6.7%. We should test our channel presence and Cyber 5 offers.",
+   "headline": "Electronics retail is widening channels as holiday demand grows",
+   "detail": "Best Buy joined TikTok Shop, Target pairs deals with an AI assistant, and Adobe forecasts $275.1B US online holiday sales (+6.7%). We should test channels and Cyber 5 offers.",
    "segment": "marketplaces",
    "storyIds": [
     "Modern Retail::https://www.modernretail.co/?p=173494",
-    "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c"
+    "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c",
+    "Modern Retail::https://www.modernretail.co/?p=173683"
    ]
   }
  ]

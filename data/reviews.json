@@ -3847,5 +3847,68 @@
  "Circana::CBMifkFVX3lxTFA5M2hJdHZKTWtLM2d6TEV0QlJzQlpUR3p3VlJlYTAtcHZ0eDBmckdSVXpxWVlrUFhSN0EwSmVhS3JVSVNqSUNBb0hXQ3RWNWxFcUNscHhBNk5oTXdUQVdHVUhhOHdTd2xEdU9MT1NUaWg3S25BZV85ODhVUnZUZw": {
   "keep": false,
   "publishedAt": "2026-09-30T07:00:00.000Z"
+ },
+ "Inc42::https://inc42.com/?p=577009": {
+  "keep": false,
+  "publishedAt": "2026-10-21T11:30:14.000Z"
+ },
+ "Dell Blog::https://www.dell.com/blog/compute-that-matches-the-moment-dell-s-latest-poweredge-platforms-take-on-ai-at-scale": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Dell launches new PowerEdge server platforms aimed at AI at scale",
+  "short_headline": "Dell debuts new PowerEdge AI server platforms",
+  "takeaway": "Dell is refreshing its server line for AI workloads; we should check how it positions these against our own server offers online.",
+  "importance": 2,
+  "content_type": "announcement",
+  "competitors": [
+   "Dell"
+  ],
+  "publishedAt": "2026-10-21T11:29:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173683": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Target leans on daily deals, exclusives and an AI assistant for holiday season",
+  "short_headline": "Target pairs holiday deals with an AI assistant",
+  "takeaway": "Target is pairing affordability with an AI assistant; we should watch how shoppers use it and test comparable deal and assistant tools.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-21T10:00:00.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76328": {
+  "keep": false,
+  "publishedAt": "2026-10-21T08:56:45.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261021PD228/samsung-4nm-hbm-modem-capacity.html": {
+  "keep": false,
+  "publishedAt": "2026-10-21T08:04:56.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261021PD247/sdc-oled-panel-production-visionox-development.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Samsung Display advances MPO and inkjet OLED for laptops and monitors",
+  "short_headline": "Samsung Display advances OLED for laptops, monitors",
+  "takeaway": "More OLED panel options for laptops and monitors could shift component costs and premium display choices in our lineup.",
+  "importance": 2,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-21T08:03:37.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261021VL214/samsung-sk-hynix-nand-ymtc-chips.html": {
+  "keep": false,
+  "publishedAt": "2026-10-21T07:57:45.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/health-and-beauty/beauty-firms-chase-ozempic-face-market-as-weight-loss-drugs-boom/135084831": {
+  "keep": false,
+  "publishedAt": "2026-10-21T06:56:18.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76325": {
+  "keep": false,
+  "publishedAt": "2026-10-21T06:51:00.000Z"
+ },
+ "Reuters::CBMirwFBVV95cUxQTTZ4aW9rZHRKVUxlbEJ0M256bENvTG9sV3FFQUNqbTYtdk1kaHM0MHM3UEpDRHdYQ0FlcHQ0UUV4ZUc5Tllod0pqaXpGSE0zUmRDbm1SNm9sM1VaV1FGSDI3YVVDdXJnRXpPVXNQdi02V3ByOUgzQW9iZW11a2M4azBxam5mR2UzWjllVXg5SDNzZkdDRU56M01mZGp2VEItQ2trbnVWUGxfcUZMcThz": {
+  "keep": false,
+  "publishedAt": "2026-10-20T10:40:34.000Z"
  }
 }
