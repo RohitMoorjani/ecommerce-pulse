@@ -1,19 +1,20 @@
 {
- "updatedAt": "2026-10-21T18:50:30.799Z",
- "title": "AI now steers shopping and memory costs squeeze PC pricing: act on both",
- "summary": "55% of consumers use AI in product discovery (NIQ); 34% of US consumers would use GenAI for gift ideas (Gartner). Google launched Universal Cart; Best Buy joined TikTok Shop; Counterpoint reports record PC price inflation from memory shortage.",
+ "updatedAt": "2026-10-21T21:50:31.152Z",
+ "title": "Shopping starts with AI, and our store must be ready for agent buyers",
+ "summary": "55% of consumers use AI in product discovery (NIQ); 34% of US shoppers would use GenAI for gift ideas (Gartner). Google launched Universal Cart, Walmart lets AI agents buy while Amazon blocks them, and Amex built agent-purchase verification.",
  "points": [
   {
-   "headline": "AI discovery is mainstream and Google's Universal Cart moves the cart into AI",
-   "detail": "NIQ: 55% use AI in discovery; Google opened Universal Cart in Search and Gemini. Our product feeds and data must be ready for holiday 2026.",
+   "headline": "AI discovery and agent checkout are arriving at major platforms",
+   "detail": "Google's Universal Cart spans Search and Gemini; Walmart lets agents buy with spending controls while Amazon blocks them. We should ready product feeds and decide our stance on agent purchases.",
    "segment": "agentic",
    "storyIds": [
-    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
-    "TechCrunch::https://techcrunch.com/?p=3178088"
+    "TechCrunch::https://techcrunch.com/?p=3178088",
+    "TechCrunch::https://techcrunch.com/?p=3180139",
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363553"
    ]
   },
   {
-   "headline": "Memory shortage is driving record PC price inflation into 2027",
+   "headline": "Memory shortage is pushing PC costs and prices up into 2027",
    "detail": "Counterpoint cites record PC price inflation and DigiTimes sees DRAM and NAND prices rising into Q4. We should plan pricing, promotions and inventory for tighter margins.",
    "segment": "pc",
    "storyIds": [
@@ -22,20 +23,12 @@
    ]
   },
   {
-   "headline": "Best Buy joins TikTok Shop, opening a new electronics channel for the holidays",
-   "detail": "Best Buy is selling on TikTok Shop for its biggest holiday season yet. We should test our presence and promotions on social commerce.",
+   "headline": "Holiday demand is strong and channels are widening",
+   "detail": "Adobe forecasts $275.1B in US online holiday sales, up 6.7%, and Best Buy joins TikTok Shop. We should check our presence and deal depth on new channels before Cyber 5.",
    "segment": "marketplaces",
    "storyIds": [
-    "Modern Retail::https://www.modernretail.co/?p=173494"
-   ]
-  },
-  {
-   "headline": "Online holiday demand is growing and shoppers want flexible financing",
-   "detail": "Adobe forecasts $275.1B in US online holiday sales (+6.7%); Amazon UK added BNPL via Affirm. We should review deal depth and instalment options.",
-   "segment": "trends",
-   "storyIds": [
     "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c",
-    "PYMNTS Data::CBMilAFBVV95cUxQNzFOc3hDNk0zUHNrMG9wSlc3eFdLaFBQZnhMaGZzY0dtMEg0eXRDSGluZXlTOFdXb3pUNkJMdFc1Z0dScU0yM21tcmdZQllUZjBCZUxSdEhSWG9LWUpOd0F2Z2RVaEdvZHpXTlhEUVdfdXVvcUx0TlZOdkNacl9GenBJWkJZc2Uwbk1pRzcxM3NIbHFk"
+    "Modern Retail::https://www.modernretail.co/?p=173494"
    ]
   }
  ]

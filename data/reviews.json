@@ -4015,5 +4015,39 @@
  "NIQ::CBMioAFBVV95cUxQRUF4eVcwc0JvUFVfQlR3UGR3RDFQODNKNnZuZWdrVlNxSWVEc3RjM3RSSDVCTW1PVVc4ZXF5LXF3cTBwenFZTnM0czVENTluVTI4Nmxlbk53T0UtMkdsdVYxM3haTldRLTFzX2NBM2xIMDBDYW1oWjZ6czJZcVdBcGJnMW8tbHB3SnFkajg1TUR1UGFOVWtkcS0zVmpMbTlx": {
   "keep": false,
   "publishedAt": "2026-09-28T07:00:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173736": {
+  "keep": false,
+  "publishedAt": "2026-10-21T20:59:00.000Z"
+ },
+ "PYMNTS Data::CBMijAFBVV95cUxON2NLWTc0WFJyYnk0MmtTNFZVcmVMSUVRS2ZYbDREaUZJcXgxbWMtNjJJNFRQcEVUeHBIYjU0RmNXbnJ1TXNXSXpZaVRUVlY5dUZIaTVPQzdQWVdZbzVhcF9nVmFFT1pSVzVuSUNqNnVWMWIwVkNlb181V2hJWUtrZ0w1cXNweFJEdE80Uw": {
+  "keep": true,
+  "segment": "plays",
+  "headline": "Klarna and FreshBooks team up to offer BNPL to small businesses",
+  "short_headline": "Klarna and FreshBooks bring BNPL to small businesses",
+  "takeaway": "Small-business BNPL inside accounting software is a financing route we could test for SMB buyers of PCs and workstations.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-10-21T19:40:08.000Z"
+ },
+ "TechCrunch::https://techcrunch.com/?p=3180139": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Walmart lets AI agents buy for shoppers with spending controls as Amazon blocks them",
+  "short_headline": "Walmart welcomes AI shopping agents; Amazon blocks them",
+  "takeaway": "Retail channels are split on agent access; we should decide how our store and listings handle agent-driven purchases.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-21T19:30:00.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363640": {
+  "keep": false,
+  "publishedAt": "2026-10-21T17:44:31.000Z"
+ },
+ "Reuters::CBMiywFBVV95cUxNdi1oa1VDTm0wMUJualVQRU5ieHFCQmFCejlxdEx1cEM3am1WaEV4LVJwRGVab29QU05IUl9fYzhsaFFFSk5hVGtTZFFLNGNOUVNFMjJ4RkE2b2RCdVJmN0t5UmVBeWpPb2ZwMThLcVRkVENsdFhRc0JOUml0Z3F3MFg5bDhsNmZrX2tuS1ZkRFl2elAzd0p0ZDlFb0E1MF9malVCZXhEZnJqRUFYMUxFNDV5ZmRrZkYxZndkWGthUEpPQVdOTHAtMHBVTQ": {
+  "keep": false,
+  "publishedAt": "2026-10-19T12:27:14.000Z"
  }
 }
