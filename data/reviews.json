@@ -3780,5 +3780,31 @@
   "content_type": "data",
   "competitors": [],
   "publishedAt": "2026-10-17T07:00:00.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363631": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Walmart bundles Walmart+ and Sam's Club Plus memberships into one $120 subscription",
+  "short_headline": "Walmart merges two memberships into $120 bundle",
+  "takeaway": "A combined Walmart membership could deepen shopper lock-in on a key electronics channel; we should watch how it affects our listings there.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-20T22:48:07.000Z"
+ },
+ "NRF::CBMivAFBVV95cUxNNEg2OU1VZzNGT2QwcUxLZTZqQlRSV240Vkd0NWtVSjFYQlhHdE9ndHlhdjI1azNsM0pPTmlfUnZpY2hxU2E0UGt5WDRBSVNFTjBxc2hPNmh1UWJLWUhzQTZFSVJXNmJVSjQwOFNabzljbVBkTy1LQVFTRWpLUjMwcFVFQmpzSE1rLTEyUFBtSTVZZzVuaGlEM1R3ME9lSUdETWhSNDdyUl9HSk1Eb0gxSmhhQjcyWUJiWE8zMA": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "NRF holiday survey: affordability shapes winter holiday shopping",
+  "short_headline": "NRF: affordability drives holiday shopping",
+  "takeaway": "Price sensitivity is steering holiday plans, so we should test value-led offers and financing in our store before peak season.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-20T19:42:21.000Z"
+ },
+ "Circana::CBMivAFBVV95cUxOVHEwZXNEU1FZMmZScG1aX3BXX05ROEJyUWN5OGNxSDFpbU1PXzFsUzN5YmJPVm5UbXR3c2stamdNSS1fb0NrMGJoaFFZbG9zakstck9uSzZKcVFMaGNpLTNuVzdqV2xaR0FRMExnbExuTVpoaGxRd2JXb2dIbGJrSjV1ZnhBNmtXZVZ0c295c1FpWkVsaXNfQ1Y3dkhZLUxhZVZuaWg4aVRCNUhfaDRtREZCRUE4eEV6R0labw": {
+  "keep": false,
+  "publishedAt": "2026-09-23T07:00:00.000Z"
  }
 }

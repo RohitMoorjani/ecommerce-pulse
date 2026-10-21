@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-20T15:50:50.610Z",
+ "updatedAt": "2026-10-21T00:50:26.663Z",
  "title": "Shopping now starts with AI, so our store must be built for agents",
- "summary": "55% of consumers use AI in product discovery (NIQ); 34% of US shoppers would use GenAI for gift ideas (Gartner). Google launched Universal Cart in Search and Gemini; Amex built agent-purchase verification; Best Buy joined TikTok Shop.",
+ "summary": "55% of consumers use AI in product discovery (NIQ); 34% of US shoppers would use GenAI for gifts (Gartner). Google launched Universal Cart; Amex built agent-purchase verification; Best Buy joined TikTok Shop.",
  "points": [
   {
    "headline": "AI discovery is mainstream and Google now has a cross-retailer cart",
@@ -22,11 +22,12 @@
    ]
   },
   {
-   "headline": "Best Buy on TikTok Shop opens a new electronics channel this holiday",
-   "detail": "Best Buy sells on TikTok Shop for the first time this holiday season. We should test our presence and promotions on the platform.",
+   "headline": "Best Buy joins TikTok Shop and Walmart bundles memberships",
+   "detail": "Best Buy sells on TikTok Shop this holiday; Walmart merges Walmart+ and Sam’s Club Plus into one $120 plan. We should test TikTok Shop and weigh Walmart loyalty effects.",
    "segment": "marketplaces",
    "storyIds": [
-    "Modern Retail::https://www.modernretail.co/?p=173494"
+    "Modern Retail::https://www.modernretail.co/?p=173494",
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363631"
    ]
   },
   {
@@ -38,11 +39,12 @@
    ]
   },
   {
-   "headline": "Holiday online demand grows, and AI recommendations shape gift choices",
-   "detail": "Adobe forecasts record $275.1B US online holiday sales (+6.7%); Gartner: 34% would use GenAI for gift ideas. Plan Cyber 5 inventory and AI-ready content.",
+   "headline": "Holiday online demand grows, but affordability and AI shape choices",
+   "detail": "Adobe: record $275.1B US online holiday sales (+6.7%); NRF: affordability shapes plans; Gartner: 34% would use GenAI for gifts. Plan value offers and AI-ready content.",
    "segment": "trends",
    "storyIds": [
     "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c",
+    "NRF::CBMivAFBVV95cUxNNEg2OU1VZzNGT2QwcUxLZTZqQlRSV240Vkd0NWtVSjFYQlhHdE9ndHlhdjI1azNsM0pPTmlfUnZpY2hxU2E0UGt5WDRBSVNFTjBxc2hPNmh1UWJLWUhzQTZFSVJXNmJVSjQwOFNabzljbVBkTy1LQVFTRWpLUjMwcFVFQmpzSE1rLTEyUFBtSTVZZzVuaGlEM1R3ME9lSUdETWhSNDdyUl9HSk1Eb0gxSmhhQjcyWUJiWE8zMA",
     "Gartner::CBMilAJBVV95cUxPdEI3MmZCa2FBWVVoSC1ZNGh2OUhLSnhPRUl1eWgtMHd2T2dNVXRnRUhJUVh1WVhYMWl1Mm5RLXZzZzBPdzBQalVXYzlLNmlwLXhzSE8zU0RCcHpjTHhQSWxZazNrcUZraEl0Z1VnYlBULW1TOUI4eWVRYlZiNlFkSVJyT3FleGJHOFNnTU5jY0JEZVhaN1RkU2NhZC1UVjVoQTZjLTk2ckVmVktrdnQyeUZmRl8yeG8zZkQ1N3dCSFhmMjJNRXBPdGdYRW9lVlRpRzVndUN0ZjFGeF9xVF9sc1IyVm1ZY1o5b21jNE9mX0ZqNzY2UVYyY211aXg0eGFpelZGUGZ6ajQwRU9GX3FyNElCYUM"
    ]
   }
