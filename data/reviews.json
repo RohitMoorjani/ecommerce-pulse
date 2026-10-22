@@ -4189,5 +4189,127 @@
  "PYMNTS Data::CBMikgFBVV95cUxQQXZQbnZwUC1ubXo5ZHA4SElEUWY4ZXVlZ3pIR0xRcVE5V1hGZ3dhZTFGc21HNHdSbFpSQ3h6YWc4V0xFLWhxWDB1X1dNU0tEb2pwcnhUcmFQMWVWNzF4ZS1mQWJaeTBZWGlzNllOYUpfSXJ4d01kTmVMZEFFdDNHWmQ5bDRiR29HRFl3MWlrSVFxdw": {
   "keep": false,
   "publishedAt": "2026-10-19T17:54:13.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363649": {
+  "keep": false,
+  "publishedAt": "2026-10-22T16:56:35.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/beyond-yoga-store-strategy-yellow-joy-ceo-nancy-green/833665/": {
+  "keep": false,
+  "publishedAt": "2026-10-22T16:34:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/davids-bridal-spin-off-pearl-AI-stand-alone-publicly-traded-company/833699/": {
+  "keep": false,
+  "publishedAt": "2026-10-22T16:29:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/walmart-welcomes-external-ai-shopping-agents-terms-boundaries/833723/": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Walmart opens to outside AI shopping agents with agent profiles and new terms",
+  "short_headline": "Walmart sets terms for outside AI shopping agents",
+  "takeaway": "Retailers are defining rules for third-party agents; we should decide how agents may read and buy from our store.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-22T16:14:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/ebay-cuts-one-thousand-jobs-layoffs-downsizing/833668/": {
+  "keep": false,
+  "publishedAt": "2026-10-22T16:11:00.000Z"
+ },
+ "PYMNTS Data::CBMivAFBVV95cUxOV1RnbzhNa1ZlTTRiZ3VYVWdKalEwdmVUbHIxT0FCYnRRV29KQ2RqQ1BDTzhweTFVbGtaUXN0S3VPNkRWbG1Rc1dPZ2tQcDhnRmxrRTk4TlNQNWszMk1vTTlSeVZibjNtYl9oRU0zNnVLN3lKU2tTU2JPamNkNzJwczVXZjk1dHVXOF9TZmpTV1ZDVnVVbXVoc19NNHFmNnM3aXBRZlBXV1B3OTlGSGxTajZtV21Da0VSSU1qZw": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Affirm signs exclusive deal with Sam’s Club as competition for BNPL shoppers intensifies",
+  "short_headline": "Affirm gets exclusive BNPL deal with Sam’s Club",
+  "takeaway": "Retailers are locking in exclusive BNPL partners; we should review whether our store’s financing options stay competitive.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-22T16:05:11.000Z"
+ },
+ "Retail TouchPoints::CBMirwFBVV95cUxPMjl1bGs1WURpQ0Z4MEpHV2NiY3FyY3huTlFLZ0hidW5FaHUyZFhESkRvU2NMM1EzQ1BHWl9JN192dkpuaGQxbDltbXI4cXhab1R6SHNzWTFMQzBqa3RnY1hOUG4zczZaWDJYNGtuQWJpQ0gtQ1RXWW1SNmo4X2lTS0hrR0NFWjNnNDQxczBnVjh4dllEVG1hM3hGZFJmTnJLRHdNY3BLY2NTSHp1eXhJ": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Affordability shapes winter holiday shopping, NRF holiday survey finds",
+  "short_headline": "NRF: affordability shapes winter holiday shopping",
+  "takeaway": "Price-conscious holiday shoppers suggest we should lead with value, financing and clear deals on our store.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-22T16:03:39.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76354": {
+  "keep": false,
+  "publishedAt": "2026-10-22T15:59:56.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/tractor-supply-hires-home-depot-vet-chief-digital-technology-officer/833724/": {
+  "keep": false,
+  "publishedAt": "2026-10-22T15:43:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/why-customers-fed-up-ai-chatbots/833488/": {
+  "keep": false,
+  "publishedAt": "2026-10-22T14:18:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173733": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Brands juggle new retailer marketplaces this holiday season",
+  "short_headline": "Retailers’ new marketplaces add channels for brands",
+  "takeaway": "More retailer marketplaces mean more channels to reach buyers but more systems to manage; we should weigh which to join.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-22T14:00:00.000Z"
+ },
+ "Dell Blog::https://www.dell.com/blog/the-best-windows-pc-for-agentic-ai-or-local-ai-workloads": {
+  "keep": false,
+  "publishedAt": "2026-10-22T14:00:00.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166733": {
+  "keep": false,
+  "publishedAt": "2026-10-22T13:01:57.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166724": {
+  "keep": false,
+  "publishedAt": "2026-10-22T13:01:17.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166689": {
+  "keep": false,
+  "publishedAt": "2026-10-22T13:00:27.000Z"
+ },
+ "Dell Blog::https://www.dell.com/blog/why-post-quantum-cryptography-belongs-in-your-next-pc-refresh": {
+  "keep": false,
+  "publishedAt": "2026-10-22T13:00:00.000Z"
+ },
+ "NIQ::CBMitwFBVV95cUxNT00wUm9YMFRRLUpJaFRUT1V1SEZlcHFnaDlSSy1pUjE5b3NQVXUwUGxvT2YwOWdSeW9rVmYxMWpMMnlBSnRGSDJhcjF4RkZBSGJXY2cwbXFKNmdqVlRzTld3NldOalhnQWUtYnhkVnVKaWYxOTZtSjJuMDlGT1NYYllna0JlOHM1c2R3TWNyTVRtNE9uMzZocU9Rd3VXRXVlM0FVQ3dqMU05SmVpX3NlUGVGMHdMMlU": {
+  "keep": false,
+  "publishedAt": "2026-10-22T12:19:34.000Z"
+ },
+ "Counterpoint Research::CBMimAFBVV95cUxNQUJjMnJJVmd3dFlwaWswQnh4OS1PNTNjVmlUTnR3ZWs4LTRwcDJYTWtydlZiMEhnUWh6WEFSYVEyYmxNbERQNnp1TF9LNmJXS1ZZZmlOWmRVOW5RRU91VlowNl9YN0Y1eUZ1VFRxU2FwcUJZOU1jZ3UxeTNQU19lSmxsZlRYVHNMVUg4ck9iVnd3UEc5VTJTbw": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Global PC shipments plunge 21% in Q3 2026, with Q4 decline forecast to deepen to 27%",
+  "short_headline": "PC shipments fall 21% in Q3; Q4 seen down 27%",
+  "takeaway": "A deepening demand drop means we should plan promotions, pricing and inventory for a much weaker Q4 PC market.",
+  "importance": 5,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-22T11:20:33.000Z"
+ },
+ "PYMNTS Data::CBMi2AFBVV95cUxPeEFxMjRGc1lLbjVsQTZMZ2NieWFLam5SQmsxQXo0d09yS1ByUDhXbDR0djJIRXdDNGJwNVYyaG5wMGVwQlRSblRlODRrNjVRWUxMNS1hYzdaSHJlRGJ3WmFDcExIYU5KbjI4RkpVRGdkbmRpS0tvZDRLUk9UMzFuejBfNGRiQl9BYU5jR1BoNU1qRzhhcHhkS2w0YWs0djlDUFdHOHdTdjRzci1Iemk3X1JXUWVub085LUQ1bEVLc0VWbkVvNDJXZXhLa1lIWEVFei1yZXdFRk4": {
+  "keep": false,
+  "publishedAt": "2026-10-02T07:00:00.000Z"
+ },
+ "PYMNTS Data::CBMizwFBVV95cUxQbFU3d3Y2bDNrSXR4UXdFdzJYaGpXMHExQVFQVlNVXzU1OVBDeE9TVEFWR2N6QzE0ZzMtUmxldy11RGIyNlE4N1VoZ3VId24yMFJVZzFRN21faUx4Y2ZlTXZhQ3c3blJ6ZlRXR0lHYVpRbElDcUxKTmo3WEswYVBqLUtBYXliT2R0OEJTSWswNm0wQ1kzVUpiTGc4V1pPcFRSS2c2aFJPQzkteWdaNVRXbkhnTjRNdW9VaHN6OVF1RXVuTnZkTXhNa2ZTUXpFWUU": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Visa wants AI shoppers to be as trusted as human ones",
+  "short_headline": "Visa aims to make AI shoppers as trusted as humans",
+  "takeaway": "Payment networks are building trust frameworks for agent purchases; we should prepare our checkout to accept them.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-01T14:42:26.000Z"
  }
 }
