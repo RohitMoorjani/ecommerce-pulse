@@ -1,42 +1,138 @@
 [
  {
-  "id": "Modern Retail::https://www.modernretail.co/?p=173736",
+  "id": "Modern Retail::https://www.modernretail.co/?p=173569",
   "source": "Modern Retail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-21T20:59:00.000Z",
-  "title": "Kohl’s leans into clearer pricing, gift bundles and Uber Eats for the holidays",
-  "snippet": "Kohl's is emphasizing deeper discounts and delivery capabilities in its pitch to cash-strapped shoppers this holiday season."
+  "publishedAt": "2026-10-22T04:00:00.000Z",
+  "title": "Modern Retail+ Research: Marketers express revenue optimism for the 2026 holiday season despite economic pressures",
+  "snippet": "In Modern Retail+ Research’s holiday report last year, brands and retailers expressed conservative expectations for their 2025 holiday revenue. This year, however, marketers are more optimistic."
  },
  {
-  "id": "PYMNTS Data::CBMijAFBVV95cUxON2NLWTc0WFJyYnk0MmtTNFZVcmVMSUVRS2ZYbDREaUZJcXgxbWMtNjJJNFRQcEVUeHBIYjU0RmNXbnJ1TXNXSXpZaVRUVlY5dUZIaTVPQzdQWVdZbzVhcF9nVmFFT1pSVzVuSUNqNnVWMWIwVkNlb181V2hJWUtrZ0w1cXNweFJEdE80Uw",
+  "id": "Modern Retail::https://www.modernretail.co/?p=173749",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-22T04:00:00.000Z",
+  "title": "AI boosts discovery but reviews still seal the deal, new research shows",
+  "snippet": "Consumer surveys show that AI helps shoppers find gifts, but most still check reviews, compare prices and review retailers' policies before buying."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261022VL211/micron-automotive-bos-lg-electronics-lg.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-22T03:50:00.000Z",
+  "title": "BOS, LG, and HANA Micron team up on Korean automotive chiplets",
+  "snippet": "BOS Semiconductors is partnering with LG Electronics and HANA Micron to develop and commercialize chiplet-based automotive semiconductors in South Korea, connecting domestic AI chip design with packaging and vehicle…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD211/amazon-cash-flow-infrastructure-equipment-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-22T03:28:53.000Z",
+  "title": "Amazon spends US$220B on AI as power delays squeeze cash flow",
+  "snippet": "Amazon plans about US$220 billion in capital expenditure in 2026, mainly for cloud and AI infrastructure, but delays in data center power and construction are causing server racks to arrive before they can be deployed…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261022VL213/meta-ai-agent-computing-power-cost-capacity.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-22T03:04:13.000Z",
+  "title": "Meta says compute, not demand, now limits Muse; pushes shared standard for AI shopping agents",
+  "snippet": "Meta Platforms is limiting the Muse personal AI agent to the US and Canada for now, saying that compute costs are the main reason it hasn't gone global."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD207/sdc-market-supplier-boe-production.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-22T02:58:34.000Z",
+  "title": "SDC supplies over 70% of major laptop brands' OLED panels",
+  "snippet": "Samsung Display (SDC) currently supplies more than 70% of the OLED panels used by major global laptop brands, intensifying concerns over supply and pricing risks tied to dependence on a single supplier. Laptop makers…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD209/iphone-sales-apple-foldable-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-22T02:52:45.000Z",
+  "title": "iPhone Duo preorders surge, but sales momentum remains uncertain",
+  "snippet": "Apple Inc.'s first foldable phone, the iPhone Duo, has exceeded sales expectations since preorders opened on October 16, 2026. Supply constraints have extended delivery times to January 2027, but industry executives…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD206/bear-robotics-production-robotics-outsourcing-lg.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-22T02:51:01.000Z",
+  "title": "LG robot unit Bear Robotics expands China outsourcing",
+  "snippet": "Bear Robotics, the robotics subsidiary of LG Electronics, is adopting a dual-track production strategy by expanding outsourcing from South Korean partners to manufacturers in China. The move is aimed at supporting…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD205/samsung-patent-efficiency-technology-ai-server.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-22T02:27:37.000Z",
+  "title": "Samsung patent boosts AI server memory efficiency without adding GPUs",
+  "snippet": "Samsung Electronics has disclosed a patent application targeting GPU memory shortages when multiple users simultaneously submit requests to AI servers. By calculating data-transfer costs between GPUs and CPUs and…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PR200/tesla-business-vehicle-sales-profit.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T23:56:23.000Z",
+  "title": "Tesla's car margins recover, but spending on AI and robotics absorbs the gain",
+  "snippet": "Tesla's third quarter showed its vehicle business regaining some per-car profitability even as total sales stalled, while the company's push into AI, robotaxis, and humanoid robots consumed most of the improvement…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD200/grab-ftc-taiwan-acquisition-competition.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T23:55:27.000Z",
+  "title": "Taiwan's FTC blocks Grab's Foodpanda acquisition over competition concerns",
+  "snippet": "Grab Holdings' proposed acquisition of Delivery Hero's Foodpanda operations in Taiwan has been rejected by Taiwan's Fair Trade Commission (FTC). The commission made the announcement on October 21, blocking the deal on…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD255/memory-module-gross-margin-profit-revenue-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T23:53:48.000Z",
+  "title": "GoldKey Technology posts record 3Q26 profit as industrial share rises",
+  "snippet": "Memory module maker GoldKey Technology posted record third-quarter 2026 profit, with net income topping NT$1 billion (approx. US$30.9 million) for the first time at NT$1.03 billion, up 6.2% quarter-over-quarter…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD252/wistron-stats-chippac-unimicron-packaging-substrate-panel.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T23:52:37.000Z",
+  "title": "Unimicron, STATS ChipPAC, Wistron address advanced packaging bottlenecks in AI system integration",
+  "snippet": "The Global Electronics Association hosted a panel titled \"Component to System Integration Advances\" during the IMPACT 2026 symposium, bringing together industry leaders from Unimicron, STATS ChipPAC, Wistron, and market…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD249/taiwan-supply-chain-industrial-texas-localization.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T23:52:03.000Z",
+  "title": "Taiwan tech supply chain eyes Texas for first US industrial cluster",
+  "snippet": "As Taiwan and the US deepen supply chain localization efforts, concrete plans for Taiwan's electrical and electronics industries to establish US industrial parks are rapidly taking shape. Minister of Economic Affairs…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD243/samsung-hbm-nvidia-tsmc-design.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T23:51:37.000Z",
+  "title": "Samsung's Nvidia HBM bid raises four strategic concerns",
+  "snippet": "Samsung Electronics is reportedly turning to TSMC's 3nm process to produce base dies for Nvidia's custom high-bandwidth memory (NVHBM), abandoning its long-standing turnkey integration model to win a place in Nvidia's…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD245/russia-sk-hynix-samsung-data-equipment.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-21T23:49:14.000Z",
+  "title": "Russia considers reinstating parallel imports of Samsung, SK Hynix products amid memory shortages",
+  "snippet": "Russia is reportedly considering reinstating parallel imports of products from Samsung Electronics and SK Hynix to ease shortages of memory and storage devices used in data centers. However, US export controls on Russia…"
+ },
+ {
+  "id": "PYMNTS Data::CBMiwwFBVV95cUxQS25YT18zbXkzbERka3g4WnJVckE0MXo2LWZlZHlQQUVkNGtPTXh4ek1QU29FWUxGNTdqTGhjRkVTanozU3NBc0JDbGM0cWFXdHY1TWZLUVgwcWZ1T2xFSVZ6T2cyaHY5YWxQUXRWYk5fME14ZDNEanlPc21za0d2RWh2MkFHLVlnOWZ5X3N1ZXN6YjFIU3RBSE5OcmdpTnAtbUhhVF81NnI0d0t0SjNwRlFPT1BTYk1STGtuM1E5RjhNSWs",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-21T19:40:08.000Z",
-  "title": "Klarna and FreshBooks Team to Bring BNPL to Small Businesses",
-  "snippet": ""
- },
- {
-  "id": "TechCrunch::https://techcrunch.com/?p=3180139",
-  "source": "TechCrunch",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-21T19:30:00.000Z",
-  "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-  "snippet": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and…"
- },
- {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363640",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-10-21T17:44:31.000Z",
-  "title": "Parts Town Unlimited names new CIO and chief accounting officer to leadership team",
-  "snippet": "Equipment distributor Parts Town Unlimited named two new executives to its leadership team, including a chief information officer (CIO) to oversee its digital efforts. The CIO role will belong to Pat Quint. Meanwhile…"
- },
- {
-  "id": "Reuters::CBMiywFBVV95cUxNdi1oa1VDTm0wMUJualVQRU5ieHFCQmFCejlxdEx1cEM3am1WaEV4LVJwRGVab29QU05IUl9fYzhsaFFFSk5hVGtTZFFLNGNOUVNFMjJ4RkE2b2RCdVJmN0t5UmVBeWpPb2ZwMThLcVRkVENsdFhRc0JOUml0Z3F3MFg5bDhsNmZrX2tuS1ZkRFl2elAzd0p0ZDlFb0E1MF9malVCZXhEZnJqRUFYMUxFNDV5ZmRrZkYxZndkWGthUEpPQVdOTHAtMHBVTQ",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-19T12:27:14.000Z",
-  "title": "SpaceX, Tesla earnings to test Musk's AI spending ambitions as merger talk grows",
+  "publishedAt": "2026-10-21T22:10:12.000Z",
+  "title": "Mastercard AI Assistant Helps Consumers Discover Unused Card Perks",
   "snippet": ""
  }
 ]
