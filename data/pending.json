@@ -1,138 +1,106 @@
 [
  {
-  "id": "Modern Retail::https://www.modernretail.co/?p=173569",
-  "source": "Modern Retail",
+  "id": "Inc42::https://inc42.com/?p=574760",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-22T11:21:47.000Z",
+  "title": "[Update] TravClan Raises $5 Mn From Flipkart, August One",
+  "snippet": "Update | October 22, 16:51 Delhi-based B2B travel tech startup TravClan has raised a $5 Mn funding round comprising a…"
+ },
+ {
+  "id": "Retail TouchPoints::CBMi0AFBVV95cUxNbGlnd0hWaU5DRVdSdzA5ZVhkQmdTaVRsQ0R3ZnB1c2ItZHpybXZOTDVhajIxSWlQczhJdG03NHV0dXBiZ2R2RGFaVks2dmJuS2dIV2xWT3RET2Jidi1UdElQOGo5YjBVZC1zRm42Tm4tb2FCelh3Ym5yMnEwMnEtQ0VGN3hDckdLTG9WMFlraEpfakdraDRsRUNzX2lPWmZ5NTBtZzhYVnRUUzQ4S3R4QUUtWVY1b0tQT0UwTHVDLWVYdUJ1bUM2M3YzVDBkdmdX",
+  "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-22T04:00:00.000Z",
-  "title": "Modern Retail+ Research: Marketers express revenue optimism for the 2026 holiday season despite economic pressures",
-  "snippet": "In Modern Retail+ Research’s holiday report last year, brands and retailers expressed conservative expectations for their 2025 holiday revenue. This year, however, marketers are more optimistic."
+  "publishedAt": "2026-10-22T11:03:20.000Z",
+  "title": "From Pop-Up to Payoff: What the Best In-Store Brand Activations Get Right",
+  "snippet": ""
  },
  {
-  "id": "Modern Retail::https://www.modernretail.co/?p=173749",
-  "source": "Modern Retail",
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/swiggy-q2-results-loss-narrows-yoy-to-rs-922-crore-revenue-jumps-36-per-cent/135116600",
+  "source": "ETRetail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-22T04:00:00.000Z",
-  "title": "AI boosts discovery but reviews still seal the deal, new research shows",
-  "snippet": "Consumer surveys show that AI helps shoppers find gifts, but most still check reviews, compare prices and review retailers' policies before buying."
+  "publishedAt": "2026-10-22T10:56:34.000Z",
+  "title": "Swiggy Q2 Results: Loss narrows YoY to Rs 922 crore; revenue jumps 36 per cent",
+  "snippet": "Swiggy Q2 Result: Food delivery and quick commerce company Swiggy Ltd on Thursday said its consolidated profit after tax narrowed to Rs 922 crore in the second quarter of FY27 from Rs 1,092 crore in the same quarter of…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261022VL211/micron-automotive-bos-lg-electronics-lg.html",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261022VL222/alliance-industrial-taiwan-europe-cpu.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-22T03:50:00.000Z",
-  "title": "BOS, LG, and HANA Micron team up on Korean automotive chiplets",
-  "snippet": "BOS Semiconductors is partnering with LG Electronics and HANA Micron to develop and commercialize chiplet-based automotive semiconductors in South Korea, connecting domestic AI chip design with packaging and vehicle…"
+  "publishedAt": "2026-10-22T10:26:35.000Z",
+  "title": "Taiwan-France semiconductor alliance strengthens with CPU pact between SiPearl and Egis Group",
+  "snippet": "Highlighting the deepening industrial synergies between Europe and Asia, the Egis Group TechDay Taiwan-France Strategic CPU Partnership Signing Ceremony hosted the official signing between Egis Group and SiPearl. The…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD211/amazon-cash-flow-infrastructure-equipment-2026.html",
+  "id": "InternetRetailing::https://internetretailing.net/?p=76338",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-22T09:49:08.000Z",
+  "title": "INTERVIEW State sabotage? Security expert Tom Hegel discusses the Intermarché refrigeration hack",
+  "snippet": "In a Q&A with InternetRetailing, Tom Hegel, distinguished threat researcher and research lead at SentinelOne, explains why he thinks the attacks could potentially be the work of a hostile state. The post INTERVIEW State…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD241/taiwan-substrate-packaging-hpc-development.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-22T03:28:53.000Z",
-  "title": "Amazon spends US$220B on AI as power delays squeeze cash flow",
-  "snippet": "Amazon plans about US$220 billion in capital expenditure in 2026, mainly for cloud and AI infrastructure, but delays in data center power and construction are causing server racks to arrive before they can be deployed…"
+  "publishedAt": "2026-10-22T08:36:11.000Z",
+  "title": "ADEPT Taiwan holds inaugural in-person meeting as PLP and substrate standardization efforts gain momentum",
+  "snippet": "The Advanced Electronic Packaging Technology (ADEPT) committee under the Global Electronics Association continues to expand its presence in Taiwan."
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261022VL213/meta-ai-agent-computing-power-cost-capacity.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-22T03:04:13.000Z",
-  "title": "Meta says compute, not demand, now limits Muse; pushes shared standard for AI shopping agents",
-  "snippet": "Meta Platforms is limiting the Muse personal AI agent to the US and Canada for now, saying that compute costs are the main reason it hasn't gone global."
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD207/sdc-market-supplier-boe-production.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-22T02:58:34.000Z",
-  "title": "SDC supplies over 70% of major laptop brands' OLED panels",
-  "snippet": "Samsung Display (SDC) currently supplies more than 70% of the OLED panels used by major global laptop brands, intensifying concerns over supply and pricing risks tied to dependence on a single supplier. Laptop makers…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD209/iphone-sales-apple-foldable-demand.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-22T02:52:45.000Z",
-  "title": "iPhone Duo preorders surge, but sales momentum remains uncertain",
-  "snippet": "Apple Inc.'s first foldable phone, the iPhone Duo, has exceeded sales expectations since preorders opened on October 16, 2026. Supply constraints have extended delivery times to January 2027, but industry executives…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD206/bear-robotics-production-robotics-outsourcing-lg.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-22T02:51:01.000Z",
-  "title": "LG robot unit Bear Robotics expands China outsourcing",
-  "snippet": "Bear Robotics, the robotics subsidiary of LG Electronics, is adopting a dual-track production strategy by expanding outsourcing from South Korean partners to manufacturers in China. The move is aimed at supporting…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD205/samsung-patent-efficiency-technology-ai-server.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-22T02:27:37.000Z",
-  "title": "Samsung patent boosts AI server memory efficiency without adding GPUs",
-  "snippet": "Samsung Electronics has disclosed a patent application targeting GPU memory shortages when multiple users simultaneously submit requests to AI servers. By calculating data-transfer costs between GPUs and CPUs and…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PR200/tesla-business-vehicle-sales-profit.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-21T23:56:23.000Z",
-  "title": "Tesla's car margins recover, but spending on AI and robotics absorbs the gain",
-  "snippet": "Tesla's third quarter showed its vehicle business regaining some per-car profitability even as total sales stalled, while the company's push into AI, robotaxis, and humanoid robots consumed most of the improvement…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD200/grab-ftc-taiwan-acquisition-competition.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-21T23:55:27.000Z",
-  "title": "Taiwan's FTC blocks Grab's Foodpanda acquisition over competition concerns",
-  "snippet": "Grab Holdings' proposed acquisition of Delivery Hero's Foodpanda operations in Taiwan has been rejected by Taiwan's Fair Trade Commission (FTC). The commission made the announcement on October 21, blocking the deal on…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD255/memory-module-gross-margin-profit-revenue-2026.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-21T23:53:48.000Z",
-  "title": "GoldKey Technology posts record 3Q26 profit as industrial share rises",
-  "snippet": "Memory module maker GoldKey Technology posted record third-quarter 2026 profit, with net income topping NT$1 billion (approx. US$30.9 million) for the first time at NT$1.03 billion, up 6.2% quarter-over-quarter…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD252/wistron-stats-chippac-unimicron-packaging-substrate-panel.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-21T23:52:37.000Z",
-  "title": "Unimicron, STATS ChipPAC, Wistron address advanced packaging bottlenecks in AI system integration",
-  "snippet": "The Global Electronics Association hosted a panel titled \"Component to System Integration Advances\" during the IMPACT 2026 symposium, bringing together industry leaders from Unimicron, STATS ChipPAC, Wistron, and market…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD249/taiwan-supply-chain-industrial-texas-localization.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-21T23:52:03.000Z",
-  "title": "Taiwan tech supply chain eyes Texas for first US industrial cluster",
-  "snippet": "As Taiwan and the US deepen supply chain localization efforts, concrete plans for Taiwan's electrical and electronics industries to establish US industrial parks are rapidly taking shape. Minister of Economic Affairs…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD243/samsung-hbm-nvidia-tsmc-design.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-21T23:51:37.000Z",
-  "title": "Samsung's Nvidia HBM bid raises four strategic concerns",
-  "snippet": "Samsung Electronics is reportedly turning to TSMC's 3nm process to produce base dies for Nvidia's custom high-bandwidth memory (NVHBM), abandoning its long-standing turnkey integration model to win a place in Nvidia's…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261021PD245/russia-sk-hynix-samsung-data-equipment.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-21T23:49:14.000Z",
-  "title": "Russia considers reinstating parallel imports of Samsung, SK Hynix products amid memory shortages",
-  "snippet": "Russia is reportedly considering reinstating parallel imports of products from Samsung Electronics and SK Hynix to ease shortages of memory and storage devices used in data centers. However, US export controls on Russia…"
- },
- {
-  "id": "PYMNTS Data::CBMiwwFBVV95cUxQS25YT18zbXkzbERka3g4WnJVckE0MXo2LWZlZHlQQUVkNGtPTXh4ek1QU29FWUxGNTdqTGhjRkVTanozU3NBc0JDbGM0cWFXdHY1TWZLUVgwcWZ1T2xFSVZ6T2cyaHY5YWxQUXRWYk5fME14ZDNEanlPc21za0d2RWh2MkFHLVlnOWZ5X3N1ZXN6YjFIU3RBSE5OcmdpTnAtbUhhVF81NnI0d0t0SjNwRlFPT1BTYk1STGtuM1E5RjhNSWs",
+  "id": "PYMNTS Data::CBMiqwFBVV95cUxPSWZQZ3RsWXk2MGQwM3ItS3BmRzBycTdYOXZHU1ZCNy04OERKbXZOOHZaZ0FCX2FPZ2lyTS04Wi1jemVaRG5QWkVXR3MzblRvUm5NRjMtbEhCdGNDUHBTQ0s1U2RKTi1vcDJhNFJQUzQyQzhFOXdGajBsbEJ0bUJlNTd6eTZfY0NzZDBLYXBEOEZTd3dBRXBTRml4TUZPalp4SVByajNZdEhOejQ",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-21T22:10:12.000Z",
-  "title": "Mastercard AI Assistant Helps Consumers Discover Unused Card Perks",
+  "publishedAt": "2026-10-22T08:05:13.000Z",
+  "title": "AI Recommendations Need a Checkout Shoppers Trust",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD243/ar-glasses-taipei-display-camera-industrial.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-22T07:39:08.000Z",
+  "title": "MIPI expands beyond smartphones into AR glasses and humanoid robots",
+  "snippet": "The MIPI Alliance held this year's MIPI Demo Day Taipei at the Grand Hyatt Taipei this week, where 16 member companies demonstrated working products to more than 200 developers and engineers. Founded in 2003 to…"
+ },
+ {
+  "id": "Reuters::CBMiwAFBVV95cUxNelF5dFZmRFNaOVViQVNRdzhkd3JlMWVxWnEtOUQ5RTRkbkgtdzhuV0ozSS1CNnVSa0k0TnByZW0tUWpZcFBRcEYyMEVIVFBwQ0ROckFPN19BNmcwQ2hhbnBoeDN3blhDZHJRMEY5RnBLUExHR2c4LWMwYzVHMU1RWXFTRk9wSVA0Ty1KeTh4YzY4c2FReU1qTG94WWdKUlBKVmV4UEtnTFNvTVRlUGJ3ME16b2k3TDl6MlJPZGRRU2k",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-22T06:04:00.000Z",
+  "title": "Hermes revenue growth slows as Chinese consumers cut spending on accessories",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261022VL214/samsung-dram-incentives-nand-talent.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-22T05:55:00.000Z",
+  "title": "Samsung reportedly overhauls DRAM, NAND R&D incentives to retain talent and accelerate next-gen memory chips",
+  "snippet": "Samsung Electronics is reportedly restructuring its semiconductor research operations and performance-based compensation system to accelerate next-generation DRAM and NAND flash development, bringing researchers and…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD220/samsung-labor-union-communications-2027.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-22T04:07:46.000Z",
+  "title": "Samsung DX division postpones meeting amid bonus tensions",
+  "snippet": "According to reports from Financial News, ETNews, News1 and Yonhap, Samsung Electronics' postponement of an event has intensified scrutiny of internal communications, bonus disparities, and preparations for 2027 wage…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/pc-jewellers-q2-results-net-profit-shoots-up-58-to-rs-331-crore-company-says-it-is-now-debt-free/135105246",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-22T02:40:59.000Z",
+  "title": "PC Jewellers Q2 Results: Net profit shoots up 58 pc to Rs 331 crore; company says it is now debt-free",
+  "snippet": "PC Jewellers Ltd has achieved an impressive 58 percent growth in net profit for Q2 of the 2026-27 fiscal year, driven by sales that surged beyond Rs 1,054 crore. The company is now debt-free after early repayment to…"
+ },
+ {
+  "id": "PYMNTS Data::CBMikgFBVV95cUxQQXZQbnZwUC1ubXo5ZHA4SElEUWY4ZXVlZ3pIR0xRcVE5V1hGZ3dhZTFGc21HNHdSbFpSQ3h6YWc4V0xFLWhxWDB1X1dNU0tEb2pwcnhUcmFQMWVWNzF4ZS1mQWJaeTBZWGlzNllOYUpfSXJ4d01kTmVMZEFFdDNHWmQ5bDRiR29HRFl3MWlrSVFxdw",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-19T17:54:13.000Z",
+  "title": "Gen X Clicks, Then Commits: How to Win the Store Sale",
   "snippet": ""
  }
 ]
