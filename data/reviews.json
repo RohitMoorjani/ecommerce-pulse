@@ -4049,5 +4049,101 @@
  "Reuters::CBMiywFBVV95cUxNdi1oa1VDTm0wMUJualVQRU5ieHFCQmFCejlxdEx1cEM3am1WaEV4LVJwRGVab29QU05IUl9fYzhsaFFFSk5hVGtTZFFLNGNOUVNFMjJ4RkE2b2RCdVJmN0t5UmVBeWpPb2ZwMThLcVRkVENsdFhRc0JOUml0Z3F3MFg5bDhsNmZrX2tuS1ZkRFl2elAzd0p0ZDlFb0E1MF9malVCZXhEZnJqRUFYMUxFNDV5ZmRrZkYxZndkWGthUEpPQVdOTHAtMHBVTQ": {
   "keep": false,
   "publishedAt": "2026-10-19T12:27:14.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173569": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Marketers are more upbeat on 2026 holiday revenue than last year despite pressures",
+  "short_headline": "Marketers more optimistic on 2026 holiday revenue",
+  "takeaway": "Brands expect a stronger season than in 2025, so we should plan holiday promotions and inventory for higher demand.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-22T04:00:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173749": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "AI helps shoppers find gifts, but most still check reviews and prices before buying",
+  "short_headline": "AI aids gift discovery; reviews still seal the sale",
+  "takeaway": "Our store should pair AI-search visibility with strong reviews, price clarity and clear policies to win the final decision.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-22T04:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261022VL211/micron-automotive-bos-lg-electronics-lg.html": {
+  "keep": false,
+  "publishedAt": "2026-10-22T03:50:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261022PD211/amazon-cash-flow-infrastructure-equipment-2026.html": {
+  "keep": false,
+  "publishedAt": "2026-10-22T03:28:53.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261022VL213/meta-ai-agent-computing-power-cost-capacity.html": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Meta limits Muse AI agent to US and Canada on compute costs, pushes shared shopping-agent standard",
+  "short_headline": "Meta pushes shared standard for AI shopping agents",
+  "takeaway": "A shared standard for shopping agents could shape how agents find our products, so we should track it and prepare our catalog.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-22T03:04:13.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261022PD207/sdc-market-supplier-boe-production.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Samsung Display supplies over 70% of major laptop brands' OLED panels, raising supply risk",
+  "short_headline": "One supplier holds 70%+ of laptop OLED panels",
+  "takeaway": "Single-supplier dependence could squeeze OLED laptop supply and pricing, which we should factor into our assortment and pricing.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-22T02:58:34.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261022PD209/iphone-sales-apple-foldable-demand.html": {
+  "keep": false,
+  "publishedAt": "2026-10-22T02:52:45.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261022PD206/bear-robotics-production-robotics-outsourcing-lg.html": {
+  "keep": false,
+  "publishedAt": "2026-10-22T02:51:01.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261022PD205/samsung-patent-efficiency-technology-ai-server.html": {
+  "keep": false,
+  "publishedAt": "2026-10-22T02:27:37.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261022PR200/tesla-business-vehicle-sales-profit.html": {
+  "keep": false,
+  "publishedAt": "2026-10-21T23:56:23.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261022PD200/grab-ftc-taiwan-acquisition-competition.html": {
+  "keep": false,
+  "publishedAt": "2026-10-21T23:55:27.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261021PD255/memory-module-gross-margin-profit-revenue-2026.html": {
+  "keep": false,
+  "publishedAt": "2026-10-21T23:53:48.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261021PD252/wistron-stats-chippac-unimicron-packaging-substrate-panel.html": {
+  "keep": false,
+  "publishedAt": "2026-10-21T23:52:37.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261021PD249/taiwan-supply-chain-industrial-texas-localization.html": {
+  "keep": false,
+  "publishedAt": "2026-10-21T23:52:03.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261021PD243/samsung-hbm-nvidia-tsmc-design.html": {
+  "keep": false,
+  "publishedAt": "2026-10-21T23:51:37.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261021PD245/russia-sk-hynix-samsung-data-equipment.html": {
+  "keep": false,
+  "publishedAt": "2026-10-21T23:49:14.000Z"
+ },
+ "PYMNTS Data::CBMiwwFBVV95cUxQS25YT18zbXkzbERka3g4WnJVckE0MXo2LWZlZHlQQUVkNGtPTXh4ek1QU29FWUxGNTdqTGhjRkVTanozU3NBc0JDbGM0cWFXdHY1TWZLUVgwcWZ1T2xFSVZ6T2cyaHY5YWxQUXRWYk5fME14ZDNEanlPc21za0d2RWh2MkFHLVlnOWZ5X3N1ZXN6YjFIU3RBSE5OcmdpTnAtbUhhVF81NnI0d0t0SjNwRlFPT1BTYk1STGtuM1E5RjhNSWs": {
+  "keep": false,
+  "publishedAt": "2026-10-21T22:10:12.000Z"
  }
 }
