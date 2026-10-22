@@ -1,106 +1,162 @@
 [
  {
-  "id": "Inc42::https://inc42.com/?p=574760",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-22T11:21:47.000Z",
-  "title": "[Update] TravClan Raises $5 Mn From Flipkart, August One",
-  "snippet": "Update | October 22, 16:51 Delhi-based B2B travel tech startup TravClan has raised a $5 Mn funding round comprising a…"
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363649",
+  "source": "Digital Commerce 360",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-22T16:56:35.000Z",
+  "title": "Salesforce to acquire Braze for $5.66 billion to expand AI-powered marketing",
+  "snippet": "Salesforce plans to acquire Braze for $5.66 billion, making an artificial intelligence (AI) play for technology to help brands respond to shopper behavior in real time. Under the definitive agreement announced Oct. 20…"
  },
  {
-  "id": "Retail TouchPoints::CBMi0AFBVV95cUxNbGlnd0hWaU5DRVdSdzA5ZVhkQmdTaVRsQ0R3ZnB1c2ItZHpybXZOTDVhajIxSWlQczhJdG03NHV0dXBiZ2R2RGFaVks2dmJuS2dIV2xWT3RET2Jidi1UdElQOGo5YjBVZC1zRm42Tm4tb2FCelh3Ym5yMnEwMnEtQ0VGN3hDckdLTG9WMFlraEpfakdraDRsRUNzX2lPWmZ5NTBtZzhYVnRUUzQ4S3R4QUUtWVY1b0tQT0UwTHVDLWVYdUJ1bUM2M3YzVDBkdmdX",
+  "id": "Retail Dive::https://www.retaildive.com/news/beyond-yoga-store-strategy-yellow-joy-ceo-nancy-green/833665/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-22T16:34:00.000Z",
+  "title": "Beyond Yoga aims to have ‘many’ stores. They’ll probably be yellow.",
+  "snippet": "CEO Nancy Green says the brand color is reflective of a broader focus on joy — and making progress over perfection."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/davids-bridal-spin-off-pearl-AI-stand-alone-publicly-traded-company/833699/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-22T16:29:00.000Z",
+  "title": "David’s Bridal to spin off Pearl into stand-alone, publicly traded company",
+  "snippet": "David’s Bridal CEO Kelly Cook is expected to become the chief executive of Pearl, which will own the wedding retailer’s intellectual property and brand."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/walmart-welcomes-external-ai-shopping-agents-terms-boundaries/833723/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-22T16:14:00.000Z",
+  "title": "Walmart welcomes external AI agents — with some guardrails",
+  "snippet": "The mass retailer is focused on transparency and customer control with a new AI agent profile feature and updated agent terms."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/ebay-cuts-one-thousand-jobs-layoffs-downsizing/833668/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-22T16:11:00.000Z",
+  "title": "EBay cuts 1K jobs, downsizing for the second time this year",
+  "snippet": "The layoffs, affecting about 9% of the marketplace giant’s global workforce, will impact all regions where it operates."
+ },
+ {
+  "id": "PYMNTS Data::CBMivAFBVV95cUxOV1RnbzhNa1ZlTTRiZ3VYVWdKalEwdmVUbHIxT0FCYnRRV29KQ2RqQ1BDTzhweTFVbGtaUXN0S3VPNkRWbG1Rc1dPZ2tQcDhnRmxrRTk4TlNQNWszMk1vTTlSeVZibjNtYl9oRU0zNnVLN3lKU2tTU2JPamNkNzJwczVXZjk1dHVXOF9TZmpTV1ZDVnVVbXVoc19NNHFmNnM3aXBRZlBXV1B3OTlGSGxTajZtV21Da0VSSU1qZw",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-22T16:05:11.000Z",
+  "title": "Affirm Inks Exclusive Deal with Sam’s Club as Competition for BNPL Shoppers Intensifies",
+  "snippet": ""
+ },
+ {
+  "id": "Retail TouchPoints::CBMirwFBVV95cUxPMjl1bGs1WURpQ0Z4MEpHV2NiY3FyY3huTlFLZ0hidW5FaHUyZFhESkRvU2NMM1EzQ1BHWl9JN192dkpuaGQxbDltbXI4cXhab1R6SHNzWTFMQzBqa3RnY1hOUG4zczZaWDJYNGtuQWJpQ0gtQ1RXWW1SNmo4X2lTS0hrR0NFWjNnNDQxczBnVjh4dllEVG1hM3hGZFJmTnJLRHdNY3BLY2NTSHp1eXhJ",
   "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-22T11:03:20.000Z",
-  "title": "From Pop-Up to Payoff: What the Best In-Store Brand Activations Get Right",
+  "publishedAt": "2026-10-22T16:03:39.000Z",
+  "title": "Affordability Shapes Winter Holiday Shopping: NRF Holiday Survey",
   "snippet": ""
  },
  {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/swiggy-q2-results-loss-narrows-yoy-to-rs-922-crore-revenue-jumps-36-per-cent/135116600",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-22T10:56:34.000Z",
-  "title": "Swiggy Q2 Results: Loss narrows YoY to Rs 922 crore; revenue jumps 36 per cent",
-  "snippet": "Swiggy Q2 Result: Food delivery and quick commerce company Swiggy Ltd on Thursday said its consolidated profit after tax narrowed to Rs 922 crore in the second quarter of FY27 from Rs 1,092 crore in the same quarter of…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261022VL222/alliance-industrial-taiwan-europe-cpu.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-22T10:26:35.000Z",
-  "title": "Taiwan-France semiconductor alliance strengthens with CPU pact between SiPearl and Egis Group",
-  "snippet": "Highlighting the deepening industrial synergies between Europe and Asia, the Egis Group TechDay Taiwan-France Strategic CPU Partnership Signing Ceremony hosted the official signing between Egis Group and SiPearl. The…"
- },
- {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76338",
+  "id": "InternetRetailing::https://internetretailing.net/?p=76354",
   "source": "InternetRetailing",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-22T09:49:08.000Z",
-  "title": "INTERVIEW State sabotage? Security expert Tom Hegel discusses the Intermarché refrigeration hack",
-  "snippet": "In a Q&A with InternetRetailing, Tom Hegel, distinguished threat researcher and research lead at SentinelOne, explains why he thinks the attacks could potentially be the work of a hostile state. The post INTERVIEW State…"
+  "publishedAt": "2026-10-22T15:59:56.000Z",
+  "title": "Pressure mounts to increase online retail tax as Budget looms",
+  "snippet": "Pressure is mounting on Andy Burnham and Chancellor John Healey to tax online retail more heavily in the upcoming Autumn Budget. The post Pressure mounts to increase online retail tax as Budget looms appeared first on…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD241/taiwan-substrate-packaging-hpc-development.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-22T08:36:11.000Z",
-  "title": "ADEPT Taiwan holds inaugural in-person meeting as PLP and substrate standardization efforts gain momentum",
-  "snippet": "The Advanced Electronic Packaging Technology (ADEPT) committee under the Global Electronics Association continues to expand its presence in Taiwan."
+  "id": "Retail Dive::https://www.retaildive.com/news/tractor-supply-hires-home-depot-vet-chief-digital-technology-officer/833724/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-22T15:43:00.000Z",
+  "title": "Tractor Supply taps former Home Depot exec as chief technology, digital officer",
+  "snippet": "Fahim Siddiqui will oversee digital operations and work to bolster long-term growth by improving the retailer’s customer experience."
  },
  {
-  "id": "PYMNTS Data::CBMiqwFBVV95cUxPSWZQZ3RsWXk2MGQwM3ItS3BmRzBycTdYOXZHU1ZCNy04OERKbXZOOHZaZ0FCX2FPZ2lyTS04Wi1jemVaRG5QWkVXR3MzblRvUm5NRjMtbEhCdGNDUHBTQ0s1U2RKTi1vcDJhNFJQUzQyQzhFOXdGajBsbEJ0bUJlNTd6eTZfY0NzZDBLYXBEOEZTd3dBRXBTRml4TUZPalp4SVByajNZdEhOejQ",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-22T08:05:13.000Z",
-  "title": "AI Recommendations Need a Checkout Shoppers Trust",
+  "id": "Retail Dive::https://www.retaildive.com/news/why-customers-fed-up-ai-chatbots/833488/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-22T14:18:00.000Z",
+  "title": "Why customers are fed up with AI chatbots",
+  "snippet": "Few things will cause a customer to immediately request — or demand — a live agent like a bot that misunderstands them."
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=173733",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-22T14:00:00.000Z",
+  "title": "Big-Box Briefing: How brands are juggling new marketplaces this holiday season",
+  "snippet": "As more brick-and-mortar retailers launch their own third-party marketplaces, brands have more paths than ever before to reach new customers but also new systems to master. Brands and agencies sound off on what the key…"
+ },
+ {
+  "id": "Dell Blog::https://www.dell.com/blog/the-best-windows-pc-for-agentic-ai-or-local-ai-workloads",
+  "source": "Dell Blog",
+  "sourceType": "Competitor Newsroom",
+  "publishedAt": "2026-10-22T14:00:00.000Z",
+  "title": "The Best Windows PC for Agentic AI or Local AI Workloads",
   "snippet": ""
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD243/ar-glasses-taipei-display-camera-industrial.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-22T07:39:08.000Z",
-  "title": "MIPI expands beyond smartphones into AR glasses and humanoid robots",
-  "snippet": "The MIPI Alliance held this year's MIPI Demo Day Taipei at the Grand Hyatt Taipei this week, where 16 member companies demonstrated working products to more than 200 developers and engineers. Founded in 2003 to…"
+  "id": "TWICE::https://www.twice.com/?p=166733",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-22T13:01:57.000Z",
+  "title": "Kohler Health’s Dekoda Earns Industry Awards",
+  "snippet": "The toilet-mounted health monitor marks its first year with recognition from TIME, Fast Company and other design organizations"
  },
  {
-  "id": "Reuters::CBMiwAFBVV95cUxNelF5dFZmRFNaOVViQVNRdzhkd3JlMWVxWnEtOUQ5RTRkbkgtdzhuV0ozSS1CNnVSa0k0TnByZW0tUWpZcFBRcEYyMEVIVFBwQ0ROckFPN19BNmcwQ2hhbnBoeDN3blhDZHJRMEY5RnBLUExHR2c4LWMwYzVHMU1RWXFTRk9wSVA0Ty1KeTh4YzY4c2FReU1qTG94WWdKUlBKVmV4UEtnTFNvTVRlUGJ3ME16b2k3TDl6MlJPZGRRU2k",
-  "source": "Reuters",
+  "id": "TWICE::https://www.twice.com/?p=166724",
+  "source": "TWICE",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-22T06:04:00.000Z",
-  "title": "Hermes revenue growth slows as Chinese consumers cut spending on accessories",
+  "publishedAt": "2026-10-22T13:01:17.000Z",
+  "title": "New MOTORYSE Brand Signs Distribution Deals With DSG And Mountain West Distributors",
+  "snippet": "New MOTORYSE brand signs distribution deals with DSG and Mountain West Distributors"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=166689",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-22T13:00:27.000Z",
+  "title": "Are TVs The Next Gaming Platform?",
+  "snippet": "Access to cloud games could create the next generation of gaming-centric TVs, and new opportunities for retailers"
+ },
+ {
+  "id": "Dell Blog::https://www.dell.com/blog/why-post-quantum-cryptography-belongs-in-your-next-pc-refresh",
+  "source": "Dell Blog",
+  "sourceType": "Competitor Newsroom",
+  "publishedAt": "2026-10-22T13:00:00.000Z",
+  "title": "Why Post-Quantum Cryptography Belongs in Your Next PC Refresh",
   "snippet": ""
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261022VL214/samsung-dram-incentives-nand-talent.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-22T05:55:00.000Z",
-  "title": "Samsung reportedly overhauls DRAM, NAND R&D incentives to retain talent and accelerate next-gen memory chips",
-  "snippet": "Samsung Electronics is reportedly restructuring its semiconductor research operations and performance-based compensation system to accelerate next-generation DRAM and NAND flash development, bringing researchers and…"
+  "id": "NIQ::CBMitwFBVV95cUxNT00wUm9YMFRRLUpJaFRUT1V1SEZlcHFnaDlSSy1pUjE5b3NQVXUwUGxvT2YwOWdSeW9rVmYxMWpMMnlBSnRGSDJhcjF4RkZBSGJXY2cwbXFKNmdqVlRzTld3NldOalhnQWUtYnhkVnVKaWYxOTZtSjJuMDlGT1NYYllna0JlOHM1c2R3TWNyTVRtNE9uMzZocU9Rd3VXRXVlM0FVQ3dqMU05SmVpX3NlUGVGMHdMMlU",
+  "source": "NIQ",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-22T12:19:34.000Z",
+  "title": "ManoMano: From Market Intelligence to Marketplace Growth",
+  "snippet": ""
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD220/samsung-labor-union-communications-2027.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-22T04:07:46.000Z",
-  "title": "Samsung DX division postpones meeting amid bonus tensions",
-  "snippet": "According to reports from Financial News, ETNews, News1 and Yonhap, Samsung Electronics' postponement of an event has intensified scrutiny of internal communications, bonus disparities, and preparations for 2027 wage…"
+  "id": "Counterpoint Research::CBMimAFBVV95cUxNQUJjMnJJVmd3dFlwaWswQnh4OS1PNTNjVmlUTnR3ZWs4LTRwcDJYTWtydlZiMEhnUWh6WEFSYVEyYmxNbERQNnp1TF9LNmJXS1ZZZmlOWmRVOW5RRU91VlowNl9YN0Y1eUZ1VFRxU2FwcUJZOU1jZ3UxeTNQU19lSmxsZlRYVHNMVUg4ck9iVnd3UEc5VTJTbw",
+  "source": "Counterpoint Research",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-22T11:20:33.000Z",
+  "title": "Global PC Shipments Plunge 21% in Q3 2026; Q4 Decline to Deepen to 27%",
+  "snippet": ""
  },
  {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/pc-jewellers-q2-results-net-profit-shoots-up-58-to-rs-331-crore-company-says-it-is-now-debt-free/135105246",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-22T02:40:59.000Z",
-  "title": "PC Jewellers Q2 Results: Net profit shoots up 58 pc to Rs 331 crore; company says it is now debt-free",
-  "snippet": "PC Jewellers Ltd has achieved an impressive 58 percent growth in net profit for Q2 of the 2026-27 fiscal year, driven by sales that surged beyond Rs 1,054 crore. The company is now debt-free after early repayment to…"
- },
- {
-  "id": "PYMNTS Data::CBMikgFBVV95cUxQQXZQbnZwUC1ubXo5ZHA4SElEUWY4ZXVlZ3pIR0xRcVE5V1hGZ3dhZTFGc21HNHdSbFpSQ3h6YWc4V0xFLWhxWDB1X1dNU0tEb2pwcnhUcmFQMWVWNzF4ZS1mQWJaeTBZWGlzNllOYUpfSXJ4d01kTmVMZEFFdDNHWmQ5bDRiR29HRFl3MWlrSVFxdw",
+  "id": "PYMNTS Data::CBMi2AFBVV95cUxPeEFxMjRGc1lLbjVsQTZMZ2NieWFLam5SQmsxQXo0d09yS1ByUDhXbDR0djJIRXdDNGJwNVYyaG5wMGVwQlRSblRlODRrNjVRWUxMNS1hYzdaSHJlRGJ3WmFDcExIYU5KbjI4RkpVRGdkbmRpS0tvZDRLUk9UMzFuejBfNGRiQl9BYU5jR1BoNU1qRzhhcHhkS2w0YWs0djlDUFdHOHdTdjRzci1Iemk3X1JXUWVub085LUQ1bEVLc0VWbkVvNDJXZXhLa1lIWEVFei1yZXdFRk4",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-19T17:54:13.000Z",
-  "title": "Gen X Clicks, Then Commits: How to Win the Store Sale",
+  "publishedAt": "2026-10-02T07:00:00.000Z",
+  "title": "Careful Consumers Want Control. SoFi Tech Solutions Says Banks Should Hand It Over",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS Data::CBMizwFBVV95cUxQbFU3d3Y2bDNrSXR4UXdFdzJYaGpXMHExQVFQVlNVXzU1OVBDeE9TVEFWR2N6QzE0ZzMtUmxldy11RGIyNlE4N1VoZ3VId24yMFJVZzFRN21faUx4Y2ZlTXZhQ3c3blJ6ZlRXR0lHYVpRbElDcUxKTmo3WEswYVBqLUtBYXliT2R0OEJTSWswNm0wQ1kzVUpiTGc4V1pPcFRSS2c2aFJPQzkteWdaNVRXbkhnTjRNdW9VaHN6OVF1RXVuTnZkTXhNa2ZTUXpFWUU",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-01T14:42:26.000Z",
+  "title": "Visa Wants to Make AI Shoppers as Trusted as Human Ones",
   "snippet": ""
  }
 ]
