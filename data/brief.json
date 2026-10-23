@@ -1,22 +1,30 @@
 {
- "updatedAt": "2026-10-23T06:51:11.214Z",
- "title": "AI agents now decide where tech is bought, so our store must be agent-ready",
- "summary": "Counterpoint: Q3 PC shipments fell 21%, Q4 seen down 27%, record price inflation on memory costs. NIQ: 55% use AI in discovery. Walmart opened to outside AI agents; Google launched Universal Cart; Amex built agent-purchase verification; Best Buy joined TikTok Shop.",
+ "updatedAt": "2026-10-23T12:51:32.963Z",
+ "title": "Shoppers start with AI while PC costs surge: our store must adapt",
+ "summary": "55% of consumers use AI in product discovery (NIQ); 34% would use GenAI for gift ideas (Gartner). Google opened Universal Cart; Walmart lets agents buy; Amazon blocks them. PC shipments fell 21% in Q3 and memory prices are rising.",
  "points": [
   {
-   "headline": "Retailers, Google, Meta and Amex are setting the rules for AI buying agents",
-   "detail": "Walmart lets outside agents buy under new terms while Amazon blocks them; Google opened Universal Cart; Amex launched agent-purchase verification. We should decide how agents read and buy from our store.",
+   "headline": "AI is becoming the front door to shopping, and retailers split on agent access",
+   "detail": "NIQ finds 55% use AI in discovery; Google opened Universal Cart; Walmart allows agent purchases while Amazon blocks them. We should decide how our feeds and checkout treat agents.",
    "segment": "agentic",
    "storyIds": [
-    "Retail Dive::https://www.retaildive.com/news/walmart-welcomes-external-ai-shopping-agents-terms-boundaries/833723/",
-    "TechCrunch::https://techcrunch.com/?p=3180139",
+    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
     "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363555",
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363553"
+    "TechCrunch::https://techcrunch.com/?p=3180139"
    ]
   },
   {
-   "headline": "PC demand is falling just as memory costs push prices up",
-   "detail": "Shipments fell 21% in Q3 with Q4 forecast down 27%, while AI data center demand keeps memory undersupplied and drives record PC price inflation. We should plan pricing, promotions and inventory for thin margins.",
+   "headline": "Payment networks are building trust rails for agent-made purchases",
+   "detail": "American Express launched a framework to verify purchases by AI agents and Meta is pushing a shared shopping-agent standard. We should track standards and check payment readiness.",
+   "segment": "agentic",
+   "storyIds": [
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363553",
+    "DigiTimes::https://www.digitimes.com/news/a20261022VL213/meta-ai-agent-computing-power-cost-capacity.html"
+   ]
+  },
+  {
+   "headline": "PC demand is falling while memory shortages push prices up",
+   "detail": "Counterpoint reports Q3 shipments down 21% with Q4 forecast worse, and record PC price inflation from memory costs. We should plan pricing, promotions and inventory for a weaker, costlier Q4.",
    "segment": "pc",
    "storyIds": [
     "Counterpoint Research::CBMimAFBVV95cUxNQUJjMnJJVmd3dFlwaWswQnh4OS1PNTNjVmlUTnR3ZWs4LTRwcDJYTWtydlZiMEhnUWh6WEFSYVEyYmxNbERQNnp1TF9LNmJXS1ZZZmlOWmRVOW5RRU91VlowNl9YN0Y1eUZ1VFRxU2FwcUJZOU1jZ3UxeTNQU19lSmxsZlRYVHNMVUg4ck9iVnd3UEc5VTJTbw",
@@ -25,20 +33,12 @@
    ]
   },
   {
-   "headline": "AI is now a mainstream way shoppers discover products",
-   "detail": "NIQ finds 55% of consumers use AI in product discovery; Gartner says 34% of US consumers would use GenAI for holiday gift ideas. Our product content and feeds must work in AI tools, not only search.",
-   "segment": "trends",
-   "storyIds": [
-    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0"
-   ]
-  },
-  {
-   "headline": "Electronics retailers are adding channels for the holiday peak",
-   "detail": "Best Buy joined TikTok Shop for its biggest holiday season, and Adobe forecasts US online holiday sales of $275.1B. We should test our presence on new channels.",
+   "headline": "Holiday online demand is growing and channels are widening",
+   "detail": "Adobe forecasts $275.1B in US online holiday sales, and Best Buy joined TikTok Shop. We should plan Cyber 5 deals and test new electronics channels.",
    "segment": "marketplaces",
    "storyIds": [
-    "Modern Retail::https://www.modernretail.co/?p=173494",
-    "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c"
+    "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c",
+    "Modern Retail::https://www.modernretail.co/?p=173494"
    ]
   }
  ]
