@@ -1,42 +1,106 @@
 [
  {
-  "id": "Reuters::CBMiswFBVV95cUxQZlRLSXJTajZJa0haam9Qb1UyRDJKbXVyalhKMlBwSXozWTlONFNXemZaaC1zZkpnQzdSWXVHcE1Yb194RkotaDAwSS1uWldqeE54elJCTzM0QnBFOVhpZ0NtbGNGWVlNN0RQM2ZaRGRMUmFpMTJkQWZjQk9vN2plQUhZY3ZDNS1wS1VWemNEdHlhVTVVZ2E4b3JqTThqVGlFUmFmcjdISHNBLUZhWEZzdVpOZw",
-  "source": "Reuters",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261023VL211/huawei-harmonyos-loan-chips-financing.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-23T03:29:45.000Z",
+  "title": "Mounting R&D and memory costs push Huawei to borrow US$2.3B from six Chinese banks",
+  "snippet": "Huawei Technologies has secured a seven-year, CNY15 billion (approx. US$2.3 billion) offshore yuan loan from six Chinese banks, as rising research spending and memory costs weigh on its cash flow. The financing…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261023PD217/nvidia-ai-server-equipment-cooling.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-23T03:02:26.000Z",
+  "title": "Analysis: Nvidia's DSX POD reshapes AI factory supply chains",
+  "snippet": "As AI data centers accelerate construction, supply-chain competition is expanding beyond servers and fully integrated racks to the integrated delivery of computing modules and site engineering. Nvidia unveiled its DSX…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261023PR200/mahindra-software-development-governance-technology.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-23T02:52:01.000Z",
+  "title": "Tech Mahindra teams up with SpaceXSI to scale AI-assisted software engineering for enterprises",
+  "snippet": "Tech Mahindra has announced a collaboration with AI coding platform SpaceXSI to help global enterprises modernize legacy applications, accelerate software delivery, and improve developer productivity, according to a…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261023PD223/iphone-foldable-apple-2027-launch.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-23T02:41:12.000Z",
+  "title": "Apple's foldable iPhone Duo launches in China with delivery stretching into 2027",
+  "snippet": "Apple Inc.'s first foldable iPhone, the iPhone Duo, went on sale in China on October 23, with limited initial supplies pushing some preorder delivery dates to late January 2027. The launch, just ahead of China's…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261023PD215/apple-iphone-macbook-tddi-adoption.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-23T02:26:45.000Z",
+  "title": "Apple's iPhone Duo and touchscreen MacBook could accelerate OLED TDDI adoption",
+  "snippet": "Apple's iPhone Duo has gone on sale, with pre-orders in several key markets reportedly exceeding the company's expectations. Delivery dates have stretched to late 2026 and even early 2027. The strong initial response…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261023VL205/lg-display-growth-business-shipments-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-23T02:22:29.000Z",
+  "title": "Monitors take over as LG Display's large OLED growth engine while auto panels stall",
+  "snippet": "LG Display's large OLED business is shifting its growth from televisions to PC monitors, and the change is now large enough for the company to plan restarting idle factory capacity. Its automotive business is moving the…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/quick-commerce-becomes-a-festive-gifting-channel-but-brands-are-not-equally-stocked-for-it/135131810",
+  "source": "ETRetail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-22T19:27:10.000Z",
-  "title": "L'Oreal Q3 sales beat forecasts as consumers indulge in premium beauty",
-  "snippet": ""
+  "publishedAt": "2026-10-23T02:18:28.000Z",
+  "title": "Quick commerce becomes a festive gifting channel, but brands are not equally stocked for it",
+  "snippet": "Wonderchef has doubled its quick-commerce inventory allocation as Farmley sees festive demand rise. Amazon reports a more than threefold increase in home-upgrade shopping volume, while INALSA says its inventory…"
  },
  {
-  "id": "NIQ::CBMizAFBVV95cUxPZ2Q3d0hQTHZfNUpYYmJjdG1JWnhEY3RxNmZ1ZHp2V0g0T3lPZXpjd05KeUpMSlRZZnVTRk9hYk41RkJyUlpwYS0xc1FkUnFvYjZRaXVDTG5DYklZZk9EdkJkT1Bic1hRZ1VlYVhGa2RBVjh1SWUwbzJXNWJpZE93V3c3dVJiNDgwZkRDTDQ4OUt6V3d6aUlQQnoweFVLRVhKQXVRODNGcnJRSENNdVRVQmtPeS1iSFdtRTVlMFZOY3MwaVZ6VjBDalYzTjY",
-  "source": "NIQ",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-22T18:44:46.000Z",
-  "title": "What if the biggest driver of Black Friday performance isn’t your promotion?",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261023VL206/western-digital-data-demand-capacity-gpu.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-23T01:59:00.000Z",
+  "title": "Western Digital argues AI's longer payoff lies in stored data, not compute",
+  "snippet": "Western Digital argues that demand for hard drives depends less on the current wave of AI spending than investors fear. On its fiscal first-quarter earnings call on October 22, the company said demand for disk storage…"
  },
  {
-  "id": "IDC::CBMiZEFVX3lxTFBMR1FINnBBeXU3R2NydjlobW9sNkdDLUJVZG40X0x4Q1J0N05rc0Q5SkgtMHB4S0tNaU1PUF9oaG9TcURUS2ZZVklmbzJvdjhiQi1Tbm11S3pBb1dPVDQxc1lsdVM",
-  "source": "IDC",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD228/lg-electronics-home-appliance-gpu-chips-startup.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-23T00:44:32.000Z",
+  "title": "LG home appliance chip volume tops 1 million; spins off startup PADO to target GPU compute leasing",
+  "snippet": "LG Electronics is expanding its artificial intelligence (AI) footprint on two fronts: in-house appliance chips and GPU compute services. On one hand, the company is scaling up the deployment of custom AI chips in its…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD240/samsung-automotive-chips-samsung-foundry-business.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-23T00:37:06.000Z",
+  "title": "Samsung Foundry targets automotive, edge AI chips with 8LPU+",
+  "snippet": "Samsung Electronics' foundry business will extend its 8-nanometer process, now more than eight years old, into another generation with the launch of the second-generation 8LPU+ platform in 2026. The move targets demand…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD244/umc-ap-memory-silicon-packaging-technology.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-23T00:36:39.000Z",
+  "title": "UMC, AP Memory advance AI chip power delivery with validated DTC silicon capacitors for advanced packaging",
+  "snippet": "UMC and AP Memory announced a technology and manufacturing partnership on October 22 to develop next-generation power delivery solutions for AI data centers, combining UMC's deep trench capacitor (DTC) technology and…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261022PD250/compal-infrastructure-partnership-capacity-manufacturing.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-23T00:32:03.000Z",
+  "title": "Compal and Verda expand AI cloud infrastructure partnership",
+  "snippet": "Verda and Compal Electronics have expanded their partnership to support Verda's rapidly growing AI infrastructure footprint, combining Verda's AI cloud expertise with Compal's expanding global manufacturing network and…"
+ },
+ {
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363682",
+  "source": "Digital Commerce 360",
   "sourceType": "Analyst",
-  "publishedAt": "2026-10-22T18:21:01.000Z",
-  "title": "Oracle Q1FY2027: 121% Cloud Infrastructure Cloud Signal RPO Conversion",
-  "snippet": ""
- },
- {
-  "id": "Reuters::CBMiqgFBVV95cUxQdnFibXQ2bEZfUWFpTEoxYTNPQ3dHTlMwMjZRaFcxZlphTlplUlNFWkgta2xwdVBvU0l5OWNkMEctQmNrM2s1UDRpSW5jNFhpLW9TQUlzYlpmZFZudjhvM0RtcC1hQ24xSmVOMDYwbUIzNDQ3NlAwTEpILTc4akh1czlRcThIUnU3Y2VkbWJJWE9jdXJzbWtzclVfeUh5RzN6UzdaTlZjRWlMQQ",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-22T17:21:56.000Z",
-  "title": "Meta shares slide, default insurance hits record as AI spending alarms investors",
-  "snippet": ""
- },
- {
-  "id": "NIQ::CBMiYkFVX3lxTE4wM0d1dVhkX3ppcW9WZ0ZnT2lsTlJEbkhYZXJxeThoZ0tES3VFTVhLbm1uV3ZEMWEtNnFzSGE5RjN5UlRINHJQbUNwOVZEOHJ5bVZWdFNkakF3YlI3UmNOVXZR",
-  "source": "NIQ",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-05T07:00:00.000Z",
-  "title": "Omnichannel/E-commerce",
-  "snippet": ""
+  "publishedAt": "2026-10-22T22:43:56.000Z",
+  "title": "David’s Bridal plans to spin off its AI-powered Pearl platform",
+  "snippet": "In 2025, David’s Bridal’s Shopify transition paved the way for an agentic artificial intelligence (AI) reimagining of its Pearl wedding planner — and now, the company has plans to spin off Pearl as its own entity. K&F…"
  }
 ]
