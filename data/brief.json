@@ -1,21 +1,22 @@
 {
- "updatedAt": "2026-10-23T18:50:46.816Z",
+ "updatedAt": "2026-10-23T21:50:38.550Z",
  "title": "Shopping is shifting to AI agents, so our store must be agent-ready",
- "summary": "55% of consumers use AI in product discovery (NIQ). Walmart opened to outside AI agents while Amazon blocks them; Amex launched agent verification. Q3 PC shipments fell 21% (Counterpoint) amid memory-driven price inflation.",
+ "summary": "55% of consumers use AI in product discovery (NIQ). Walmart opened to outside AI agents, added spending limits; Amazon blocks them. Q3 PC shipments fell 21% (Counterpoint) amid memory-driven price inflation.",
  "points": [
   {
-   "headline": "AI agents are becoming a shopping channel, and retailers are setting the rules",
-   "detail": "Walmart lets AI agents buy with spending controls while Amazon blocks them; Amex launched agent purchase verification. We need a stance on agent access to our store.",
+   "headline": "AI agents are becoming a shopping channel, and retailers set the rules",
+   "detail": "Walmart lets outside agents buy with spending controls while Amazon blocks them; Amex built agent verification. Shoppers would send agents to marketplaces over brand sites, so our store must be agent-readable.",
    "segment": "agentic",
    "storyIds": [
     "TechCrunch::https://techcrunch.com/?p=3180139",
     "Retail Dive::https://www.retaildive.com/news/walmart-welcomes-external-ai-shopping-agents-terms-boundaries/833723/",
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363553"
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363692",
+    "PYMNTS Data::CBMirwFBVV95cUxNTHAwZS0wVHZjLUhEYXZnQnpEdUlLbkxrUHBabUtydFZBU2xoenlOb3kxNU5UUnIyY2JUdGU3RnBzbjhTMGVzU3RXNld5S21DSWNlTkt2REdTREZPTFlWamZFeE5aSVFwYjRGQXhvR21xaHp6Q0ZnbFJUbjZIdDB5MmJHVENuZXFtZEt5U05USXZxM3RJcGlMY29LWmdmZFRVdEVlcWxvZ2Q5MjZveEd3"
    ]
   },
   {
-   "headline": "AI is already how many shoppers discover products, so content must work for AI",
-   "detail": "NIQ: 55% of consumers use AI in product discovery; Gartner: 34% of US consumers would use GenAI for holiday gift ideas. Our catalog and content should be machine-readable.",
+   "headline": "AI is now a mainstream discovery step for shoppers",
+   "detail": "NIQ finds 55% of consumers use AI in product discovery; Gartner says 34% of US consumers would use GenAI for gift ideas. Product data quality and AI visibility now matter as much as SEO for us.",
    "segment": "trends",
    "storyIds": [
     "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
@@ -23,23 +24,22 @@
    ]
   },
   {
-   "headline": "Memory costs and weak demand squeeze PC pricing and Q4 planning",
-   "detail": "Counterpoint: Q3 PC shipments fell 21% with a 27% Q4 decline forecast, and memory shortages drive record price inflation. Plan promotions, pricing and inventory for lower volume and thinner margins.",
+   "headline": "PC demand is falling while memory costs push prices up",
+   "detail": "Global PC shipments fell 21% in Q3 and Q4 is forecast to fall 27% (Counterpoint); memory shortage drives record PC price inflation. We should plan promotions, pricing and inventory for a weak Q4.",
    "segment": "pc",
    "storyIds": [
     "Counterpoint Research::CBMimAFBVV95cUxNQUJjMnJJVmd3dFlwaWswQnh4OS1PNTNjVmlUTnR3ZWs4LTRwcDJYTWtydlZiMEhnUWh6WEFSYVEyYmxNbERQNnp1TF9LNmJXS1ZZZmlOWmRVOW5RRU91VlowNl9YN0Y1eUZ1VFRxU2FwcUJZOU1jZ3UxeTNQU19lSmxsZlRYVHNMVUg4ck9iVnd3UEc5VTJTbw",
-    "Counterpoint Research::CBMimAFBVV95cUxOR2dyMjJOSnpOMWpmZzBxMzRhOWZWOFFOTTVzV1E0MUlPbFpGdVZ0Q0RrZHU5TEU3d0dQSGJsTGNvNl9jZzdIMUxzVmp6M2N2ODdFeV9EMnNsNkptNExzMDlIZXB2VHVaTDdmX3pBdUF0MllnSF9pV3NaRHZrTW5tOTV0emNHSmduYW9jYmFmZ2FlcUE1OEpBYQ",
-    "DigiTimes::https://www.digitimes.com/news/a20261019PD201/demand-2027-samsung-sk-hynix-outlook.html"
+    "DigiTimes::https://www.digitimes.com/news/a20261019PD201/demand-2027-samsung-sk-hynix-outlook.html",
+    "Counterpoint Research::CBMimAFBVV95cUxOR2dyMjJOSnpOMWpmZzBxMzRhOWZWOFFOTTVzV1E0MUlPbFpGdVZ0Q0RrZHU5TEU3d0dQSGJsTGNvNl9jZzdIMUxzVmp6M2N2ODdFeV9EMnNsNkptNExzMDlIZXB2VHVaTDdmX3pBdUF0MllnSF9pV3NaRHZrTW5tOTV0emNHSmduYW9jYmFmZ2FlcUE1OEpBYQ"
    ]
   },
   {
-   "headline": "Best Buy joins TikTok Shop, and holiday spend stays selective",
-   "detail": "Best Buy is selling on TikTok Shop for its biggest holiday season; Adobe forecasts $275.1B US online holiday sales, while Circana finds shoppers spending selectively. Test our TikTok presence and value-led offers.",
+   "headline": "Best Buy joins TikTok Shop for its biggest holiday season yet",
+   "detail": "Marketplace and social channels are widening for electronics retailers. Adobe forecasts record $275.1B US online holiday sales, so we should weigh social commerce channels for Cyber 5.",
    "segment": "marketplaces",
    "storyIds": [
     "Modern Retail::https://www.modernretail.co/?p=173494",
-    "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c",
-    "Circana::CBMisgFBVV95cUxPeUVjSkFJNVI5eXdDRTRXMHVLcllLLTlqVFcxZmNfNFFJZnlZWG1vcEpGbV9MT1YwZ192N1UtcEFOZXQtbXg3enU2N0xjV3BucDc5VTZHa05JQXpLclNHamN3VExrcl8wd2Zja0JtWDQ3cGJETllJWlZ5U1prX2xJT2dNZzd1RWhjZDU4R3Q4ei1rdGt3NGpyeWxKWW41THkyVExTQUhpUkhpbjJBSDRPd3ZB"
+    "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c"
    ]
   }
  ]

@@ -4542,5 +4542,68 @@
  "ETRetail::https://retail.economictimes.indiatimes.com/news/industry/weekly-leadership-recap-flipkart-honasa-consumer-announce-senior-level-elevations/135145652": {
   "keep": false,
   "publishedAt": "2026-10-23T12:24:32.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363713": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Staples Canada launches Staples Business to unify B2B tech and supplies",
+  "short_headline": "Staples Canada unifies its B2B offering",
+  "takeaway": "A B2B brand bundling technology with supplies targets the small-business buyers we want; we should watch how it positions tech.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-10-23T20:10:22.000Z"
+ },
+ "PYMNTS Data::CBMirwFBVV95cUxNTHAwZS0wVHZjLUhEYXZnQnpEdUlLbkxrUHBabUtydFZBU2xoenlOb3kxNU5UUnIyY2JUdGU3RnBzbjhTMGVzU3RXNld5S21DSWNlTkt2REdTREZPTFlWamZFeE5aSVFwYjRGQXhvR21xaHp6Q0ZnbFJUbjZIdDB5MmJHVENuZXFtZEt5U05USXZxM3RJcGlMY29LWmdmZFRVdEVlcWxvZ2Q5MjZveEd3": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Shoppers would send AI agents to marketplaces over brand sites",
+  "short_headline": "Shoppers prefer sending AI agents to marketplaces",
+  "takeaway": "If agents favor marketplaces over brand sites, our store must be agent-readable and our marketplace listings strong.",
+  "importance": 4,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-23T19:22:45.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363692": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Walmart unveils controls and spending limits for AI agent purchases",
+  "short_headline": "Walmart adds spending limits for AI agent buying",
+  "takeaway": "Shopper-set limits could become the trust standard for agent checkout; we should plan similar controls for our store.",
+  "importance": 4,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-10-23T19:12:33.000Z"
+ },
+ "Circana::CBMipwFBVV95cUxQQ3p6Snhra0JnZHJwZFhGSEV6X3NvZHdkVmJhRzZ3M0RPaVVSMlZOVnRMNTRZcHZWc0hIOFJoTlpOU3dYdjhFSXI3czctbU9WcllQV0FPY3RpSElvNXhZdHNMakdGZlZvTk44eE5LaXkzTzJXbnhTQkpqck1fNFRYQ2dCMjVUT3NIWGJNY1JqcVhvQUxfQ2FqTVc2dzEzdk95cjlDakMzSQ": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Circana publishes 2026 U.S. holiday purchase intentions and spending plans",
+  "short_headline": "Circana releases 2026 U.S. holiday spending plans",
+  "takeaway": "Holiday intent data helps us calibrate promotions and inventory for the peak season in our store.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-23T17:51:45.000Z"
+ },
+ "IDC::CBMijAFBVV95cUxPVHFDV3piTTBxNEVTQ1FKTHdTdWtiMmY5NnJhMWdNMUJBdXV6QnBhWGM2TWdGc3EtV3FZaG9hbEFDV0RVTG5YS0FlSDNQcWFYV3ZHeFlEaUV3LTdTTFN3NDA3NEhqZUVRbHhfR25zRklsUk51NHl3ZDF3SEl3UUZlN3IzRTZxdzI2VnJ5YQ": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "IDC revisits its prediction that marketplaces would reach a 50-50 split",
+  "short_headline": "IDC checks its 50-50 marketplace prediction",
+  "takeaway": "The marketplace share of online sales shapes how much we invest in our own store versus marketplace channels.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-23T16:40:47.000Z"
+ },
+ "Reuters::CBMipAFBVV95cUxOSjJIVzNjUS1NU0VqTDNJTm10djYzSVFBVkZuR2xlbmF3MHdyR1hLeWlOclg5Q1dtUGFINVhkc1RXakZ2QXhJdlpVSk5DVEk1XzRuSjhuRVJFMGhyaWFUZThoLUlLZXNTd3RuYUhGM2dGWUxNU0VHeC1CRjROUjVnVmRBWDZhTmFWMVlJUFJZbWZWSS1lNEk2NHdMU2lFcUJSN2ZFWA": {
+  "keep": false,
+  "publishedAt": "2026-10-23T15:20:09.000Z"
+ },
+ "McKinsey::CBMihwFBVV95cUxOVDcwWldIdmU0SXF5UU5yU2lnTUMzTW4zV3JkazZ1VldFeVFDWkoxTGVtbTlsWXA1ZDh4azlvdEhrMGZ5WVBNU0NiRnlEeDVKOFczdjd6M3k2ZzRYNC1iZklncm42NjFwajZjNzJtTGd6aTV5Sno0NmF4Mm51TmxtMk1yRDlPbG8": {
+  "keep": false,
+  "publishedAt": "2026-10-21T03:15:01.000Z"
  }
 }
