@@ -4464,5 +4464,83 @@
   "content_type": "news",
   "competitors": [],
   "publishedAt": "2026-09-25T07:00:00.000Z"
+ },
+ "PYMNTS Data::CBMivAFBVV95cUxNLURvanZDSVZmY0kyZ1paZV8wQ3BhdWFmdHJ5a09hYzl4TUprN2dveENWdlZyM2hvUDZucGZRTHNmMVU3MlpyTHRYOTUwN05LOWlVSGlxcTc3Y0VvWFBRbms2cWNLeGVsT2o0a2JSTG5oSDBBNHRjcHdqUU5WV01rYk9BU1RCMDdXZFJlZ0ZHZV9LZDZ1STdoSXRpLVB5Y0tKbDNKd3Rsenh2aG9CRGtkYnF1SVhpRnFnVzJvMA": {
+  "keep": false,
+  "publishedAt": "2026-10-23T16:31:58.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/lululemon-adds-product-chief-board-chip-wilson-settlement/833839/": {
+  "keep": false,
+  "publishedAt": "2026-10-23T16:19:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/macys-holiday-revamped-santaland/833826/": {
+  "keep": false,
+  "publishedAt": "2026-10-23T16:08:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/etsy-updates-ai-use-policies-emphasize-craftsmanship/833838/": {
+  "keep": false,
+  "publishedAt": "2026-10-23T16:08:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/bath-body-works-new-store-concept-feel-good/833827/": {
+  "keep": false,
+  "publishedAt": "2026-10-23T16:02:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/torrid-cfo-exits-belk-financing/833755/": {
+  "keep": false,
+  "publishedAt": "2026-10-23T15:56:00.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76371": {
+  "keep": false,
+  "publishedAt": "2026-10-23T15:40:09.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173854": {
+  "keep": false,
+  "publishedAt": "2026-10-23T14:45:18.000Z"
+ },
+ "Inc42::https://inc42.com/?p=577663": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Festive-season shoppers browse but hold back on big-ticket purchases in India",
+  "short_headline": "Indian festive shoppers hold back on big tickets",
+  "takeaway": "Big-ticket tech may need financing and bundles to convert browsing into orders during Indian festive sales.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-23T14:27:00.000Z"
+ },
+ "Reuters::CBMirwFBVV95cUxOYnpWYmVGQV9JVUVhS2IwVUJzRUcyRmZvMm1xMXpBcjc0cnhfWDdFQjBNamJuZWRQb3BOM0RKMEFiWmVxVzlKWW03WU5yeEsxOW5qaDBSMlUzX1YxVmhualNQUHBfbEhXTUdPb0VfdjhlMUdZYV82UnRfd1FpMXprOGUxTFBsZTZQU2VGN2s0ZUxTckZvd3I3QnNIeUlEc0V1ZWQtRlR5blp2UWs4MklZ": {
+  "keep": false,
+  "publishedAt": "2026-10-23T13:48:09.000Z"
+ },
+ "Inc42::https://inc42.com/?p=577661": {
+  "keep": false,
+  "publishedAt": "2026-10-23T13:42:28.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166742": {
+  "keep": false,
+  "publishedAt": "2026-10-23T13:01:19.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166737": {
+  "keep": false,
+  "publishedAt": "2026-10-23T13:01:18.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166693": {
+  "keep": false,
+  "publishedAt": "2026-10-23T13:00:12.000Z"
+ },
+ "Inc42::https://inc42.com/?p=577644": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Netflix credits Flipkart bundle for record India subscriber additions",
+  "short_headline": "Flipkart bundle drives Netflix record India quarter",
+  "takeaway": "Marketplace bundles can drive acquisition at scale; we could explore similar Flipkart partnerships for our devices.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-23T12:49:21.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/industry/weekly-leadership-recap-flipkart-honasa-consumer-announce-senior-level-elevations/135145652": {
+  "keep": false,
+  "publishedAt": "2026-10-23T12:24:32.000Z"
  }
 }
