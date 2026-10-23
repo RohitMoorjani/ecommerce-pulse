@@ -4331,5 +4331,80 @@
  "NIQ::CBMiYkFVX3lxTE4wM0d1dVhkX3ppcW9WZ0ZnT2lsTlJEbkhYZXJxeThoZ0tES3VFTVhLbm1uV3ZEMWEtNnFzSGE5RjN5UlRINHJQbUNwOVZEOHJ5bVZWdFNkakF3YlI3UmNOVXZR": {
   "keep": false,
   "publishedAt": "2026-10-05T07:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261023VL211/huawei-harmonyos-loan-chips-financing.html": {
+  "keep": false,
+  "publishedAt": "2026-10-23T03:29:45.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261023PD217/nvidia-ai-server-equipment-cooling.html": {
+  "keep": false,
+  "publishedAt": "2026-10-23T03:02:26.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261023PR200/mahindra-software-development-governance-technology.html": {
+  "keep": false,
+  "publishedAt": "2026-10-23T02:52:01.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261023PD223/iphone-foldable-apple-2027-launch.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Apple’s foldable iPhone Duo hits China with deliveries slipping into 2027",
+  "short_headline": "Apple’s foldable iPhone Duo sells out in China",
+  "takeaway": "A new Apple category with tight supply sets the premium-device bar; we should watch how it shapes demand and promos in China.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-10-23T02:41:12.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261023PD215/apple-iphone-macbook-tddi-adoption.html": {
+  "keep": false,
+  "publishedAt": "2026-10-23T02:26:45.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261023VL205/lg-display-growth-business-shipments-demand.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "PC monitors become LG Display’s large OLED growth engine, idle capacity to restart",
+  "short_headline": "Monitors now drive LG Display’s large OLED growth",
+  "takeaway": "Rising OLED monitor demand and added panel capacity could shape our monitor range, supply and pricing; worth tracking.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-23T02:22:29.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/quick-commerce-becomes-a-festive-gifting-channel-but-brands-are-not-equally-stocked-for-it/135131810": {
+  "keep": false,
+  "publishedAt": "2026-10-23T02:18:28.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261023VL206/western-digital-data-demand-capacity-gpu.html": {
+  "keep": false,
+  "publishedAt": "2026-10-23T01:59:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261022PD228/lg-electronics-home-appliance-gpu-chips-startup.html": {
+  "keep": false,
+  "publishedAt": "2026-10-23T00:44:32.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261022PD240/samsung-automotive-chips-samsung-foundry-business.html": {
+  "keep": false,
+  "publishedAt": "2026-10-23T00:37:06.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261022PD244/umc-ap-memory-silicon-packaging-technology.html": {
+  "keep": false,
+  "publishedAt": "2026-10-23T00:36:39.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261022PD250/compal-infrastructure-partnership-capacity-manufacturing.html": {
+  "keep": false,
+  "publishedAt": "2026-10-23T00:32:03.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363682": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "David’s Bridal plans to spin off Pearl, its agentic AI wedding planner",
+  "short_headline": "David’s Bridal to spin off AI planner Pearl",
+  "takeaway": "A retailer turning an AI shopping assistant into a standalone business shows agents becoming products; we should watch for transferable ideas.",
+  "importance": 2,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-22T22:43:56.000Z"
  }
 }
