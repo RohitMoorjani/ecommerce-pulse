@@ -1,10 +1,34 @@
 [
  {
-  "id": "IDC::CBMiZEFVX3lxTE5tTVZhcEJOYUhIUVNHNHcwR3hZX0xYUmRpcFdhaHhpdmJ4d0d0N1NZd3NxODRQQ1lFQzJmdEVDQXE5UGp6WHp4WDgyU1lSSjRreVYxVmlLVWl3N1drd1pwUXI5RF8",
-  "source": "IDC",
+  "id": "Inc42::https://inc42.com/?p=577733",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-24T14:37:28.000Z",
+  "title": "Myntra Slips Into The Red In FY26, Reports ₹582 Cr Loss",
+  "snippet": "Fashion ecommerce platform Myntra reported a net loss of ₹581.8 Cr in the financial year ended March 31, 2026 (FY26),…"
+ },
+ {
+  "id": "NIQ::CBMiiAFBVV95cUxNSmN1WXMySTB3SVF1YjJfWV9USW9VZnlVRnctNnByTlBrN0YwTzhXNTd1dDdrREo2RHhLODVaUzI3RFBna2tERktmazBtQ0V2Q0U2N3Z1WU4tYmdSaUZZMnhLWXY2VlpWTjhkQ2w4RTdsVUhBRTg2UndEWEZxU01heFhHM0dCeU9w",
+  "source": "NIQ",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-22T17:04:15.000Z",
+  "title": "Holiday Shopper Trends 2026",
+  "snippet": ""
+ },
+ {
+  "id": "Gartner::CBMiV0FVX3lxTE0yN1RGdTVqcHQ3VzhiVGVnNmg5TU0zdWlDOWU4bXVnMHQ3blhueU5IUGljZndPZkhnZVNCQ2dRUDlkQUQwNDlucnBPcExzaU9pQVdCQktIQQ",
+  "source": "Gartner",
   "sourceType": "Analyst",
-  "publishedAt": "2026-10-24T03:33:24.000Z",
-  "title": "Consumers Against or With Retailers? A 2026 Comparison by Geographies",
+  "publishedAt": "2026-10-22T07:00:00.000Z",
+  "title": "Forecast: IT Spending by Employment Size, Worldwide, 2024-2030, 3Q26",
+  "snippet": ""
+ },
+ {
+  "id": "Gartner::CBMiV0FVX3lxTFBtd29WbUZ6ejFPZlNOMXZSeVBwM3lrYmZuQTVMc2FDdW9pMFpBODBoVWg5cVpVYkd5SnZ1dmlMSnR1bDZFeE5Yd1FIZTZtNklBeXk1dkFjMA",
+  "source": "Gartner",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-21T07:00:00.000Z",
+  "title": "Forecast: Enterprise IT Spending for the Communications, Media and Services Markets, Worldwide, 2024-2030, 3Q26",
   "snippet": ""
  }
 ]
