@@ -4605,5 +4605,32 @@
  "McKinsey::CBMihwFBVV95cUxOVDcwWldIdmU0SXF5UU5yU2lnTUMzTW4zV3JkazZ1VldFeVFDWkoxTGVtbTlsWXA1ZDh4azlvdEhrMGZ5WVBNU0NiRnlEeDVKOFczdjd6M3k2ZzRYNC1iZklncm42NjFwajZjNzJtTGd6aTV5Sno0NmF4Mm51TmxtMk1yRDlPbG8": {
   "keep": false,
   "publishedAt": "2026-10-21T03:15:01.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173841": {
+  "keep": false,
+  "publishedAt": "2026-10-24T04:00:00.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/d2c-brands-target-30-pc-festive-growth-as-acquisition-costs-rise-20-pc-baskets-shrink/135160184": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "India D2C brands target 30% festive growth as acquisition costs rise 20%, baskets shrink",
+  "short_headline": "India D2C festive push faces 20% costlier acquisition",
+  "takeaway": "Rising acquisition costs and smaller baskets in India's festive season mean our store should watch paid-channel efficiency and bundle offers there.",
+  "importance": 2,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-24T02:38:26.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/titan-company-brand-zoya-seeks-to-cash-in-on-rising-high-end-jewellery-demand-eyes-rs-500-crore-revenue-by-fy27/135159730": {
+  "keep": false,
+  "publishedAt": "2026-10-24T01:59:26.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261023PD204/lges-plant-poland-2026-europe.html": {
+  "keep": false,
+  "publishedAt": "2026-10-24T01:36:29.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/indians-develop-a-taste-for-dark-chocolate-as-household-demand-jumps-45-pc/135159512": {
+  "keep": false,
+  "publishedAt": "2026-10-24T01:28:45.000Z"
  }
 }
