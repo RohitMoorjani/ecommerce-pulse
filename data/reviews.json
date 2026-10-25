@@ -4678,5 +4678,24 @@
   "content_type": "news",
   "competitors": [],
   "publishedAt": "2026-10-22T15:00:17.000Z"
+ },
+ "Inc42::https://inc42.com/?p=577736": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Flipkart faces IPO and ESOP questions as quick commerce spend meets profit pressure",
+  "short_headline": "Flipkart under profit and IPO pressure",
+  "takeaway": "Profit pressure and heavy quick-commerce investment at Flipkart could shift its seller and brand terms for electronics; we should watch for changes.",
+  "importance": 2,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-25T05:30:22.000Z"
+ },
+ "PYMNTS Data::CBMiywFBVV95cUxNNkQ5ZWdBcWY1N1NGaEkyYVpzQ2MyZnptVnZBOGtfazJzUzBPQnNxTndNUWVZMHBVcnZEajFzLWdGNEVmWVp2NXJxSkpTZHJWOUFZS2hlckdKcnJubGl1ekd2a3hjWjVLU3d0SDhSZVJvdHZKc3BMMzEwWXhpRm5xQ2RDTGJDRGlIaVN1RTR0Yk03UjJsNmppa2NRdjBPbWl1dVlEdWdUZWJaUXpLZ3hkUk1SU2EzZGxsM19kcVNzMmNPZ2Z2UHF5UW1hSQ": {
+  "keep": false,
+  "publishedAt": "2026-10-24T23:43:22.000Z"
+ },
+ "PYMNTS Data::CBMiqgFBVV95cUxPQVk0M0Jab3k3eW93dTBHeXFmU1hLTUdpMlFib0FQT0t5cnJ1RGpseHpiM1hiNjBmSko0WC05cjlfYTNubnRIeFQ5NExVdm1neUJibmFvNkt5RGRyMjZUTGE3VmN6WWdtalBFZ1JsaURsZ2M3dkJjS04teFhVUWhGT3N6RklVY3g1dzVUOEpKclp5c2xmTDNFTmxLTERHRjNrX1AzVlBDem5LQQ": {
+  "keep": false,
+  "publishedAt": "2026-10-19T17:54:55.000Z"
  }
 }
