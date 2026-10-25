@@ -4716,5 +4716,16 @@
   "content_type": "data",
   "competitors": [],
   "publishedAt": "2026-10-21T07:00:00.000Z"
+ },
+ "PYMNTS Data::CBMi5wFBVV95cUxOdnJOMURlQnVrY3VTWmFUOF9pc0hrbHFTclZ0cEwxbXk3RjIwTHhBa1NEalBEeDVTSC1WeVZJc3hfX2dOMEZqNUNiR2dUVnhOVXRUWUtGOTNKZzhpZ2pIenV4aGpObS1USy0tQWlJMkNuNVp6a0VyMVpWbElOZ2pkeEJtWFFGVl81MDM2UERIN3ZUcW42T1Vkci1aWWNtV2N2REtkZVg4X2hjTzIzVXgzR0RTM010a2dPanNlcFJud1lER0NUVjRSR0dfLUVKX1NvR0UxNTNrZ0NSaU40TG12NVNTYkNUVmc": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Mastercard bets shoppers will trust AI agents to buy one purchase at a time",
+  "short_headline": "Mastercard builds trust in AI agent purchases",
+  "takeaway": "Agent payments are being built around per-purchase consent; we should check that our checkout can accept agent-initiated orders.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-15T16:13:56.000Z"
  }
 }
