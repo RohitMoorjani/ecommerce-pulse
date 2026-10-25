@@ -4697,5 +4697,24 @@
  "PYMNTS Data::CBMiqgFBVV95cUxPQVk0M0Jab3k3eW93dTBHeXFmU1hLTUdpMlFib0FQT0t5cnJ1RGpseHpiM1hiNjBmSko0WC05cjlfYTNubnRIeFQ5NExVdm1neUJibmFvNkt5RGRyMjZUTGE3VmN6WWdtalBFZ1JsaURsZ2M3dkJjS04teFhVUWhGT3N6RklVY3g1dzVUOEpKclp5c2xmTDNFTmxLTERHRjNrX1AzVlBDem5LQQ": {
   "keep": false,
   "publishedAt": "2026-10-19T17:54:55.000Z"
+ },
+ "PYMNTS Data::CBMinAFBVV95cUxQSDNaWkRNajYtdlRBODRaWkhrd3hXeWhqZG1SdDlMZFNCdWVlYkxkQUQxQTc3a1pRN19telNvUU9leGRzNjJqY3ExVl84SHVxRlNoaEdDWkZjRzlUUmFLOVl0UC1Ybm5pcWNTWnhoNVFSMDFoc2oxMHZkUWN2cDY1MFc1UE9iQ2VGT0dobVNEWXpJYWU1aXpyMjJHT3U": {
+  "keep": false,
+  "publishedAt": "2026-10-25T02:40:39.000Z"
+ },
+ "Reuters::CBMipwFBVV95cUxOMXV0RkI1VFVXRm4xc0tyNDBnc2NENDA3aF9XdjNxZVVGeU9IMkVlN0s0N3dvbTlYdzFFM0JwbUZjQ01tNFJpWE1GVG5wZXZjOWZMbnk1dUFrWWJlTjNrVU5kZjZxblBOUWFRX2hicTlFUEUyaTV0TjEyZUtUeHliMzZBTHFkS3BOb2FOWmF2S0RoTDBMSm1rdE84YmVQUnZ6bU9CazJmNA": {
+  "keep": false,
+  "publishedAt": "2026-10-22T16:18:09.000Z"
+ },
+ "Capital One Shopping Research::CBMicEFVX3lxTE9NUXppN0dlSUUxdFk5eHN2clB3RzdVeVNZa2xpc0tRYjRsVGZqbFpteEJEaDMyMUliNGltb19seEVncFBZTWhHeV9nem1WaV96RzNxOHFEaHlIbHFya0lURndFaWp4dS1XN3RzRjJDUjQ": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "2026 report tracks consumer adoption of AI shopping in new statistics roundup",
+  "short_headline": "2026 report tracks consumer AI shopping adoption",
+  "takeaway": "Adoption benchmarks show how far shoppers already use AI to research purchases, informing how we prepare our store for AI-led discovery.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-21T07:00:00.000Z"
  }
 }

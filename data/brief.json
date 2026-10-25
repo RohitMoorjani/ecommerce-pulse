@@ -1,45 +1,54 @@
 {
- "updatedAt": "2026-10-25T06:50:44.730Z",
- "title": "Shopping is shifting to AI agents, so our store must be agent-ready",
- "summary": "55% of consumers use AI in product discovery (NIQ). Walmart opened to outside AI agents, added spending limits; Amazon blocks them. Q3 PC shipments fell 21% (Counterpoint) amid memory-driven price inflation.",
+ "updatedAt": "2026-10-25T18:50:29.347Z",
+ "title": "AI agents now start the shopping journey, so our store must serve them",
+ "summary": "55% of consumers use AI in product discovery (NIQ); 34% of US consumers would use GenAI for holiday gifts (Gartner). Walmart opened to outside AI agents with spending limits; Best Buy joined TikTok Shop; PC shipments fell 21% in Q3 (Counterpoint).",
  "points": [
   {
-   "headline": "AI agents are becoming a shopping channel, and retailers set the rules",
-   "detail": "Walmart lets outside agents buy with spending controls while Amazon blocks them; both are widening AI agent roles. Shoppers would send agents to marketplaces, so our store must be agent-readable.",
+   "headline": "AI agents are becoming a buying channel, and retailers are setting the rules",
+   "detail": "Walmart opened to outside shopping agents with profiles and spending limits while Amazon blocks them; Meta pushes a shared agent standard. We should decide how agents read and buy from our store.",
    "segment": "agentic",
    "storyIds": [
     "TechCrunch::https://techcrunch.com/?p=3180139",
     "Retail Dive::https://www.retaildive.com/news/walmart-welcomes-external-ai-shopping-agents-terms-boundaries/833723/",
-    "PYMNTS Data::CBMirwFBVV95cUxNTHAwZS0wVHZjLUhEYXZnQnpEdUlLbkxrUHBabUtydFZBU2xoenlOb3kxNU5UUnIyY2JUdGU3RnBzbjhTMGVzU3RXNld5S21DSWNlTkt2REdTREZPTFlWamZFeE5aSVFwYjRGQXhvR21xaHp6Q0ZnbFJUbjZIdDB5MmJHVENuZXFtZEt5U05USXZxM3RJcGlMY29LWmdmZFRVdEVlcWxvZ2Q5MjZveEd3",
-    "PYMNTS Data::CBMipgFBVV95cUxNb1hoLVc2ZVhicXRiVE9neGFxaTQ4T3lRQ1AwdFdBT01aMGV3RGYxdTRnaUNfOERUNk9TSzZQeE1IaWlhSDRsLUh2ODVaV0xTZ1QzNzhLNmtXRUFTbnBITUlvZmxfSlYxbEwxMDFYQ2dZOGl3Q1lta2VGZE1fSTROR0pxZ3JWcFNQTlBDY0FLNjluNEdGVUhjQ1hpRlhEWVBqeWUwN2NR"
+    "DigiTimes::https://www.digitimes.com/news/a20261022VL213/meta-ai-agent-computing-power-cost-capacity.html",
+    "PYMNTS Data::CBMirwFBVV95cUxNTHAwZS0wVHZjLUhEYXZnQnpEdUlLbkxrUHBabUtydFZBU2xoenlOb3kxNU5UUnIyY2JUdGU3RnBzbjhTMGVzU3RXNld5S21DSWNlTkt2REdTREZPTFlWamZFeE5aSVFwYjRGQXhvR21xaHp6Q0ZnbFJUbjZIdDB5MmJHVENuZXFtZEt5U05USXZxM3RJcGlMY29LWmdmZFRVdEVlcWxvZ2Q5MjZveEd3"
    ]
   },
   {
-   "headline": "AI is now a mainstream discovery step for shoppers",
-   "detail": "NIQ finds 55% of consumers use AI in product discovery; Gartner says 34% of US consumers would use GenAI for gift ideas. Product data quality and AI visibility now matter as much as SEO for us.",
+   "headline": "AI discovery is mainstream among shoppers, including for holiday gifting",
+   "detail": "55% of consumers use AI in discovery (NIQ) and 34% of US consumers would use GenAI for gift ideas (Gartner). Product data and content must be readable by AI tools before Cyber 5.",
    "segment": "trends",
    "storyIds": [
     "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
-    "Gartner::CBMilAJBVV95cUxPdEI3MmZCa2FBWVVoSC1ZNGh2OUhLSnhPRUl1eWgtMHd2T2dNVXRnRUhJUVh1WVhYMWl1Mm5RLXZzZzBPdzBQalVXYzlLNmlwLXhzSE8zU0RCcHpjTHhQSWxZazNrcUZraEl0Z1VnYlBULW1TOUI4eWVRYlZiNlFkSVJyT3FleGJHOFNnTU5jY0JEZVhaN1RkU2NhZC1UVjVoQTZjLTk2ckVmVktrdnQyeUZmRl8yeG8zZkQ1N3dCSFhmMjJNRXBPdGdYRW9lVlRpRzVndUN0ZjFGeF9xVF9sc1IyVm1ZY1o5b21jNE9mX0ZqNzY2UVYyY211aXg0eGFpelZGUGZ6ajQwRU9GX3FyNElCYUM"
+    "Gartner::CBMilAJBVV95cUxPdEI3MmZCa2FBWVVoSC1ZNGh2OUhLSnhPRUl1eWgtMHd2T2dNVXRnRUhJUVh1WVhYMWl1Mm5RLXZzZzBPdzBQalVXYzlLNmlwLXhzSE8zU0RCcHpjTHhQSWxZazNrcUZraEl0Z1VnYlBULW1TOUI4eWVRYlZiNlFkSVJyT3FleGJHOFNnTU5jY0JEZVhaN1RkU2NhZC1UVjVoQTZjLTk2ckVmVktrdnQyeUZmRl8yeG8zZkQ1N3dCSFhmMjJNRXBPdGdYRW9lVlRpRzVndUN0ZjFGeF9xVF9sc1IyVm1ZY1o5b21jNE9mX0ZqNzY2UVYyY211aXg0eGFpelZGUGZ6ajQwRU9GX3FyNElCYUM",
+    "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c"
    ]
   },
   {
    "headline": "PC demand is falling while memory costs push prices up",
-   "detail": "Global PC shipments fell 21% in Q3 and Q4 is forecast to fall 27% (Counterpoint); memory shortage drives record PC price inflation. We should plan promotions, pricing and inventory for a weak Q4.",
+   "detail": "Global PC shipments dropped 21% in Q3 with a 27% Q4 decline forecast, and the memory shortage is driving record PC price inflation. We should plan pricing, promotions and inventory for thinner margins.",
    "segment": "pc",
    "storyIds": [
     "Counterpoint Research::CBMimAFBVV95cUxNQUJjMnJJVmd3dFlwaWswQnh4OS1PNTNjVmlUTnR3ZWs4LTRwcDJYTWtydlZiMEhnUWh6WEFSYVEyYmxNbERQNnp1TF9LNmJXS1ZZZmlOWmRVOW5RRU91VlowNl9YN0Y1eUZ1VFRxU2FwcUJZOU1jZ3UxeTNQU19lSmxsZlRYVHNMVUg4ck9iVnd3UEc5VTJTbw",
-    "DigiTimes::https://www.digitimes.com/news/a20261019PD201/demand-2027-samsung-sk-hynix-outlook.html",
-    "Counterpoint Research::CBMimAFBVV95cUxOR2dyMjJOSnpOMWpmZzBxMzRhOWZWOFFOTTVzV1E0MUlPbFpGdVZ0Q0RrZHU5TEU3d0dQSGJsTGNvNl9jZzdIMUxzVmp6M2N2ODdFeV9EMnNsNkptNExzMDlIZXB2VHVaTDdmX3pBdUF0MllnSF9pV3NaRHZrTW5tOTV0emNHSmduYW9jYmFmZ2FlcUE1OEpBYQ"
+    "Counterpoint Research::CBMimAFBVV95cUxOR2dyMjJOSnpOMWpmZzBxMzRhOWZWOFFOTTVzV1E0MUlPbFpGdVZ0Q0RrZHU5TEU3d0dQSGJsTGNvNl9jZzdIMUxzVmp6M2N2ODdFeV9EMnNsNkptNExzMDlIZXB2VHVaTDdmX3pBdUF0MllnSF9pV3NaRHZrTW5tOTV0emNHSmduYW9jYmFmZ2FlcUE1OEpBYQ",
+    "DigiTimes::https://www.digitimes.com/news/a20261019PD201/demand-2027-samsung-sk-hynix-outlook.html"
    ]
   },
   {
-   "headline": "Best Buy joins TikTok Shop for its biggest holiday season yet",
-   "detail": "Marketplace and social channels are widening for electronics retailers. Adobe forecasts record $275.1B US online holiday sales, so we should weigh social commerce channels for Cyber 5.",
+   "headline": "Best Buy's TikTok Shop move widens the electronics channel field",
+   "detail": "Best Buy joined TikTok Shop for its biggest holiday season yet, giving electronics shoppers a new route to buy. We should test our own presence and promotions on social commerce channels.",
    "segment": "marketplaces",
    "storyIds": [
-    "Modern Retail::https://www.modernretail.co/?p=173494",
-    "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c"
+    "Modern Retail::https://www.modernretail.co/?p=173494"
+   ]
+  },
+  {
+   "headline": "Small businesses are confident and spend like heavy AI users",
+   "detail": "Small businesses are cautious but ready to grow (Capital One), and AI power users spend like small businesses (PYMNTS). This supports device-refresh offers aimed at small-business buyers.",
+   "segment": "trends",
+   "storyIds": [
+    "PYMNTS Data::CBMi9gFBVV95cUxQU2c4Q2hXWGZMNUQ4V2w0ODNpV2lXQ1hsTzl2cEwzWG1xOF9MTDFDOHMxa0p5VnA3QjI0bkkzaU54OWlHQndpYkVnQnlaaWQxWDFNaFNMNXRxbXRsQmFWMnB4QU4xczR1dGNBT0sxeEVDUmJJMEg1MDhfZ0t6MGZsNUhrempJY0JDTlZkd2dBeHB2YnotbkJZbUo2akQ5ZXhkbWwxOVh6OUlBaFppNjkyQUhNYXhPN3B1YUdqSjRCanlsaWF6Mk4yd0hOM196OTN3cXV1QWhabkxWV0h1Nmx1UHduSXo4LWVic1FpVHRHNjZoTnJoQmc",
+    "PYMNTS Data::CBMiogFBVV95cUxOSzE0ajBnTEsyaW9tckJKdS00Ymo3R2VrNk9ZdDJNZkliaE9YaXhfeVB3V25uYnpaczlablpkOXZhZFFNVnF2SGQxTFdLYTJUSUdDUDlEVWc4NlljRldXMF9OUlRRWkN0N29VVTRlUE1ZQ01VS2RoTXBWaFdCMTZjMVpHZ0t5SzlZb19HVVdTQkNPUzNGSjVtTEhoaVc0c2Rzc0E"
    ]
   }
  ]
