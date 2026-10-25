@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-10-23T21:50:38.550Z",
+ "updatedAt": "2026-10-25T06:50:44.730Z",
  "title": "Shopping is shifting to AI agents, so our store must be agent-ready",
  "summary": "55% of consumers use AI in product discovery (NIQ). Walmart opened to outside AI agents, added spending limits; Amazon blocks them. Q3 PC shipments fell 21% (Counterpoint) amid memory-driven price inflation.",
  "points": [
   {
    "headline": "AI agents are becoming a shopping channel, and retailers set the rules",
-   "detail": "Walmart lets outside agents buy with spending controls while Amazon blocks them; Amex built agent verification. Shoppers would send agents to marketplaces over brand sites, so our store must be agent-readable.",
+   "detail": "Walmart lets outside agents buy with spending controls while Amazon blocks them; both are widening AI agent roles. Shoppers would send agents to marketplaces, so our store must be agent-readable.",
    "segment": "agentic",
    "storyIds": [
     "TechCrunch::https://techcrunch.com/?p=3180139",
     "Retail Dive::https://www.retaildive.com/news/walmart-welcomes-external-ai-shopping-agents-terms-boundaries/833723/",
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363692",
-    "PYMNTS Data::CBMirwFBVV95cUxNTHAwZS0wVHZjLUhEYXZnQnpEdUlLbkxrUHBabUtydFZBU2xoenlOb3kxNU5UUnIyY2JUdGU3RnBzbjhTMGVzU3RXNld5S21DSWNlTkt2REdTREZPTFlWamZFeE5aSVFwYjRGQXhvR21xaHp6Q0ZnbFJUbjZIdDB5MmJHVENuZXFtZEt5U05USXZxM3RJcGlMY29LWmdmZFRVdEVlcWxvZ2Q5MjZveEd3"
+    "PYMNTS Data::CBMirwFBVV95cUxNTHAwZS0wVHZjLUhEYXZnQnpEdUlLbkxrUHBabUtydFZBU2xoenlOb3kxNU5UUnIyY2JUdGU3RnBzbjhTMGVzU3RXNld5S21DSWNlTkt2REdTREZPTFlWamZFeE5aSVFwYjRGQXhvR21xaHp6Q0ZnbFJUbjZIdDB5MmJHVENuZXFtZEt5U05USXZxM3RJcGlMY29LWmdmZFRVdEVlcWxvZ2Q5MjZveEd3",
+    "PYMNTS Data::CBMipgFBVV95cUxNb1hoLVc2ZVhicXRiVE9neGFxaTQ4T3lRQ1AwdFdBT01aMGV3RGYxdTRnaUNfOERUNk9TSzZQeE1IaWlhSDRsLUh2ODVaV0xTZ1QzNzhLNmtXRUFTbnBITUlvZmxfSlYxbEwxMDFYQ2dZOGl3Q1lta2VGZE1fSTROR0pxZ3JWcFNQTlBDY0FLNjluNEdGVUhjQ1hpRlhEWVBqeWUwN2NR"
    ]
   },
   {

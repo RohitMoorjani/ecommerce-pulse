@@ -4663,5 +4663,20 @@
  "PYMNTS Data::CBMi-AFBVV95cUxNU21ZV2x4SGJVaDJGWUZaT1hZN0pkeUlVdG9kWkhFd1o0SXkxd09sREJtTVVVYzBsc0lXb29POGgzYndmMGhocG81N0dKSW5BeWNOc25GUXdrNjFKU3dSdnNwdkpXQUFONUQtMTZOczRydEUydksycTNrdTZweGZOR0piNEFHRGZJenY3UDBCcHhzalNXUVJSb1NIMzJaNGYzYlRGeTl3VGMtM0lfLWkxTHBXQS1KVjFBUVp3TkxrWUFTalZDRjNvWmlZX0RrZjR5eVVpM3BxVWtuS2FOaUtMcFVZT0VmYzZXMmN0N2JSd3hYZjludWJ0Sw": {
   "keep": false,
   "publishedAt": "2026-10-14T13:32:45.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261023PD220/meta-financing-infrastructure-investment-capex.html": {
+  "keep": false,
+  "publishedAt": "2026-10-25T00:43:06.000Z"
+ },
+ "PYMNTS Data::CBMipgFBVV95cUxNb1hoLVc2ZVhicXRiVE9neGFxaTQ4T3lRQ1AwdFdBT01aMGV3RGYxdTRnaUNfOERUNk9TSzZQeE1IaWlhSDRsLUh2ODVaV0xTZ1QzNzhLNmtXRUFTbnBITUlvZmxfSlYxbEwxMDFYQ2dZOGl3Q1lta2VGZE1fSTROR0pxZ3JWcFNQTlBDY0FLNjluNEdGVUhjQ1hpRlhEWVBqeWUwN2NR": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Walmart and Amazon widen the role of AI agents in shopping and work",
+  "short_headline": "Walmart and Amazon widen AI agent roles",
+  "takeaway": "Two major retailers are pushing AI agents further into shopping; we should check how our listings and store appear to such agents.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-22T15:00:17.000Z"
  }
 }
