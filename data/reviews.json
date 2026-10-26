@@ -4727,5 +4727,36 @@
   "content_type": "news",
   "competitors": [],
   "publishedAt": "2026-10-15T16:13:56.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173857": {
+  "keep": false,
+  "publishedAt": "2026-10-26T04:00:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173858": {
+  "keep": true,
+  "segment": "plays",
+  "headline": "QVC links TikTok shows, TV \"mega lives\" and exclusive products into one holiday flywheel",
+  "short_headline": "QVC ties TikTok and TV into a holiday flywheel",
+  "takeaway": "We could test live shows and exclusive bundles across social and owned channels to drive holiday traffic to our store.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-26T04:00:00.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/luxury/hermes-try-a-scarf-around-just-china/135201784": {
+  "keep": false,
+  "publishedAt": "2026-10-26T03:23:25.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/flipkart-minutes-teams-up-with-ramsay-brothers-for-a-10-minute-halloween-miniseries/135201643": {
+  "keep": false,
+  "publishedAt": "2026-10-26T03:05:19.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261023PD234/taiwan-packaging-pcb-manufacturing.html": {
+  "keep": false,
+  "publishedAt": "2026-10-26T02:59:13.000Z"
+ },
+ "Reuters::CBMinAFBVV95cUxQNWdWWnJFN3I3MnZQQzBBRUFVMnBTbkduVklRcFVPbWZVTGFxM2NRbkRtRHlXa2JBdlpnQWMxSkh1WU91clBJQnpqYXItXzAtcTJ5NlFETjRETndtM2VyRGxkaElVREFxRjRfeUdkMzlxR3hYdlZSX1R1LXNRX3dxTUlyYzJNYUp1NGpfOU5mNUQ0YWZ3bE1TOVAxaUk": {
+  "keep": false,
+  "publishedAt": "2026-10-23T12:51:32.000Z"
  }
 }
