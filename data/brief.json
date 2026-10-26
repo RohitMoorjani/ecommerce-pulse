@@ -1,30 +1,30 @@
 {
- "updatedAt": "2026-10-26T13:10:22.397Z",
- "title": "Agents will shop for shoppers, so our store must be agent-ready by holiday",
- "summary": "55% of consumers use AI in product discovery (NIQ); Gartner: 34% would use GenAI for gift ideas. Target built its holiday plan on an AI assistant; Walmart opened to outside agents. PC shipments fell 21% in Q3 (Counterpoint).",
+ "updatedAt": "2026-10-26T21:51:14.727Z",
+ "title": "Agents and marketplaces now gate discovery; our store must be agent-ready",
+ "summary": "55% of consumers use AI in product discovery (NIQ); 34% would use GenAI for gift ideas (Gartner). Walmart opened to outside AI agents with spending limits; Best Buy joined TikTok Shop; PC shipments fell 21% in Q3 (Counterpoint).",
  "points": [
   {
-   "headline": "Retailers are setting the rules for AI shopping agents",
-   "detail": "Walmart added spending controls and agent profiles for outside agents while Amazon blocks them; Target built its holiday plan on an AI assistant. We must decide how agents may read and buy from our store.",
+   "headline": "AI agents are becoming a buying channel, and retailers are setting the rules",
+   "detail": "Walmart opened to outside agents with profiles, terms and spending limits while Amazon blocks them; Meta pushes a shared standard. We should decide how agents read and buy from our store.",
    "segment": "agentic",
    "storyIds": [
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363692",
-    "Retail TouchPoints::CBMirAFBVV95cUxPQ0U3alFSVVZUaXVIQzY4ZTFEVUZuODhDVEFuRDBvUXVwMVNER016ekVDeHdHYjlXZmJjSy0xQ1JLUUtrcms5dGtpX2tGdkZWbEJubkZiTUtnOFJJam9uTlRUdVlyNGloTnpsSTlXUFJ2TVZCNlVUeHJpSFA0Z0toMDdpdDZNSHZOTm43ek5YdVZzODlnLVBvYTJDdU04NFJnOGtCb3o5SzZqaTdl",
-    "TechCrunch::https://techcrunch.com/?p=3180139"
+    "TechCrunch::https://techcrunch.com/?p=3180139",
+    "Retail Dive::https://www.retaildive.com/news/walmart-welcomes-external-ai-shopping-agents-terms-boundaries/833723/",
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363692"
    ]
   },
   {
-   "headline": "AI is now a mainstream discovery channel for shoppers",
-   "detail": "NIQ finds 55% of consumers use AI in discovery; Gartner says 34% of US consumers would use GenAI for holiday gifts. Our product content and data must work for AI tools.",
+   "headline": "Shoppers already start with AI, and may send agents to marketplaces first",
+   "detail": "NIQ finds 55% use AI in discovery; Gartner says 34% would use GenAI for gifts; PYMNTS says shoppers would send agents to marketplaces over brand sites. Our product data and listings need to be agent-readable.",
    "segment": "trends",
    "storyIds": [
     "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
-    "Gartner::CBMilAJBVV95cUxPdEI3MmZCa2FBWVVoSC1ZNGh2OUhLSnhPRUl1eWgtMHd2T2dNVXRnRUhJUVh1WVhYMWl1Mm5RLXZzZzBPdzBQalVXYzlLNmlwLXhzSE8zU0RCcHpjTHhQSWxZazNrcUZraEl0Z1VnYlBULW1TOUI4eWVRYlZiNlFkSVJyT3FleGJHOFNnTU5jY0JEZVhaN1RkU2NhZC1UVjVoQTZjLTk2ckVmVktrdnQyeUZmRl8yeG8zZkQ1N3dCSFhmMjJNRXBPdGdYRW9lVlRpRzVndUN0ZjFGeF9xVF9sc1IyVm1ZY1o5b21jNE9mX0ZqNzY2UVYyY211aXg0eGFpelZGUGZ6ajQwRU9GX3FyNElCYUM"
+    "PYMNTS Data::CBMirwFBVV95cUxNTHAwZS0wVHZjLUhEYXZnQnpEdUlLbkxrUHBabUtydFZBU2xoenlOb3kxNU5UUnIyY2JUdGU3RnBzbjhTMGVzU3RXNld5S21DSWNlTkt2REdTREZPTFlWamZFeE5aSVFwYjRGQXhvR21xaHp6Q0ZnbFJUbjZIdDB5MmJHVENuZXFtZEt5U05USXZxM3RJcGlMY29LWmdmZFRVdEVlcWxvZ2Q5MjZveEd3"
    ]
   },
   {
-   "headline": "PC demand is collapsing while memory costs push prices up",
-   "detail": "Counterpoint: PC shipments fell 21% in Q3, Q4 forecast to fall 27%, with a memory shortage driving record price inflation. We should plan promotions, pricing and inventory for a weak Q4.",
+   "headline": "PC demand is falling while memory costs push prices to records",
+   "detail": "Q3 shipments fell 21% with Q4 forecast at -27%, and memory shortage drives record price inflation (Counterpoint). We should plan promotions, pricing and inventory for a weak Q4.",
    "segment": "pc",
    "storyIds": [
     "Counterpoint Research::CBMimAFBVV95cUxNQUJjMnJJVmd3dFlwaWswQnh4OS1PNTNjVmlUTnR3ZWs4LTRwcDJYTWtydlZiMEhnUWh6WEFSYVEyYmxNbERQNnp1TF9LNmJXS1ZZZmlOWmRVOW5RRU91VlowNl9YN0Y1eUZ1VFRxU2FwcUJZOU1jZ3UxeTNQU19lSmxsZlRYVHNMVUg4ck9iVnd3UEc5VTJTbw",
@@ -32,19 +32,11 @@
    ]
   },
   {
-   "headline": "Holiday budgets tighten even as online sales grow",
-   "detail": "Gartner: nearly 60% of US consumers have less to spend this holiday, while Adobe forecasts record $275.1B online sales. We should lean on value, financing and deal depth.",
-   "segment": "trends",
-   "storyIds": [
-    "Gartner::CBMi-AFBVV95cUxNYzdGS0lzUTZESndyOEMxd3NXOVM5V09xMjZPYWZiM2xpQTlSYmpIV2xJLVZXMlhmTkd6RVk2X0JkaDV5cVlSSUNacjFhd2dKT015aE1mV1c5MGpKYjhQZVNaeTg3YzZvWTJCaDZ2bThNSVhodEQ1ekphNDdSdll2S010RmVoQWxBVTNFYkxKTllCazhrRVo4VUl6amxQd2xPRENDa1BqUlJJcG1PYjVyMkJhdWxWSHlaMUJiUEZMbVVZZkxsaGx6ZTZ6WXRRUWl0Yjg4VWFLZnhHcWpSZjVaNU5LZ3BqRGwxYUlzcXhFc0JQbndNVDBTYw",
-    "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c"
-   ]
-  },
-  {
-   "headline": "Best Buy adds TikTok Shop as channels multiply",
-   "detail": "Best Buy joined TikTok Shop for its biggest holiday season yet, giving electronics shoppers a new route to purchase. We should test our own presence and promotions there.",
+   "headline": "Holiday channels are widening: longer Walmart events, Best Buy on TikTok Shop",
+   "detail": "Walmart's Black Friday and Cyber Monday events run 14 days vs 10; Best Buy joined TikTok Shop; Adobe forecasts $275.1B online holiday sales. We should align our deal calendar and test TikTok Shop.",
    "segment": "marketplaces",
    "storyIds": [
+    "Retail Dive::https://www.retaildive.com/news/walmart-longer-black-friday-cyber-monday-sales-events/872747/",
     "Modern Retail::https://www.modernretail.co/?p=173494"
    ]
   }
