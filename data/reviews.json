@@ -4739,5 +4739,113 @@
  "Reuters::CBMinAFBVV95cUxQNWdWWnJFN3I3MnZQQzBBRUFVMnBTbkduVklRcFVPbWZVTGFxM2NRbkRtRHlXa2JBdlpnQWMxSkh1WU91clBJQnpqYXItXzAtcTJ5NlFETjRETndtM2VyRGxkaElVREFxRjRfeUdkMzlxR3hYdlZSX1R1LXNRX3dxTUlyYzJNYUp1NGpfOU5mNUQ0YWZ3bE1TOVAxaUk": {
   "keep": false,
   "publishedAt": "2026-10-23T12:51:32.000Z"
+ },
+ "Apple Newsroom::https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Apple unveils iPad mini with OLED display, A20 Pro chip and water resistance",
+  "short_headline": "New Apple iPad mini gets OLED and A20 Pro",
+  "takeaway": "A thinner, OLED, water-resistant iPad mini raises the bar in small tablets; we should check our tablet pricing and positioning.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-10-26T13:00:22.904Z"
+ },
+ "Gartner::CBMi-AFBVV95cUxNYzdGS0lzUTZESndyOEMxd3NXOVM5V09xMjZPYWZiM2xpQTlSYmpIV2xJLVZXMlhmTkd6RVk2X0JkaDV5cVlSSUNacjFhd2dKT015aE1mV1c5MGpKYjhQZVNaeTg3YzZvWTJCaDZ2bThNSVhodEQ1ekphNDdSdll2S010RmVoQWxBVTNFYkxKTllCazhrRVo4VUl6amxQd2xPRENDa1BqUlJJcG1PYjVyMkJhdWxWSHlaMUJiUEZMbVVZZkxsaGx6ZTZ6WXRRUWl0Yjg4VWFLZnhHcWpSZjVaNU5LZ3BqRGwxYUlzcXhFc0JQbndNVDBTYw": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Gartner: nearly 60% of US consumers have less to spend this holiday season",
+  "short_headline": "Gartner: 60% of US shoppers have less to spend",
+  "takeaway": "Tighter holiday budgets point to more price sensitivity; we should lean on promotions, financing and value messaging in our store.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-26T12:04:17.000Z"
+ },
+ "Inc42::https://inc42.com/?p=577916": {
+  "keep": false,
+  "publishedAt": "2026-10-26T11:53:18.000Z"
+ },
+ "Inc42::https://inc42.com/?p=577602": {
+  "keep": false,
+  "publishedAt": "2026-10-26T11:30:14.000Z"
+ },
+ "Retail TouchPoints::CBMirAFBVV95cUxPQ0U3alFSVVZUaXVIQzY4ZTFEVUZuODhDVEFuRDBvUXVwMVNER016ekVDeHdHYjlXZmJjSy0xQ1JLUUtrcms5dGtpX2tGdkZWbEJubkZiTUtnOFJJam9uTlRUdVlyNGloTnpsSTlXUFJ2TVZCNlVUeHJpSFA0Z0toMDdpdDZNSHZOTm43ek5YdVZzODlnLVBvYTJDdU04NFJnOGtCb3o5SzZqaTdl": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Target centers its holiday strategy on a new AI shopping assistant",
+  "short_headline": "Target builds holiday plan around AI assistant",
+  "takeaway": "A major retailer is putting an AI assistant at the heart of holiday selling; we should watch how it affects discovery of electronics.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-26T11:07:00.000Z"
+ },
+ "Reuters::CBMiuwFBVV95cUxOQmhHLVQtWW5oc0hEcHFSTVdkbC1KWXB1amJYeVYyVTZtcXpZdnBNaTFRb1kzcHk4cFdnLVVDYmZrVU5rZ0V4N2NLR2JwdWh1WHFIZ3UzZkZDN29aR2E5aHBBQ2hacnROLTh4MzU3TW5uZDNycXd3Ukk4QmFZUVF3VTJwcldIQkphekZDczJwdGluSVpUYjk5RGJ2TkJfdWh0MWRJZ3JTc1VnVG5PTkZFckp0SjhUblRwNVRV": {
+  "keep": false,
+  "publishedAt": "2026-10-26T11:01:43.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76374": {
+  "keep": false,
+  "publishedAt": "2026-10-26T10:01:05.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/spons/agentic-commerce-the-infrastructure-is-ready-for-ai-agents-is-your-store/833313/": {
+  "keep": false,
+  "publishedAt": "2026-10-26T09:00:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/spons/keeping-pace-with-walmart-marketplace-the-work-behind-basecoms-innovatio/833294/": {
+  "keep": false,
+  "publishedAt": "2026-10-26T09:00:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/spons/the-most-expensive-problems-are-the-ones-youve-learned-to-live-with/833681/": {
+  "keep": false,
+  "publishedAt": "2026-10-26T09:00:00.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/rapido-bike-taxis-may-be-banned-in-pune-as-police-ask-google-apple-to-remove-app/135207187": {
+  "keep": false,
+  "publishedAt": "2026-10-26T08:41:55.000Z"
+ },
+ "Inc42::https://inc42.com/?p=577866": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "L Catterton invests in InMobi-backed AI shopping platform Glance to fund expansion",
+  "short_headline": "L Catterton backs AI shopping platform Glance",
+  "takeaway": "Fresh investor money for AI shopping platforms signals more AI-led discovery channels we may need to be visible on.",
+  "importance": 2,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-26T08:38:54.000Z"
+ },
+ "PYMNTS Data::CBMinAFBVV95cUxNVWliTWhSZENQQnVPbkVDbExsN2xfTkJ2a3hVTTBDRGluR2RHUDVybHpjMmRONXl6Zkd2d2I5RVVPYnVON1NPVjd5em5HU183V2VQRDRyN1hLbEFLSjZiTnR6MW4tbFgwVzVvcVFfVm1tVS1QWE55RDE5S1UtWGVYRFl6NWNuM3N4ZUdyRjVoaWgtRXVsU1NpbXNPSEs": {
+  "keep": false,
+  "publishedAt": "2026-10-26T08:05:42.000Z"
+ },
+ "PYMNTS Data::CBMinwFBVV95cUxQRmxlOWp0aHVUUVFBZUNpTVFtSjZiamdZcHRUZ0ZUa25XNWh1dGdLVU9Jd0VnRnY4dGg3bGt5X29PWndSTUIzcVFGamY2enZFaXh5ZlFicll0WXVhV3ZpelpOa3hXQUJleVhOS3ZFR04tLUk4VHMtNmtPdUN5NVdfa0ZjWDhYT1B1dUltZnptX21McUkySnR1dDFtSGNfZUE": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Parents split on what makes buy now, pay later options attractive",
+  "short_headline": "Parents divided on what makes BNPL attractive",
+  "takeaway": "Parents value BNPL features differently, so we should test varied financing messaging for family and back-to-school buyers.",
+  "importance": 2,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-26T08:05:31.000Z"
+ },
+ "PYMNTS Data::CBMioAFBVV95cUxNc3hJc3VOVTNmVVJ6UFdrcEhFY0JqR0FUNDhJdS1MOVlBWWNJSmZKZHFHei0xOGVMakt3NktsVXdrb1lfY3lQQWUyODhvbWNRSm5wdGRGcW9LN0JpeUJCSW9iR3dkRVdpeTlRWXhCQXpHdjZXMk44UHVpcFVwenFjSkptZVhzdkZLRy1iQUFrRjNaZWU0MG56MThTejVFTkxI": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "AI shoppers emerge as a distinct customer segment in the UAE",
+  "short_headline": "AI shoppers emerge as a distinct UAE segment",
+  "takeaway": "A separate AI-assisted shopper group in the UAE suggests we should plan regional discovery and content for AI-led buyers.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-26T08:05:10.000Z"
+ },
+ "PYMNTS Data::CBMivAFBVV95cUxQeEZhbWZocVZ0UVlRZ09Nbm51UHRWVDhSb0x4RHNOd3h4RHIxQ0JvZVpsNnJRWWtWR0J4YVlyT1FzTTQ2OU9CZnNYZVdNckZNNHgwOXB2aml0ZkNqejVTem5ZU3kwc0luUXU1a3VxLUNkZzJMWE5zVjVlc1kxSXphLVNGSWxtVHFPemFBNllOT1lDbWhkcm5xbnNLTS1Cd09na19yY3Rfa3ZpWjJJQzlISldMLVJURW5jd3FfTQ": {
+  "keep": false,
+  "publishedAt": "2026-10-22T00:39:55.000Z"
  }
 }
