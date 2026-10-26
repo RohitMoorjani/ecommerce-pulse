@@ -1,50 +1,130 @@
 [
  {
-  "id": "Modern Retail::https://www.modernretail.co/?p=173857",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T04:00:00.000Z",
-  "title": "Retailers take a targeted approach to seasonal hiring in preparation for historic holiday sales year",
-  "snippet": "Retailers and logistics players are taking a more surgical approach to holiday hiring with flexible staffing and a focus on logistics cross-training in anticipation of a $1 trillion sales season."
+  "id": "Apple Newsroom::https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+  "source": "Apple Newsroom",
+  "sourceType": "Competitor Newsroom",
+  "publishedAt": "2026-10-26T13:00:22.904Z",
+  "title": "Apple gives iPad mini its biggest update ever",
+  "snippet": "Apple unveils the all-new iPad mini, featuring an OLED display in a thinner design, a leap in performance with A20 Pro, and water and dust resistance."
  },
  {
-  "id": "Modern Retail::https://www.modernretail.co/?p=173858",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T04:00:00.000Z",
-  "title": "How QVC is building a flywheel across TikTok and TV ahead of the holidays",
-  "snippet": "From \"mega lives\" to TikTok shows to exclusive products, here's how QVC is gearing up for its 40th holiday season."
+  "id": "Gartner::CBMi-AFBVV95cUxNYzdGS0lzUTZESndyOEMxd3NXOVM5V09xMjZPYWZiM2xpQTlSYmpIV2xJLVZXMlhmTkd6RVk2X0JkaDV5cVlSSUNacjFhd2dKT015aE1mV1c5MGpKYjhQZVNaeTg3YzZvWTJCaDZ2bThNSVhodEQ1ekphNDdSdll2S010RmVoQWxBVTNFYkxKTllCazhrRVo4VUl6amxQd2xPRENDa1BqUlJJcG1PYjVyMkJhdWxWSHlaMUJiUEZMbVVZZkxsaGx6ZTZ6WXRRUWl0Yjg4VWFLZnhHcWpSZjVaNU5LZ3BqRGwxYUlzcXhFc0JQbndNVDBTYw",
+  "source": "Gartner",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-26T12:04:17.000Z",
+  "title": "Gartner Marketing Survey Finds Nearly 60% of U.S. Consumers Have Less to Spend This Holiday Season",
+  "snippet": ""
  },
  {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/luxury/hermes-try-a-scarf-around-just-china/135201784",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T03:23:25.000Z",
-  "title": "Hermes, try a scarf around just China",
-  "snippet": "Hermes is facing a decline in revenue growth driven by decreasing demand in its Chinese market. The brand recognizes the importance of maintaining its unique selling proposition in luxury offerings. Given the rise of…"
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/flipkart-minutes-teams-up-with-ramsay-brothers-for-a-10-minute-halloween-miniseries/135201643",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T03:05:19.000Z",
-  "title": "Flipkart Minutes teams up with Ramsay Brothers for a 10-minute Halloween miniseries",
-  "snippet": "Flipkart Minutes has launched a Halloween campaign featuring a three-part miniseries titled The Last Delivery. The initiative includes collaborations with McCann India and the legendary Ramsay Brothers, blending modern…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261023PD234/taiwan-packaging-pcb-manufacturing.html",
-  "source": "DigiTimes",
+  "id": "Inc42::https://inc42.com/?p=577916",
+  "source": "Inc42",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-26T02:59:13.000Z",
-  "title": "Interview: From afterthought to bottleneck, circuit boards move to the heart of AI hardware",
-  "snippet": "In the era of AI and high-performance computing (HPC), the once-separate worlds of chip design, packaging, and circuit boards are converging. According to the Global Electronics Association, AI server motherboards have…"
+  "publishedAt": "2026-10-26T11:53:18.000Z",
+  "title": "Pune Police Ask Google, Apple To Remove Rapido App Over Bike Taxi Operations",
+  "snippet": "Pune Police has written to Google and Apple seeking the removal of Rapido’s app from their respective app stores over…"
  },
  {
-  "id": "Reuters::CBMinAFBVV95cUxQNWdWWnJFN3I3MnZQQzBBRUFVMnBTbkduVklRcFVPbWZVTGFxM2NRbkRtRHlXa2JBdlpnQWMxSkh1WU91clBJQnpqYXItXzAtcTJ5NlFETjRETndtM2VyRGxkaElVREFxRjRfeUdkMzlxR3hYdlZSX1R1LXNRX3dxTUlyYzJNYUp1NGpfOU5mNUQ0YWZ3bE1TOVAxaUk",
+  "id": "Inc42::https://inc42.com/?p=577602",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-26T11:30:14.000Z",
+  "title": "Announcing FAST42 2027: The Hunt For India’s 42 Fastest-Growing D2C Brands Begins",
+  "snippet": "India’s D2C ecosystem has no shortage of new brands. But as competition intensifies, identifying the businesses delivering strong revenue growth,…"
+ },
+ {
+  "id": "Retail TouchPoints::CBMirAFBVV95cUxPQ0U3alFSVVZUaXVIQzY4ZTFEVUZuODhDVEFuRDBvUXVwMVNER016ekVDeHdHYjlXZmJjSy0xQ1JLUUtrcms5dGtpX2tGdkZWbEJubkZiTUtnOFJJam9uTlRUdVlyNGloTnpsSTlXUFJ2TVZCNlVUeHJpSFA0Z0toMDdpdDZNSHZOTm43ek5YdVZzODlnLVBvYTJDdU04NFJnOGtCb3o5SzZqaTdl",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-26T11:07:00.000Z",
+  "title": "Target’s Holiday Strategy Centers on New AI Shopping Assistant",
+  "snippet": ""
+ },
+ {
+  "id": "Reuters::CBMiuwFBVV95cUxOQmhHLVQtWW5oc0hEcHFSTVdkbC1KWXB1amJYeVYyVTZtcXpZdnBNaTFRb1kzcHk4cFdnLVVDYmZrVU5rZ0V4N2NLR2JwdWh1WHFIZ3UzZkZDN29aR2E5aHBBQ2hacnROLTh4MzU3TW5uZDNycXd3Ukk4QmFZUVF3VTJwcldIQkphekZDczJwdGluSVpUYjk5RGJ2TkJfdWh0MWRJZ3JTc1VnVG5PTkZFckp0SjhUblRwNVRV",
   "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-23T12:51:32.000Z",
-  "title": "Infosys cuts forecast as AI spending shift deepens North America slowdown",
+  "publishedAt": "2026-10-26T11:01:43.000Z",
+  "title": "Buses out, shoppers in: London's Oxford Street goes traffic-free",
+  "snippet": ""
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76374",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-26T10:01:05.000Z",
+  "title": "Supreme Court clears path for Tesco equal pay claim worth up to £4bn",
+  "snippet": "The Supreme Court has blocked Tesco’s final attempt at appealing a critical procedural ruling in a multi-billion-pound court battle over equal pay The post Supreme Court clears path for Tesco equal pay claim worth up to…"
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/spons/agentic-commerce-the-infrastructure-is-ready-for-ai-agents-is-your-store/833313/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-26T09:00:00.000Z",
+  "title": "Agentic commerce: The infrastructure is ready for AI agents. Is your store?",
+  "snippet": "With the holidays approaching, check these signals to assess your AI readiness (and check it twice)."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/spons/keeping-pace-with-walmart-marketplace-the-work-behind-basecoms-innovatio/833294/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-26T09:00:00.000Z",
+  "title": "Keeping pace with Walmart Marketplace: the work behind Base.com’s Innovation Award",
+  "snippet": "Base.com wins the Walmart Marketplace Innovation Award at Let's Grow 2026."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/spons/the-most-expensive-problems-are-the-ones-youve-learned-to-live-with/833681/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-26T09:00:00.000Z",
+  "title": "The most expensive problems are the ones you’ve learned to live with",
+  "snippet": "Some of retail’s biggest opportunities may be hiding inside familiar operational constraints."
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/rapido-bike-taxis-may-be-banned-in-pune-as-police-ask-google-apple-to-remove-app/135207187",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-26T08:41:55.000Z",
+  "title": "Rapido bike taxis may be banned in Pune as police ask Google, Apple to remove app",
+  "snippet": "Pune police have approached Google Play Store and Apple’s App Store to remove Rapido bike option from app amid a crackdown on its bike taxi operations. The move follows a directive from Pune Collector and RTA…"
+ },
+ {
+  "id": "Inc42::https://inc42.com/?p=577866",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-26T08:38:54.000Z",
+  "title": "L Catterton Invests In InMobi-Backed AI Shopping Platform Glance",
+  "snippet": "Consumer-focused investment firm L Catterton has made a strategic investment in InMobi-backed AI shopping platform Glance to support its expansion,…"
+ },
+ {
+  "id": "PYMNTS Data::CBMinAFBVV95cUxNVWliTWhSZENQQnVPbkVDbExsN2xfTkJ2a3hVTTBDRGluR2RHUDVybHpjMmRONXl6Zkd2d2I5RVVPYnVON1NPVjd5em5HU183V2VQRDRyN1hLbEFLSjZiTnR6MW4tbFgwVzVvcVFfVm1tVS1QWE55RDE5S1UtWGVYRFl6NWNuM3N4ZUdyRjVoaWgtRXVsU1NpbXNPSEs",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-26T08:05:42.000Z",
+  "title": "Gen X Keeps the Wallet: How to Reach the AI-Assisted Shopper",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS Data::CBMinwFBVV95cUxQRmxlOWp0aHVUUVFBZUNpTVFtSjZiamdZcHRUZ0ZUa25XNWh1dGdLVU9Jd0VnRnY4dGg3bGt5X29PWndSTUIzcVFGamY2enZFaXh5ZlFicll0WXVhV3ZpelpOa3hXQUJleVhOS3ZFR04tLUk4VHMtNmtPdUN5NVdfa0ZjWDhYT1B1dUltZnptX21McUkySnR1dDFtSGNfZUE",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-26T08:05:31.000Z",
+  "title": "Parents Split on What Makes Buy Now, Pay Later Options Attractive",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS Data::CBMioAFBVV95cUxNc3hJc3VOVTNmVVJ6UFdrcEhFY0JqR0FUNDhJdS1MOVlBWWNJSmZKZHFHei0xOGVMakt3NktsVXdrb1lfY3lQQWUyODhvbWNRSm5wdGRGcW9LN0JpeUJCSW9iR3dkRVdpeTlRWXhCQXpHdjZXMk44UHVpcFVwenFjSkptZVhzdkZLRy1iQUFrRjNaZWU0MG56MThTejVFTkxI",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-26T08:05:10.000Z",
+  "title": "AI Shoppers Emerge as Distinct UAE Customer Segment",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS Data::CBMivAFBVV95cUxQeEZhbWZocVZ0UVlRZ09Nbm51UHRWVDhSb0x4RHNOd3h4RHIxQ0JvZVpsNnJRWWtWR0J4YVlyT1FzTTQ2OU9CZnNYZVdNckZNNHgwOXB2aml0ZkNqejVTem5ZU3kwc0luUXU1a3VxLUNkZzJMWE5zVjVlc1kxSXphLVNGSWxtVHFPemFBNllOT1lDbWhkcm5xbnNLTS1Cd09na19yY3Rfa3ZpWjJJQzlISldMLVJURW5jd3FfTQ",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-22T00:39:55.000Z",
+  "title": "2022 Global Digital Shopping Playbook: Brazil Edition",
   "snippet": ""
  }
 ]
