@@ -1,130 +1,154 @@
 [
  {
-  "id": "Apple Newsroom::https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
-  "source": "Apple Newsroom",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-10-26T13:00:22.904Z",
-  "title": "Apple gives iPad mini its biggest update ever",
-  "snippet": "Apple unveils the all-new iPad mini, featuring an OLED display in a thinner design, a leap in performance with A20 Pro, and water and dust resistance."
- },
- {
-  "id": "Gartner::CBMi-AFBVV95cUxNYzdGS0lzUTZESndyOEMxd3NXOVM5V09xMjZPYWZiM2xpQTlSYmpIV2xJLVZXMlhmTkd6RVk2X0JkaDV5cVlSSUNacjFhd2dKT015aE1mV1c5MGpKYjhQZVNaeTg3YzZvWTJCaDZ2bThNSVhodEQ1ekphNDdSdll2S010RmVoQWxBVTNFYkxKTllCazhrRVo4VUl6amxQd2xPRENDa1BqUlJJcG1PYjVyMkJhdWxWSHlaMUJiUEZMbVVZZkxsaGx6ZTZ6WXRRUWl0Yjg4VWFLZnhHcWpSZjVaNU5LZ3BqRGwxYUlzcXhFc0JQbndNVDBTYw",
-  "source": "Gartner",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-10-26T12:04:17.000Z",
-  "title": "Gartner Marketing Survey Finds Nearly 60% of U.S. Consumers Have Less to Spend This Holiday Season",
-  "snippet": ""
- },
- {
-  "id": "Inc42::https://inc42.com/?p=577916",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-26T11:53:18.000Z",
-  "title": "Pune Police Ask Google, Apple To Remove Rapido App Over Bike Taxi Operations",
-  "snippet": "Pune Police has written to Google and Apple seeking the removal of Rapido’s app from their respective app stores over…"
- },
- {
-  "id": "Inc42::https://inc42.com/?p=577602",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-26T11:30:14.000Z",
-  "title": "Announcing FAST42 2027: The Hunt For India’s 42 Fastest-Growing D2C Brands Begins",
-  "snippet": "India’s D2C ecosystem has no shortage of new brands. But as competition intensifies, identifying the businesses delivering strong revenue growth,…"
- },
- {
-  "id": "Retail TouchPoints::CBMirAFBVV95cUxPQ0U3alFSVVZUaXVIQzY4ZTFEVUZuODhDVEFuRDBvUXVwMVNER016ekVDeHdHYjlXZmJjSy0xQ1JLUUtrcms5dGtpX2tGdkZWbEJubkZiTUtnOFJJam9uTlRUdVlyNGloTnpsSTlXUFJ2TVZCNlVUeHJpSFA0Z0toMDdpdDZNSHZOTm43ek5YdVZzODlnLVBvYTJDdU04NFJnOGtCb3o5SzZqaTdl",
-  "source": "Retail TouchPoints",
+  "id": "Retail Dive::https://www.retaildive.com/news/banana-republic-debuts-tiktok-content-series-in-bid-for-younger-shoppers/833851/",
+  "source": "Retail Dive",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T11:07:00.000Z",
-  "title": "Target’s Holiday Strategy Centers on New AI Shopping Assistant",
-  "snippet": ""
+  "publishedAt": "2026-10-26T19:58:00.000Z",
+  "title": "Banana Republic debuts TikTok content series in bid for younger shoppers",
+  "snippet": "The effort spotlights various styles and arrives as parent Gap Inc. continues to emphasize entertainment marketing."
  },
  {
-  "id": "Reuters::CBMiuwFBVV95cUxOQmhHLVQtWW5oc0hEcHFSTVdkbC1KWXB1amJYeVYyVTZtcXpZdnBNaTFRb1kzcHk4cFdnLVVDYmZrVU5rZ0V4N2NLR2JwdWh1WHFIZ3UzZkZDN29aR2E5aHBBQ2hacnROLTh4MzU3TW5uZDNycXd3Ukk4QmFZUVF3VTJwcldIQkphekZDczJwdGluSVpUYjk5RGJ2TkJfdWh0MWRJZ3JTc1VnVG5PTkZFckp0SjhUblRwNVRV",
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363726",
+  "source": "Digital Commerce 360",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-26T18:52:05.000Z",
+  "title": "Etsy updates AI policy, noting concerns about buyer trust",
+  "snippet": "Etsy published updated guidelines on artificial intelligence (AI) for sellers on Oct. 22. The marketplace is restricting specific categories of AI-generated content, tightening listing photo requirements and introducing…"
+ },
+ {
+  "id": "Reuters::CBMi2AFBVV95cUxQb2dYaFN6ZU5pODlkRWJja25NUURBRGhvTW8yLVEwUklsei13aVZlTnk0S1M2eTR0bFhHUEdzOGdEZjNRM0tTNW1VRGowQVd1SnJrTG9kZHptWUxjU21KdnVhMGItTGxmV2Z0emlYeDZJZFMxU1U5aVZMTGpiV1NoNTlJVURIeDZTSmx4dnc1Y293ZnV2ZHpjQlNPdGtSSUZqdGdtbFlfNjRxYzY1SnQ1YVZJalVFcW0yZ0ZJd2lkdjl5YThoNW5wSGRMZG9SdzJnVDhLU3FUSHE",
   "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T11:01:43.000Z",
-  "title": "Buses out, shoppers in: London's Oxford Street goes traffic-free",
+  "publishedAt": "2026-10-26T18:37:49.000Z",
+  "title": "US retailers face record holiday delivery prices from surcharges tied to costlier diesel",
   "snippet": ""
  },
  {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76374",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T10:01:05.000Z",
-  "title": "Supreme Court clears path for Tesco equal pay claim worth up to £4bn",
-  "snippet": "The Supreme Court has blocked Tesco’s final attempt at appealing a critical procedural ruling in a multi-billion-pound court battle over equal pay The post Supreme Court clears path for Tesco equal pay claim worth up to…"
+  "id": "PYMNTS Data::CBMimgFBVV95cUxPamlqeXdCTm1IcGYyZTA3RldDSGZLZ1pGVnVuN0MwNFJ4TDBrLU0xX1FQR2E5R3NxdUp4MHJBbEVoRnFSVEpvckVhSlVRM18xRnJBWWZadWFoWjJfeGNISVUwaWN4WEpDRmRQdXZ6UDBSMF90NkRmY0JZNERMMDVtOUJydF9sWV8zcEZLckd5YXgxUldxeFBCSlRR",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-26T17:14:23.000Z",
+  "title": "Walmart Turns Black Friday Into 3-Part Shopping Event",
+  "snippet": ""
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/spons/agentic-commerce-the-infrastructure-is-ready-for-ai-agents-is-your-store/833313/",
+  "id": "Retail Dive::https://www.retaildive.com/news/cvs-pokemon-collectibles-beauty-seasonal/872755/",
   "source": "Retail Dive",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T09:00:00.000Z",
-  "title": "Agentic commerce: The infrastructure is ready for AI agents. Is your store?",
-  "snippet": "With the holidays approaching, check these signals to assess your AI readiness (and check it twice)."
+  "publishedAt": "2026-10-26T16:22:00.000Z",
+  "title": "CVS wants to sell more Pokémon, collectibles",
+  "snippet": "The pharmacy retailer is expanding its assortment of toys and collectibles as adults fuel growth in those segments."
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/spons/keeping-pace-with-walmart-marketplace-the-work-behind-basecoms-innovatio/833294/",
+  "id": "Retail Dive::https://www.retaildive.com/news/target-soho-store-renovation-fan-shop-remodels-holidays/833925/",
   "source": "Retail Dive",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T09:00:00.000Z",
-  "title": "Keeping pace with Walmart Marketplace: the work behind Base.com’s Innovation Award",
-  "snippet": "Base.com wins the Walmart Marketplace Innovation Award at Let's Grow 2026."
+  "publishedAt": "2026-10-26T16:13:00.000Z",
+  "title": "Target spruces up SoHo store, fan shops ahead of the holidays",
+  "snippet": "In both cases, a localized presentation is key to what the retailer calls its “merchandising authority.”"
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/spons/the-most-expensive-problems-are-the-ones-youve-learned-to-live-with/833681/",
-  "source": "Retail Dive",
+  "id": "Retail TouchPoints::CBMiswFBVV95cUxQQWZyYURaUS0waV9pSGlMc3RxcmlpMlB3TXJNQU1CNnNCWk9GMTdQaUpMR1VVMThoZ2ZLeGNKZnZkNU4zR3EybDE5bm92VVJZTDFDaDBvUnEtOUJzQ2VjcHNhbkt0cTBLNW1YZU1aTlNFdWFhY2V2VW5WWk1iM190WnE5MEZ1M2pRSmp5OTFCc3FYRVhfUk1zSl9IMUtuNDY2akRSQW5RTEJvZ2R2MkxmRlNndw",
+  "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T09:00:00.000Z",
-  "title": "The most expensive problems are the ones you’ve learned to live with",
-  "snippet": "Some of retail’s biggest opportunities may be hiding inside familiar operational constraints."
+  "publishedAt": "2026-10-26T16:01:20.000Z",
+  "title": "The Next Interactive Store Won’t Wait To Be Touched",
+  "snippet": ""
  },
  {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/rapido-bike-taxis-may-be-banned-in-pune-as-police-ask-google-apple-to-remove-app/135207187",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T08:41:55.000Z",
-  "title": "Rapido bike taxis may be banned in Pune as police ask Google, Apple to remove app",
-  "snippet": "Pune police have approached Google Play Store and Apple’s App Store to remove Rapido bike option from app amid a crackdown on its bike taxi operations. The move follows a directive from Pune Collector and RTA…"
+  "id": "PYMNTS Data::CBMiqwFBVV95cUxPZXU3S2xYd09DR183b09nZTgwUlVyamRTcUdfeG1jM09QdlMyeWxOU2N0WWFxVnlDRHlKNGdJSlYtZE4tMzJfRGVCalFHaS1pdUR1cmcyaXowYUZvdVpaNWFZbll0d1U0WjRCblpfOGMwNlFsWVkyOHFQeURUdk9HdlJYYnhjV3M0bkd2c0FyU01pSHdMNVBQckIzRnY4WjlCbWdmaFB0eTl2SVk",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-26T15:59:23.000Z",
+  "title": "Subprime Consumers Keep Paying Cards Despite Budget Pressure",
+  "snippet": ""
  },
  {
-  "id": "Inc42::https://inc42.com/?p=577866",
-  "source": "Inc42",
+  "id": "CRN::https://www.crn.com/news/channel-news/2026/solution-provider-accuses-sba-administrator-kelly-loeffler-of-brazen-abuse-in-contract-suspensions",
+  "source": "CRN",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-26T08:38:54.000Z",
-  "title": "L Catterton Invests In InMobi-Backed AI Shopping Platform Glance",
-  "snippet": "Consumer-focused investment firm L Catterton has made a strategic investment in InMobi-backed AI shopping platform Glance to support its expansion,…"
+  "publishedAt": "2026-10-26T15:55:00.000Z",
+  "title": "Solution Provider Accuses SBA, Administrator Kelly Loeffler, Of ‘Brazen Abuse’ In Contract Suspensions",
+  "snippet": "ATI Government Solutions filed a lawsuit against the U.S. Small Business Administration and Kelly Loeffler, administrator of the SBA, alleging that the SBA suspended ATI from all government contracts based on what it…"
  },
  {
-  "id": "PYMNTS Data::CBMinAFBVV95cUxNVWliTWhSZENQQnVPbkVDbExsN2xfTkJ2a3hVTTBDRGluR2RHUDVybHpjMmRONXl6Zkd2d2I5RVVPYnVON1NPVjd5em5HU183V2VQRDRyN1hLbEFLSjZiTnR6MW4tbFgwVzVvcVFfVm1tVS1QWE55RDE5S1UtWGVYRFl6NWNuM3N4ZUdyRjVoaWgtRXVsU1NpbXNPSEs",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-26T08:05:42.000Z",
-  "title": "Gen X Keeps the Wallet: How to Reach the AI-Assisted Shopper",
+  "id": "Retail Dive::https://www.retaildive.com/news/walmart-longer-black-friday-cyber-monday-sales-events/872747/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-26T15:43:00.000Z",
+  "title": "Walmart debuts longer Black Friday, Cyber Monday sales events",
+  "snippet": "The mass retailer's deal events will total 14 days this season, compared to 10 in 2025."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/genre-horror-romance-bookstores-chicago-retail/833673/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-26T15:17:00.000Z",
+  "title": "Genre bookstores are having a moment — especially in Chicago",
+  "snippet": "From romance to horror, genre readers are done settling for just a few shelves. Now they are coming for the entire store."
+ },
+ {
+  "id": "Reuters::CBMi0wFBVV95cUxNT0tZUTI2Y3dGdDVaME1tZnZHWXA3eXBZOU9VUUFLa2NtTG9hdThKVEk4X1RSOVlTdTBma2d4OGFXSXplbHpvN1lfNi1SWldSUnB0Njh1Q01RNmhPUW1YekY5bF9MOHpVdWgwWVhDeU1VWVFuUWFNLVEyWUYwczFQdXRjRm02VlRmbjJWN19DQ180Zi1zYVJlMFRmMnNnMlF2S2VUR1ctVl9MbnV1X0ZzRndCX3J0dy1CVTNsaVlKOElINExUOUd0R2JXMzVJakNvTllz",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-26T14:39:45.000Z",
+  "title": "T-Mobile debuts wireless plans with customizable perks from streaming to food delivery",
   "snippet": ""
  },
  {
-  "id": "PYMNTS Data::CBMinwFBVV95cUxQRmxlOWp0aHVUUVFBZUNpTVFtSjZiamdZcHRUZ0ZUa25XNWh1dGdLVU9Jd0VnRnY4dGg3bGt5X29PWndSTUIzcVFGamY2enZFaXh5ZlFicll0WXVhV3ZpelpOa3hXQUJleVhOS3ZFR04tLUk4VHMtNmtPdUN5NVdfa0ZjWDhYT1B1dUltZnptX21McUkySnR1dDFtSGNfZUE",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-26T08:05:31.000Z",
-  "title": "Parents Split on What Makes Buy Now, Pay Later Options Attractive",
-  "snippet": ""
+  "id": "Retail Dive::https://www.retaildive.com/news/levis-distribution-network-transition-delay/833896/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-26T14:39:00.000Z",
+  "title": "Levi’s distribution network transition saga continues to drag",
+  "snippet": "Due to a facility fire during Q3 and the complexity of its SKU mix, the retailer doesn't expect to see benefits from its overhaul until 2027."
  },
  {
-  "id": "PYMNTS Data::CBMioAFBVV95cUxNc3hJc3VOVTNmVVJ6UFdrcEhFY0JqR0FUNDhJdS1MOVlBWWNJSmZKZHFHei0xOGVMakt3NktsVXdrb1lfY3lQQWUyODhvbWNRSm5wdGRGcW9LN0JpeUJCSW9iR3dkRVdpeTlRWXhCQXpHdjZXMk44UHVpcFVwenFjSkptZVhzdkZLRy1iQUFrRjNaZWU0MG56MThTejVFTkxI",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-26T08:05:10.000Z",
-  "title": "AI Shoppers Emerge as Distinct UAE Customer Segment",
-  "snippet": ""
+  "id": "Modern Retail::https://www.modernretail.co/?p=173952",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-26T14:00:00.000Z",
+  "title": "Why returns are becoming a bigger focus for TikTok Shop and DoorDash",
+  "snippet": "More marketplaces and delivery platforms see easy returns as the key to winning more sales, as evidenced by some news from TikTok Shop and DoorDash this fall."
  },
  {
-  "id": "PYMNTS Data::CBMivAFBVV95cUxQeEZhbWZocVZ0UVlRZ09Nbm51UHRWVDhSb0x4RHNOd3h4RHIxQ0JvZVpsNnJRWWtWR0J4YVlyT1FzTTQ2OU9CZnNYZVdNckZNNHgwOXB2aml0ZkNqejVTem5ZU3kwc0luUXU1a3VxLUNkZzJMWE5zVjVlc1kxSXphLVNGSWxtVHFPemFBNllOT1lDbWhkcm5xbnNLTS1Cd09na19yY3Rfa3ZpWjJJQzlISldMLVJURW5jd3FfTQ",
-  "source": "PYMNTS Data",
+  "id": "CRN::https://www.crn.com/news/ai/2026/oracle-commits-1-billion-to-partner-ecosystem",
+  "source": "CRN",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-26T13:55:00.000Z",
+  "title": "Oracle Commits $1 Billion To Partner Ecosystem",
+  "snippet": "Oracle is committing $1 billion over four years to expand partner incentives, AI and cloud resources, migration support and Oracle Marketplace opportunities."
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=166729",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-26T13:01:52.000Z",
+  "title": "DMF Lighting Names Marcus Lovely Senior Sales Manager",
+  "snippet": "Former Unlimited Integration sales VP will support dealers and design professionals across the New York metro area"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=166744",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-26T13:01:50.000Z",
+  "title": "Shelly Launches Presence Gen4 Radar Sensor in North America",
+  "snippet": "The camera-free sensor uses mmWave radar and customizable detection zones to support room-based smart home automation"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=166719",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-26T13:00:58.000Z",
+  "title": "Induction Hardware Challenges Appliance Industry With Innovation, Longevity And Retail-First Strategy",
+  "snippet": "Bringing European technology to American kitchens"
+ },
+ {
+  "id": "NIQ::CBMioAFBVV95cUxNT1BiX1hwaWFxUFQ5WEJsV3c1cUZpNDVqa25qSVBBaWhWZkFxYklxUFdaa21telRvX1hrNzdnTXhtaXBmZGJWUjlpM2I3UUMxandfeGxQQV9aY2d2N0RyWlYtMkNmRXBfTDdYbFRlZGtXY3N4SHRlWTNUOW1JNlNobzRIVWQ5a240VjdOcW9IdmxxaVNtS18tVXZFX19LTlhW",
+  "source": "NIQ",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-22T00:39:55.000Z",
-  "title": "2022 Global Digital Shopping Playbook: Brazil Edition",
+  "publishedAt": "2026-09-29T07:28:41.000Z",
+  "title": "Map of the Month: Millennials, Europe 2025",
   "snippet": ""
  }
 ]
