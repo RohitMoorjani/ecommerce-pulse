@@ -4930,5 +4930,102 @@
  "Reuters::CBMiuAFBVV95cUxQZ0daTjF2T0J2S2hkNHpvRXdTNVJGNEM4MGZ4UFktQnRXSWotTkNtN3U4QU5qQUIwYldpWjFaOGVmeWpiRFc5Zlh3NUhwQnRid25tQzNTZzZPc0ZsLTBFRkc0cW5xNnJ2TG9MRFNjT1lzUlRzMVUwcVBnUnJ1RGtMamZuUGhqVmdTREhEMjBmSHVCWlhWRVRWVGJfZWo3QVJVakZSTEtGdEF1Q3h5MktyeTd3aXJZZnRW": {
   "keep": false,
   "publishedAt": "2026-10-22T12:39:58.000Z"
+ },
+ "PYMNTS Data::CBMijgFBVV95cUxOSmtCMVpmNXQ1TWNGTVg2SjRsakJXajBnRXdsMjlqcy1TejBnLVFGR1pUY3V2S29WNExoTXdWaFBOYTFUV2VnWERhS0pybkVfd1oyM2FjSlBlcVItbF9YUHE2QnpvWkxMc194akVNY19uRkRjbEJlSW5TN2RSR1BjN3FTY01rOTV0SV9LZDVB": {
+  "keep": false,
+  "publishedAt": "2026-10-27T08:05:20.000Z"
+ },
+ "PYMNTS Data::CBMimgFBVV95cUxNWEx5UDdBZ0dmXzNpbjF6c25rcUV6M294SWlCMkJseE00TzByREszaVpEeGlSamVfR0l3U04tNDlLNEhvVEhIaVM4TFdEcVlFN01ya0VkOXh3OE1kZFJIZ29zSURSM19SNXVuenAxMDV2V3RfZ1ZtRlFTb0Z4Vlo0RlZROEk5TlFIZ3c2S181UHVyMGx4RDBBbndB": {
+  "keep": false,
+  "publishedAt": "2026-10-27T08:05:07.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261027PD223/microsoft-workforce-investment-business-2026.html": {
+  "keep": false,
+  "publishedAt": "2026-10-27T06:54:49.000Z"
+ },
+ "IDC::CBMiYkFVX3lxTE03V29UZjdYZnZ5YWR5UW5vdFBkaVVuRUhRQTBBM0xLQjBkVXRQU3hUN3dNZW1hWlk2TVlTOGw2eDVrUDVBQy1FajNSVExXbjJTVEU3YmRGTXhJS0N0cl9aNERn": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "IDC surveys how memory-shortage fears shape PC buyers’ appetite for flexible financing",
+  "short_headline": "Memory shortage tests PC buyers’ financing demand",
+  "takeaway": "If procurement teams lean on financing amid memory costs, we should test leasing and instalment offers for business buyers in our store.",
+  "importance": 4,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-27T06:45:08.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261027VL222/broadcom-anthropic-funding-financing-finance.html": {
+  "keep": false,
+  "publishedAt": "2026-10-27T05:56:04.000Z"
+ },
+ "Inc42::https://inc42.com/?p=578055": {
+  "keep": false,
+  "publishedAt": "2026-10-27T05:30:18.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261027VL219/military-infrastructure-manufacturing-supply-chain-semiconductors.html": {
+  "keep": false,
+  "publishedAt": "2026-10-27T04:08:24.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=174041": {
+  "keep": false,
+  "publishedAt": "2026-10-27T04:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261027PD205/fujifilm-capacity-demand-materials-production.html": {
+  "keep": false,
+  "publishedAt": "2026-10-27T03:56:00.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/grocery/doordash-in-talks-to-buy-instacart-in-roughly-17-billion-deal-source-says/135223903": {
+  "keep": false,
+  "publishedAt": "2026-10-27T03:50:17.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261027VL215/samsung-sk-hynix-hbm4-shipments-nvidia.html": {
+  "keep": false,
+  "publishedAt": "2026-10-27T03:06:24.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261027PD200/price-demand-electronics-recovery-growth.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "China chip and electronics supply chain raises prices, straining domestic demand",
+  "short_headline": "China component price hikes strain demand",
+  "takeaway": "Rising memory and CPU quotes in China point to further component cost pressure on our pricing and promotions.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-27T02:42:01.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261027PD215/data-data-center-expansion-electronics-chips.html": {
+  "keep": false,
+  "publishedAt": "2026-10-27T02:29:51.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261027VL207/shipments-smartphone-2026-market-price.html": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "India smartphone shipments fall 20% to a decade low as memory costs lift prices",
+  "short_headline": "India device shipments hit decade low on pricing",
+  "takeaway": "Memory-driven price rises are hurting affordability in India; we should expect similar demand pressure and trade-down on our devices there.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-27T02:18:10.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261024VL201/2027-vehicle.html": {
+  "keep": false,
+  "publishedAt": "2026-10-27T01:46:21.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261027VL205/amkor-packaging-investment-expansion-manufacturing.html": {
+  "keep": false,
+  "publishedAt": "2026-10-27T01:20:32.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261027VL206/brand-2028-smartphone-electronics-2026.html": {
+  "keep": false,
+  "publishedAt": "2026-10-27T00:46:13.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261027VL200/amkor-packaging-sales-demand-production.html": {
+  "keep": false,
+  "publishedAt": "2026-10-27T00:41:58.000Z"
+ },
+ "Retail TouchPoints::CBMiZEFVX3lxTE14VUJTSzNFMWtRa2FnQV91ZmYxaHFiWUZOZ0k3STB0cDdONFpJcHdWejZhclJ0WGNyVVA0Y0hfakZQNFh0eE9JSE9HTDhQZWVXRUl6SnF4Q1p0T0tBeV92bFZNY28": {
+  "keep": false,
+  "publishedAt": "2026-10-22T07:00:00.000Z"
  }
 }
