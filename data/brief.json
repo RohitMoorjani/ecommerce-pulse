@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T09:51:08.025Z",
+ "updatedAt": "2026-10-27T15:50:18.559Z",
  "title": "Agents and marketplaces now gate discovery; our store must be agent-ready",
  "summary": "55% of consumers use AI in product discovery (NIQ); 34% would use GenAI for gift ideas (Gartner). Walmart opened to outside AI agents with spending limits; Best Buy joined TikTok Shop; PC shipments fell 21% in Q3 (Counterpoint).",
  "points": [
@@ -23,13 +23,14 @@
    ]
   },
   {
-   "headline": "PC demand is falling while memory costs lift prices and test financing",
-   "detail": "PC shipments fell 21% in Q3 (Counterpoint) amid record price inflation; IDC is probing whether memory fears raise demand for flexible financing. We should plan Q4 pricing and test financing offers.",
+   "headline": "PC demand is falling while memory costs lift prices; Apple still refreshes",
+   "detail": "PC shipments fell 21% in Q3 (Counterpoint) amid record price inflation; Apple launched an M6 MacBook Pro; PayPal BNPL volume rose 25%. We should plan Q4 pricing and test instalment offers.",
    "segment": "pc",
    "storyIds": [
     "Counterpoint Research::CBMimAFBVV95cUxNQUJjMnJJVmd3dFlwaWswQnh4OS1PNTNjVmlUTnR3ZWs4LTRwcDJYTWtydlZiMEhnUWh6WEFSYVEyYmxNbERQNnp1TF9LNmJXS1ZZZmlOWmRVOW5RRU91VlowNl9YN0Y1eUZ1VFRxU2FwcUJZOU1jZ3UxeTNQU19lSmxsZlRYVHNMVUg4ck9iVnd3UEc5VTJTbw",
     "Counterpoint Research::CBMimAFBVV95cUxOR2dyMjJOSnpOMWpmZzBxMzRhOWZWOFFOTTVzV1E0MUlPbFpGdVZ0Q0RrZHU5TEU3d0dQSGJsTGNvNl9jZzdIMUxzVmp6M2N2ODdFeV9EMnNsNkptNExzMDlIZXB2VHVaTDdmX3pBdUF0MllnSF9pV3NaRHZrTW5tOTV0emNHSmduYW9jYmFmZ2FlcUE1OEpBYQ",
-    "IDC::CBMiYkFVX3lxTE03V29UZjdYZnZ5YWR5UW5vdFBkaVVuRUhRQTBBM0xLQjBkVXRQU3hUN3dNZW1hWlk2TVlTOGw2eDVrUDVBQy1FajNSVExXbjJTVEU3YmRGTXhJS0N0cl9aNERn"
+    "Apple Newsroom::https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+    "PYMNTS Data::CBMiugFBVV95cUxQWGlTTkpkalQ3VmFxQkluRWJ4WEl1S3hHaFNLUlJtaDF3anM0MGVlSWpCMU5JT0s2b0FCV2MyWHNOUm9Vc1BJUWdFQldxZkIwY3R6YUFuWkNZMlNtaGJyR3ZOY0lfYmRmVmlGTkRPWTduRkJseDVwTE5tS2J4QUNOM0ZaOWZ3TFpLSVlGdzd3ZlhFSXFGSGtab0pqTm9iY2tLUlUwWFVsa3hOaWFGaUZNVlc4cjJNakdJTFE"
    ]
   },
   {

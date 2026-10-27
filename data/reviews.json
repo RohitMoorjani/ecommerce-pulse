@@ -5023,5 +5023,143 @@
  "Retail TouchPoints::CBMiZEFVX3lxTE14VUJTSzNFMWtRa2FnQV91ZmYxaHFiWUZOZ0k3STB0cDdONFpJcHdWejZhclJ0WGNyVVA0Y0hfakZQNFh0eE9JSE9HTDhQZWVXRUl6SnF4Q1p0T0tBeV92bFZNY28": {
   "keep": false,
   "publishedAt": "2026-10-22T07:00:00.000Z"
+ },
+ "PYMNTS Data::CBMiugFBVV95cUxQWGlTTkpkalQ3VmFxQkluRWJ4WEl1S3hHaFNLUlJtaDF3anM0MGVlSWpCMU5JT0s2b0FCV2MyWHNOUm9Vc1BJUWdFQldxZkIwY3R6YUFuWkNZMlNtaGJyR3ZOY0lfYmRmVmlGTkRPWTduRkJseDVwTE5tS2J4QUNOM0ZaOWZ3TFpLSVlGdzd3ZlhFSXFGSGtab0pqTm9iY2tLUlUwWFVsa3hOaWFGaUZNVlc4cjJNakdJTFE": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "PayPal pushes AI plans as buy now, pay later payment volume rises 25%",
+  "short_headline": "PayPal BNPL volume up 25% as AI plans advance",
+  "takeaway": "BNPL volume growth suggests instalment options deserve prominence at checkout in our store, especially for higher-ticket PCs.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-27T15:19:39.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76385": {
+  "keep": false,
+  "publishedAt": "2026-10-27T14:36:32.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/walmart-cmo-breaks-down-retailers-muppet-fueled-holiday-campaign/872773/": {
+  "keep": false,
+  "publishedAt": "2026-10-27T14:26:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173963": {
+  "keep": false,
+  "publishedAt": "2026-10-27T14:00:00.000Z"
+ },
+ "Retail TouchPoints::CBMi2gFBVV95cUxPbU1vbXg3dlRwaHdnZUxReG9wbjYySVV4LWhOV3BOUWxtWi1FV1RnZmlvSjBaUWRLMG5tZjNJOHFkeFZjV0s3bTFieW5kUS12ZnBCdzlHRlYtOUktaXQ5OF9KUWF1UnA5VHozcFdRY3dXTWsxb09IMV9DaG1hUnU5NVNmRXdXWncwXy05TWRTX3JSWENBX0ZXOXJBU3RydFhWUFFhS1dGY3F6NWxZSDh1SUdyRjBOYUhlN0haSXFDQl9GSnQxWkdWa3NpMGdQUXFiMkFBSV9XQXdKQQ": {
+  "keep": false,
+  "publishedAt": "2026-10-27T13:41:55.000Z"
+ },
+ "NRF::CBMihgFBVV95cUxNN1BuSHFIZWtVM21YVGhuMU1HSm5seU5haTFTTTZjWGdmZjNIRkRacTVrdWpZM0VLT0RmRHJCSGNrT3NqUG1xREs2LUJsSE80dnZlNWl6WVhQZm9ocTZQME05T0hycGNvc2htbWxSdkwyV1IzVlVxeXdxbEU2NFF5WDFvX3l0UQ": {
+  "keep": false,
+  "publishedAt": "2026-10-27T13:14:01.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166790": {
+  "keep": false,
+  "publishedAt": "2026-10-27T13:01:27.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166793": {
+  "keep": false,
+  "publishedAt": "2026-10-27T13:01:10.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166782": {
+  "keep": false,
+  "publishedAt": "2026-10-27T13:00:11.000Z"
+ },
+ "Apple Newsroom::https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Apple launches 14-inch MacBook Pro with M6, pitching on-device AI and speed",
+  "short_headline": "Apple launches 14-inch MacBook Pro with M6",
+  "takeaway": "Apple is leaning on on-device AI in its laptop pitch; we should check how our AI PC messaging and pricing compare.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-10-27T12:59:39.082Z"
+ },
+ "Apple Newsroom::https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Apple unveils new iMac with M6, again promoting AI performance",
+  "short_headline": "Apple unveils new iMac with M6",
+  "takeaway": "Apple is refreshing desktops with AI-led messaging; we should watch for pricing and promotions against our all-in-ones.",
+  "importance": 2,
+  "content_type": "announcement",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-10-27T12:59:15.245Z"
+ },
+ "Inc42::https://inc42.com/?p=578021": {
+  "keep": false,
+  "publishedAt": "2026-10-27T12:13:46.000Z"
+ },
+ "CRN::https://www.crn.com/news/networking/2026/ingram-micro-launches-ai-powered-smb-quick-buy-program-packed-with-cisco-technology": {
+  "keep": true,
+  "segment": "plays",
+  "headline": "Ingram Micro and Cisco launch AI-powered Quick Buy to speed SMB quoting and ordering",
+  "short_headline": "Ingram Micro launches AI Quick Buy for SMB deals",
+  "takeaway": "AI-assisted quoting and ordering for SMB partners is a model we could test for business buyers in our store.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-10-27T12:00:00.000Z"
+ },
+ "Inc42::https://inc42.com/?p=578124": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Rising Flipkart costs make the festive season pricier for ecommerce sellers",
+  "short_headline": "Flipkart festive season costs squeeze sellers",
+  "takeaway": "Higher marketplace costs for sellers since July may squeeze margins on our Flipkart listings during the festive peak.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-27T11:51:24.000Z"
+ },
+ "Inc42::https://inc42.com/?p=578121": {
+  "keep": false,
+  "publishedAt": "2026-10-27T11:29:00.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76382": {
+  "keep": false,
+  "publishedAt": "2026-10-27T11:06:59.000Z"
+ },
+ "Retail TouchPoints::CBMi-AFBVV95cUxPbkFYT2hHOVNaYjdQTmt2bFQ1VWlQVHlKekp0R0RnLXFCSVRCZFA5U2lxREJTMEt5U3ZaTlB0RzdGX2NBV3pBcm9qRENBX0lLU2RqMzZJT1FUQkdkcHFiQk9xR2hEWHVCQmhRWW43N3k1WjY0bWFuc1Nya1lSOGJiVEphWUtZdHdWN29NcWw1eWxTME01eGZVX2JWMkFCMHlVMUcwU2cyRWNOQmhFQlVhTzBYZXpDWE9idnVpRU9wbHRaS2FCOWZiMmoyU18yTkR5R0xfajNCNldrdEZrOWpsVnBKeW9GbEJzdUNKMlpzZDB3a1ZmbF96Tg": {
+  "keep": false,
+  "publishedAt": "2026-10-27T11:01:29.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/retail-horror-stories-nike-turnaround-lululemon-chip-wilson-2026/833866/": {
+  "keep": false,
+  "publishedAt": "2026-10-27T11:00:00.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76379": {
+  "keep": false,
+  "publishedAt": "2026-10-27T10:32:57.000Z"
+ },
+ "PYMNTS Data::CBMiwAFBVV95cUxNTnltOVFKa2lxUDhMdi1UNkFUNWh0cmtCcTRpMjQ5a2dLa2xYYUgwb0hNZ1Z2SkcyT0kxRDlMbnhXU0o2djNjeTktYkxkRzlweDBsX0Qwdi1BcDdrWVl3VU81X1ZnZFcyclFJanhxeDdhTmNaV1A5WjhZQlVHTk1BZGc2YS0xS1p1N2ZZRk5PajlWQ09Cc0pwZ2xYQmZYSzRoX3c5TEF2T2p2RHIxQ1hKdEtzaWJsbkE5cVRGcVhXSUg": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Four years of data show digitally active small businesses pulling ahead",
+  "short_headline": "Digital small businesses pull ahead, four-year data",
+  "takeaway": "Digitally engaged small businesses are growing stronger, a buyer group worth targeting with our store tech offers.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-27T09:49:48.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261027PD243/data-center-forecast-2027-revenue-development.html": {
+  "keep": false,
+  "publishedAt": "2026-10-27T09:25:00.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/tata-motors-amazon-partner-to-deploy-3000-electric-trucks-for-ecommerce-logistics/135229435": {
+  "keep": false,
+  "publishedAt": "2026-10-27T09:10:22.000Z"
+ },
+ "NIQ::CBMioAFBVV95cUxNdkdnSDYtU2t5R1RxSXVwOXhOcEFSRXEwa2FLcUUzNERnYWpfcUtpSWNQT3k1d0IxbGVhaVNYemNjWTJEOUNHS3Q0emhDclFaaTdvVnlTRDVVQUpsUVBsbS14MzhkRm5KZTBYckNZLTlTWE1qMVB4a0xHYnhiWFplUUNNdjN3dUdoUHV0djNvWmFPX3lvOUc5TzVVejF1dmlm": {
+  "keep": false,
+  "publishedAt": "2026-09-29T07:00:00.000Z"
  }
 }
