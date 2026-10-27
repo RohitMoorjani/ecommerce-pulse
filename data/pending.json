@@ -1,154 +1,58 @@
 [
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/banana-republic-debuts-tiktok-content-series-in-bid-for-younger-shoppers/833851/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T19:58:00.000Z",
-  "title": "Banana Republic debuts TikTok content series in bid for younger shoppers",
-  "snippet": "The effort spotlights various styles and arrives as parent Gap Inc. continues to emphasize entertainment marketing."
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261023PD238/samsung-humanoid-robot-development-ces.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-26T23:51:05.000Z",
+  "title": "Samsung Executive Chairman reportedly eyes RX unit visit for humanoid robot push",
+  "snippet": "Samsung Electronics Executive Chairman Lee Jae-Yong is reportedly set to visit the company's Robotics eXperience (RX) business unit in Seoul's Umyeon-dong by the end of October to review humanoid robot development and…"
  },
  {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363726",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261023PD232/ai-server-power-components-transmission-efficiency-digitimes.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-26T23:50:48.000Z",
+  "title": "DIGITIMES Insights: AI servers move toward 800V DC as vertical power delivery promises higher efficiency, lower transmission losses",
+  "snippet": "AI server power architectures are evolving toward high-voltage distribution and point-of-load voltage conversion, according to DIGITIMES Intelligence."
+ },
+ {
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1356510",
   "source": "Digital Commerce 360",
   "sourceType": "Analyst",
-  "publishedAt": "2026-10-26T18:52:05.000Z",
-  "title": "Etsy updates AI policy, noting concerns about buyer trust",
-  "snippet": "Etsy published updated guidelines on artificial intelligence (AI) for sellers on Oct. 22. The marketplace is restricting specific categories of AI-generated content, tightening listing photo requirements and introducing…"
+  "publishedAt": "2026-10-26T23:14:41.000Z",
+  "title": "RB Global grows revenue 7% in Q4 as AI expands across auctions",
+  "snippet": "RB Global reported higher revenue, net income and gross transaction value in 2025, ending on growth in Q4. It cited disciplined execution and expanded use of artificial intelligence (AI) to improve pricing, routing and…"
  },
  {
-  "id": "Reuters::CBMi2AFBVV95cUxQb2dYaFN6ZU5pODlkRWJja25NUURBRGhvTW8yLVEwUklsei13aVZlTnk0S1M2eTR0bFhHUEdzOGdEZjNRM0tTNW1VRGowQVd1SnJrTG9kZHptWUxjU21KdnVhMGItTGxmV2Z0emlYeDZJZFMxU1U5aVZMTGpiV1NoNTlJVURIeDZTSmx4dnc1Y293ZnV2ZHpjQlNPdGtSSUZqdGdtbFlfNjRxYzY1SnQ1YVZJalVFcW0yZ0ZJd2lkdjl5YThoNW5wSGRMZG9SdzJnVDhLU3FUSHE",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T18:37:49.000Z",
-  "title": "US retailers face record holiday delivery prices from surcharges tied to costlier diesel",
-  "snippet": ""
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363733",
+  "source": "Digital Commerce 360",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-26T22:45:34.000Z",
+  "title": "Bose acquires Skullcandy in push to broaden audio brand portfolio",
+  "snippet": "Bose Corporation reached a deal to acquire fellow headphones brand Skullcandy, the companies formally announced on Oct. 21. The acquisition brings together two big names in consumer electronics and audio wearables…"
  },
  {
-  "id": "PYMNTS Data::CBMimgFBVV95cUxPamlqeXdCTm1IcGYyZTA3RldDSGZLZ1pGVnVuN0MwNFJ4TDBrLU0xX1FQR2E5R3NxdUp4MHJBbEVoRnFSVEpvckVhSlVRM18xRnJBWWZadWFoWjJfeGNISVUwaWN4WEpDRmRQdXZ6UDBSMF90NkRmY0JZNERMMDVtOUJydF9sWV8zcEZLckd5YXgxUldxeFBCSlRR",
+  "id": "PYMNTS Data::CBMirgFBVV95cUxOUlJuY013VXdpN1NiRXAyMUxQZm5zRExuOFVmX25yV1pmYmtHREFmaTVRMzdObmlod0RlRWxIMG1HUXFTN0hDRlllMjhnYWRoQkxXblVMY25SOVNGZW9GSzVFc3B3NHBwQmY5X3gyTWVOZ28xMjIxYk1yam9iWUd4OXRCNzVJVkx4bUd6OTJmWTh0RjZURi1LYTJ3cW1aOGp3VmU2MjRNbVZmZzRvTkE",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-26T17:14:23.000Z",
-  "title": "Walmart Turns Black Friday Into 3-Part Shopping Event",
+  "publishedAt": "2026-10-26T22:29:24.000Z",
+  "title": "FTC Lawsuit Alleges Dollar General Routinely Overcharges Shoppers at Register",
   "snippet": ""
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/cvs-pokemon-collectibles-beauty-seasonal/872755/",
+  "id": "Retail Dive::https://www.retaildive.com/news/dollar-general-sued-ftc-alleged-deceptive-pricing/872790/",
   "source": "Retail Dive",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T16:22:00.000Z",
-  "title": "CVS wants to sell more Pokémon, collectibles",
-  "snippet": "The pharmacy retailer is expanding its assortment of toys and collectibles as adults fuel growth in those segments."
+  "publishedAt": "2026-10-26T20:36:00.000Z",
+  "title": "Dollar General sued by FTC over ‘deceptive pricing practices’",
+  "snippet": "The agency, along with 20 states, allege that customers are charged more at the register than prices displayed on tags and in ads."
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/target-soho-store-renovation-fan-shop-remodels-holidays/833925/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T16:13:00.000Z",
-  "title": "Target spruces up SoHo store, fan shops ahead of the holidays",
-  "snippet": "In both cases, a localized presentation is key to what the retailer calls its “merchandising authority.”"
- },
- {
-  "id": "Retail TouchPoints::CBMiswFBVV95cUxQQWZyYURaUS0waV9pSGlMc3RxcmlpMlB3TXJNQU1CNnNCWk9GMTdQaUpMR1VVMThoZ2ZLeGNKZnZkNU4zR3EybDE5bm92VVJZTDFDaDBvUnEtOUJzQ2VjcHNhbkt0cTBLNW1YZU1aTlNFdWFhY2V2VW5WWk1iM190WnE5MEZ1M2pRSmp5OTFCc3FYRVhfUk1zSl9IMUtuNDY2akRSQW5RTEJvZ2R2MkxmRlNndw",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T16:01:20.000Z",
-  "title": "The Next Interactive Store Won’t Wait To Be Touched",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMiqwFBVV95cUxPZXU3S2xYd09DR183b09nZTgwUlVyamRTcUdfeG1jM09QdlMyeWxOU2N0WWFxVnlDRHlKNGdJSlYtZE4tMzJfRGVCalFHaS1pdUR1cmcyaXowYUZvdVpaNWFZbll0d1U0WjRCblpfOGMwNlFsWVkyOHFQeURUdk9HdlJYYnhjV3M0bkd2c0FyU01pSHdMNVBQckIzRnY4WjlCbWdmaFB0eTl2SVk",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-26T15:59:23.000Z",
-  "title": "Subprime Consumers Keep Paying Cards Despite Budget Pressure",
-  "snippet": ""
- },
- {
-  "id": "CRN::https://www.crn.com/news/channel-news/2026/solution-provider-accuses-sba-administrator-kelly-loeffler-of-brazen-abuse-in-contract-suspensions",
-  "source": "CRN",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-26T15:55:00.000Z",
-  "title": "Solution Provider Accuses SBA, Administrator Kelly Loeffler, Of ‘Brazen Abuse’ In Contract Suspensions",
-  "snippet": "ATI Government Solutions filed a lawsuit against the U.S. Small Business Administration and Kelly Loeffler, administrator of the SBA, alleging that the SBA suspended ATI from all government contracts based on what it…"
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/walmart-longer-black-friday-cyber-monday-sales-events/872747/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T15:43:00.000Z",
-  "title": "Walmart debuts longer Black Friday, Cyber Monday sales events",
-  "snippet": "The mass retailer's deal events will total 14 days this season, compared to 10 in 2025."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/genre-horror-romance-bookstores-chicago-retail/833673/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T15:17:00.000Z",
-  "title": "Genre bookstores are having a moment — especially in Chicago",
-  "snippet": "From romance to horror, genre readers are done settling for just a few shelves. Now they are coming for the entire store."
- },
- {
-  "id": "Reuters::CBMi0wFBVV95cUxNT0tZUTI2Y3dGdDVaME1tZnZHWXA3eXBZOU9VUUFLa2NtTG9hdThKVEk4X1RSOVlTdTBma2d4OGFXSXplbHpvN1lfNi1SWldSUnB0Njh1Q01RNmhPUW1YekY5bF9MOHpVdWgwWVhDeU1VWVFuUWFNLVEyWUYwczFQdXRjRm02VlRmbjJWN19DQ180Zi1zYVJlMFRmMnNnMlF2S2VUR1ctVl9MbnV1X0ZzRndCX3J0dy1CVTNsaVlKOElINExUOUd0R2JXMzVJakNvTllz",
+  "id": "Reuters::CBMiuAFBVV95cUxQZ0daTjF2T0J2S2hkNHpvRXdTNVJGNEM4MGZ4UFktQnRXSWotTkNtN3U4QU5qQUIwYldpWjFaOGVmeWpiRFc5Zlh3NUhwQnRid25tQzNTZzZPc0ZsLTBFRkc0cW5xNnJ2TG9MRFNjT1lzUlRzMVUwcVBnUnJ1RGtMamZuUGhqVmdTREhEMjBmSHVCWlhWRVRWVGJfZWo3QVJVakZSTEtGdEF1Q3h5MktyeTd3aXJZZnRW",
   "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T14:39:45.000Z",
-  "title": "T-Mobile debuts wireless plans with customizable perks from streaming to food delivery",
-  "snippet": ""
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/levis-distribution-network-transition-delay/833896/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T14:39:00.000Z",
-  "title": "Levi’s distribution network transition saga continues to drag",
-  "snippet": "Due to a facility fire during Q3 and the complexity of its SKU mix, the retailer doesn't expect to see benefits from its overhaul until 2027."
- },
- {
-  "id": "Modern Retail::https://www.modernretail.co/?p=173952",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T14:00:00.000Z",
-  "title": "Why returns are becoming a bigger focus for TikTok Shop and DoorDash",
-  "snippet": "More marketplaces and delivery platforms see easy returns as the key to winning more sales, as evidenced by some news from TikTok Shop and DoorDash this fall."
- },
- {
-  "id": "CRN::https://www.crn.com/news/ai/2026/oracle-commits-1-billion-to-partner-ecosystem",
-  "source": "CRN",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-26T13:55:00.000Z",
-  "title": "Oracle Commits $1 Billion To Partner Ecosystem",
-  "snippet": "Oracle is committing $1 billion over four years to expand partner incentives, AI and cloud resources, migration support and Oracle Marketplace opportunities."
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166729",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T13:01:52.000Z",
-  "title": "DMF Lighting Names Marcus Lovely Senior Sales Manager",
-  "snippet": "Former Unlimited Integration sales VP will support dealers and design professionals across the New York metro area"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166744",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T13:01:50.000Z",
-  "title": "Shelly Launches Presence Gen4 Radar Sensor in North America",
-  "snippet": "The camera-free sensor uses mmWave radar and customizable detection zones to support room-based smart home automation"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166719",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T13:00:58.000Z",
-  "title": "Induction Hardware Challenges Appliance Industry With Innovation, Longevity And Retail-First Strategy",
-  "snippet": "Bringing European technology to American kitchens"
- },
- {
-  "id": "NIQ::CBMioAFBVV95cUxNT1BiX1hwaWFxUFQ5WEJsV3c1cUZpNDVqa25qSVBBaWhWZkFxYklxUFdaa21telRvX1hrNzdnTXhtaXBmZGJWUjlpM2I3UUMxandfeGxQQV9aY2d2N0RyWlYtMkNmRXBfTDdYbFRlZGtXY3N4SHRlWTNUOW1JNlNobzRIVWQ5a240VjdOcW9IdmxxaVNtS18tVXZFX19LTlhW",
-  "source": "NIQ",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-09-29T07:28:41.000Z",
-  "title": "Map of the Month: Millennials, Europe 2025",
+  "publishedAt": "2026-10-22T12:39:58.000Z",
+  "title": "Holiday Inn owner IHG beats revenue estimates on resilient US travellers",
   "snippet": ""
  }
 ]
