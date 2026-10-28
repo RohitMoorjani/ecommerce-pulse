@@ -5342,5 +5342,136 @@
   "content_type": "news",
   "competitors": [],
   "publishedAt": "2026-10-28T00:24:28.000Z"
+ },
+ "PYMNTS Data::CBMiuwFBVV95cUxQem56Vk9DY0NRMUotVS0wWXlFUFU2dGVRSFdWS1ptSW5DNEtReGVfemtSN2NScVRjRHhtM19mVmRUUndCd0IwMXBoWkoyekhQNHFwRGp6SHVoMDNfTG1mTU8ydzFwLWVnd0hLWEZ6Zjd5dkFra0NQTThPcG5icFRSQWE3bGNHN1p5OTA3X09kSWJDYXhldUl2eVdvUHM3OWppVU5Ra3dBVVVJdUNvM0lUcXc3ZVdMekZBSUw4": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Amazon expands Shop Direct catalog to keep shoppers off outside AI shopping agents",
+  "short_headline": "Amazon widens Shop Direct to counter AI agents",
+  "takeaway": "Marketplaces are fighting to keep discovery in-house; we should check how our listings appear to AI agents versus on Amazon.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-28T20:10:09.000Z"
+ },
+ "Reuters::CBMiqwFBVV95cUxPdWxPZy11QV9mWTN3NnBKTlNXVWhVQ3ZsSzA5bGRwZnRrNXZsQW83NWVreGhVbmhkNE1VeDc4V0VVamtQb0lCaFU3SEYzcG1paGJ3WWt1cHB2YnlUQ0VvTWNHcEdyalZMenkxSVo5Vm5MTlowcGR4UDZGcnZOcmhqM285amVvTmhLX2xIWTVUM0hXbUJsWlhfT2RWMUV6U2ZIeldYUkRXUzlNTVk": {
+  "keep": false,
+  "publishedAt": "2026-10-28T20:00:22.000Z"
+ },
+ "Reuters::CBMiuAFBVV95cUxNMGg0QUZLRkZQUmg1ei1BVWZCUEZkcFdueUIyZDJFX3ljN09yRjUzSEE5V0JWVVpRaGRHdHNDaHAtNkRlNXZfWElQM3QxM0lpZTM1UHJYQWhKRmQ2X3JJNzAxRy1lcGIyalhUTEFhRGxyOTUxeU04S2U1X1RSWWUwcldiQndWUTZtYlB0SGZVTFM4eV9HZVV4VGdsRDAzc3h6TWhiZmVDNVF0dkRGMXI1eFhMekQ0TTU2": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Apple shows pricey touchscreen laptops, a first for the iPhone maker",
+  "short_headline": "Apple unveils first touchscreen laptops",
+  "takeaway": "A touchscreen Mac resets premium laptop expectations; we should watch pricing and how it reshapes laptop shopping online.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-10-28T19:13:44.000Z"
+ },
+ "NRF::CBMigwFBVV95cUxOQU1iTEprcFVfYm1tX25Ob291VndfdjIyVEtvYS12d2VfdzZPNkhCZXRkU1FWbVJQMkRKUVJtVFRFRjJYdmh1T0xRdnF2SlFqb0hRQlBnaHgtMXRYa2hOSkU0bTQwN3EycGJIZEYydnB3OFQ0ZWt4WXNQNlB3cEpRUnFUUQ": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "NRF publishes 2026 holiday shopping trends on what consumers are planning",
+  "short_headline": "NRF: what consumers plan for holiday 2026",
+  "takeaway": "Holiday plans from NRF should inform our promotion timing and inventory for the peak season.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-28T19:05:31.000Z"
+ },
+ "Retail TouchPoints::CBMiogFBVV95cUxOUVN3WXFucllXNXVyRGFiNnFQUDFNYVc3c1hmeXRLekRZbzN2VzNJRXgxYXh2NXRIekpLQ3dEN2JMSXlsWmdxXzZlS2c5c2JFbW1vZTJfWmN5M0ZRY3hfT0lickdrY2ctSU92TjhGYVdNaDEya01jS1hNbUVFUEpDcW16a1FsS2pYWGpSdjZxVzRFWF9BdzV4RDVDZmJKSmFlZUE": {
+  "keep": false,
+  "publishedAt": "2026-10-28T19:04:53.000Z"
+ },
+ "Apple Newsroom::https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Apple unveils MacBook Pro with PROLED XDR display using tandem OLED technology",
+  "short_headline": "Apple launches MacBook Pro with tandem OLED",
+  "takeaway": "Apple is pushing display quality at the premium end; we should review how our high-end laptops are positioned against it.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-10-28T17:09:28.430Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/sephora-casts-seth-rogen-holiday-ads/873013/": {
+  "keep": false,
+  "publishedAt": "2026-10-28T16:58:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/hasbro-wizards-of-the-coast-president-dan-ayoub/872998/": {
+  "keep": false,
+  "publishedAt": "2026-10-28T16:13:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/running-brand-rescue-vans-vf-corp-altra/873014/": {
+  "keep": false,
+  "publishedAt": "2026-10-28T16:13:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/jos-a-bank-new-store-concept/872882/": {
+  "keep": false,
+  "publishedAt": "2026-10-28T15:56:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/etsy-ceo-ai-human-creativity-earnings/873009/": {
+  "keep": false,
+  "publishedAt": "2026-10-28T15:41:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/aritzia-store-openings-product-expansions-double-revenue-growth-plan/873034/": {
+  "keep": false,
+  "publishedAt": "2026-10-28T15:29:00.000Z"
+ },
+ "NIQ::CBMi2AFBVV95cUxQTElhSkY3ZnJjYmR2MWxwRklrNW91V3pTNE15M3ZvSHpDam5RRVEyb2tybzhhcWVMbEcxaEtISG1vTW4zeFNjd1JMOExKT2FoTk9CR1h0c3c1QmFHblBGSkxKU0hEbnVMb0prYlVOTThoaEJKRkdObklrUHZuVi1qdFFBeWh3S1ExWFBSam5XVHJGM0dqM3p1YnhNMUVZRzR1b21RXzZ3OEN0ak9EVWozM3ZpZTVQc3FnWVJIZGhyNTgzMUxGVnlLbUpXck1YTjdUcTFvRDlQWm0": {
+  "keep": false,
+  "publishedAt": "2026-10-28T15:03:16.000Z"
+ },
+ "Dell Blog::https://www.dell.com/blog/the-hidden-roi-in-your-pc-lifecycle": {
+  "keep": false,
+  "publishedAt": "2026-10-28T15:00:00.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76393": {
+  "keep": false,
+  "publishedAt": "2026-10-28T14:39:09.000Z"
+ },
+ "Inc42::https://inc42.com/?p=578347": {
+  "keep": false,
+  "publishedAt": "2026-10-28T14:36:05.000Z"
+ },
+ "Retail TouchPoints::CBMiaEFVX3lxTE5vM0twS1NqanFjYWV5aTNqcm9reUg4anotVS1xTWJrT3o3Rl9ZWnJVRXBqQU1FVVQtSzd2cFBwVnA2MmVNRU9abVYtOUJHRTdqMlBnWk1WN1RXbWxMeVhUcEdMQ3B1NG9R": {
+  "keep": false,
+  "publishedAt": "2026-10-28T13:56:08.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166829": {
+  "keep": false,
+  "publishedAt": "2026-10-28T13:01:23.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166826": {
+  "keep": false,
+  "publishedAt": "2026-10-28T13:01:13.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166821": {
+  "keep": false,
+  "publishedAt": "2026-10-28T13:00:21.000Z"
+ },
+ "Dell Blog::https://www.dell.com/blog/what-does-your-pc-need-to-run-agentic-ai-": {
+  "keep": false,
+  "publishedAt": "2026-10-28T13:00:00.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/meesho-q2-results-loss-narrows-to-rs-132-crore-yoy-revenue-rises-34/135265674": {
+  "keep": false,
+  "publishedAt": "2026-10-28T12:33:00.000Z"
+ },
+ "McKinsey::CBMi3gFBVV95cUxOWENYYThmT1lvWlNUT25udnNwSWNJLWtEaE42ZjdWalpQZWhhY25yQV92a0VqNW1rd1RaNDF5bW9PTERqYnVUb3Y3NkdwZWJ4bXdUQ2d4dm1zOTNTUkVBTTFqSHF0SmdrTENmUUdkQXJIMWRNT3Z6UU5uMTg2ZXJyTnRsRUo5b2VFWmRqVFJSenhERlpzbF92UDY2czRXdjZ4c2RYai1NRm8yYnNNeG1YZUhYUXNsZjVoNTFhOVRWbGJ4ZklYOWppOFJkeVZnYllLdEJjZlRZQklvOTBSRHc": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "McKinsey weighs who wins when AI does the shopping, with new evidence on agentic commerce",
+  "short_headline": "McKinsey: who wins when AI does the shopping",
+  "takeaway": "New evidence on agentic commerce can help us decide how our store should be built for AI-driven shopping.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-28T00:00:00.000Z"
  }
 }

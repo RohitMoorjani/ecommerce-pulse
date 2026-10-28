@@ -1,42 +1,43 @@
 {
- "updatedAt": "2026-10-28T15:51:21.470Z",
- "title": "Our store must be agent-ready as AI takes over discovery",
- "summary": "55% of consumers use AI in product discovery (NIQ). Global PC shipments fell 21% in Q3 (Counterpoint), with a 27% Q4 drop forecast. Walmart opened to outside AI agents with spending limits; Amazon blocks them. Walmart stretched Black Friday to 14 days.",
+ "updatedAt": "2026-10-28T21:50:29.070Z",
+ "title": "Shopping starts with AI, so our store must be built for agents too",
+ "summary": "55% of consumers use AI in product discovery (NIQ); 34% of US shoppers would use GenAI for gift ideas (Gartner). Walmart opened to outside agents and added spending limits; Amazon widened Shop Direct. PC shipments fell 21% in Q3 (Counterpoint).",
  "points": [
   {
-   "headline": "AI is now a mainstream discovery channel and retailers are setting agent rules",
-   "detail": "55% of consumers use AI in discovery (NIQ). Walmart admits outside agents with profiles and spending controls while Amazon blocks them. We should decide how agents read and buy from our store.",
+   "headline": "Retailers are setting rules for AI shopping agents",
+   "detail": "Walmart added agent profiles, terms and spending limits; Amazon expanded Shop Direct to keep shoppers off outside agents. We should decide how agents may read and buy from our store.",
    "segment": "agentic",
    "storyIds": [
-    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
     "Retail Dive::https://www.retaildive.com/news/walmart-welcomes-external-ai-shopping-agents-terms-boundaries/833723/",
-    "TechCrunch::https://techcrunch.com/?p=3180139",
-    "PYMNTS Data::CBMirwFBVV95cUxNTHAwZS0wVHZjLUhEYXZnQnpEdUlLbkxrUHBabUtydFZBU2xoenlOb3kxNU5UUnIyY2JUdGU3RnBzbjhTMGVzU3RXNld5S21DSWNlTkt2REdTREZPTFlWamZFeE5aSVFwYjRGQXhvR21xaHp6Q0ZnbFJUbjZIdDB5MmJHVENuZXFtZEt5U05USXZxM3RJcGlMY29LWmdmZFRVdEVlcWxvZ2Q5MjZveEd3"
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363692",
+    "PYMNTS Data::CBMiuwFBVV95cUxQem56Vk9DY0NRMUotVS0wWXlFUFU2dGVRSFdWS1ptSW5DNEtReGVfemtSN2NScVRjRHhtM19mVmRUUndCd0IwMXBoWkoyekhQNHFwRGp6SHVoMDNfTG1mTU8ydzFwLWVnd0hLWEZ6Zjd5dkFra0NQTThPcG5icFRSQWE3bGNHN1p5OTA3X09kSWJDYXhldUl2eVdvUHM3OWppVU5Ra3dBVVVJdUNvM0lUcXc3ZVdMekZBSUw4"
    ]
   },
   {
-   "headline": "PC demand is falling sharply into Q4",
-   "detail": "Global PC shipments dropped 21% in Q3 and Q4 is forecast down 27% (Counterpoint). We should plan promotions, pricing and inventory for a much weaker market.",
-   "segment": "pc",
+   "headline": "AI is now a mainstream discovery channel",
+   "detail": "NIQ finds 55% of consumers use AI in discovery; Gartner says 34% of US shoppers would use GenAI for gift ideas. Product content must work for AI tools.",
+   "segment": "trends",
    "storyIds": [
-    "Counterpoint Research::CBMimAFBVV95cUxNQUJjMnJJVmd3dFlwaWswQnh4OS1PNTNjVmlUTnR3ZWs4LTRwcDJYTWtydlZiMEhnUWh6WEFSYVEyYmxNbERQNnp1TF9LNmJXS1ZZZmlOWmRVOW5RRU91VlowNl9YN0Y1eUZ1VFRxU2FwcUJZOU1jZ3UxeTNQU19lSmxsZlRYVHNMVUg4ck9iVnd3UEc5VTJTbw"
+    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
+    "Gartner::CBMilAJBVV95cUxPdEI3MmZCa2FBWVVoSC1ZNGh2OUhLSnhPRUl1eWgtMHd2T2dNVXRnRUhJUVh1WVhYMWl1Mm5RLXZzZzBPdzBQalVXYzlLNmlwLXhzSE8zU0RCcHpjTHhQSWxZazNrcUZraEl0Z1VnYlBULW1TOUI4eWVRYlZiNlFkSVJyT3FleGJHOFNnTU5jY0JEZVhaN1RkU2NhZC1UVjVoQTZjLTk2ckVmVktrdnQyeUZmRl8yeG8zZkQ1N3dCSFhmMjJNRXBPdGdYRW9lVlRpRzVndUN0ZjFGeF9xVF9sc1IyVm1ZY1o5b21jNE9mX0ZqNzY2UVYyY211aXg0eGFpelZGUGZ6ajQwRU9GX3FyNElCYUM"
    ]
   },
   {
-   "headline": "Memory costs push up prices and make financing more attractive",
-   "detail": "Memory costs lifted the iPad mini price and IDC surveys buyers on financing amid shortage fears. We should test leasing and instalment offers for business buyers.",
+   "headline": "PC demand is sharply weaker as memory costs bite",
+   "detail": "Counterpoint: Q3 shipments fell 21%, with Q4 forecast down 27%. Apple raised iPad mini prices on memory costs. We should plan Q4 promotions, pricing and inventory accordingly.",
    "segment": "pc",
    "storyIds": [
-    "IDC::CBMiYkFVX3lxTE03V29UZjdYZnZ5YWR5UW5vdFBkaVVuRUhRQTBBM0xLQjBkVXRQU3hUN3dNZW1hWlk2TVlTOGw2eDVrUDVBQy1FajNSVExXbjJTVEU3YmRGTXhJS0N0cl9aNERn",
+    "Counterpoint Research::CBMimAFBVV95cUxNQUJjMnJJVmd3dFlwaWswQnh4OS1PNTNjVmlUTnR3ZWs4LTRwcDJYTWtydlZiMEhnUWh6WEFSYVEyYmxNbERQNnp1TF9LNmJXS1ZZZmlOWmRVOW5RRU91VlowNl9YN0Y1eUZ1VFRxU2FwcUJZOU1jZ3UxeTNQU19lSmxsZlRYVHNMVUg4ck9iVnd3UEc5VTJTbw",
     "DigiTimes::https://www.digitimes.com/news/a20261028VL200/apple-ipad-mini-hardware-imac-macbook-pro.html"
    ]
   },
   {
-   "headline": "Walmart stretches its Black Friday and Cyber Monday window to 14 days",
-   "detail": "The event grows from 10 to 14 days, which may pull electronics demand earlier. We should check our deal calendar and price matching against it.",
-   "segment": "marketplaces",
+   "headline": "Apple moves into touchscreen laptops",
+   "detail": "Apple showed its first touchscreen laptops, priced at the premium end. We should check how our touch-capable lines are positioned online against them.",
+   "segment": "pc",
    "storyIds": [
-    "Retail Dive::https://www.retaildive.com/news/walmart-longer-black-friday-cyber-monday-sales-events/872747/"
+    "Reuters::CBMiwwFBVV95cUxOUG5iWVZIc0l0UF9OcVhkbnIyenJRX1J1OV8yMWQ4c0VsYlpZOXRCQUVkYzRxU25ZcVBrdTdZd0V1SGEteUpwU2Q0a3VOX2hkaDV1aUhnT1owMWV4VktZY1FHQkxNWHRWZnZlR0pkak9mQTZsdHgwLWlrMm1TdkNDNW00VS1GRFliWTZXcm1sQ1BYSGVONGVXMGNQdEVvNFFvTkN4QUQtQi15SW5VSnJEb1JwYjVJRmVZd0NFbG1tcFdDbXc",
+    "Reuters::CBMiuAFBVV95cUxNMGg0QUZLRkZQUmg1ei1BVWZCUEZkcFdueUIyZDJFX3ljN09yRjUzSEE5V0JWVVpRaGRHdHNDaHAtNkRlNXZfWElQM3QxM0lpZTM1UHJYQWhKRmQ2X3JJNzAxRy1lcGIyalhUTEFhRGxyOTUxeU04S2U1X1RSWWUwcldiQndWUTZtYlB0SGZVTFM4eV9HZVV4VGdsRDAzc3h6TWhiZmVDNVF0dkRGMXI1eFhMekQ0TTU2"
    ]
   }
  ]
