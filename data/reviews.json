@@ -5287,5 +5287,71 @@
  "Reuters::CBMipAFBVV95cUxNTks0TEhNcDhhU2VhLXNYanZDVXI2eWRLVVVULUd4M3JueFQ1TDNCTFJ6YkxFVjk0SW1iblY5Q21oRDJaczVBTTBtYXA1dmR3WHFNT1dtQm1vSUg2Z3RxcDMxSjBzMk9yR3JiaDdKNmpKMnMwRWl6Y3Y1RWRxcDlZQWhFYk1zdDRYY1llZy1iUGlJWGwtSVA0MVBYMnpHVkFkTnBTRw": {
   "keep": false,
   "publishedAt": "2026-10-27T22:52:01.000Z"
+ },
+ "Global Marketplaces::CBMiuAFBVV95cUxOMExLVTU4MmRnZmVqdFQ4YW5GMVBLOFRtZmUwTnF3WGU3Z05WRndOcFB2STR2RG5YYVllWnh4MzlVY3RBTGlZRjFFMVFuSDJiV19ZNHRPQjRVTGFmOFhvTXp1UHJhc05mRnI4X3lCdllITlc4NnkzNE1iNkRicWIxc2JHTzAtTDNRQU11MjNyUkt0UUx0WWQydXlSS1dOQ0Q2ZmM0VWYwUnV0UEJGMUlTZFY4eWgtUGMy": {
+  "keep": false,
+  "publishedAt": "2026-10-28T12:48:24.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/shelf-visibility-alone-wont-win-consumers-as-trust-premiumisation-reshape-food-retail-industry-leaders/135264867": {
+  "keep": false,
+  "publishedAt": "2026-10-28T12:09:28.000Z"
+ },
+ "Inc42::https://inc42.com/?p=578315": {
+  "keep": false,
+  "publishedAt": "2026-10-28T11:59:14.000Z"
+ },
+ "Reuters::CBMiwwFBVV95cUxOUG5iWVZIc0l0UF9OcVhkbnIyenJRX1J1OV8yMWQ4c0VsYlpZOXRCQUVkYzRxU25ZcVBrdTdZd0V1SGEteUpwU2Q0a3VOX2hkaDV1aUhnT1owMWV4VktZY1FHQkxNWHRWZnZlR0pkak9mQTZsdHgwLWlrMm1TdkNDNW00VS1GRFliWTZXcm1sQ1BYSGVONGVXMGNQdEVvNFFvTkN4QUQtQi15SW5VSnJEb1JwYjVJRmVZd0NFbG1tcFdDbXc": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Apple expected to show first touchscreen laptops amid a product blitz",
+  "short_headline": "Apple expected to show first touchscreen laptops",
+  "takeaway": "A touchscreen Mac would reshape laptop comparisons; we should check how our touch-capable lines are positioned online.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-10-28T11:07:43.000Z"
+ },
+ "Retail TouchPoints::CBMiogFBVV95cUxPdjE0cmF1X0xDY3JoWFp1R09tQUcyTGZDVzZCNXVmVVdianEtc1otbnllWDRKeGxTU3NFWWZmT05UTi13QnZOZjdSY0xwYno0eG9ON0l1clZxTTc0Yms4U3Q3RlpXb2JFc0N1dDNBTm14MlJ2U2NtdTVQYjhuQkxKYWtFeUMzSjlaZnNkUXByODFhNlJwbjR4X29MSlp0emMxQWc": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Simon-Kucher: households plan to cut holiday budgets by 5.5%",
+  "short_headline": "Households to cut holiday budgets by 5.5%",
+  "takeaway": "Tighter holiday wallets mean we should sharpen promotions, financing and value messaging in our store for the peak season.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-28T11:03:17.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76388": {
+  "keep": false,
+  "publishedAt": "2026-10-28T10:58:56.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/gold-silver-price-correction-lifts-festive-hopes-jewellers-see-buying-interest-pick-up/135258917": {
+  "keep": false,
+  "publishedAt": "2026-10-28T09:08:05.000Z"
+ },
+ "TrendForce::CBMi3gFBVV95cUxNLU5UbjM5SUhoVDJ2YTdBZFBYUFFwUnpTTktDZHd4OWJ6dnZQNmVFZ2VwVWJEeUpHd3RxcnBJYzRQbU1CR0YwWFZJRXQzU0lvM1FMMHg1bHAwV2poNEtnbWNMMEMxNDhBbjUzV1lRQ1pMUVdORWV3QTJ2UldzU1p2WVF6OTlHOHdxd211a2hGWHNHcnJzdTdHanVDTWREdG9LRl9jTHdhNWttNVJOWjF2ME1zdjR2eGo5RVhULXdTWFk2dFJQUmktMk9hcFJmTFhiYlRZV2VzaDN6Vml1ZVE": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "AI-driven component costs push HP, ASUS and Acer to move some PC production back to China",
+  "short_headline": "PC makers shift some production back to China",
+  "takeaway": "Component cost pressure could affect PC pricing and supply; we should watch for price moves across our channels.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-28T08:04:39.000Z"
+ },
+ "PYMNTS Data::CBMiswFBVV95cUxPZEpxNXVPSWluLUdjRUhaV193T1J2OU5wZWhiR0lRRV9vZGJOSVRmMlVUNWdONERjVVkwa3U3Rnh6VW9qTXRkSm1rTWtfcHhFUlkxaDR6bHVHa3ljRmUxNTBSbWxMYUNadExYZ0NJelNoeXJ3STM1OGxOWi1fQURDRlExcEtGZjAwSEZ6aHRaMEVSSnFxTGJ0d1JtM2l0MUQyaUxOelBaeFEwYTkwTnBFMURjSQ": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Visa credentials reach 5.2 billion as network expands into agentic commerce",
+  "short_headline": "Visa expands into agentic commerce",
+  "takeaway": "Card-network support for agent payments could make agent checkout viable; we should check our store is ready for it.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-28T00:24:28.000Z"
  }
 }
