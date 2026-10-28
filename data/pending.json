@@ -1,98 +1,122 @@
 [
  {
-  "id": "Retail TouchPoints::CBMi3wFBVV95cUxOemVvZGUwRFJrTFZ6bXlXS3lUcjA2TnBmUlNNcDF2NnlxdVpoWnJBMlYtdjhod2syRnFwZkJPNEFIU3dwTEtRTk1FcjczWWloSHZtTmFXazlWVjZaWjlNUC1HcFR3ZjRzOV8yVmlrVlBXYmdkZE9pU1RnSG9QaU1EOFJQSHBJY0VpbzlJZ21hOURsMm9IRWdKalpiMldzNWJYSTB4M2tSRXAwSmJyanhsUl9wNFFKSGhtVUdTU0FRMTZpamJ3RE9XTXlIOWxjNEV6ejN4YmM3RHNrY21hYlo0",
-  "source": "Retail TouchPoints",
+  "id": "Modern Retail::https://www.modernretail.co/?p=173979",
+  "source": "Modern Retail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-27T21:37:55.000Z",
-  "title": "The Pop-Up Playbook: 7 Design Strategies That Ignite Consumer Engagement and Drive Brand Recall",
-  "snippet": ""
+  "publishedAt": "2026-10-28T04:00:00.000Z",
+  "title": "Intake Breathing nabs $62M investment, joining the emerging nasal wellness trend",
+  "snippet": "Intake Breathing raises $62 million to expand its nasal strips into retail and continue to position better breathing as an important part of everyday wellness routines."
  },
  {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363756",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-10-27T19:37:49.000Z",
-  "title": "Amazon Business targets procurement efficiency with new AI and reporting features",
-  "snippet": "Almost one year after Amazon Business unveiled its Amazon Business Assistant in 2025, the business-to-business (B2B)-focused side of Amazon announced two ways in which it will seek to improve procurement for the buyers…"
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD203/asus-demand-rtx-intel-commercial.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-28T03:59:53.000Z",
+  "title": "Cloud AI costs drive demand for on-premises computing, squeezing Asus RTX Spark supply",
+  "snippet": "Asus and Intel on October 27 unveiled the new commercial laptop Asus ExpertBook A7 in Taiwan, as on-premises AI computing devices gain attention from enterprises and creators alongside traditional business PCs. Asus…"
  },
  {
-  "id": "Reuters::CBMi1wFBVV95cUxOQ09qUmU1TG9CYkFQZWhZRWRlajJfMDRabXhYWUZTck05eVJHc1ZtY1ZaM203c2xiRm8wMWNqMGsxUHFyWHg4NmZBYUNLQmNVa2VCSnZrVld3ZzFtU0FGY2NBREd2bVZUVGRJSVY3SWRGRTRVMy1MRXB3U1JQMFF4ZE1RRHJGeFFvQUdMRG84dUtqSGZxdFVRaWVIenVZanNwTGFXalpfTzRraWx4WG5fNmJmdTRoRDFoZVZ0N0hibVpVNU5QNk4xSXIxUDJialJXYnlxaVFaYw",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD202/kentec-aidc-infrastructure-csp-subsidiary.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-28T03:48:50.000Z",
+  "title": "Kentec targets CSP opportunities with AIDC infrastructure integration",
+  "snippet": "Kentec, a subsidiary of Kenmec Group, is shifting beyond its traditional role as a contract manufacturer of components to become a systems integration provider (SIP) for complete AI data center (AIDC) infrastructure. At…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028VL218/pc-component-production-asia-manufacturing.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-28T03:17:54.000Z",
+  "title": "PC makers reportedly shift production back to China as AI boom drives up component costs",
+  "snippet": "US and Taiwanese PC makers are shifting some production from Southeast Asia back to China and partnering with additional Chinese contract manufacturers as surging memory and storage costs squeeze margins, reversing part…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/consumer-electronics/tata-electronics-apple-exports-near-rs-1-lakh-crore-in-fy26-as-net-loss-widens/135250111",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-28T02:57:07.000Z",
+  "title": "Tata Electronics’ Apple exports near Rs 1 lakh crore in FY26 as net loss widens",
+  "snippet": "Tata Electronics achieved nearly ₹1 lakh crore in exports during FY26, reflecting a 29% increase from the previous year. The company reported significant export revenues from the US, Taiwan, and Ireland, highlighting…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028VL211/sk-hynix-solidigm-ipo-funding-manufacturing.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-28T02:45:00.000Z",
+  "title": "SK Hynix CEO weighs funding options for Solidigm after shelving IPO",
+  "snippet": "SK Hynix is reassessing how to finance the US manufacturing expansion of its NAND flash subsidiary Solidigm after shelving a potential initial public offering (IPO), as the South Korean memory maker prepares for higher…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD222/unimicron-equipment-capacity-demand-production.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-28T02:37:04.000Z",
+  "title": "Unimicron steers resources to Taiwan AI substrates with NT$50.9B equipment orders, Japan unit sale",
+  "snippet": "Unimicron Technology is reshaping its global production footprint and steering resources toward Taiwan's higher-margin AI supply chain as surging AI and high-performance computing (HPC) chip demand drives the need for…"
+ },
+ {
+  "id": "Inc42::https://inc42.com/?p=578222",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-28T02:30:00.000Z",
+  "title": "The Festive Margin Crush, WeWork India’s Q2 Show & More",
+  "snippet": "Festive Rush Comes At A Cost India’s ecommerce sellers are heading into the festive rush with a growing cost burden.…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028VL204/nxp-industrial-demand-growth-automotive.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-28T01:48:08.000Z",
+  "title": "NXP's automotive content gains, industrial demand strengthen its growth outlook",
+  "snippet": "NXP Semiconductors' latest results point to a business gaining from more complex vehicle electronics and industrial computing, while its emerging data center operation offers another route to growth. The next test is…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028VL201/corning-growth-capacity-funding-sales.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-28T01:29:05.000Z",
+  "title": "Corning's AI fiber growth puts capacity delivery, customer funding in focus",
+  "snippet": "Corning's third-quarter results show optical networking becoming a larger driver of the materials maker's business as AI infrastructure expands. Stronger sales and profitability support its capacity investments, while…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028VL200/apple-ipad-mini-hardware-imac-macbook-pro.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-28T01:12:39.000Z",
+  "title": "Apple leans on AI silicon as reviewers call its Mac refresh incremental, question iPad mini pricing",
+  "snippet": "Apple's late-October hardware updates put on-device artificial intelligence at the center of devices that otherwise change little, as rising memory costs push prices higher. The new iPad mini, announced on October 26…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261027PD216/simmtech-bt-substrate-investment-semco.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-28T00:43:07.000Z",
+  "title": "Simmtech steps up SOCAMM investment as BT substrate supply tightens",
+  "snippet": "Major package substrate makers, including Samsung Electro-Mechanics (Semco), are concentrating capital spending on large, high-layer-count ABF substrates, while capacity expansion for BT substrates used in memory…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261027PD232/samsung-robotics-manufacturing-development-production.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-28T00:38:48.000Z",
+  "title": "Samsung DX division opens Suzhou robotics R&D hub",
+  "snippet": "Samsung Electronics' Device eXperience (DX) division has established its first overseas research and development site for manufacturing technology in Suzhou, China, leveraging the city's robotics and automation…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261027PD238/cxmt-apple-dram-demand-capacity.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-28T00:37:22.000Z",
+  "title": "CXMT reportedly prioritizes China demand, rejecting Apple's DRAM inquiry",
+  "snippet": "China's CXMT has reportedly declined Apple's inquiry about purchasing DRAM, prioritizing supply to domestic customers instead. As global memory supplies tighten and prices rise, the Chinese memory maker's capacity…"
+ },
+ {
+  "id": "Reuters::CBMipAFBVV95cUxNTks0TEhNcDhhU2VhLXNYanZDVXI2eWRLVVVULUd4M3JueFQ1TDNCTFJ6YkxFVjk0SW1iblY5Q21oRDJaczVBTTBtYXA1dmR3WHFNT1dtQm1vSUg2Z3RxcDMxSjBzMk9yR3JiaDdKNmpKMnMwRWl6Y3Y1RWRxcDlZQWhFYk1zdDRYY1llZy1iUGlJWGwtSVA0MVBYMnpHVkFkTnBTRw",
   "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-27T19:24:39.000Z",
-  "title": "UPS CEO says delivery company will make more money on slightly fewer holiday deliveries",
-  "snippet": ""
- },
- {
-  "id": "Retail TouchPoints::CBMizgFBVV95cUxQVzhnTUhQU3FkT19qR1VfdDlZOHBXUW1QSTJLTFd2MTJQUGNRWlp1Vk9TOU1DTklWaWRCLTI2a2NHWDJqNzVJcmk1M1U3RHM3dlB6ZDlHM3ExQ1VxU05FRmM4WUU0V2FDU2p2Uld4ZjZKMzFOM1ZVZTloRVBKX0ZMZ2dUVVNVcjJkb05GLW9WV1RZbHJVc3ZGY2Mzam4zQ2pmbUd1N2hsNWxpLVhqMkdoV2lwbHYxcE9VVDNwd1VPUm1UNkllRmljV0VmSW1OQQ",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-27T19:02:13.000Z",
-  "title": "The Holiday Shopping Moment Is Seasonal. The Customer Relationship Isn’t.",
-  "snippet": ""
- },
- {
-  "id": "Retail TouchPoints::CBMizwFBVV95cUxOcE9PMUtiSTJBeWIwNzhmZlhOVVlnc290MkhkcnNEM0dlZHF5bkZqMzNtTTRMeU5QX2FpUlF1M2tJSExOMTdpYldaMjRtVlNlbVdLSXREVHNnV0Ftd0V5cVZhNDRXNUR2UmJBSUVVZGJESGZWLXBDa1VzY1RQc3FtUmdIV2dDbGFBT0hoNmY2dTZhWHVvYmdMQUdfUXM3NVhHWnh0ZThucDRBRWtldS1jZVpGTTdMZmVxbE5NcFQzQzJSWWtKUERHaEpQWlExOWs",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-27T17:37:56.000Z",
-  "title": "Signup for Webinar Focused on How Leading Brands Keep Peak Season Campaigns on Schedule",
-  "snippet": ""
- },
- {
-  "id": "Global Marketplaces::CBMi0wFBVV95cUxOY0JkNzBiUTFPMVpSRm5RVGwtbHVSSmRteXhMc19rc3V1WE5RRW5mY0JRRXRKSGx4OW5pX3J6b25LWVFOVlJrZHNqdWY5YXpjRTYyTmcwemctbU9UOThJNFo3TnhIZW5rS2dDSXpCa081NVpZTFU4VGM5dU0wVkUyNENDYXBxSUtXLV9IZktNakxLQlBoakFwNWVsTzVRRTFzbndodlVQeGVIN09qaHZENE5OaGV0cV9WdWNfeWR3Nm5td3hZSXRsakJPcTFWSy1aLU5B",
-  "source": "Global Marketplaces",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-27T17:34:47.000Z",
-  "title": "Shopee hikes capacity in Brazil by 60% in one year, awaits regulation on medicine sales",
-  "snippet": ""
- },
- {
-  "id": "Reuters::CBMipAFBVV95cUxPNlJmQ1NMeEVTRlJIWjMxUGJPOXNBMXRLR0VnVlBkVDQwUFlUNkFKOTRnaWFUc2U5YVhxYWF0UnBVWFVkMXd3c2Juclh5a0FnOHMzeUpaOE1NVWhfYWYtVUc2MHBzVXhESFc3RXRpcTM0R3I3V2tpcFVpSE5aTkNtaEh4LXZpRjlmMUdHcHMzWUFtdjNzY2hIbmt1WThYSUg4OGVlVA",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-27T16:59:18.000Z",
-  "title": "AI investment boom powers US business spending on equipment in September",
-  "snippet": ""
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/target-overhauls-threshold-home-goods-brand/872851/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-27T15:43:00.000Z",
-  "title": "Target overhauls Threshold home goods brand",
-  "snippet": "The $3 billion private label has improved quality, merchandising and, in some cases, prices, and added more than 800 items to the assortment."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/these-department-stores-need-a-good-holiday-kohls-penney-saks/833912/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-27T15:41:00.000Z",
-  "title": "These 3 department stores need a good holiday",
-  "snippet": "Kohl’s, J.C. Penney and — once again— Saks Fifth Avenue have a lot riding on this year’s shopping season."
- },
- {
-  "id": "Reuters::CBMiwAFBVV95cUxON3B6ZTl2YngycEZ2VU5pQmhuOC1TVmdrajNIVHNGdlJKQmQxd3QtMy0tdGdHM0FVRk5LV0c0UzZxbkZPZldtckJXSXgwVl9RY1NEd3B0TFZrVU9QMTZlOVdGRVhPV0pEWkZKMkVMOGxfRElZczdCbmxLV1lRT05sOHk4d1NNUmxQcjgzWXNXTXh5dzh4ZEtzWGVGYlhUNmRkaTZ5bjNGeVZvSC1LSS1lOTg1RjV0VGVPTUNKS2pzVUc",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-27T13:44:59.000Z",
-  "title": "Apple launches M6 MacBook Pro and iMac, pitches faster on-device AI",
-  "snippet": ""
- },
- {
-  "id": "Retail TouchPoints::CBMiYkFVX3lxTE1wQzB5OWR0czhwQ1MzOE1vbGVWQXpMc3FGbG5LMjY3ZjJkdXNqZndGV2I3QkozNTd4WFBqT19iRDdUejFFdUFvWlNMZGtvM1VpWHpFWUM5c3h2WXl5aHNNMnp3",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T14:12:40.000Z",
-  "title": "Latest In: Value Pricing",
-  "snippet": ""
- },
- {
-  "id": "Capital One Shopping Research::CBMia0FVX3lxTFBncV9TelpUV042bDA2VVhBZFdpZ0pad0VZQ2t0UFpfRzgxZkVfUkVBXzYtMTNYRnAwbi01VXR0ZzF2aWlmZy1OcGg4c28yOGg0emt0YmJGUDZVaGtDMS1qSzdzNks0UzFuVVBZ",
-  "source": "Capital One Shopping Research",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-21T07:00:00.000Z",
-  "title": "Shopify Statistics (2026): Stores, Customers, Revenue & Growth",
+  "publishedAt": "2026-10-27T22:52:01.000Z",
+  "title": "Visa results beat estimates as resilient customers keep up spending",
   "snippet": ""
  }
 ]
