@@ -1,16 +1,17 @@
 {
- "updatedAt": "2026-10-27T15:50:18.559Z",
+ "updatedAt": "2026-10-28T00:50:14.444Z",
  "title": "Agents and marketplaces now gate discovery; our store must be agent-ready",
  "summary": "55% of consumers use AI in product discovery (NIQ); 34% would use GenAI for gift ideas (Gartner). Walmart opened to outside AI agents with spending limits; Best Buy joined TikTok Shop; PC shipments fell 21% in Q3 (Counterpoint).",
  "points": [
   {
    "headline": "AI agents are becoming a buying channel, and retailers are setting the rules",
-   "detail": "Walmart opened to outside agents with profiles, terms and spending limits while Amazon blocks them; Meta pushes a shared standard. We should decide how agents read and buy from our store.",
+   "detail": "Walmart opened to outside agents with profiles, terms and spending limits while Amazon blocks them; Amazon Business added AI procurement features. We should decide how agents read and buy from our store.",
    "segment": "agentic",
    "storyIds": [
     "TechCrunch::https://techcrunch.com/?p=3180139",
     "Retail Dive::https://www.retaildive.com/news/walmart-welcomes-external-ai-shopping-agents-terms-boundaries/833723/",
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363692"
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363692",
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363756"
    ]
   },
   {
@@ -24,7 +25,7 @@
   },
   {
    "headline": "PC demand is falling while memory costs lift prices; Apple still refreshes",
-   "detail": "PC shipments fell 21% in Q3 (Counterpoint) amid record price inflation; Apple launched an M6 MacBook Pro; PayPal BNPL volume rose 25%. We should plan Q4 pricing and test instalment offers.",
+   "detail": "PC shipments fell 21% in Q3 (Counterpoint) amid record price inflation; Apple launched M6 MacBook Pro and iMac with on-device AI pitch. We should plan Q4 pricing and test instalment offers.",
    "segment": "pc",
    "storyIds": [
     "Counterpoint Research::CBMimAFBVV95cUxNQUJjMnJJVmd3dFlwaWswQnh4OS1PNTNjVmlUTnR3ZWs4LTRwcDJYTWtydlZiMEhnUWh6WEFSYVEyYmxNbERQNnp1TF9LNmJXS1ZZZmlOWmRVOW5RRU91VlowNl9YN0Y1eUZ1VFRxU2FwcUJZOU1jZ3UxeTNQU19lSmxsZlRYVHNMVUg4ck9iVnd3UEc5VTJTbw",
