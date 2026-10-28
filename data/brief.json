@@ -1,46 +1,46 @@
 {
- "updatedAt": "2026-10-28T00:50:14.444Z",
+ "updatedAt": "2026-10-28T06:51:12.580Z",
  "title": "Agents and marketplaces now gate discovery; our store must be agent-ready",
- "summary": "55% of consumers use AI in product discovery (NIQ); 34% would use GenAI for gift ideas (Gartner). Walmart opened to outside AI agents with spending limits; Best Buy joined TikTok Shop; PC shipments fell 21% in Q3 (Counterpoint).",
+ "summary": "55% of consumers use AI in product discovery (NIQ); 34% would use GenAI for gift ideas (Gartner). Walmart opened to outside AI agents; PC shipments fell 21% in Q3 (Counterpoint); Apple raised iPad mini pricing on memory costs.",
  "points": [
   {
    "headline": "AI agents are becoming a buying channel, and retailers are setting the rules",
-   "detail": "Walmart opened to outside agents with profiles, terms and spending limits while Amazon blocks them; Amazon Business added AI procurement features. We should decide how agents read and buy from our store.",
+   "detail": "Walmart opened to outside agents with profiles, terms and spending limits while Amazon blocks them. We should decide how agents read and buy from our store.",
    "segment": "agentic",
    "storyIds": [
     "TechCrunch::https://techcrunch.com/?p=3180139",
     "Retail Dive::https://www.retaildive.com/news/walmart-welcomes-external-ai-shopping-agents-terms-boundaries/833723/",
     "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363692",
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363756"
-   ]
-  },
-  {
-   "headline": "Shoppers already start with AI, and may send agents to marketplaces first",
-   "detail": "NIQ finds 55% use AI in discovery; Gartner says 34% would use GenAI for gifts; PYMNTS says shoppers would send agents to marketplaces over brand sites. Our product data and listings need to be agent-readable.",
-   "segment": "trends",
-   "storyIds": [
-    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
     "PYMNTS Data::CBMirwFBVV95cUxNTHAwZS0wVHZjLUhEYXZnQnpEdUlLbkxrUHBabUtydFZBU2xoenlOb3kxNU5UUnIyY2JUdGU3RnBzbjhTMGVzU3RXNld5S21DSWNlTkt2REdTREZPTFlWamZFeE5aSVFwYjRGQXhvR21xaHp6Q0ZnbFJUbjZIdDB5MmJHVENuZXFtZEt5U05USXZxM3RJcGlMY29LWmdmZFRVdEVlcWxvZ2Q5MjZveEd3"
    ]
   },
   {
-   "headline": "PC demand is falling while memory costs lift prices; Apple still refreshes",
-   "detail": "PC shipments fell 21% in Q3 (Counterpoint) amid record price inflation; Apple launched M6 MacBook Pro and iMac with on-device AI pitch. We should plan Q4 pricing and test instalment offers.",
-   "segment": "pc",
+   "headline": "Shoppers already start with AI, and may send agents to marketplaces first",
+   "detail": "NIQ finds 55% use AI in discovery; Gartner says 34% would use GenAI for gifts. Our product data and listings need to be readable by AI tools and agents.",
+   "segment": "trends",
    "storyIds": [
-    "Counterpoint Research::CBMimAFBVV95cUxNQUJjMnJJVmd3dFlwaWswQnh4OS1PNTNjVmlUTnR3ZWs4LTRwcDJYTWtydlZiMEhnUWh6WEFSYVEyYmxNbERQNnp1TF9LNmJXS1ZZZmlOWmRVOW5RRU91VlowNl9YN0Y1eUZ1VFRxU2FwcUJZOU1jZ3UxeTNQU19lSmxsZlRYVHNMVUg4ck9iVnd3UEc5VTJTbw",
-    "Counterpoint Research::CBMimAFBVV95cUxOR2dyMjJOSnpOMWpmZzBxMzRhOWZWOFFOTTVzV1E0MUlPbFpGdVZ0Q0RrZHU5TEU3d0dQSGJsTGNvNl9jZzdIMUxzVmp6M2N2ODdFeV9EMnNsNkptNExzMDlIZXB2VHVaTDdmX3pBdUF0MllnSF9pV3NaRHZrTW5tOTV0emNHSmduYW9jYmFmZ2FlcUE1OEpBYQ",
-    "Apple Newsroom::https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-    "PYMNTS Data::CBMiugFBVV95cUxQWGlTTkpkalQ3VmFxQkluRWJ4WEl1S3hHaFNLUlJtaDF3anM0MGVlSWpCMU5JT0s2b0FCV2MyWHNOUm9Vc1BJUWdFQldxZkIwY3R6YUFuWkNZMlNtaGJyR3ZOY0lfYmRmVmlGTkRPWTduRkJseDVwTE5tS2J4QUNOM0ZaOWZ3TFpLSVlGdzd3ZlhFSXFGSGtab0pqTm9iY2tLUlUwWFVsa3hOaWFGaUZNVlc4cjJNakdJTFE"
+    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
+    "Gartner::CBMilAJBVV95cUxPdEI3MmZCa2FBWVVoSC1ZNGh2OUhLSnhPRUl1eWgtMHd2T2dNVXRnRUhJUVh1WVhYMWl1Mm5RLXZzZzBPdzBQalVXYzlLNmlwLXhzSE8zU0RCcHpjTHhQSWxZazNrcUZraEl0Z1VnYlBULW1TOUI4eWVRYlZiNlFkSVJyT3FleGJHOFNnTU5jY0JEZVhaN1RkU2NhZC1UVjVoQTZjLTk2ckVmVktrdnQyeUZmRl8yeG8zZkQ1N3dCSFhmMjJNRXBPdGdYRW9lVlRpRzVndUN0ZjFGeF9xVF9sc1IyVm1ZY1o5b21jNE9mX0ZqNzY2UVYyY211aXg0eGFpelZGUGZ6ajQwRU9GX3FyNElCYUM",
+    "PYMNTS Data::CBMirwFBVV95cUxNTHAwZS0wVHZjLUhEYXZnQnpEdUlLbkxrUHBabUtydFZBU2xoenlOb3kxNU5UUnIyY2JUdGU3RnBzbjhTMGVzU3RXNld5S21DSWNlTkt2REdTREZPTFlWamZFeE5aSVFwYjRGQXhvR21xaHp6Q0ZnbFJUbjZIdDB5MmJHVENuZXFtZEt5U05USXZxM3RJcGlMY29LWmdmZFRVdEVlcWxvZ2Q5MjZveEd3"
    ]
   },
   {
-   "headline": "Holiday channels are widening: longer Walmart events, Best Buy on TikTok Shop",
-   "detail": "Walmart's Black Friday and Cyber Monday events run 14 days vs 10; Best Buy joined TikTok Shop; Adobe forecasts $275.1B online holiday sales. We should align our deal calendar and test TikTok Shop.",
+   "headline": "A shrinking PC market meets rising memory costs, squeezing price and margin",
+   "detail": "Counterpoint sees Q3 shipments down 21%; Apple lifted iPad mini pricing on memory costs and PC makers are shifting production to China. We should plan Q4 pricing and inventory carefully.",
+   "segment": "pc",
+   "storyIds": [
+    "Counterpoint Research::CBMimAFBVV95cUxNQUJjMnJJVmd3dFlwaWswQnh4OS1PNTNjVmlUTnR3ZWs4LTRwcDJYTWtydlZiMEhnUWh6WEFSYVEyYmxNbERQNnp1TF9LNmJXS1ZZZmlOWmRVOW5RRU91VlowNl9YN0Y1eUZ1VFRxU2FwcUJZOU1jZ3UxeTNQU19lSmxsZlRYVHNMVUg4ck9iVnd3UEc5VTJTbw",
+    "DigiTimes::https://www.digitimes.com/news/a20261028VL200/apple-ipad-mini-hardware-imac-macbook-pro.html",
+    "IDC::CBMiYkFVX3lxTE03V29UZjdYZnZ5YWR5UW5vdFBkaVVuRUhRQTBBM0xLQjBkVXRQU3hUN3dNZW1hWlk2TVlTOGw2eDVrUDVBQy1FajNSVExXbjJTVEU3YmRGTXhJS0N0cl9aNERn"
+   ]
+  },
+  {
+   "headline": "Holiday demand is growing online, with Walmart stretching its sales events",
+   "detail": "Adobe forecasts $275.1B in US online holiday sales (+6.7%) and Walmart extends Black Friday and Cyber Monday to 14 days. We should prepare Cyber 5 deal depth and inventory.",
    "segment": "marketplaces",
    "storyIds": [
-    "Retail Dive::https://www.retaildive.com/news/walmart-longer-black-friday-cyber-monday-sales-events/872747/",
-    "Modern Retail::https://www.modernretail.co/?p=173494"
+    "Adobe Digital Insights::CBMiigFBVV95cUxPaG5xOUhLME84bFBFc0VEZ1QwWVViS292bG40RDZrUFZkb3FKNzBNN1hwbkdvanhib2JaOGFwZldPMkxUd0U0NW5QdkNLcHFyOXViZ2dDN3JxMnFvWW9WWDVnN2MxT0xVeENyYjY0U05qTmhzNUlJMVZXZXAzZHV1WlF3aVVfZkp5T3c",
+    "Retail Dive::https://www.retaildive.com/news/walmart-longer-black-friday-cyber-monday-sales-events/872747/"
    ]
   }
  ]

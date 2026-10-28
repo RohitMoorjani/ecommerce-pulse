@@ -5228,5 +5228,95 @@
  "Capital One Shopping Research::CBMia0FVX3lxTFBncV9TelpUV042bDA2VVhBZFdpZ0pad0VZQ2t0UFpfRzgxZkVfUkVBXzYtMTNYRnAwbi01VXR0ZzF2aWlmZy1OcGg4c28yOGg0emt0YmJGUDZVaGtDMS1qSzdzNks0UzFuVVBZ": {
   "keep": false,
   "publishedAt": "2026-10-21T07:00:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173979": {
+  "keep": false,
+  "publishedAt": "2026-10-28T04:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261028PD203/asus-demand-rtx-intel-commercial.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Asus and Intel launch ExpertBook A7 as cloud AI costs lift on-premises PC demand",
+  "short_headline": "Asus ExpertBook A7 launches amid on-device AI demand",
+  "takeaway": "Cloud AI costs are pushing buyers to local AI hardware; we should test on-device AI positioning for business PCs in our store.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-28T03:59:53.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261028PD202/kentec-aidc-infrastructure-csp-subsidiary.html": {
+  "keep": false,
+  "publishedAt": "2026-10-28T03:48:50.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261028VL218/pc-component-production-asia-manufacturing.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "PC makers reportedly move some production back to China as memory costs squeeze margins",
+  "short_headline": "PC makers shift production back to China on costs",
+  "takeaway": "Rising memory and storage costs are reshaping supply chains; we should expect continued pricing pressure and watch for supply shifts.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-28T03:17:54.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/consumer-electronics/tata-electronics-apple-exports-near-rs-1-lakh-crore-in-fy26-as-net-loss-widens/135250111": {
+  "keep": false,
+  "publishedAt": "2026-10-28T02:57:07.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261028VL211/sk-hynix-solidigm-ipo-funding-manufacturing.html": {
+  "keep": false,
+  "publishedAt": "2026-10-28T02:45:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261028PD222/unimicron-equipment-capacity-demand-production.html": {
+  "keep": false,
+  "publishedAt": "2026-10-28T02:37:04.000Z"
+ },
+ "Inc42::https://inc42.com/?p=578222": {
+  "keep": false,
+  "publishedAt": "2026-10-28T02:30:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261028VL204/nxp-industrial-demand-growth-automotive.html": {
+  "keep": false,
+  "publishedAt": "2026-10-28T01:48:08.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261028VL201/corning-growth-capacity-funding-sales.html": {
+  "keep": false,
+  "publishedAt": "2026-10-28T01:29:05.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261028VL200/apple-ipad-mini-hardware-imac-macbook-pro.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Apple pushes on-device AI in incremental Mac refresh as memory costs lift iPad mini price",
+  "short_headline": "Apple Mac refresh leans on AI as prices rise",
+  "takeaway": "Apple is raising prices on memory costs while selling on AI silicon; we should check our pricing and AI messaging against it.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-10-28T01:12:39.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261027PD216/simmtech-bt-substrate-investment-semco.html": {
+  "keep": false,
+  "publishedAt": "2026-10-28T00:43:07.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261027PD232/samsung-robotics-manufacturing-development-production.html": {
+  "keep": false,
+  "publishedAt": "2026-10-28T00:38:48.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261027PD238/cxmt-apple-dram-demand-capacity.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "China’s CXMT reportedly rejects Apple DRAM inquiry, prioritizing domestic demand",
+  "short_headline": "CXMT reportedly turns down Apple DRAM request",
+  "takeaway": "Tight DRAM supply and rising prices could squeeze our component costs and availability; we should plan pricing and inventory accordingly.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-28T00:37:22.000Z"
+ },
+ "Reuters::CBMipAFBVV95cUxNTks0TEhNcDhhU2VhLXNYanZDVXI2eWRLVVVULUd4M3JueFQ1TDNCTFJ6YkxFVjk0SW1iblY5Q21oRDJaczVBTTBtYXA1dmR3WHFNT1dtQm1vSUg2Z3RxcDMxSjBzMk9yR3JiaDdKNmpKMnMwRWl6Y3Y1RWRxcDlZQWhFYk1zdDRYY1llZy1iUGlJWGwtSVA0MVBYMnpHVkFkTnBTRw": {
+  "keep": false,
+  "publishedAt": "2026-10-27T22:52:01.000Z"
  }
 }
