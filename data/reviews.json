@@ -5473,5 +5473,63 @@
   "content_type": "analysis",
   "competitors": [],
   "publishedAt": "2026-10-28T00:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261029VL203/lg-demand-business-earnings-lg-electronics.html": {
+  "keep": false,
+  "publishedAt": "2026-10-29T00:00:49.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261029VL202/microsoft-growth-infrastructure-demand-capacity.html": {
+  "keep": false,
+  "publishedAt": "2026-10-28T23:56:13.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261028PD251/lenovo-ces-2027-technology-data.html": {
+  "keep": false,
+  "publishedAt": "2026-10-28T23:54:23.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261028PD246/advantech-pc-technology-california-north-america.html": {
+  "keep": false,
+  "publishedAt": "2026-10-28T23:52:20.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261028PD228/iphone-duo-sales-apple-demand-foldable-smartphone.html": {
+  "keep": false,
+  "publishedAt": "2026-10-28T23:51:06.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261028PD206/taiwan-electronics-growth-2026-demand.html": {
+  "keep": false,
+  "publishedAt": "2026-10-28T23:43:49.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261028PD204/asus-commercial-pc-2026-market.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Asus expects Taiwan commercial PC prices up nearly 10% in 2H26 after ~30% H1 surge",
+  "short_headline": "Asus sees commercial PC prices up ~10% in 2H26",
+  "takeaway": "Memory and CPU costs keep pushing PC prices up; we should plan business pricing, promotions and stock for sustained cost pressure.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-28T23:43:15.000Z"
+ },
+ "NRF::CBMidEFVX3lxTE16UDRTRDNoeklyc1hYcTQ3eEVTS2s1Q3MzZm55NjFPUWd5S1AwSFFYODB1R1lpNXBYblFGMFA3M2hPSzllR3U0MVRqNG5maTJfSmxPNmdxRnVDOGlYWmktN0tuSVZWcDZyYVhwc01abERsaE9s": {
+  "keep": false,
+  "publishedAt": "2026-10-28T21:59:57.000Z"
+ },
+ "PYMNTS Data::CBMiugFBVV95cUxQLWVqdDhYN1UwcEt3UVR2THZYUnFIZVpFNy03b2FRdUxsbldkV2dIVXhITC1mUTFVcHJGR3l1Vk94aVZiU19FbW0wTzZOR0VsUTZzRUZtVlRRWEM2dG81LWlPZWk0OUdYbFljV3V1Q1RUU2VVdk9yUGV2NmJQdVk2aGFJUXZXS05JZVZVdnVXcGZ5NF9XR2xoa0p0ZkdiTFJsUC16MWlXdGUwMmw2RENySFY4OGxPMW9MWWc": {
+  "keep": false,
+  "publishedAt": "2026-10-28T21:39:29.000Z"
+ },
+ "Reuters::CBMirwFBVV95cUxPLTNUYVRBd0RuOWg5SUc2SzFCSTR1TGJsRndOTjNDWmtkeU1fRHZwWUxaakxsdE9sSV8tZzZDMXpXV2dDNDhhbTMyM291Z0Rua2lNSEwxaVZlTVVMbG5icUY1dllTNm9QVEk1R0NpdHdNRzVmSFA2MXZublNmaGN4NXJ5RGdMeWhiTHZmdENGX0t6UUdGaWNLS0JkbkVHWkRONXk5dkg0ZFA1T3Q0dGVR": {
+  "keep": false,
+  "publishedAt": "2026-10-28T20:07:00.000Z"
+ },
+ "Reuters::CBMitwFBVV95cUxQb2EwVk84THdfQWtSRkhNZXNHRUhwYkJzZWNtbEljdTljQU9tNXNlOEVWajRuMFc0dTRLNmxYR0JtbFNMYUlqSGhwN2s2R3VIWGxYM3ExRnlaS05tUm5OcWkyY2w1WENScllPMDJjQU45THMzcXY0dWR3RzF0aGJod2N5MUk0V3ZJaW5ORzVpbzRGNTRPZWRjZzJJMlFnVUFIRkljeTc4eFctOFRGX1lrQU9xV0c0RlE": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "UK plans to make online marketplaces collect tax from sellers",
+  "short_headline": "UK to make marketplaces collect seller tax",
+  "takeaway": "Marketplaces may take on tax duties in the UK; we should check how this affects seller pricing, fees and our marketplace listings there.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-28T13:56:20.000Z"
  }
 }
