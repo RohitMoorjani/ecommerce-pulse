@@ -1,90 +1,290 @@
 [
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261029VL203/lg-demand-business-earnings-lg-electronics.html",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029PD240/umt-revenue-leo-demand-growth.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-29T00:00:49.000Z",
-  "title": "LG's business diversification supports earnings as consumer demand stays weak",
-  "snippet": "LG Electronics' latest quarter shows how appliances, vehicle components, and an improving television business are supporting earnings while the company builds new positions in data center cooling and robotics. The…"
+  "publishedAt": "2026-10-29T09:29:00.000Z",
+  "title": "UMT reports 71% revenue growth as LEO satellite demand drives expansion",
+  "snippet": "UMT's revenue increased 71% year-over-year in the first three quarters of 2026 as global demand for low Earth orbit (LEO) satellite deployments lifted sales of millimeter-wave communications products. The Taiwan-based…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261029VL202/microsoft-growth-infrastructure-demand-capacity.html",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029PD237/auo-tsmc-plant-infrastructure-development.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-28T23:56:13.000Z",
-  "title": "Microsoft's cloud growth outpaces infrastructure spending delays",
-  "snippet": "Microsoft's latest results suggest that enterprise demand for cloud computing and artificial intelligence is supporting stronger operating earnings even as some infrastructure capacity arrives later than planned. The…"
+  "publishedAt": "2026-10-29T09:06:35.000Z",
+  "title": "AUO sells Taichung plant to TSMC for NT$38.8B, scraps Quanta deal",
+  "snippet": "AUO has approved the sale of its Taichung Plant Phase II facilities and related infrastructure to TSMC for NT$38.8 billion (US$1.2 billion), excluding taxes, and has terminated a planned NT$19.7 billion sale of its…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD251/lenovo-ces-2027-technology-data.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-28T23:54:23.000Z",
-  "title": "Lenovo previews CES 2027 lineup focused on AI agents, hybrid AI",
-  "snippet": "Lenovo Group announced that its annual global innovation event, Tech World, will return to CES 2027 in Las Vegas, taking place at Sphere as part of the keynote program. The event will feature a lineup of prominent…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD246/advantech-pc-technology-california-north-america.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-28T23:52:20.000Z",
-  "title": "Advantech opens Tustin HQ to strengthen North American R&D",
-  "snippet": "Industrial PC maker Advantech has opened its new North American headquarters in Tustin, California, expanding local R&D, manufacturing and system integration capabilities. The company subsequently held the Advantech…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD228/iphone-duo-sales-apple-demand-foldable-smartphone.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-28T23:51:06.000Z",
-  "title": "iPhone Duo sales beat expectations as first batch sells out",
-  "snippet": "Apple's first foldable smartphone, the iPhone Duo, saw strong demand despite a typhoon disrupting its launch day. Telecom operators said sales have remained robust since the launch, with limited initial shipments…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD206/taiwan-electronics-growth-2026-demand.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-28T23:43:49.000Z",
-  "title": "Taiwan's growth surge nears end; electronics, machinery stay resilient in 2027",
-  "snippet": "2026 will be a breakout year for Taiwan's economic growth, with GDP expanding at a double-digit rate—more than twice China's growth rate, according to a consensus among economic research institutions. Over the next six…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD204/asus-commercial-pc-2026-market.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-28T23:43:15.000Z",
-  "title": "Asus sees commercial PC prices rising nearly 10% in 2H26",
-  "snippet": "Asus expects commercial PC prices in Taiwan to rise nearly 10% in the second half of 2026 after surging almost 30% in the first half, as higher memory and processor costs continue to pressure the PC supply chain. The…"
- },
- {
-  "id": "NRF::CBMidEFVX3lxTE16UDRTRDNoeklyc1hYcTQ3eEVTS2s1Q3MzZm55NjFPUWd5S1AwSFFYODB1R1lpNXBYblFGMFA3M2hPSzllR3U0MVRqNG5maTJfSmxPNmdxRnVDOGlYWmktN0tuSVZWcDZyYVhwc01abERsaE9s",
-  "source": "NRF",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-28T21:59:57.000Z",
-  "title": "2026 Winter Holiday Consumer Outlook Webinar",
+  "id": "TrendForce::CBMicEFVX3lxTFA0Z2VJVmJWNDhnSEtDRVp6cXR2Y0ZWUmxlMEZVVE5sT1pHQ09ZRlNvNkdJM1VQUk1HanBEMXVjT203TGxpOVI4YmFlNjMzLWxvcXRNUFRFZUM1TGlWN3NNbkZkNFpxaGdoMUQ0Vm5jREI",
+  "source": "TrendForce",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-29T09:01:14.000Z",
+  "title": "New MacBook Pro Enters Market; Global OLED Notebook Shipments Forecast to Grow Over 40% YoY in 2027, Says TrendForce",
   "snippet": ""
  },
  {
-  "id": "PYMNTS Data::CBMiugFBVV95cUxQLWVqdDhYN1UwcEt3UVR2THZYUnFIZVpFNy03b2FRdUxsbldkV2dIVXhITC1mUTFVcHJGR3l1Vk94aVZiU19FbW0wTzZOR0VsUTZzRUZtVlRRWEM2dG81LWlPZWk0OUdYbFljV3V1Q1RUU2VVdk9yUGV2NmJQdVk2aGFJUXZXS05JZVZVdnVXcGZ5NF9XR2xoa0p0ZkdiTFJsUC16MWlXdGUwMmw2RENySFY4OGxPMW9MWWc",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029VL217/samsung-hbm-chips-profit-2028.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T08:30:00.000Z",
+  "title": "Analysis: Samsung's record quarter came from higher prices, not more chips; expects buyers to get no relief before 2028",
+  "snippet": "Samsung Electronics' third-quarter profit came almost entirely from charging more for memory chips, not from selling more of them. On its earnings call, the company also told investors the shortage behind those prices…"
+ },
+ {
+  "id": "Inc42::https://inc42.com/?p=578408",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T06:54:25.000Z",
+  "title": "Ace Blend Raises $9.9 Mn To Fund Clinical Trials, Expand Nutrition Portfolio",
+  "snippet": "D2C nutrition and dietary supplements brand Ace Blend has raised $9.9 Mn (about ₹95 Cr) in a Series A2 funding…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029VL214/kla-equipment-wafer-market-2027.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T06:20:00.000Z",
+  "title": "KLA: wafer fab equipment market exceeding US$200B in 2027",
+  "snippet": "KLA expects global wafer fabrication equipment (WFE) spending to exceed US$200 billion in 2027, as semiconductor manufacturers accelerate investments in advanced logic, DRAM and high-bandwidth memory (HBM), according to…"
+ },
+ {
+  "id": "TrendForce::CBMi2wFBVV95cUxOQzVMR3hrWjV0azAwRnM3aXIwYTlFS1Z6cVE0ckpkWkgwZ3E4NUJzR2FRY0tmcVd2ZmZxLUEwVTEwTmVvWHoxQmRLZmdEU0Q3RHlHdlQ5QUtkU25aMUMwamxCSFJ5S3BRQVZ1ekJsYTJqSkRReHdUOXNQU2x2aHJ5Y0VVelhaUHRzWDdmVmt0NkJZbGx1eHVEMHVrX3NvVWRDRGlOYWptZnpYMGNlNzhuM3B0dmFwOThMNFVzZi1ZdmhxZ00wZEtrdVBfQkRCa01GS2FTYi1WRW84a00",
+  "source": "TrendForce",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-29T05:08:42.000Z",
+  "title": "[News] Apple Debuts First Touchscreen OLED MacBook Pro; TSMC, Foxconn, Samsung in Supply Chain Spotlight",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029PD214/cyberlink-apple-revenue-software-business.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T04:29:07.000Z",
+  "title": "CyberLink blasts Apple over developer account suspension",
+  "snippet": "CyberLink faces mounting pressure from rising memory prices and removal of some of its products from Apple's platform, with the multimedia software provider warning that restoring its developer account could take up to…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/indias-raymond-lifestyle-profit-drops-on-higher-costs/135289588",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-29T04:13:49.000Z",
+  "title": "India's Raymond Lifestyle profit drops on higher costs",
+  "snippet": "Indian apparel retailer Raymond Lifestyle posted an around 10% drop in second-quarter profit on Wednesday, hurt by rising raw material costs and higher spending on"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029PD220/market-brand-sales-automakers-mercedes-benz.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T04:00:12.000Z",
+  "title": "Commentary: China's luxury cars reshapes market, causing global brands to lose ground",
+  "snippet": "China's luxury car market is undergoing a major brand reshuffle. BMW, Mercedes-Benz, Audi, and Porsche all recorded significant sales or delivery declines in China in the third quarter of 2026, while domestic automakers…"
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=174079",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-29T04:00:00.000Z",
+  "title": "‘Our biggest challenge has been keeping them in stock’: Mahjong sets are big business for brands",
+  "snippet": "Mahjong is having a moment in the U.S. as a new generation discovers the pastime — and brands are cashing in."
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=174192",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-29T04:00:00.000Z",
+  "title": "From Celsius to Maybelline, more brands are showing up for the New York City Marathon’s 50th anniversary",
+  "snippet": "Brands like Celsius and Vuori are using the NYC Marathon to host pop-ups, shakeout runs and recovery events to tap into the booming running culture."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029PD208/samsung-sk-hynix-2028-equipment-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T03:47:21.000Z",
+  "title": "Samsung, SK Hynix invest KRW110 trillion as memory supply boost slips to 2028",
+  "snippet": "Samsung Electronics and SK Hynix are undertaking their largest-ever equipment investments in 2026, but the memory supply increase is not expected to materialize until 2028. By then, however, new South Korean plants and…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029PD207/samsung-robotics-technology-manufacturing-chairman.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T03:22:00.000Z",
+  "title": "Samsung targets physical AI as Lee Jae-yong leads robotics push",
+  "snippet": "Samsung Electronics Chairman Lee Jae-yong marked his fourth anniversary as chairman on October 27, 2026, by visiting a robotics research center, where he reviewed humanoid robot technology and preparations for…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029PD202/nvidia-hbm4-bandwidth-rubin-hbm.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T03:09:45.000Z",
+  "title": "Nvidia trims HBM4 bandwidth for Rubin platform, sources say",
+  "snippet": "Nvidia is reportedly adjusting the fourth-generation high-bandwidth memory (HBM4) specification for its Vera Rubin NVL72 platform, cutting bandwidth per GPU from the previously announced 22TB/s to 19.2TB/s, a reduction…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/hul-backs-fssai-labelling-norms-for-food-products-high-in-fat-salt-and-sugar/135287712",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-29T03:05:33.000Z",
+  "title": "HUL backs FSSAI labelling norms for food products high in fat, salt and sugar",
+  "snippet": "The Food Safety and Standards Authority of India (FSSAI) has proposed front-of-pack nutrition labelling for packaged food products high in sugar, salt or fat, seeking to enable consumers to make informed dietary choices."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029PD201/electronics-taiwan-dram-2026-ic-design.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T02:59:23.000Z",
+  "title": "Memory surge leaves CPI stable, hits consumer electronics hardest",
+  "snippet": "Soaring memory prices have pushed some IC design firms to develop and manufacture their own SRAM as a substitute for DRAM, while electronics assemblers and brand manufacturers that still need DRAM face challenges in…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD241/samsung-euv-data-technology-security.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T02:55:00.000Z",
+  "title": "Samsung EUV data leak case: researcher in university partnership indicted",
+  "snippet": "Samsung Electronics' next-generation semiconductor process data was allegedly removed without authorization by a university-industry research partner in South Korea, raising concerns over security vulnerabilities in…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029VL208/lg-electronics-earnings-data-center-cooling-robot-2030.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T02:37:21.000Z",
+  "title": "LG Electronics ties AI cooling and robot plans to new plants and a 2030 humanoid target",
+  "snippet": "LG Electronics used its third-quarter earnings call on October 28 to add physical milestones to its two main AI bets. In data center cooling, it named a US production site and new Korean lines, and listed the Nvidia…"
+ },
+ {
+  "id": "Inc42::https://inc42.com/?p=578377",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T02:30:35.000Z",
+  "title": "Meesho’s Q2 Report Card, Info Edge CEO Quits & More",
+  "snippet": "Meesho’s Q2 Snapshot Meesho inched closer to profitability in Q2 FY27. The quarter saw the ecommerce giant rein in its…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD249/sic-gan-design-silicon-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T02:25:00.000Z",
+  "title": "SiC and GaN demand reshapes design, reliability and supply stability",
+  "snippet": "Applications for silicon carbide (SiC) and gallium nitride (GaN) power devices are expanding across the electronics industry, affecting not only component selection but also product design, manufacturing capabilities…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD234/intel-tsmc-technology-equipment-capacity.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T02:15:00.000Z",
+  "title": "Intel CTO: process gap with TSMC down to a few points, but scale still lags",
+  "snippet": "Technology podcast host Dwarkesh Patel recently released a special episode after spending two days touring Intel's fabs and research laboratories and speaking with several technology leaders. Intel CTO Pushkar Ranade…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD245/phison-micron-supplier-performance-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T02:14:58.000Z",
+  "title": "Phison wins Micron supplier awards for third straight year",
+  "snippet": "Taiwan-based Phison Electronics received two awards at Micron Supplier Day 2026, marking the third consecutive year the company has earned recognition from the US memory chipmaker."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029PD210/parade-notebooks-demand-inventory-revenue-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T02:11:41.000Z",
+  "title": "Parade Technologies faces near-term revenue pressure as notebook demand weakens",
+  "snippet": "Parade Technologies expects fourth-quarter revenue to fall as notebook inventory digestion continues, underscoring pressure on the chipmaker's near-term results. The company is relying on high-speed connectivity…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD235/profit-price-dram-revenue-chips.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T02:11:31.000Z",
+  "title": "Niche memory price rally lifts Ingenic's third-quarter profit 2,595%",
+  "snippet": "The global memory shortage is no longer lifting only the commodity DRAM giants. Ingenic Semiconductor, a Beijing-based fabless chip designer whose memory chips go mainly into cars, factory equipment, medical devices…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD237/asus-commercial-gaming-notebook-shipments-shipments.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T02:07:16.000Z",
+  "title": "Asus notebook shipments hold steady as commercial PCs offset gaming decline",
+  "snippet": "The global notebook market faces steep cost increases for key components including memory and processors, but Asus is keeping annual shipments relatively stable through its commercial PC and high-value product…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029VL211/samsung-profit-sales-loss-earnings.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T01:41:31.000Z",
+  "title": "Samsung's AI memory boom drives record profit as device division stays in loss",
+  "snippet": "Samsung Electronics' latest results show AI infrastructure demand increasingly determining the group's earnings, with soaring semiconductor profit offsetting continued losses in its consumer-device division. The company…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029PD216/spacex-equipment-taiwan-demand-infrastructure.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T01:39:26.000Z",
+  "title": "SpaceX's AI spending surge opens doors to direct orders for Taiwan ODMs",
+  "snippet": "SpaceX is expanding its AI computing infrastructure to meet rising demand for AI applications, securing US$40 billion in financing commitments for GPUs and equipment. The surge in neocloud orders is reshaping the order…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029VL200/apple-touchscreen-sdc-macbook-pro-supplier.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T01:34:58.000Z",
+  "title": "Apple ends its touchscreen holdout with OLED MacBook Pro, with Samsung Display reported as sole panel supplier",
+  "snippet": "Apple's first touchscreen Mac reverses a design stance the company defended for more than a decade and is a premium-priced test of whether touch and tandem OLED can lift Mac demand in a shrinking PC market, with Samsung…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029VL201/google-business-alphabet-demand-expansion.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T01:27:26.000Z",
+  "title": "Google's cloud expansion strengthens AI business but strains cash generation",
+  "snippet": "Google's parent, Alphabet, is turning demand for artificial intelligence into a larger cloud business. Still, its latest quarter shows that stronger operating performance does not yet remove the financial burden of…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028VL230/harman-samsung-adas-automotive-plant.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T01:21:18.000Z",
+  "title": "Samsung's Harman expands China plant for ADAS, automotive computing",
+  "snippet": "Samsung Electronics subsidiary Harman International has expanded its manufacturing operations in Suzhou, China, to produce automotive computing platforms and advanced driver assistance systems (ADAS), with production…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028VL225/qualcomm-security-hardware-anduril-manufacturing.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T01:21:10.000Z",
+  "title": "Anduril, Qualcomm team up on domestic computing to rebuild the hardware supply chain",
+  "snippet": "In an effort to reduce national security vulnerabilities tied to foreign electronics supply chains, defense technology startup Anduril Industries and chipmaker Qualcomm Technologies have partnered to launch BlueChip, a…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD244/sdc-materials-apple-macbook-pro-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-28T15:35:00.000Z",
+  "title": "SFC to keep supplying blue host materials for Apple's OLED MacBook Pro, loses blue dopant orders to rivals",
+  "snippet": "South Korean OLED material specialist SFC will continue supplying blue host materials to Samsung Display (SDC) for the OLED material stack used in Apple's upcoming MacBook Pro, according to filings submitted for its…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/food-safety-must-be-built-into-business-operations-not-treated-as-a-compliance-checklist-fssais-satyen-kumar-panda/135263482",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-28T11:27:07.000Z",
+  "title": "Food safety must be built into business operations, not treated as a compliance checklist: FSSAI's Satyen Kumar Panda",
+  "snippet": "Speaking at the 2nd Edition of ET FoodXP 2026, Satyen Kumar Panda, Advisor, FSSAI, urged food businesses to adopt preventive safety systems, strengthen transparency and ensure accountability across the supply chain. He…"
+ },
+ {
+  "id": "Retail TouchPoints::CBMiZkFVX3lxTE9WQU4tRHdBWF9JSHRsQ2RnRTc5bUNSTk1aV1Fha1dZdXRkSGI4ejl6QldwbVB3VFNLcjdSemtOTTJ2bl8tQXZZeWVQS0RUZDJtd1ZMRjBQUDE5UlNJRm01X0d5dGFlZw",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-28T01:32:50.000Z",
+  "title": "Latest In: brand governance",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS Data::CBMinwFBVV95cUxPc1g4YUladmlOVGF4cmN4YU5LX0F1c0p4alFiVGlncmYwYmtHR3QtV191Rmk4YklRMVBTWmMwb3llX2c2QnRiSHJrNUh0QWNzUmRyODZtcnl0dFlmUUpkcHFtN3VzdlQ3WDc1UnlYVE9yWlFsUXB5eUU2a1BEa2V2SE5ER1BfNW1icmtiZzVXWllpeWNFSTdFbGRRMFJaaHM",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-28T21:39:29.000Z",
-  "title": "PNC Bank to Expand Small Business Offerings With Embedded ADP Payroll",
-  "snippet": ""
- },
- {
-  "id": "Reuters::CBMirwFBVV95cUxPLTNUYVRBd0RuOWg5SUc2SzFCSTR1TGJsRndOTjNDWmtkeU1fRHZwWUxaakxsdE9sSV8tZzZDMXpXV2dDNDhhbTMyM291Z0Rua2lNSEwxaVZlTVVMbG5icUY1dllTNm9QVEk1R0NpdHdNRzVmSFA2MXZublNmaGN4NXJ5RGdMeWhiTHZmdENGX0t6UUdGaWNLS0JkbkVHWkRONXk5dkg0ZFA1T3Q0dGVR",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-28T20:07:00.000Z",
-  "title": "Microsoft's cloud growth, cash flow offer respite from AI spending fears",
-  "snippet": ""
- },
- {
-  "id": "Reuters::CBMitwFBVV95cUxQb2EwVk84THdfQWtSRkhNZXNHRUhwYkJzZWNtbEljdTljQU9tNXNlOEVWajRuMFc0dTRLNmxYR0JtbFNMYUlqSGhwN2s2R3VIWGxYM3ExRnlaS05tUm5OcWkyY2w1WENScllPMDJjQU45THMzcXY0dWR3RzF0aGJod2N5MUk0V3ZJaW5ORzVpbzRGNTRPZWRjZzJJMlFnVUFIRkljeTc4eFctOFRGX1lrQU9xV0c0RlE",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-28T13:56:20.000Z",
-  "title": "UK's Healey to make online marketplaces collect tax from sellers",
+  "publishedAt": "2026-10-27T10:07:32.000Z",
+  "title": "The Lease-To-Own Secret: Giving Consumers Control Over Durable Goods Purchases",
   "snippet": ""
  }
 ]

@@ -1061,32 +1061,6 @@
   "keep": false,
   "publishedAt": "2026-09-25T07:00:00.000Z"
  },
- "PYMNTS Data::CBMiswFBVV95cUxOSldUUlZxTldBbzhRdEZGVktjVWFKRFNNT19uekRkODVyOE5SOUsxR2RIamQ4VFBqRDVkbFVBZXlBLUN4NERnWHdmVTZNSGhEUGpLOWYxR2pxYWZvT2FnSEhyNlVKUVRQWnRlYVJUU2xpelFySEg2LXliR2pOcmM4Tjh1eGFxRkdZbUpLZGh0SHd1bHVfT3p1ZzRKQmJ0anBsQWZuaTcxMlFlaVJpR2F4NnhVOA": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "Mastercard: merchants want AI shoppers without losing the customer relationship",
-  "short_headline": "Merchants want AI shoppers, not lost customers",
-  "takeaway": "Protect customer data and loyalty when agents buy for shoppers; check what agent protocols allow.",
-  "importance": 3,
-  "content_type": "analysis",
-  "competitors": [],
-  "publishedAt": "2026-09-24T08:08:40.000Z"
- },
- "PYMNTS Data::CBMinAFBVV95cUxOeWlwaTlmc0xKX0V0Q2YwZ0xuZGFUNGxiQTlkRzFORUg2S3JES3dlMmpjZ0pkNnpQc0M3VUxzbHZVR0xnUkRwTEM0dTJuUGpTUVVOcG1uOUYxcWo3N2dDTlplYWt4Z1hWbW00TDA2R3BkTG0tSFNTd3dZdF9fNDFMZi1vVjk4NVNxV3Uwa2djT2R5d0JIYzNJSlNkal8": {
-  "keep": false,
-  "publishedAt": "2026-09-24T08:06:18.000Z"
- },
- "PYMNTS Data::CBMiqAFBVV95cUxPNkx6dWQzcjJyV3JoZzBlVFBjM3dscFR0NHRUN1QzejBQVkZia2VzSmJqWkRiWmZ1SENWVmE1VUtTTDRyUHFIV0NtaVd5NGpPZTBTdzktWWFaZUlKak5NMHp1MUV2NTdIVEVTNUV1SFFncGJQZlZtVWJ5dE5hR2NWY09MTXMxNUxxMy1wQmZsNkZHemtCbWtKa2hrc2NTcG5scTR0QU1ka0w": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Amazon lets merchants offer free Prime delivery on their own websites",
-  "short_headline": "Amazon brings free Prime delivery to merchant sites",
-  "takeaway": "Prime delivery on brand sites raises shopper expectations; weigh whether to offer it on our store.",
-  "importance": 4,
-  "content_type": "announcement",
-  "competitors": [],
-  "publishedAt": "2026-09-24T07:00:00.000Z"
- },
  "PYMNTS Data::CBMi4AFBVV95cUxNaHhCQVR6RlRwWF9KVTVxc2pEbnI2b2QwNk1fYWxGeWhQTHF4V08xY2lZWE5QQ0F2bGFmLWhhMVZWZkJhZko3M0h1ZldHUFc4YWZHb0UxbVRQa2w1OVJmY1FWT1l4c3BjSllnQXN5X3R3OGF2T2FMYWFWY0diTEtIRHdMQlpDUm1LMWNYdi1FY19CR1BEZEExcWduV3NmS00yQUVvLVFWWW1oZmZ3MmNOZGF6NHJmTTd3a2dXbnVfaTdTVl9aWXZFRUxOT2I4MzVrdkFaTGxzNHFUS1FDaFZnQw": {
   "keep": false,
   "publishedAt": "2026-10-07T16:56:06.000Z"
@@ -2867,10 +2841,6 @@
   "competitors": [],
   "publishedAt": "2026-10-16T22:13:58.000Z"
  },
- "PYMNTS Data::CBMipgFBVV95cUxNOTFuQXZqLVlBMk9xWXJWZ21rUTFyNjNqOVVqVHZNdk82RmllMHVkblJVTVVpRTJtRVRFblJnS0hXbzF4Tm9oMzJwR2lGYTNHRGpYMUtueDZKSmhudTJybVV3akpBZ2xVZzFzbGdxS0xScm9tUmp4bkNlXzJyQVBheHFCclZFWWF5WGhsd2EzVXVud3RzQWRwTEF0X2c3WHVkNkttNTZ3": {
-  "keep": false,
-  "publishedAt": "2026-09-24T07:00:00.000Z"
- },
  "Modern Retail::https://www.modernretail.co/?p=173544": {
   "keep": false,
   "publishedAt": "2026-10-17T04:00:00.000Z"
@@ -2890,25 +2860,6 @@
  "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/shoppers-stop-turns-profitable-in-q2-fy27-as-consolidated-revenue-rises-7-per-cent-to-rs-1618-crore/134992980": {
   "keep": false,
   "publishedAt": "2026-10-16T11:32:47.000Z"
- },
- "Circana::CBMixgFBVV95cUxPVUVBdWlhaGNRSE14Mld6cHhQZWVQbm45a2Z5dEU5ZnoxZnlLUm9sNlRKQXNGVTc2SGVzT3dUNWZTVzB2a2NvcVFqUVpMS3VLMVdnX2FGX2pTLU5uNk9Ya3ZabXNJYnMwbm1kYTZUT3gzb3BMbFNzaHhqMTBORHRILWJrWTRTcGRZX0RGVFZQS3lmN3NRWEtJc2Mxb1kzR3NDMUlkejJLYlNyLTE1b3gtbzhPRlNQNF8xQjlLcXZFVmRyc211dFE": {
-  "keep": false,
-  "publishedAt": "2026-09-24T07:00:00.000Z"
- },
- "NIQ::CBMipwFBVV95cUxOQ2I3bUFjaTdhT1lWMzNvM1ZCbXh5Z0NMelhNRzBmRnVldk1LaFZJTTBEZHpRWU9wWElpV00tcVdqV09ibk4xdkFZYktIUC1LTnlfVDc2U0hyUzVkcU5zUDBoX2Foekd2bGpIT3NYRDBPcThzR0I3NHF4QUJmM1VxQ0JoRmppUlVueUluV2V6MklOaEV1empKTkJ6cFdMYUdxWmx5QWpqOA": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "NIQ: majority of U.S. consumers now use AI when shopping",
-  "short_headline": "Most U.S. shoppers now use AI to shop (NIQ)",
-  "takeaway": "AI use is now mainstream among U.S. shoppers, so our store should make its catalog and product data easy for AI tools to find and compare.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-09-24T07:00:00.000Z"
- },
- "PYMNTS Data::CBMijgFBVV95cUxOX3dKVHJjMmcxb29Hdkh0MklVX3RJbmw4cU9fNVJKbHdzU1dlVjkxR0Q5dnc3WUdOTVlzMm8wZXBLdDB0VDMzVUJjZGhVWVhfS28xdHg4cjZST2dpWXJ6UEFpNzN4eUpEeVctLXVscTh5cG53bl94RUF0ZXZSVWxYVXVzaVZWeGZvQ2h0dGNR": {
-  "keep": false,
-  "publishedAt": "2026-09-24T07:00:00.000Z"
  },
  "Inc42::https://inc42.com/?p=576659": {
   "keep": false,
@@ -2932,10 +2883,6 @@
   "content_type": "data",
   "competitors": [],
   "publishedAt": "2026-09-25T07:00:00.000Z"
- },
- "PYMNTS Data::CBMihgFBVV95cUxPSWlGWGU1em5teG0wU2pwZ0wwVG45N0J3dWE3Tm5tbjYwcXRQekpSVEJ0SWFqQjJBQkpBaGtrczRNZUlwR214ZTUxaGNyY2ExdXplUE9TeUpGNjZMenU4MjBfa3F0RjBvNy00bkc2ZHRLUzlhZUdkamlxVFlBVUp4M2VadWRfQQ": {
-  "keep": false,
-  "publishedAt": "2026-09-24T08:05:53.000Z"
  },
  "PYMNTS Data::CBMirgFBVV95cUxOSzJSX2wtUjZjX1BVaHdIU1ExcWl4eFF5NDNzeVVncnFPME1rUEtrblg0ZWVRT2FkSnNQUDgwbTNWWHBFanoya015bFozVUJsWEVWMGMzVWxNWXJ3RUN4dEIwV0JSY0VlV3dSTS1lRk1aRHBSWXFpR2JQWFdIR0E1ODdfU3hlUjRUT3U3eG1ZXzB4a09fQWxQSFFjbm1zMUc1NXlWUXZNdDN6OHo4RHc": {
   "keep": false,
@@ -3523,10 +3470,6 @@
   "content_type": "news",
   "competitors": [],
   "publishedAt": "2026-10-20T03:55:00.000Z"
- },
- "Circana::CBMiowFBVV95cUxQZ3RTX053MmZsQ3AwUGRadWtWa2VQQ0luRzBSWEJ2WDdUSzRqcGppSjh5Y183WGQzVlljN2QxcTlpV3pmQ3FoOXJ4VG53azZnZWxETXU5ZkkyQzQwcVZka3ppUGJFNEswWGUtc3V1YTZYdk1xbHVyTGFFbnoxX2hTNk5Od0lXNUp5ck94ZVBVRTVzbUY0anpJdGNXOUZCUW55VkdB": {
-  "keep": false,
-  "publishedAt": "2026-09-24T07:00:00.000Z"
  },
  "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363623": {
   "keep": true,
