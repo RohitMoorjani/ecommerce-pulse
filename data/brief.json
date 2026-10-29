@@ -1,49 +1,43 @@
 {
- "updatedAt": "2026-10-29T03:50:45.109Z",
- "title": "Make our store agent-ready and price-resilient as PC costs climb",
- "summary": "55% of consumers use AI in product discovery (NIQ); Walmart added agent profiles and spending limits, Amazon widened Shop Direct. PC shipments fell 21% in Q3 (Counterpoint); Asus sees commercial PC prices up ~10% in 2H26.",
+ "updatedAt": "2026-10-29T13:06:02.492Z",
+ "title": "Make our store readable and buyable by AI agents before holiday peak",
+ "summary": "55% of consumers use AI in product discovery (NIQ); Walmart opened to outside shopping agents with spending limits; Amazon widened Shop Direct to keep agents out; Apple showed touchscreen laptops; memory costs stay high to 2028.",
  "points": [
   {
    "headline": "Retailers are setting the rules for AI shopping agents",
-   "detail": "Walmart added agent profiles, terms and spending limits; Amazon expanded Shop Direct. We should decide how agents may read and buy from our store.",
+   "detail": "Walmart added agent profiles, terms and shopper spending limits while Amazon expanded Shop Direct to hold discovery in-house. We should decide how agents read and buy from our store.",
    "segment": "agentic",
    "storyIds": [
     "Retail Dive::https://www.retaildive.com/news/walmart-welcomes-external-ai-shopping-agents-terms-boundaries/833723/",
     "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363692",
+    "PYMNTS Data::CBMiuwFBVV95cUxQem56Vk9DY0NRMUotVS0wWXlFUFU2dGVRSFdWS1ptSW5DNEtReGVfemtSN2NScVRjRHhtM19mVmRUUndCd0IwMXBoWkoyekhQNHFwRGp6SHVoMDNfTG1mTU8ydzFwLWVnd0hLWEZ6Zjd5dkFra0NQTThPcG5icFRSQWE3bGNHN1p5OTA3X09kSWJDYXhldUl2eVdvUHM3OWppVU5Ra3dBVVVJdUNvM0lUcXc3ZVdMekZBSUw4"
+   ]
+  },
+  {
+   "headline": "AI is now a mainstream discovery channel, and shoppers favour marketplaces",
+   "detail": "55% of consumers use AI during discovery (NIQ), and shoppers would send agents to marketplaces over brand sites. Our product data and marketplace listings must both be agent-ready.",
+   "segment": "trends",
+   "storyIds": [
+    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
     "PYMNTS Data::CBMirwFBVV95cUxNTHAwZS0wVHZjLUhEYXZnQnpEdUlLbkxrUHBabUtydFZBU2xoenlOb3kxNU5UUnIyY2JUdGU3RnBzbjhTMGVzU3RXNld5S21DSWNlTkt2REdTREZPTFlWamZFeE5aSVFwYjRGQXhvR21xaHp6Q0ZnbFJUbjZIdDB5MmJHVENuZXFtZEt5U05USXZxM3RJcGlMY29LWmdmZFRVdEVlcWxvZ2Q5MjZveEd3"
    ]
   },
   {
-   "headline": "AI is now a mainstream discovery channel for shoppers",
-   "detail": "NIQ finds 55% of consumers use AI in discovery; Gartner says 34% of US shoppers would use GenAI for gift ideas. Our product content must work for AI tools.",
-   "segment": "trends",
-   "storyIds": [
-    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
-    "Gartner::CBMilAJBVV95cUxPdEI3MmZCa2FBWVVoSC1ZNGh2OUhLSnhPRUl1eWgtMHd2T2dNVXRnRUhJUVh1WVhYMWl1Mm5RLXZzZzBPdzBQalVXYzlLNmlwLXhzSE8zU0RCcHpjTHhQSWxZazNrcUZraEl0Z1VnYlBULW1TOUI4eWVRYlZiNlFkSVJyT3FleGJHOFNnTU5jY0JEZVhaN1RkU2NhZC1UVjVoQTZjLTk2ckVmVktrdnQyeUZmRl8yeG8zZkQ1N3dCSFhmMjJNRXBPdGdYRW9lVlRpRzVndUN0ZjFGeF9xVF9sc1IyVm1ZY1o5b21jNE9mX0ZqNzY2UVYyY211aXg0eGFpelZGUGZ6ajQwRU9GX3FyNElCYUM"
-   ]
-  },
-  {
-   "headline": "PC demand is falling while component costs push prices up",
-   "detail": "Counterpoint: Q3 shipments down 21%, Q4 decline forecast at 27%. Asus expects commercial prices up ~10% in 2H26. We should plan promotions, pricing and inventory.",
+   "headline": "Apple goes touchscreen while memory costs keep PC prices under pressure",
+   "detail": "Apple showed pricey touchscreen laptops; Samsung sees no memory price relief before 2028. We should review premium positioning, touch lines and pricing plans.",
    "segment": "pc",
    "storyIds": [
-    "Counterpoint Research::CBMimAFBVV95cUxNQUJjMnJJVmd3dFlwaWswQnh4OS1PNTNjVmlUTnR3ZWs4LTRwcDJYTWtydlZiMEhnUWh6WEFSYVEyYmxNbERQNnp1TF9LNmJXS1ZZZmlOWmRVOW5RRU91VlowNl9YN0Y1eUZ1VFRxU2FwcUJZOU1jZ3UxeTNQU19lSmxsZlRYVHNMVUg4ck9iVnd3UEc5VTJTbw",
-    "DigiTimes::https://www.digitimes.com/news/a20261028PD204/asus-commercial-pc-2026-market.html"
+    "Reuters::CBMiuAFBVV95cUxNMGg0QUZLRkZQUmg1ei1BVWZCUEZkcFdueUIyZDJFX3ljN09yRjUzSEE5V0JWVVpRaGRHdHNDaHAtNkRlNXZfWElQM3QxM0lpZTM1UHJYQWhKRmQ2X3JJNzAxRy1lcGIyalhUTEFhRGxyOTUxeU04S2U1X1RSWWUwcldiQndWUTZtYlB0SGZVTFM4eV9HZVV4VGdsRDAzc3h6TWhiZmVDNVF0dkRGMXI1eFhMekQ0TTU2",
+    "DigiTimes::https://www.digitimes.com/news/a20261029VL217/samsung-hbm-chips-profit-2028.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261029PD201/electronics-taiwan-dram-2026-ic-design.html"
    ]
   },
   {
-   "headline": "IDC: memory-shortage fears raise PC buyers’ interest in financing",
-   "detail": "With costs rising, business buyers look to flexible financing. We should test leasing and instalment offers for business buyers in our store.",
-   "segment": "pc",
-   "storyIds": [
-    "IDC::CBMiYkFVX3lxTE03V29UZjdYZnZ5YWR5UW5vdFBkaVVuRUhRQTBBM0xLQjBkVXRQU3hUN3dNZW1hWlk2TVlTOGw2eDVrUDVBQy1FajNSVExXbjJTVEU3YmRGTXhJS0N0cl9aNERn"
-   ]
-  },
-  {
-   "headline": "Walmart stretches Black Friday and Cyber Monday to 14 days",
-   "detail": "Walmart extended its events from 10 to 14 days, which may pull electronics demand earlier. We should check our deal calendar and price matching.",
+   "headline": "Memory fears raise appetite for flexible PC financing; Walmart lengthens deals",
+   "detail": "IDC surveys financing interest among PC buyers; Walmart stretches Black Friday/Cyber Monday to 14 days. We should test leasing and instalments and review our deal calendar.",
    "segment": "marketplaces",
    "storyIds": [
+    "IDC::CBMiYkFVX3lxTE03V29UZjdYZnZ5YWR5UW5vdFBkaVVuRUhRQTBBM0xLQjBkVXRQU3hUN3dNZW1hWlk2TVlTOGw2eDVrUDVBQy1FajNSVExXbjJTVEU3YmRGTXhJS0N0cl9aNERn",
     "Retail Dive::https://www.retaildive.com/news/walmart-longer-black-friday-cyber-monday-sales-events/872747/"
    ]
   }
