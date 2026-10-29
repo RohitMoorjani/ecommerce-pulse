@@ -1,186 +1,90 @@
 [
  {
-  "id": "PYMNTS Data::CBMiuwFBVV95cUxQem56Vk9DY0NRMUotVS0wWXlFUFU2dGVRSFdWS1ptSW5DNEtReGVfemtSN2NScVRjRHhtM19mVmRUUndCd0IwMXBoWkoyekhQNHFwRGp6SHVoMDNfTG1mTU8ydzFwLWVnd0hLWEZ6Zjd5dkFra0NQTThPcG5icFRSQWE3bGNHN1p5OTA3X09kSWJDYXhldUl2eVdvUHM3OWppVU5Ra3dBVVVJdUNvM0lUcXc3ZVdMekZBSUw4",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-28T20:10:09.000Z",
-  "title": "Amazon Expands Shop Direct Catalog to Keep Shoppers Off AI Shopping Agents",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029VL203/lg-demand-business-earnings-lg-electronics.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T00:00:49.000Z",
+  "title": "LG's business diversification supports earnings as consumer demand stays weak",
+  "snippet": "LG Electronics' latest quarter shows how appliances, vehicle components, and an improving television business are supporting earnings while the company builds new positions in data center cooling and robotics. The…"
  },
  {
-  "id": "Reuters::CBMiqwFBVV95cUxPdWxPZy11QV9mWTN3NnBKTlNXVWhVQ3ZsSzA5bGRwZnRrNXZsQW83NWVreGhVbmhkNE1VeDc4V0VVamtQb0lCaFU3SEYzcG1paGJ3WWt1cHB2YnlUQ0VvTWNHcEdyalZMenkxSVo5Vm5MTlowcGR4UDZGcnZOcmhqM285amVvTmhLX2xIWTVUM0hXbUJsWlhfT2RWMUV6U2ZIeldYUkRXUzlNTVk",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-28T20:00:22.000Z",
-  "title": "Oracle eases AI spending worries with plan to turn cash flow positive",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029VL202/microsoft-growth-infrastructure-demand-capacity.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-28T23:56:13.000Z",
+  "title": "Microsoft's cloud growth outpaces infrastructure spending delays",
+  "snippet": "Microsoft's latest results suggest that enterprise demand for cloud computing and artificial intelligence is supporting stronger operating earnings even as some infrastructure capacity arrives later than planned. The…"
  },
  {
-  "id": "Reuters::CBMiuAFBVV95cUxNMGg0QUZLRkZQUmg1ei1BVWZCUEZkcFdueUIyZDJFX3ljN09yRjUzSEE5V0JWVVpRaGRHdHNDaHAtNkRlNXZfWElQM3QxM0lpZTM1UHJYQWhKRmQ2X3JJNzAxRy1lcGIyalhUTEFhRGxyOTUxeU04S2U1X1RSWWUwcldiQndWUTZtYlB0SGZVTFM4eV9HZVV4VGdsRDAzc3h6TWhiZmVDNVF0dkRGMXI1eFhMekQ0TTU2",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-28T19:13:44.000Z",
-  "title": "Apple shows pricey touchscreen laptops, a first for the iPhone maker",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD251/lenovo-ces-2027-technology-data.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-28T23:54:23.000Z",
+  "title": "Lenovo previews CES 2027 lineup focused on AI agents, hybrid AI",
+  "snippet": "Lenovo Group announced that its annual global innovation event, Tech World, will return to CES 2027 in Las Vegas, taking place at Sphere as part of the keynote program. The event will feature a lineup of prominent…"
  },
  {
-  "id": "NRF::CBMigwFBVV95cUxOQU1iTEprcFVfYm1tX25Ob291VndfdjIyVEtvYS12d2VfdzZPNkhCZXRkU1FWbVJQMkRKUVJtVFRFRjJYdmh1T0xRdnF2SlFqb0hRQlBnaHgtMXRYa2hOSkU0bTQwN3EycGJIZEYydnB3OFQ0ZWt4WXNQNlB3cEpRUnFUUQ",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD246/advantech-pc-technology-california-north-america.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-28T23:52:20.000Z",
+  "title": "Advantech opens Tustin HQ to strengthen North American R&D",
+  "snippet": "Industrial PC maker Advantech has opened its new North American headquarters in Tustin, California, expanding local R&D, manufacturing and system integration capabilities. The company subsequently held the Advantech…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD228/iphone-duo-sales-apple-demand-foldable-smartphone.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-28T23:51:06.000Z",
+  "title": "iPhone Duo sales beat expectations as first batch sells out",
+  "snippet": "Apple's first foldable smartphone, the iPhone Duo, saw strong demand despite a typhoon disrupting its launch day. Telecom operators said sales have remained robust since the launch, with limited initial shipments…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD206/taiwan-electronics-growth-2026-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-28T23:43:49.000Z",
+  "title": "Taiwan's growth surge nears end; electronics, machinery stay resilient in 2027",
+  "snippet": "2026 will be a breakout year for Taiwan's economic growth, with GDP expanding at a double-digit rate—more than twice China's growth rate, according to a consensus among economic research institutions. Over the next six…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD204/asus-commercial-pc-2026-market.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-28T23:43:15.000Z",
+  "title": "Asus sees commercial PC prices rising nearly 10% in 2H26",
+  "snippet": "Asus expects commercial PC prices in Taiwan to rise nearly 10% in the second half of 2026 after surging almost 30% in the first half, as higher memory and processor costs continue to pressure the PC supply chain. The…"
+ },
+ {
+  "id": "NRF::CBMidEFVX3lxTE16UDRTRDNoeklyc1hYcTQ3eEVTS2s1Q3MzZm55NjFPUWd5S1AwSFFYODB1R1lpNXBYblFGMFA3M2hPSzllR3U0MVRqNG5maTJfSmxPNmdxRnVDOGlYWmktN0tuSVZWcDZyYVhwc01abERsaE9s",
   "source": "NRF",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-28T19:05:31.000Z",
-  "title": "2026 holiday shopping trends: What consumers are planning",
+  "publishedAt": "2026-10-28T21:59:57.000Z",
+  "title": "2026 Winter Holiday Consumer Outlook Webinar",
   "snippet": ""
  },
  {
-  "id": "Retail TouchPoints::CBMiogFBVV95cUxOUVN3WXFucllXNXVyRGFiNnFQUDFNYVc3c1hmeXRLekRZbzN2VzNJRXgxYXh2NXRIekpLQ3dEN2JMSXlsWmdxXzZlS2c5c2JFbW1vZTJfWmN5M0ZRY3hfT0lickdrY2ctSU92TjhGYVdNaDEya01jS1hNbUVFUEpDcW16a1FsS2pYWGpSdjZxVzRFWF9BdzV4RDVDZmJKSmFlZUE",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-28T19:04:53.000Z",
-  "title": "Holiday Marketing Has a Gen Z Problem",
-  "snippet": ""
- },
- {
-  "id": "Apple Newsroom::https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
-  "source": "Apple Newsroom",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-10-28T17:09:28.430Z",
-  "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
-  "snippet": "Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/sephora-casts-seth-rogen-holiday-ads/873013/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-28T16:58:00.000Z",
-  "title": "Sephora casts Seth Rogen for holiday ads targeted at gift-givers",
-  "snippet": "“The Studio” star plays a clueless shopper in a campaign aimed at consumers who aren’t in-the-know about beauty but are seeking thoughtful presents."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/hasbro-wizards-of-the-coast-president-dan-ayoub/872998/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-28T16:13:00.000Z",
-  "title": "Hasbro names third Wizards of the Coast president in under 5 years",
-  "snippet": "Dan Ayoub, who now leads Wizards and Hasbro Digital Games, has been playing D&D with the same group of friends since he was 10 years old."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/running-brand-rescue-vans-vf-corp-altra/873014/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-28T16:13:00.000Z",
-  "title": "Could this running brand rescue Vans owner VF Corp?",
-  "snippet": "The Altra footwear brand’s revenue grew 40% in Q2 and is on pace to offset ongoing declines at the company’s faltering skater brand."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/jos-a-bank-new-store-concept/872882/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-28T15:56:00.000Z",
-  "title": "Jos. A. Bank puts customer experience at the center of new store concept",
-  "snippet": "The menswear retailer’s new space, which was developed using customer insights, features an area for consultations, fittings and personalized service."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/etsy-ceo-ai-human-creativity-earnings/873009/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-28T15:41:00.000Z",
-  "title": "Etsy CEO addresses friction of AI vs. human creativity",
-  "snippet": "The e-commerce marketplace saw active buyers in Q3 grow for the first time in two years and is utilizing AI to improve product recommendations."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/aritzia-store-openings-product-expansions-double-revenue-growth-plan/873034/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-28T15:29:00.000Z",
-  "title": "Aritzia banks on store openings, product expansions to double revenue in 5 years",
-  "snippet": "The company plans to open as many as 14 U.S. stores a year and expand into bags, beauty and shoes on its path to becoming “world famous.”"
- },
- {
-  "id": "NIQ::CBMi2AFBVV95cUxQTElhSkY3ZnJjYmR2MWxwRklrNW91V3pTNE15M3ZvSHpDam5RRVEyb2tybzhhcWVMbEcxaEtISG1vTW4zeFNjd1JMOExKT2FoTk9CR1h0c3c1QmFHblBGSkxKU0hEbnVMb0prYlVOTThoaEJKRkdObklrUHZuVi1qdFFBeWh3S1ExWFBSam5XVHJGM0dqM3p1YnhNMUVZRzR1b21RXzZ3OEN0ak9EVWozM3ZpZTVQc3FnWVJIZGhyNTgzMUxGVnlLbUpXck1YTjdUcTFvRDlQWm0",
-  "source": "NIQ",
+  "id": "PYMNTS Data::CBMiugFBVV95cUxQLWVqdDhYN1UwcEt3UVR2THZYUnFIZVpFNy03b2FRdUxsbldkV2dIVXhITC1mUTFVcHJGR3l1Vk94aVZiU19FbW0wTzZOR0VsUTZzRUZtVlRRWEM2dG81LWlPZWk0OUdYbFljV3V1Q1RUU2VVdk9yUGV2NmJQdVk2aGFJUXZXS05JZVZVdnVXcGZ5NF9XR2xoa0p0ZkdiTFJsUC16MWlXdGUwMmw2RENySFY4OGxPMW9MWWc",
+  "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-28T15:03:16.000Z",
-  "title": "NIQ Expands Shopper Experience Platform to Improve Product Discovery in AI-Powered Shopping",
+  "publishedAt": "2026-10-28T21:39:29.000Z",
+  "title": "PNC Bank to Expand Small Business Offerings With Embedded ADP Payroll",
   "snippet": ""
  },
  {
-  "id": "Dell Blog::https://www.dell.com/blog/the-hidden-roi-in-your-pc-lifecycle",
-  "source": "Dell Blog",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-10-28T15:00:00.000Z",
-  "title": "The Hidden ROI in Your PC Lifecycle",
+  "id": "Reuters::CBMirwFBVV95cUxPLTNUYVRBd0RuOWg5SUc2SzFCSTR1TGJsRndOTjNDWmtkeU1fRHZwWUxaakxsdE9sSV8tZzZDMXpXV2dDNDhhbTMyM291Z0Rua2lNSEwxaVZlTVVMbG5icUY1dllTNm9QVEk1R0NpdHdNRzVmSFA2MXZublNmaGN4NXJ5RGdMeWhiTHZmdENGX0t6UUdGaWNLS0JkbkVHWkRONXk5dkg0ZFA1T3Q0dGVR",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-28T20:07:00.000Z",
+  "title": "Microsoft's cloud growth, cash flow offer respite from AI spending fears",
   "snippet": ""
  },
  {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76393",
-  "source": "InternetRetailing",
+  "id": "Reuters::CBMitwFBVV95cUxQb2EwVk84THdfQWtSRkhNZXNHRUhwYkJzZWNtbEljdTljQU9tNXNlOEVWajRuMFc0dTRLNmxYR0JtbFNMYUlqSGhwN2s2R3VIWGxYM3ExRnlaS05tUm5OcWkyY2w1WENScllPMDJjQU45THMzcXY0dWR3RzF0aGJod2N5MUk0V3ZJaW5ORzVpbzRGNTRPZWRjZzJJMlFnVUFIRkljeTc4eFctOFRGX1lrQU9xV0c0RlE",
+  "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-28T14:39:09.000Z",
-  "title": "Autumn Budget review: Business rates relief is welcome, but will it save Britain’s struggling high streets?",
-  "snippet": "As anticipated, Chancellor John Healey put forward a raft of packages designed to breathe life back into Britain’s struggling high streets in the Autumn Budget. The post Autumn Budget review: Business rates relief is…"
- },
- {
-  "id": "Inc42::https://inc42.com/?p=578347",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-28T14:36:05.000Z",
-  "title": "Exclusive: Holiday Tribe In Talks To Raise ₹50 Cr From RPSG Capital Ventures, Others",
-  "snippet": "Traveltech startup Holiday Tribe is in talks to raise around ₹50 Cr (about $5.2 Mn) in a fresh funding round,…"
- },
- {
-  "id": "Retail TouchPoints::CBMiaEFVX3lxTE5vM0twS1NqanFjYWV5aTNqcm9reUg4anotVS1xTWJrT3o3Rl9ZWnJVRXBqQU1FVVQtSzd2cFBwVnA2MmVNRU9abVYtOUJHRTdqMlBnWk1WN1RXbWxMeVhUcEdMQ3B1NG9R",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-28T13:56:08.000Z",
-  "title": "Millennials - Page 9 of 18",
-  "snippet": ""
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166829",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-28T13:01:23.000Z",
-  "title": "OKA Debuts Mori AI Robot",
-  "snippet": "Uses ambient light, sound and movement to deliver nature-inspired experiences without screens or voice commands"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166826",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-28T13:01:13.000Z",
-  "title": "DreamWall Adds Dave Cusick, Russ Hoffman To Leadership Team",
-  "snippet": "Cusick will lead sales, while Hoffman will oversee customer experience"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166821",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-28T13:00:21.000Z",
-  "title": "Review: TRIBIT FlyBuds C3 Target Clear Calls, 35-Hour Battery Life",
-  "snippet": "The true wireless earbuds combine hybrid noise cancellation, customizable EQ and a compact design at a $39.99 list price"
- },
- {
-  "id": "Dell Blog::https://www.dell.com/blog/what-does-your-pc-need-to-run-agentic-ai-",
-  "source": "Dell Blog",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-10-28T13:00:00.000Z",
-  "title": "What Does Your PC Need to Run Agentic AI?",
-  "snippet": ""
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/meesho-q2-results-loss-narrows-to-rs-132-crore-yoy-revenue-rises-34/135265674",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-28T12:33:00.000Z",
-  "title": "Meesho Q2 Results: Loss narrows to Rs 132 crore YoY, revenue rises 34%",
-  "snippet": "Meesho’s Q2 FY27 net loss narrowed 67.8% to Rs 132.45 crore, while revenue surged 34.4% to Rs 4,131.58 crore. Rising user engagement, stronger merchandise value, improved contribution margins and festive-season demand…"
- },
- {
-  "id": "McKinsey::CBMi3gFBVV95cUxOWENYYThmT1lvWlNUT25udnNwSWNJLWtEaE42ZjdWalpQZWhhY25yQV92a0VqNW1rd1RaNDF5bW9PTERqYnVUb3Y3NkdwZWJ4bXdUQ2d4dm1zOTNTUkVBTTFqSHF0SmdrTENmUUdkQXJIMWRNT3Z6UU5uMTg2ZXJyTnRsRUo5b2VFWmRqVFJSenhERlpzbF92UDY2czRXdjZ4c2RYai1NRm8yYnNNeG1YZUhYUXNsZjVoNTFhOVRWbGJ4ZklYOWppOFJkeVZnYllLdEJjZlRZQklvOTBSRHc",
-  "source": "McKinsey",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-28T00:00:00.000Z",
-  "title": "Who wins when AI does the shopping? New evidence on agentic commerce",
+  "publishedAt": "2026-10-28T13:56:20.000Z",
+  "title": "UK's Healey to make online marketplaces collect tax from sellers",
   "snippet": ""
  }
 ]
