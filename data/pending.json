@@ -1,266 +1,178 @@
 [
  {
-  "id": "PYMNTS Data::CBMingFBVV95cUxQbFNjS0NtRDByTTBJUjE2SEJwZnR3eUZnMWpaMmd5Z3RmcjlwVWZwQzBqUmVQVF9tbWRXcFJoTHF3bTJkTTlNZVFQUXFZYXg4ZlFxMEllczhlLWxpUVVXN1R5SkoyRzMxT1VrZEIyTVFUQVJfWThjNmM3Nk9BTmdRR3A5andKRTVVY0pOeGtzNjgwTHM1RGtYa0RQY0xwdw",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-29T17:24:23.000Z",
-  "title": "Visa Launches Agentic Commerce Partnership With Tencent",
-  "snippet": ""
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/fanatics-openai-outfit-curation-tool/873180/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T16:58:00.000Z",
-  "title": "Fanatics revamps outfit curation tool with OpenAI",
-  "snippet": "A new version of the retailer’s Shop the Look tool generated 10% higher engagement in a pilot."
- },
- {
-  "id": "PYMNTS Data::CBMiogFBVV95cUxNTVlGc0l3bjB6akZ2RElfeDVVTzNpemlnajNyWlZ1VmdMRXMwQnVneW9IV3hRY0tzZTJzWk1CMzdfX3R1ZGNGSUtETk8yaml6aXVWSUxpczBTVDdpLVltVUFqU1ItVFh3UlE0ZWxqM09jYUtkUHlVY2ozVjd0NEpQbThnTkNodHJtZGJSWE5iaGVDYnpYTVF0QU9VbVJfaXN2bkE",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-29T16:45:57.000Z",
-  "title": "Walmart and Home Depot Set the Rules for AI Shoppers",
-  "snippet": ""
- },
- {
-  "id": "Reuters::CBMiyAFBVV95cUxORW5SOWQwSzcyUFRocHlTSmRhdWJtN2QzXzRCM3FPSjdXeDlBREVZSERWdGRiZUQ3OU1kMldlT3J1TnpwUFl3dEk1S1hkM0lpYmlDTlNfcllDdWc4VkYzZ2hzT0FmNm4zY2JNOEtJYUx4OVN4X045a2pXLWs5Wk9sMHdrMWFFMFI5R0VXV09uLTV4TFpnNTBPV3BNUHMxM2o2dEloNlJpWks2NjJUci13Vzd3QXlPeXdVQVpsUlhaQ1JyZk81aU5sdw",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T16:45:25.000Z",
-  "title": "DoorDash strikes $17 billion deal for US rival Instacart in mega grocery delivery bet",
-  "snippet": ""
- },
- {
-  "id": "Reuters::CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T16:43:57.000Z",
-  "title": "Nasdaq falls as Alphabet set for record loss amid AI spending woes",
-  "snippet": ""
- },
- {
-  "id": "Inc42::https://inc42.com/?p=578498",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-29T16:36:22.000Z",
-  "title": "Bijnis Rebrands As Zorit, Raises ₹27 Cr For B2B Quick Commerce",
-  "snippet": "Delhi-based B2B ecommerce startup Bijnis has rebranded as Zorit and raised ₹27 Cr in a funding round led by Sparrow…"
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/most-consumers-arent-using-ai-for-product-discovery-yet/833604/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T16:32:00.000Z",
-  "title": "Most consumers aren’t using AI for product discovery, yet",
-  "snippet": "Retailers should consider the quality of their metadata to prepare for a predicted upswing in AI usage, new research finds."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/heydude-north-america-wholesale-crocs-q3/873169/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T16:13:00.000Z",
-  "title": "Heydude wants to sell more in North America, but is unlikely to open new stores",
-  "snippet": "The brand returned to growth in Q3 compared to its weak results last year, thanks largely to wholesale revenue from retail partners."
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261029PD246/ase-profit-2026-electronics-revenue.html",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261030VL201/amazon-growth-expansion-infrastructure-aws.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-29T16:00:00.000Z",
-  "title": "ASE Holdings raises 2026 capex to US$11.5 billion after profit surge",
-  "snippet": "ASE Technology Holding reported net profit of NT$26.996 billion (US$831 million) for the third quarter of 2026, a 28% increase from the previous quarter and a 148% gain from a year earlier. The result marked the…"
+  "publishedAt": "2026-10-30T00:14:07.000Z",
+  "title": "Amazon's cloud acceleration lifts profitability as AI spending absorbs cash",
+  "snippet": "Amazon's third quarter showed its cloud expansion translating into stronger operating profitability, while the cash demands of building AI infrastructure kept rising. The result sharpens the company's central operating…"
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/doordash-buys-instacart-delivery-seventeen-billion/873151/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T15:51:00.000Z",
-  "title": "DoorDash to buy Instacart for $17B",
-  "snippet": "The deal marks the consolidation of two major players in the retail delivery industry."
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028VL228/alibaba-tencent-bytedance-dram-samsung.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-30T00:12:49.000Z",
+  "title": "Alibaba, Tencent, ByteDance reportedly seek 10-year DRAM deals",
+  "snippet": "Alibaba, Tencent, and ByteDance are reportedly seeking long-term server DRAM supply agreements with Samsung Electronics and SK Hynix, with some requests extending through 2035, as Chinese cloud service providers (CSPs)…"
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/ftc-orders-target-walmart-personalized-pricing-inquiry/873173/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T15:49:00.000Z",
-  "title": "FTC orders Target, Walmart to provide details in personalized pricing inquiry",
-  "snippet": "The agency sent the order to nine companies to examine how personal data is being used, even through loyalty programs, to potentially alter price tags."
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261030VL206/intel-pc-ai-pc-sales-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-30T00:10:21.000Z",
+  "title": "Intel's AI PCs are selling, but the wider PC recovery is still missing",
+  "snippet": "Intel's growing AI PC sales are coexisting with a shrinking PC market, as memory constraints weaken purchases and computer makers reduce processor inventories. The distinction matters for the company's manufacturing…"
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/podcast-the-backroom-dynamic-pricing-walmart-consumer-sentiment-holidays/873172/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T15:46:00.000Z",
-  "title": "The Backroom: Dynamic pricing and the anxious consumer",
-  "snippet": "With the holidays approaching, consumers are zeroed in on price now more than ever — and Walmart is taking the heat."
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029VL221/samsung-sk-hynix-investment-demand-production.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-30T00:09:34.000Z",
+  "title": "Samsung, SK Hynix say memory crunch could drag on for years despite spending surge",
+  "snippet": "Samsung Electronics and SK Hynix expect memory shortages to persist for years despite rising investment in chip factories, as surging AI demand and increasingly complex manufacturing processes limit how quickly new…"
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/consumer-confidence-edges-up-decline-gas-prices-conference-board-inflation-fed-federal-reserve-warsh/873161/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T15:35:00.000Z",
-  "title": "Consumer confidence edges up on decline in gas prices: Conference Board",
-  "snippet": "“The mood among consumers remains pretty bleak,” Pantheon Macroeconomics Chief U.S. Economist Samuel Tombs said."
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029PD245/samsung-2nm-faraday-asic-hpc.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-30T00:05:41.000Z",
+  "title": "Samsung secures Faraday 2nm ASIC order, broadening AI and HPC footprint",
+  "snippet": "Samsung Electronics has secured a 2nm foundry order from Taiwan-based ASIC design house Faraday Technology. This win expands the application scope of Samsung's 2nm process from mobile devices to cloud AI and…"
  },
  {
-  "id": "Reuters::CBMi0AFBVV95cUxQa1FzbjBSNFpTSlBUTmJ0YzA3U3JZVi1zNGFiUnRVMGgxSVhUQWVzM2dLazgySkZXdEg4TV9GWndobTF6UTdHM2VxNnhGbERKWlF4UEFadmxOSk0wMnVGRm1zcFA3ajg2bWdDV0hzT1RlbXAzMjlRdzhibnVQclZKcVRXMTVRbUJRVm5vd2tqMzctbThjRlp3QlRYMk54dnBPYllyQ0RrMHlBOFBpeDVYRlJWNU9qU1hmSkQ2Ynl3MHlDQjdOYVptcDA0SW9wRnFV",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029PD239/loss-demand-panel-revenue-electronics.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-30T00:05:22.000Z",
+  "title": "AUO returns to a third-quarter loss as panel demand weakens",
+  "snippet": "AUO reported a consolidated net loss attributable to its parent-company owners in the third quarter of 2026 as cautious panel purchasing and weaker consumer electronics demand reduced revenue. The display maker posted…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029PD234/smartphone-shipments-apple-oppo-huawei.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-30T00:05:03.000Z",
+  "title": "Memory price surge clouds peak season; Chinese brands' 4Q26 smartphone shipments to drop over 35%",
+  "snippet": "Despite new smartphone launches from Apple, Huawei, Oppo, Vivo, and Xiaomi, rising memory prices are weakening sales momentum and prompting Chinese smartphone brands to adjust their product mix. DIGITIMES Intelligence…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029PD233/globalfoundries-fd-soi-data-manufacturing-president.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-30T00:04:38.000Z",
+  "title": "GlobalFoundries bets on FD-SOI for robots and cars",
+  "snippet": "GlobalFoundries (GF) is betting on specialty semiconductor technologies to capture AI demand beyond advanced processors, targeting opportunities in data center connectivity, power management, automotive electronics and…"
+ },
+ {
+  "id": "Reuters::CBMiswFBVV95cUxNQXhDSjU4RmlrZmUyT0E5dzJNbmJNaXBBdGhndktXeGUtZVItTWlpNDBZcXR5LTZDMjFOdzdXenRpTnhNd01pZXBXX0V0OTVlYkMtVlJnN2l4YS1QeENxeWlzUUN6bDZkeThpc1VBMUZDQjFYcGxrQWFrVzBVOXdueV9Tb0drZjZ4T3JYWmRXS2MwWnMwMGpoT05FU1lUVWhRbXlPZEpYUjZQbnlrQWh3SGdsTQ",
   "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T15:31:02.000Z",
-  "title": "Hershey warns rising living costs may spook Halloween shoppers",
+  "publishedAt": "2026-10-29T23:35:57.000Z",
+  "title": "Amazon sinks as AI spending eclipses fastest cloud growth in five years",
   "snippet": ""
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/nike-jordan-retro-pullback-foot-locker-impact/873154/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T15:10:00.000Z",
-  "title": "What Nike’s Jordan pullback means for Foot Locker",
-  "snippet": "With Jordan accounting for roughly 25% of Foot Locker’s revenue, the athletics retailer will have some gaps to fill next year."
+  "id": "CRN::https://www.crn.com/news/components-peripherals/2026/intel-s-ceo-is-disappointed-it-couldn-t-meet-strong-cpu-demand-cites-near-term-challenges",
+  "source": "CRN",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-29T23:12:00.000Z",
+  "title": "Intel’s CEO Is ‘Disappointed’ It Couldn’t Meet ‘Strong’ CPU Demand, Cites ‘Near-Term Challenges’",
+  "snippet": "Intel CEO Lip-Bu Tan said Thursday that “he’s disappointed” the company was “not able to meet strong demand” in the third quarter as he cited “near-term challenges” that included supply shortages and the “resulting…"
  },
  {
-  "id": "Retail TouchPoints::CBMic0FVX3lxTE9iaEl6Q2hONVNybHNPanp1MGZHOTRxaXFhTk14bkNFZFVIZEVtOHBoaUpidHBnQ1JSZE9TSF81NUNsa1Nha0VnbFZHTW1HU0JVYlFtQVg1OUxTM1B0dDNvdDNlTlU2Z192MGFYM0JTd3owQVk",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T14:32:43.000Z",
-  "title": "non-fungible tokens - Page 2 of 4",
-  "snippet": ""
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/gap-ai-hiring-tool-bridgette/872884/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T14:32:00.000Z",
-  "title": "Gap Inc. launches AI hiring tool in time for the holidays",
-  "snippet": "The retailer expects around 200,000 seasonal employment applications. Its new AI platform aims to reduce the administrative tasks associated with hiring."
- },
- {
-  "id": "Retail TouchPoints::CBMiygFBVV95cUxPS3hRaFpfeW4wa2xvNnFqU1UtS2tUaThUR2tyWEhvWW1yaE9ZY0RRV1FwUG00bklWTVVzZm1mb2NKcEZGQ1hSa0wxR0NNM2VOMXdzMWVtVWtzZlBTemJXUFk0azlENlVyRjkwcU1WeDhhaGU0Szl2V0VMZTZmUUFKcW13d0xJcDFKd21GZHZEWWxhNGQxOVQ2dlVEb1VBX2NCenMwUFRuaEZ3Mno1TkJTc2c3eTN6RGg1eS1acmNVbXNpWUJKa09SYUJB",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T14:05:07.000Z",
-  "title": "Adobe: AI Traffic Driving Higher Revenue Per Visit for Retailers This Holiday Season",
-  "snippet": ""
- },
- {
-  "id": "Modern Retail::https://www.modernretail.co/?p=174231",
+  "id": "Modern Retail::https://www.modernretail.co/?p=174293",
   "source": "Modern Retail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T14:00:00.000Z",
-  "title": "Big-Box Briefing: What to watch this holiday season as Target, Walmart and more battle for sales",
-  "snippet": "Within the past week, nearly all the major brick-and-mortar retailers — Target, Walmart, Kohl’s, Best Buy and Macy’s, to name a few— have put out press releases trumpeting their holiday offers. We summarized the key…"
+  "publishedAt": "2026-10-29T22:30:48.000Z",
+  "title": "Amazon says more than 400M customers have used Alexa for Shopping in the last 12 months",
+  "snippet": "Customers who use Alexa for Shopping are spending 50% more than those who don’t, Amazon CEO Andy Jassy said during the earnings call on Thursday."
  },
  {
-  "id": "Retail TouchPoints::CBMiWkFVX3lxTE5pQ3AxajhYX3JwQi1CS2kxa01icEZpMVd3SzBaS0VWOHFsSm5FcTVuSEEzc29wWFgtelQzS1FhNzdyckVNTHJQeXc0Q3ZGYVJWNkdDR0FRcVBkZw",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T13:51:15.000Z",
-  "title": "Latest In: new app",
+  "id": "PYMNTS Data::CBMitwFBVV95cUxOT3o5ZWpRSnB5akp2SklKd3Zvd0dmVjlqMURES0dmYjNkOElGcjZEMm8yZVdEM19teGtqa0RxYkZQSjlpc3g1Vm13Y3g2SjJtaDdQZzdiTDVKNnFXenk3VW8wOFFDeWhJVVZLb2tmaEpTU1YtT0xWVjQ2MTZ2QUI5NTBrR1ZNTHJMZEZHdU9hWGUycl9sc2prYkxOSUZkVGI3bGJRSjJWWklfM091aUxNR0p2THVITlk",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-29T20:34:51.000Z",
+  "title": "Amazon Adds 100-Plus Capabilities to AI Shopping Assistant",
   "snippet": ""
  },
  {
-  "id": "TechCrunch::https://techcrunch.com/?p=3183041",
-  "source": "TechCrunch",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-29T13:40:57.000Z",
-  "title": "DoorDash to acquire Instacart for $17B",
-  "snippet": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery."
- },
- {
-  "id": "Retail TouchPoints::CBMiogFBVV95cUxPM1ZQeGM3dTBoMmI2Y0lBaXhKd0lQdVR1RXR2TlB4aVhTUVdGZXBNZUJmLWprOFA3Z0VXM0xpTnQtMThEWXdaZzBaSnhqZXI5c2czb2hRalNsR0c5bktOd2Nia3k4MjNpNnBvb3hOX29WbDhsWlVjU2R6V21iZk0tZ0QyMHZ3S2c4dmJsZ3hrWGlTZ3J0Qk42dzlfUDRZYldLRkE",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T13:14:48.000Z",
-  "title": "DoorDash to Acquire Instacart in a Deal Valued at $17B",
+  "id": "PYMNTS Data::CBMiogFBVV95cUxOUkdubldPejhESzFvRkx6Q0EzbFFESk1wTTdRYlFHLUJpNzZzSDd5ZmdUS21Ob19NVl9kVUZFTzFmSFBVdllUZXZjLV9JQVEwMHpjdkg5ck5iVVBnY2h1eWpqUUk0R01hMVpsalZTSUVrckhacVJwc2tZMC1EY3FXMlA2UmJPcTVRbmJ3dk5pcUJQamx0N3pRam9wa1l2NzFtV1E",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-29T19:52:30.000Z",
+  "title": "Kohl’s Embeds Klarna Payment Options Ahead of Holiday Shopping Season",
   "snippet": ""
  },
  {
-  "id": "NIQ::CBMiugFBVV95cUxQb0o3LVFZVFl0V0FvQmI4VzN6REV6d2ttVUpmckpRdG9GZ1p5RXdQRFJlUjBqYXpWSFdWcXJ6ekRRQ0c1Rkh3czRoYlpGbG9FVWRTS050eHdJMEVMVjRBM2JJWU1kTjhoalBPZkN5eVRwV0hkYmg3QWdvNXFmQ25iU1U0SEIwUkJwZjExRGs0b1cxVEFQLXhxdW1kN0MxQmtLd001clFHOC0tQW9oY3VER3JTTndBbUJLX1E",
+  "id": "NIQ::CBMimgFBVV95cUxNbFc3TU5CWk13TGtsNlVVZGZ5bE9QbnduWVlGRTExanA4OUJzdGI4LXdJNU9ZWGc0cnMtNWNrMXRIbVRkZ2xzQ0ZlUXlWSEpaaHI3MzNWankwN2I2aEpubUJ6NG4wMlBkYUNjVXlWdTJNWnhRYnZ1NEV1WVl2My1pZEdwampxNHE2V3JhREpkbkhvX3hEeDlJNWF3",
   "source": "NIQ",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-29T13:13:22.000Z",
-  "title": "NIQ and Google Partner to Advance Agentic Commerce - NIQ",
-  "snippet": "NIQ and Google Partner to Advance Agentic Commerce NIQ - Investor Relations"
- },
- {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76403",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T13:02:55.000Z",
-  "title": "Early spending and creative refreshes key to Black Friday advertising success, says Lebesgue",
-  "snippet": "Brands can offset rising peak-season advertising costs through earlier campaign planning, stronger creative execution and closer channel alignment. The post Early spending and creative refreshes key to Black Friday…"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166861",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T13:01:52.000Z",
-  "title": "Bluesound Adds Apple Music Support To BluOS",
-  "snippet": "Update brings Apple Music streaming to compatible Bluesound speakers, soundbars and stereo components"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166844",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T13:01:25.000Z",
-  "title": "Michael Braithwaite Named Just Video Walls CTO",
-  "snippet": "The AV industry veteran holds 84 granted patents and will lead technology development"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166841",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T13:00:14.000Z",
-  "title": "EU Right-to-Repair Rules Put Importers And Distributors On The Hook",
-  "snippet": "Facing a repair obligation that can land well beyond the factory"
- },
- {
-  "id": "TechCrunch::https://techcrunch.com/?p=3182981",
-  "source": "TechCrunch",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-29T13:00:00.000Z",
-  "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
-  "snippet": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions."
- },
- {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76398",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T11:18:14.000Z",
-  "title": "“Smoke and mirrors”: retail reacts to the Autumn Budget",
-  "snippet": "As the dust begins to settle on yesterday’s Budget, there has been a mixed reaction to it from across the business sphere. The post “Smoke and mirrors”: retail reacts to the Autumn Budget appeared first on…"
- },
- {
-  "id": "Retail TouchPoints::CBMioAFBVV95cUxOVTg5WFhtRjhSSkZUVTQ2ZTdUWGJ0bmFIeE1wWjNuNjBpN0pVQmVDMzJJUk50MDlKS1FBMjU1UnM5cF92SEVfSVAyTDJMT0xSeGJDWDVGWkZRMk96RmVrcy04VW55UmNTb1RLSlhNNUctNHhTYlRmTUJvOTgzZWg4RXhGZk5scGVrcEk4S0NFc2h6NlNOaFR0NnZhRzRLRmc4",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T11:05:13.000Z",
-  "title": "Bath & Body Works Debuts First Feel Good Concept Store",
+  "publishedAt": "2026-10-29T19:30:26.000Z",
+  "title": "NIQ Purchasing Power Europe 2026 Compendium",
   "snippet": ""
  },
  {
-  "id": "Retail TouchPoints::CBMickFVX3lxTFBuc3FtbFZ6S1N5QzJVdTAwaTRSaU5aOU9DWVdNVjQ3dVktUDROWk1TUV9aWVBDMmhsU1FjRERxTnE0V1plazIwOEJQWm9YRUo5ckUxVnB2YVgxREI0SGN6Ylpiak1vM3ZDS09JZTdlbDFsUQ",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T08:19:07.000Z",
-  "title": "Executive Viewpoints - Page 245 of 851",
+  "id": "PYMNTS Data::CBMilwFBVV95cUxQQVdyYnlhVDY3TUItNGF2OW1KZ212M1Bmd1lQRGJGYnJMSC1lV2IzbXgyTl9FSUliSWlkazZiZUhxdEVXblNKSUZXaEVHcng4UlVXd2VqVDZreVU1dGh5eG45V1RkR2FHU2R0bk5Dcm50N1J3MUd4bE1PMVkycE8xUUU5U0xJRlM0TmswWmhhZ0xMNVpzM053",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-29T19:24:30.000Z",
+  "title": "GDP Grows as Inflation Squeezes Household Purchasing Power",
   "snippet": ""
  },
  {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/meesho-appoints-former-gcpl-ceo-sudhir-sitapati-as-independent-director/135295694",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T07:47:15.000Z",
-  "title": "Meesho appoints former GCPL CEO Sudhir Sitapati as independent director",
-  "snippet": "Sitapati brings experience across the consumer goods sector, having led GCPL before moving on from the role. His appointment adds a senior consumer-sector executive to Meesho's board as the e-commerce company continues…"
- },
- {
-  "id": "NIQ::CBMipgFBVV95cUxQeFZwTUJuX1VZVEtDRnJURnE4SGtOMzFMd19DTkpmWkprS2Uxd0tjOTJPM2d3U0JUNWtWOUJpeU93ZnlUNE9aZmIwREhlX1ZhM0wwT3cxSjVfZUhIUzVkbXlaQ3o3Ym45Zjc1dl82UGhuQW5qeXlZelZMci1nanF3dnNyMVpZMFI2QzduSExTTUM4aERraGtDVmxBa1pwZkhEUFYyQS1n",
+  "id": "NIQ::CBMi2wFBVV95cUxNNUE2LVgtRGcyVVIzYU5PamRsLWhmeG5sVVFFXzlZaEMzX1p3NWUzdmwtdDNMbmFfUXFWUzlqR09ENmlrRDhKRWhhQjRqMnVObm9FZnhMRE93VUxKLV9XNFZhcG1veWhqSTJuVDIzOXpoa2EwWjNVSENzLWRMcTRibW9XZEVqUzBXak1HVXFDUUYxaGRLT2NnWlBkeTJ2MnpwaXZXZ1Y0RC05WGYyRE9HOVVJMUFFZDkwNUxOeXpoQnBwb3g2NmxmMHR6Q0F0OGdEZG1SOFVXYkhvVWs",
   "source": "NIQ",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-22T07:00:00.000Z",
-  "title": "Leading Into the Future: The Full View™ of E-Commerce Growth",
+  "publishedAt": "2026-10-29T19:04:29.000Z",
+  "title": "Prime Big Deal Days 2026: How Amazon's October Event Reshaped Beauty Shopping Across Europe",
+  "snippet": ""
+ },
+ {
+  "id": "Retail TouchPoints::CBMi0gFBVV95cUxNanV1Y1hCbE5mbF81YVZwTnhWa25ZZ2g2OWZsVTIwZWVXZmNhMDdMekVRNFQtZl9UU2RvekNSWGY5TWMzVWNEWlNNeEdXTUVhWnpsNHA3SGIwelkzWTBNam5XMVJScElLQVNXdlBGc2xiSjlZLTBIMlFzV2Fnamc0SXBzbmM5eVFEd3FJbXNUSlhfa21tMnVDNE9uNmNQTFJZa1J2YlNDdDhlcnNYeEltd3FhSkJwQW1RMHYyZTJwanVKTDg1T3Z6N28wZXZaRUVmVHc",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-29T19:00:26.000Z",
+  "title": "A Pop-Up Isn’t Automatically a Market Test. So What Are We Actually Testing?",
+  "snippet": ""
+ },
+ {
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363796",
+  "source": "Digital Commerce 360",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-29T18:21:34.000Z",
+  "title": "DoorDash to acquire Instacart in $17 billion grocery delivery deal",
+  "snippet": "DoorDash Inc. announced a deal to acquire its last-mile delivery rival Instacart in a deal valued at $17 billion. The combined company would unite operations from two of the most active platforms in retail and grocery…"
+ },
+ {
+  "id": "NIQ::CBMiogFBVV95cUxOc1pRX21mTWpHek0zLU1kUEpnREJ2M2ZuVm5Nd1gwV0pJZ1ppOXRITDhpQnNuY0ROU1luVVFybGZCaDVaQTl6QzdIWEhMNVB3cHc4Z1ZGTG40cE5WaGJZS0IxY2dVWmVad3Z1UlU0TDRmOC1wUk8wbldiRUdyaHNxTHpJYzRQYTRfMDVzSzNXTEl3WDRjZkxWRlFVakFwTEVHNGc",
+  "source": "NIQ",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-29T15:04:33.000Z",
+  "title": "NIQ and Google Partner to Advance Agentic Commerce",
+  "snippet": ""
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=166880",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-29T13:02:22.000Z",
+  "title": "Counterfeit HDMI Products: A Costly Risk Retailers Can’t Afford",
+  "snippet": "Insisting on genuine products and reporting suspected counterfeits, retailers protect their customers, their margins, and their reputation"
+ },
+ {
+  "id": "Retail TouchPoints::CBMiaEFVX3lxTFBzd01xVVFwczlkNWdDODlHZ1hEQ2F0T0xQQjhqaFR0Z0NjQy11M2M2VFFFWEREZjNZTDNlOXlPeDhQZTRBVUFSRmFpM09CZ01rckp6SjQwLVpUeEJmUEZDdjVOMTFhTGlN",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-29T08:24:10.000Z",
+  "title": "Home Depot - Page 11 of 19",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS Data::CBMiqwFBVV95cUxQYzhGS1BoX1lnWEZvTmx2ZXBnSXd6NVM2RE5hT1ZTVWNUT1NwWkpRYzFvampSbFp6LTZOaDZqV1pJbmYzcUpPZVo0ZTdpY2g0UGpZMUctWWpUZmVWa0pVUGxPV0pPOExPT1VnV1hfUTRkRjI0N2hwbGtGdkRjcXlkbHFMWG9KSnVQeEY5WWdRdWM3OWtzaWlNcHk0MFM2ZXViYXhZUWE2d1NVU0U",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-29T00:44:23.000Z",
+  "title": "Google Pushes AI Agents Into Commerce as Spending Pressures Cash Flow",
   "snippet": ""
  }
 ]
