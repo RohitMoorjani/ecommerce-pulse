@@ -1,14 +1,15 @@
 {
- "updatedAt": "2026-10-30T12:51:26.096Z",
+ "updatedAt": "2026-10-30T18:50:21.989Z",
  "title": "Shopping is moving to AI agents, and our store must be ready for them",
- "summary": "Amazon: 400M customers used Alexa for Shopping, spending 50% more. NIQ: 55% use AI in discovery. Walmart added agent spend limits. Asus sees commercial PC prices up ~10% in 2H26; Samsung sees no memory relief before 2028.",
+ "summary": "Amazon: 400M customers used Alexa for Shopping, spending 50% more, and wins 59% of AI-assisted purchases (PYMNTS). NIQ: 55% use AI in discovery. Walmart added agent spend limits. Asus sees PC prices up ~10% in 2H26.",
  "points": [
   {
-   "headline": "AI assistants now drive discovery and higher spend at scale",
-   "detail": "400M customers used Alexa for Shopping and spend 50% more; NIQ finds 55% use AI in discovery. Our product content and catalog must be readable and purchasable by assistants.",
+   "headline": "AI assistants drive discovery and spend, and Amazon is winning the checkout",
+   "detail": "400M customers used Alexa for Shopping and spend 50% more; Amazon wins 59% of AI-assisted purchases; NIQ finds 55% use AI in discovery. Our catalog must be purchasable by assistants.",
    "segment": "agentic",
    "storyIds": [
     "Modern Retail::https://www.modernretail.co/?p=174293",
+    "PYMNTS Data::CBMivgFBVV95cUxPQUhWZjl5T2t1amFBc0pQSVlCWUY1eXNYalZTT1Q2QlUtN1VfQnEydlZHMkZHMHF1aXhsaHlzaUVhNmFGS0pLS0VZRFRNbktGdjYxTmszNkVLODcxZ1M4cDBxblc5YzY1SWI5TlpjME9ZTXJudEE0MEhPeGpva1lMMXhYS1JVdVFHRlVSbTFqVUxPbFZBSEMtMjhleGlxZUNBOWoyNGZWZmxQYzJabjZ0VXQwcW5tcDYyczY5TWx3",
     "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0"
    ]
   },
