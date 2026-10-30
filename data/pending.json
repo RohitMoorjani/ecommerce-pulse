@@ -1,186 +1,202 @@
 [
  {
-  "id": "Reuters::CBMisAFBVV95cUxPblVtZktXRjdPbHJBWDM4WWJsV2RyMlhnOVFYRTZPc01udjZNZTVjeHdIN1dVY0w1M1NHbHpxNjV6Vm9jQ3FOUjBIaElyZEdSWWxycmNZdnJwNnBfdTJDc1FBMWVJZ19vR0s3Y1h2Uml2LThWc2NzQ2sxN3NnVzFEeGhvNnpPSElHSFRIQnJreHpCR2c3dnRQbEVYTDlJVjhzVVk3b1gxaFczMFhkb2NDSw",
-  "source": "Reuters",
+  "id": "Retail Dive::https://www.retaildive.com/news/louis-vuitton-merchant-bergdorf-goodman-saks-neiman-marcus/873298/",
+  "source": "Retail Dive",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T08:57:28.000Z",
-  "title": "Nasdaq futures tumble as Amazon, Intel results deepen AI spending woes",
+  "publishedAt": "2026-10-30T16:22:00.000Z",
+  "title": "Louis Vuitton merchant to lead Bergdorf Goodman",
+  "snippet": "It’s full circle for Lanessa Elrod, who had previous stints at all three Exemplar Luxury Group banners — Bergdorf, Saks Fifth Avenue and Neiman Marcus."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/amazon-ceo-retail-business-important-q3-earnings/873316/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-30T16:05:00.000Z",
+  "title": "Amazon CEO says retail business is being slept on",
+  "snippet": "Andy Jassy spoke in depth about AWS and AI during a Q3 earnings call, but reiterated the importance of the company’s store progress."
+ },
+ {
+  "id": "Retail TouchPoints::CBMi1wFBVV95cUxQZHZTM1FWQ1BfbnQ4U01BMHVTWW1BQklDSUo2VllNOFMxTDhxZFNlWmxReEFfZjM2MkVXOFdqR0hWSEluSU5Dc2pETTVBNnhRYnRxYnpTdDRrdE1Lems0T1hjU3JON0lSTGFaeUpfV3BuR1NxSHN6NUt2WTVLUlk4b0RBbXNkR3J4QVFTQ2pFX1BKc1BJc3dHajZKLXBqanBEN1NzeHBTSk5EN3VtSmVDMVJyRHkzODhDYmtiQmZyUVI3Z1VWWWJnM2tVT0lObzNoR3VIWmx2MA",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-30T16:01:20.000Z",
+  "title": "Brands That Venture Out Into the Field Gain an Invaluable View from the Shelf",
   "snippet": ""
  },
  {
-  "id": "PYMNTS Data::CBMiogFBVV95cUxQdklBN09qNDE2SzZtZExoOTg3bl9ORFozdjllUU13MlRFa1Y5SEFJM2R2VlFPZE1OMk9IU3p2SHFQYXhJby1STlRxWkdUV0hnMFdGU25jdlkzTzBPbV81QTZZaXZGY3lPX0FMdzJpY0phZ1ZoR2wyaDRSZ1ZVdUM2dkdEVmY0SEpLcnlaTFFsM0gxMnJWeDlJcUdudjVrTWQ3V0E",
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363814",
+  "source": "Digital Commerce 360",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-30T15:59:18.000Z",
+  "title": "Looking for the Best AdTech Company? 5 Criteria RTB House Meets in 2027",
+  "snippet": "Sponsor content is created on behalf of and in collaboration with RTB House by DigitalCommerce360. Our editorial staff is not involved in the creation of the sponsored content. Selecting an AdTech partner in 2027…"
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/roots-ceo-exits-ftc-retailers-prices-brooks-earnings/873246/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-30T15:56:00.000Z",
+  "title": "The Weekly Closeout: Roots CEO exits, the FTC zeroes in on price",
+  "snippet": "The chief executive stepped down following the outdoor retailer’s go-private deal. Meanwhile, the agency has been focused on how retailers set prices."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/victorias-secret-pink-debuts-beauty-mini-bars/873308/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-30T15:24:00.000Z",
+  "title": "Victoria’s Secret’s Pink leans into beauty with ‘Mini Bar’ collection",
+  "snippet": "The Pink Mini Bar features collaborations with Vacation, Mario Badescu and Fazit and will have a dedicated section featuring the products in stores."
+ },
+ {
+  "id": "Counterpoint Research::CBMixAFBVV95cUxPOXNCTGIxVXhMRFFuRWxoVUhRQU84czFWV0pQR0xWcnRtVm1KLUhoc0V2WVNtd2QyTDJ2YzhwYmVtUkpCRTRtdjFwWHduMG1aNlpLYTd6NmRHY1g4S29qcmxFcjVEdlpDS3BZdVFjbE5GQVpDOVVJNHdhWUVHVHRmN1BjczVoZENSVnd5UHVnYWlxVVdRSWpZeXhQWlRheU91TnlNX28zb1lKaXFxUW9iNVVVUTBhVGlVVS1wOWQ1aUFOQjFF",
+  "source": "Counterpoint Research",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-30T15:10:34.000Z",
+  "title": "Counterpoint Conversations: Snapdragon X Series, Powering AI PCs in the Agentic AI Era, Googlebook & Linux Support",
+  "snippet": ""
+ },
+ {
+  "id": "Retail TouchPoints::CBMitAFBVV95cUxQRDFwdlVxYnFwanR6VC1sSy1MZ2hRQ2dMclFwTWNGdGtmTjVyOW1nUHk2UkQ5VFlNZTZFUlQtSkJjSWFodnlLSG14UnBEUWdCTEZUU3Jkcnl4LVFLRk5JdWlpWDBNOVQ2OVh0RUIyeW00azlTMjhvZm9ENmExSGNJLXVZaW9NQ0xtaE1ZUFBwRzEzU09EdmR0THVOWXE2WnJUa0lqWEt1d0F6ejdSbW5pWFBJZ1Q",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-30T14:39:36.000Z",
+  "title": "Virid Launches marketAgility MCP Connector for E-commerce Retailers",
+  "snippet": ""
+ },
+ {
+  "id": "Dell Blog::https://www.dell.com/blog/the-complete-tech-gift-guide-best-dell-and-alienware-picks-for-every-setup",
+  "source": "Dell Blog",
+  "sourceType": "Competitor Newsroom",
+  "publishedAt": "2026-10-30T14:00:00.000Z",
+  "title": "The Complete Tech Gift Guide: Best Dell and Alienware Picks for Every Setup",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261030VL207/ai-startup-video-aws-cost.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-30T14:00:00.000Z",
+  "title": "From living neurons to enterprise AI: TBC pursues faster video generation with AWS",
+  "snippet": "The Biological Computing Co. (TBC), a San Francisco startup that grows living neurons in its lab to find ways to make AI models more efficient, launched its first publicly available product on October 30: mischief 1, an…"
+ },
+ {
+  "id": "PYMNTS Data::CBMivgFBVV95cUxPQUhWZjl5T2t1amFBc0pQSVlCWUY1eXNYalZTT1Q2QlUtN1VfQnEydlZHMkZHMHF1aXhsaHlzaUVhNmFGS0pLS0VZRFRNbktGdjYxTmszNkVLODcxZ1M4cDBxblc5YzY1SWI5TlpjME9ZTXJudEE0MEhPeGpva1lMMXhYS1JVdVFHRlVSbTFqVUxPbFZBSEMtMjhleGlxZUNBOWoyNGZWZmxQYzJabjZ0VXQwcW5tcDYyczY5TWx3",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-30T08:05:17.000Z",
-  "title": "Keep the House, Cut the Subscription: How Consumers Rank Spending",
+  "publishedAt": "2026-10-30T13:16:52.000Z",
+  "title": "Amazon Wins 59% of AI-Assisted Purchases as Checkout Becomes the Prize",
   "snippet": ""
  },
  {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76412",
+  "id": "TWICE::https://www.twice.com/?p=166865",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-30T13:01:26.000Z",
+  "title": "Eleven Engineering Appoints Josh Carney As Marketing Manager",
+  "snippet": "The audio engineer and MusicTechHelpGuy creator will support marketing and content for SKAA wireless audio"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=166868",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-30T13:01:12.000Z",
+  "title": "Josh.ai Adds myQ, PowerShades And Sonos Integrations",
+  "snippet": "Updates also improve control of supported Samsung TVs and expand whole-home audio capabilities"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=166809",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-30T13:00:09.000Z",
+  "title": "Invisible Induction Cooktops Hide In Plain Sight",
+  "snippet": "This premium product segment turns heads"
+ },
+ {
+  "id": "NIQ::CBMirAFBVV95cUxPaW9ZMmxiWmVoOTdMMGF6ak9BQVVBYnJWOTRYbnJIVUlmMGJaUHZ4QlBmdm9zT00tNXBFeU0tYnhIM2NHcmpHU0JYd0F3ZTRaLW1JTkZpT3IzYmNuQTFmSVhkWm50RHBTWWkwQVJmZTFvaFpQY3BrWkNxb3NXNjBIX3dnSXN1UE5aR2plSzlKQ3pZellPc3VJc05lQ0t3WWQ4T3BwOWkyNVpGRE82",
+  "source": "NIQ",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-30T11:29:16.000Z",
+  "title": "Map of the Month: NIQ Purchasing Power, Europe 2026",
+  "snippet": ""
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/gen-z-brands-are-breaching-the-last-citadel-of-legacy-consumer-firms/135358492",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-30T11:17:16.000Z",
+  "title": "Gen Z brands are breaching the last citadel of legacy consumer firms",
+  "snippet": "India's Gen Z and D2C brands are challenging FMCG giants like Hindustan Unilever, ITC and Marico by expanding into kirana stores. New-age brands captured 21.7% of India's kirana market in H1 FY27, up from 14.8% a year…"
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76422",
   "source": "InternetRetailing",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T05:33:00.000Z",
-  "title": "Online sales help October deliver strongest retail sales growth since January 2025",
-  "snippet": "Like-for-like sales in discretionary categories (fashion, lifestyle and homewares) grew by 4.6% in October compared to the same month last year. The post Online sales help October deliver strongest retail sales growth…"
+  "publishedAt": "2026-10-30T11:13:45.000Z",
+  "title": "Poundland moves closer to administration after major shareholder rejects rescue bid",
+  "snippet": "Poundland is preparing to call in the administrators, after its major shareholder, Gordon Brothers, rejected a solvent takeover proposal from Martin Property Group. The post Poundland moves closer to administration…"
  },
  {
-  "id": "IDC::CBMiYkFVX3lxTE92VWFqWmJ2SjB0emJUTWJLeVltLXZXVGhjcjNWR1hkYkZhV0o2SE04RUFmTk5qVHlrenJLMHpzVnZFeXlnZ0pOY2l6RHVwSjREYUpENjljUWRQdkJwbjhhTnhn",
-  "source": "IDC",
+  "id": "InternetRetailing::https://internetretailing.net/?p=76418",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-30T10:38:03.000Z",
+  "title": "Tesco’s international retreat continues as £1.5bn sale sharpens UK focus",
+  "snippet": "Tesco has agreed to sell its businesses in the Czech Republic and Slovakia to Dutch supermarket giant Ahold Delhaize for €1.7bn (£1.5bn). The post Tesco’s international retreat continues as £1.5bn sale sharpens UK focus…"
+ },
+ {
+  "id": "Counterpoint Research::CBMihAFBVV95cUxNSVB1MzBzc0xpQ2FxSlhURHhRMl85TlM2dV9IWnY4MXZUdXRMRDY4blhZOU5kTUhoUENZZUo4YloxQVByVDcybHhtYTJrTk5TQmVaU0c4SXZFbnpLNXlmQ2FHcGE1X0U0bkR6Mi02bTVwaGVNcUd6cXVnek9kaWkxSlFNY0M",
+  "source": "Counterpoint Research",
   "sourceType": "Analyst",
-  "publishedAt": "2026-10-30T05:07:29.000Z",
-  "title": "IDC Survey: Worldwide SMB Cybersecurity Outlook, 2026",
+  "publishedAt": "2026-10-30T10:30:40.000Z",
+  "title": "Global Quarterly AI Laptop Tracker and Forecast, Q2 2026",
   "snippet": ""
  },
  {
-  "id": "Modern Retail::https://www.modernretail.co/?p=174234",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T04:00:00.000Z",
-  "title": "Cotopaxi adopts a drop strategy to build buzz ahead of BFCM",
-  "snippet": "Cotopaxi is releasing new products every other day, from Nov. 1-11, through a campaign it's calling \"Cotodays.\" It's part of the brand's plan to build awareness ahead of the crowded Black Friday/Cyber Monday period."
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261029PD247/delta-electronics-manufacturing-capacity-production-development.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-30T03:43:56.000Z",
-  "title": "Delta Electronics approves Penang manufacturing base to expand global capacity",
-  "snippet": "Delta Electronics approved plans on October 28 to establish a large manufacturing base in Penang, Malaysia, as the power and thermal management company expands overseas production to support customer demand. The site is…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261030VL200/intel-pc-business-demand-revenue.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-30T03:42:55.000Z",
-  "title": "Intel's server surge faces a supply setback as PC weakness persists",
-  "snippet": "Intel's growing server business is strengthening its operating recovery, but a factory disruption and a prolonged PC downturn threaten its ability to convert demand into near-term sales. Its third-quarter results show…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261030PD211/doosan-nuclear-manufacturing-market-electricity.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-30T03:26:24.000Z",
-  "title": "Doosan Enerbility expands AI power push with US gas turbine orders, next-gen nuclear",
-  "snippet": "Doosan Enerbility is strengthening its position in the AI-driven power infrastructure market, backed by 12 gas turbine orders in the US and an expanding nuclear energy portfolio. At Smart Energy Plus (SEP) 2026 in South…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261030PD206/utg-automotive-smartphone-technology-development.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-30T02:48:37.000Z",
-  "title": "Dowoo Insys develops rollable OLED UTG for vehicles",
-  "snippet": "South Korean ultra-thin glass (UTG) maker Dowoo Insys is expanding its smartphone glass technology into the automotive market, developing protective glass for rollable OLED displays with a major South Korean automotive…"
- },
- {
-  "id": "Inc42::https://inc42.com/?p=578513",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-30T02:30:12.000Z",
-  "title": "Exclusive: Smylo In Talks To Raise ₹30 Cr To Expand Cat Food Portfolio",
-  "snippet": "D2C cat food startup Smylo is in advanced talks to raise around ₹30 Cr (about $3.2 Mn) in a mix…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261030VL210/usa-fcc-testing-security.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-30T02:22:27.000Z",
-  "title": "FCC to bar Chinese testing labs from certifying electronics for US market",
-  "snippet": "The US Federal Communications Commission (FCC) has adopted rules that will effectively bar Chinese laboratories from testing electronic devices intended for the US market, expanding Washington's restrictions on Chinese…"
- },
- {
-  "id": "TrendForce::CBMi8gFBVV95cUxNc25ha3VDLTVlbFppVTJ1VV9rYmNfaFZrRUNTNTBWN0E1OExHX3MzbTAyNzhUaTZDVk43MHRPSlpnRzQ0S19ETTVBZFFQOUp4TVROUS1DOHV3T194bUp2MG9ESTQ5Slp5MHhRLTVrUGpqeExlT19rd2I5NFR2c0RWWUdZc1BnZ1dTb0lvTHFxbVk1UGFiTHowVEJhdDUzNTJBbGJPa0N3MkpxQmthcmFOaVF5amh1a2JhamZIeXVYTWpza01sM3lqVkxPYnRNdHVZaFhfODZrUWRzenB0cjRyYWtJQVBPa2NLRlB4SG1yWlNzUQ",
-  "source": "TrendForce",
+  "id": "Counterpoint Research::CBMieEFVX3lxTE9LbklNOXpJVmtzSS1JaFRSMmttajhzQ0ppZTNjaWw0ZUozRS1ZYTZhMk44M3ZpUjRicFRTREp3SVkzd05mVjczSl9wclJKb2MxbEdla1lpUENnNUNXekhhcDV2SzV0cFZYY21BdTdBNHE4bzlVcTc4bw",
+  "source": "Counterpoint Research",
   "sourceType": "Analyst",
-  "publishedAt": "2026-10-30T02:07:08.000Z",
-  "title": "[News] Intel’s Mixed 3Q26: PC, Israel Fab Weigh on Guidance, but EMIB Brightens as a Couple of Customers Near Announcement",
+  "publishedAt": "2026-10-30T10:30:40.000Z",
+  "title": "Global PC Tracker Q2 2026",
   "snippet": ""
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261030PD201/anthropic-nvidia-software-capacity-market.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-30T01:58:45.000Z",
-  "title": "Anthropic's multi-platform AI strategy pressures Nvidia pricing power",
-  "snippet": "Anthropic's \"multi-platform resource pool\" strategy, disclosed in its S-1 filing, is sending an important signal to the AI chip industry. The company uses Amazon Trainium, Google tensor processing units (TPUs), Nvidia…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261030PD202/taiwan-equipment-capacity-demand-delta-electronics.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-30T01:52:37.000Z",
-  "title": "Power shortages slow AI data-center builds as Delta expands HVDC, SOFC",
-  "snippet": "Power shortages and a shortage of high-voltage direct-current (HVDC) technicians in the US are slowing AI data center construction and making delivery schedules harder to predict, Delta Electronics chairman Ping Cheng…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261029VL225/taiwan-manufacturing-tsmc-labor-packaging.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-30T01:39:08.000Z",
-  "title": "Beyond nanometers: AI forces Taiwan's semiconductor ecosystem to compete at system level",
-  "snippet": "Taiwan's semiconductor rise was built on a powerful division of labor: world-class IC design feeding increasingly advanced foundries, supported by packaging, testing, and an unusually dense electronics manufacturing…"
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/sportswear/indias-running-boom-has-nike-asics-sprinting-for-the-next-10-billion/135338371",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T01:38:10.000Z",
-  "title": "India’s running boom has Nike, Asics sprinting for the next $10 billion",
-  "snippet": "Nike has introduced the Vegam Run, its first running shoe tailored for the Indian market. Priced at Rs 3,795, it aims to attract more consumers during a time of increasing running participation. As global sportswear…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261029PD248/delta-electronics-inventory-2026-demand-materials.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-30T01:32:40.000Z",
-  "title": "Delta Electronics expects 4Q26 to outpace 3Q26 as customer pull-ins drive inventory, profit",
-  "snippet": "Delta Electronics expects fourth-quarter 2026 operations to improve from the third quarter, supported by artificial intelligence (AI) data center construction, said chairman Ping Cheng during an earnings call on October…"
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/karwa-chauth-shopping-spreads-beyond-the-north-as-d2c-sales-surge-64/135338203",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T01:27:30.000Z",
-  "title": "Karwa Chauth shopping spreads beyond the North as D2C sales surge 64%",
-  "snippet": "Karwa Chauth shopping is expanding beyond north India, with direct-to-consumer sales on GoKwik’s network rising 64% year-on-year in the six days before the festival. Demand for festival-labelled products grew sharply in…"
- },
- {
-  "id": "Omdia::CBMi4gFBVV95cUxPcWFlMVRKVkliQVVnX1NoZUtOSVplSVhZXzdSb0NhWkxocGxKZy1lYzZNdllCZ1NMN2I3WmljSTkweHdRU1YwSWpJWnFmdkUzNUEzSm1mYUxjNm1pX2pUX3NRQVkwSVdER283ZHh5Y2JtTVY5YWlzZG44M1loSDVwTUt0UXh4RHh0NWNfMDdOellONnI0QkNrbzVwS043QjNCb0xacXFrcTJLd3FXU2RaV19SaUhzNEJWcUpBd0Z0V3VmemtiYUhLYVNjRjhkakNFTEFFc2dtRFlWSFlrU2d6YlJB",
-  "source": "Omdia",
+  "id": "Counterpoint Research::CBMikgFBVV95cUxPUURQb0hQTW44VGNfWXVSMndGbExLLWptS0FvdzNLVHk4XzFuUFk0eEtOdHpVZjMycFVFb3FYSnd3b0wyNjB1SWtVVmNzdC12WG1DRU5NVTVOcHdQQ0Y5X2Y0SWY1bDgyU0o4Z1JmRXdrbm1QZ0ZzRHU3M250WHBWVEQ2MkZDUFlWZHpKM2trbG16UQ",
+  "source": "Counterpoint Research",
   "sourceType": "Analyst",
-  "publishedAt": "2026-10-30T01:04:32.000Z",
-  "title": "As enterprise AI spend continues to rise, the PC ecosystem must define the on-device case for hybrid AI",
+  "publishedAt": "2026-10-30T10:30:39.000Z",
+  "title": "Global Quarterly ARM Laptop Forecast Q2 2026",
   "snippet": ""
  },
  {
-  "id": "Inc42::https://inc42.com/?p=578551",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-29T22:35:11.000Z",
-  "title": "Nasscom Seeks Deferment Of New GST Rules For Ecommerce Deliveries To Jan 2027",
-  "snippet": "Industry body Nasscom has urged the finance ministry to defer the implementation of the revised GST rules for ecommerce delivery…"
- },
- {
-  "id": "Reuters::CBMiogFBVV95cUxNamNwQk5mVXlad05tREVFeXVRU29iOGZLMHJLQ3dhQURxb2s2OXNfYzhjQ2tmakJEUFpJcU9FUlZrZmY1czdGVXpsYzVaY21EaVR3R2NDM3pfeEpXYVpRQmZOSXphSXdSMDlyM0plUnlvVnJCdkVhd2Q2dlhOTjUwQm42TE1uYVpsUEJEX1V0WHJ1cVZXajFSNm9zcHlGTUprQWc",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T13:15:50.000Z",
-  "title": "US inflation heats up in September; consumer spending rises",
-  "snippet": ""
- },
- {
-  "id": "Omdia::CBMisgFBVV95cUxQREU2em8zRXFiTlR6RnlfQVJrMnRVVU03cDF6Z1hhUzJtbnFXMk1lQWxLcnpFanlRU3pjSEhjbFZzaGVGSXVDWGJBT1VKUGJCME5nX2pWMlJ3eS1DbkdzVG43aF9mdW1Vc0lFZUw3RjRWUDE3Qkl4SlFlSE9lSFpVWGx3OTZCRktGeHpJTVRLWFdyNldrQkZoUXJPcndIVWFVazRlNlNRNzM0blFWTW5sQ01R",
-  "source": "Omdia",
+  "id": "Counterpoint Research::CBMikAFBVV95cUxPbE9iQW02azFvQjBxbEhpMEpScHJrN2lZcmxHUW05ZGk4bTl1a29VSXR4Yl9iWThWUFBGeGt2dFJwQUJQSFY2bjN0aHJTMmctWHdVTUVBQ3Y5eXdQbXdTRklRV1FlSlZsdF9qNElEN0N3VGhxTHVidW1UbGxhTllPMm9BNzlVZk91SUh4VUt3Vlk",
+  "source": "Counterpoint Research",
   "sourceType": "Analyst",
-  "publishedAt": "2026-10-29T08:38:44.000Z",
-  "title": "Rethinking PC vendors’ strategy in an increasingly polarized market",
+  "publishedAt": "2026-10-30T10:30:39.000Z",
+  "title": "Global Quarterly ARM Laptop Tracker Q2 2026",
   "snippet": ""
  },
  {
-  "id": "Reuters::CBMiqgFBVV95cUxQVnRkb1hlemJ1dC1UWVotYWtHNW9rVlhfc1otUFZOTmlBUlVLbTlNSWNtUks0WEpYMnpVLXZJLWRLNldGRGRNRXB0OHpfeGJwRmRhcjgyaC1pMHVvWTA3dzAxekZ4Xy0xN3NVQU9URjhJTXVZLXFXQXpvWFo3UE5aWGhjNElxLWJtcVVsWFI5N0hBV0VrM0NCQzdlYkdNUHMwTXpkNG02bEY0QQ",
-  "source": "Reuters",
+  "id": "Counterpoint Research::CBMiggFBVV95cUxPTW1xb3ZQZC01STQ2UGU2a180Nk1pQ29kOGNpYS0yS25zUVhla21jRks5SzNuV0J3bTl6N0x5M05vSDR0eU5FNW9oVGZQMHBNM3ZybkIzSEZqcTd5dzVxYzUwZnY5cDJxdkJDR0dZaUNBTER6V2syX1EwWWd0LUV2dWp3",
+  "source": "Counterpoint Research",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-30T10:30:39.000Z",
+  "title": "Global PC market updates, Q2 2026",
+  "snippet": ""
+ },
+ {
+  "id": "Counterpoint Research::CBMie0FVX3lxTE1UdlBXcXZLcm1TMk9lZmxHSW9TdkVuMHNBOGJJVU1Na0lqSmNjbzU3ODc0YmwtbnN6aXBHZ3JodXlLeUVNcldnZGpMRU1nTEZaY2VpOEd6dG44c2lPVDBkc1VJdzRaaWE2Sm9mYmJsN2F4R3hOR3FHWW1Maw",
+  "source": "Counterpoint Research",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-30T10:30:39.000Z",
+  "title": "Global Quarterly PC Forecasts Q2 2026",
+  "snippet": ""
+ },
+ {
+  "id": "Retail TouchPoints::CBMicEFVX3lxTFBZbTNLa1pNdzRTLWQyWXh1THozcHpBc0ZialB2V3hWcmZSMlV0Skx3NlFnWDFWZ0NwMzQ1czN4X0FfUV94MXBRMjZsUm1nVDFJZlM4OGljdDZ1NnZKc3dMWnVYS0hzNDd2QVI1UU8xd20",
+  "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T02:31:00.000Z",
-  "title": "Cash is king, as investors draw new battle lines in AI spending boom",
+  "publishedAt": "2026-10-28T22:01:21.000Z",
+  "title": "Latest In: college enrollment cliff",
   "snippet": ""
  }
 ]
