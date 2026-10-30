@@ -1,202 +1,42 @@
 [
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/louis-vuitton-merchant-bergdorf-goodman-saks-neiman-marcus/873298/",
-  "source": "Retail Dive",
+  "id": "Reuters::CBMizAFBVV95cUxPM1JYY3JjSEZ6Mng5SkxoRFBtVFBLZVVsNGsyMWxIQzNQX0Rid3oxclNLV2dvSURnaWRrUDdYTUZ4WkIwZFVfbGp6bHM1LTZaUC1Fb3BSWF9iVWsxMGctdktndy1GRS1aZTRkb1otcjJFYk84NndKWGx6NXBXQUEyMmJMVUxXRkpkcF83M09yWVZSMjNjblRyeGxvZ3dOYTFMY1A2U2pYYzViSlpEVWlZWVUzczZ0NHBHZXhSSFlyMURGcFJLMFVzbFlwMEY",
+  "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T16:22:00.000Z",
-  "title": "Louis Vuitton merchant to lead Bergdorf Goodman",
-  "snippet": "It’s full circle for Lanessa Elrod, who had previous stints at all three Exemplar Luxury Group banners — Bergdorf, Saks Fifth Avenue and Neiman Marcus."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/amazon-ceo-retail-business-important-q3-earnings/873316/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T16:05:00.000Z",
-  "title": "Amazon CEO says retail business is being slept on",
-  "snippet": "Andy Jassy spoke in depth about AWS and AI during a Q3 earnings call, but reiterated the importance of the company’s store progress."
- },
- {
-  "id": "Retail TouchPoints::CBMi1wFBVV95cUxQZHZTM1FWQ1BfbnQ4U01BMHVTWW1BQklDSUo2VllNOFMxTDhxZFNlWmxReEFfZjM2MkVXOFdqR0hWSEluSU5Dc2pETTVBNnhRYnRxYnpTdDRrdE1Lems0T1hjU3JON0lSTGFaeUpfV3BuR1NxSHN6NUt2WTVLUlk4b0RBbXNkR3J4QVFTQ2pFX1BKc1BJc3dHajZKLXBqanBEN1NzeHBTSk5EN3VtSmVDMVJyRHkzODhDYmtiQmZyUVI3Z1VWWWJnM2tVT0lObzNoR3VIWmx2MA",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T16:01:20.000Z",
-  "title": "Brands That Venture Out Into the Field Gain an Invaluable View from the Shelf",
+  "publishedAt": "2026-10-30T19:07:06.000Z",
+  "title": "Big Tech returns smallest share of cash to shareholders in 15 years, given AI spending",
   "snippet": ""
  },
  {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363814",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-10-30T15:59:18.000Z",
-  "title": "Looking for the Best AdTech Company? 5 Criteria RTB House Meets in 2027",
-  "snippet": "Sponsor content is created on behalf of and in collaboration with RTB House by DigitalCommerce360. Our editorial staff is not involved in the creation of the sponsored content. Selecting an AdTech partner in 2027…"
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/roots-ceo-exits-ftc-retailers-prices-brooks-earnings/873246/",
-  "source": "Retail Dive",
+  "id": "Reuters::CBMi0gFBVV95cUxPZ2Jmd0l5UTN5aDFsS3FXQmNJTS1DRUdjVUM4V1h5LVFodmY1ZDZWdXpFVWxOdVAxNll5eVRLb19CYzZyTDZZdGtHUGY0dktQcVZURy01QVU4NEpxeG9lem5HbjJFbFYzT2ZqbUJxYkd5RG1vSjlXckFLSktGZHVBeXl2LWQ0RnRhWXJWV1FvY1Z2ejV0d0hmZnJwcl9aVjNxWTBSMURRMlJvdFpYaFVEZEREMHFBR1FuNVJYWVdUZzRQYV83VnVsX2pPaERKb19RT1E",
+  "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T15:56:00.000Z",
-  "title": "The Weekly Closeout: Roots CEO exits, the FTC zeroes in on price",
-  "snippet": "The chief executive stepped down following the outdoor retailer’s go-private deal. Meanwhile, the agency has been focused on how retailers set prices."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/victorias-secret-pink-debuts-beauty-mini-bars/873308/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T15:24:00.000Z",
-  "title": "Victoria’s Secret’s Pink leans into beauty with ‘Mini Bar’ collection",
-  "snippet": "The Pink Mini Bar features collaborations with Vacation, Mario Badescu and Fazit and will have a dedicated section featuring the products in stores."
- },
- {
-  "id": "Counterpoint Research::CBMixAFBVV95cUxPOXNCTGIxVXhMRFFuRWxoVUhRQU84czFWV0pQR0xWcnRtVm1KLUhoc0V2WVNtd2QyTDJ2YzhwYmVtUkpCRTRtdjFwWHduMG1aNlpLYTd6NmRHY1g4S29qcmxFcjVEdlpDS3BZdVFjbE5GQVpDOVVJNHdhWUVHVHRmN1BjczVoZENSVnd5UHVnYWlxVVdRSWpZeXhQWlRheU91TnlNX28zb1lKaXFxUW9iNVVVUTBhVGlVVS1wOWQ1aUFOQjFF",
-  "source": "Counterpoint Research",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-10-30T15:10:34.000Z",
-  "title": "Counterpoint Conversations: Snapdragon X Series, Powering AI PCs in the Agentic AI Era, Googlebook & Linux Support",
+  "publishedAt": "2026-10-30T16:43:02.000Z",
+  "title": "Chocolate makers get Halloween fright as health-conscious US shoppers cut back",
   "snippet": ""
  },
  {
-  "id": "Retail TouchPoints::CBMitAFBVV95cUxQRDFwdlVxYnFwanR6VC1sSy1MZ2hRQ2dMclFwTWNGdGtmTjVyOW1nUHk2UkQ5VFlNZTZFUlQtSkJjSWFodnlLSG14UnBEUWdCTEZUU3Jkcnl4LVFLRk5JdWlpWDBNOVQ2OVh0RUIyeW00azlTMjhvZm9ENmExSGNJLXVZaW9NQ0xtaE1ZUFBwRzEzU09EdmR0THVOWXE2WnJUa0lqWEt1d0F6ejdSbW5pWFBJZ1Q",
-  "source": "Retail TouchPoints",
+  "id": "PYMNTS::https://www.pymnts.com/?p=4350312",
+  "source": "PYMNTS",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T14:39:36.000Z",
-  "title": "Virid Launches marketAgility MCP Connector for E-commerce Retailers",
+  "publishedAt": "2026-10-30T13:00:46.000Z",
+  "title": "Amazon Wins 59% of AI-Assisted Purchases as Checkout Becomes the Prize",
+  "snippet": "Generative artificial intelligence (AI) is doing something that years of retail competition struggled to accomplish. It is teaching consumers to start shopping somewhere other than Amazon. The catch? AI just isn’t…"
+ },
+ {
+  "id": "Reuters::CBMiqAFBVV95cUxNcXEzUmpkSHEwZWtxM2cwVjMwQkJXMVZqVUJrWk8xejY0TzkyZmtvN0E2Z3Q3MDJfNkRLOXRKUW5xR2QzLVM5WjQzSVp2OVBhQldOMVJKZkJ2ZC1qMm04dWFSVjExd1h2bXV2emx1dmkwTVFzT29DamloeVhPZUdwZEhuUmhvem92VG9MQzFIZU1ibDR1MWNaZ0o2ZVBOYzhodHdyQVY4T1U",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-29T21:03:00.000Z",
+  "title": "Amazon burns cash, Intel flags weak PC demand as AI boom's costs ripple across markets",
   "snippet": ""
  },
  {
-  "id": "Dell Blog::https://www.dell.com/blog/the-complete-tech-gift-guide-best-dell-and-alienware-picks-for-every-setup",
-  "source": "Dell Blog",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-10-30T14:00:00.000Z",
-  "title": "The Complete Tech Gift Guide: Best Dell and Alienware Picks for Every Setup",
-  "snippet": ""
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261030VL207/ai-startup-video-aws-cost.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-30T14:00:00.000Z",
-  "title": "From living neurons to enterprise AI: TBC pursues faster video generation with AWS",
-  "snippet": "The Biological Computing Co. (TBC), a San Francisco startup that grows living neurons in its lab to find ways to make AI models more efficient, launched its first publicly available product on October 30: mischief 1, an…"
- },
- {
-  "id": "PYMNTS Data::CBMivgFBVV95cUxPQUhWZjl5T2t1amFBc0pQSVlCWUY1eXNYalZTT1Q2QlUtN1VfQnEydlZHMkZHMHF1aXhsaHlzaUVhNmFGS0pLS0VZRFRNbktGdjYxTmszNkVLODcxZ1M4cDBxblc5YzY1SWI5TlpjME9ZTXJudEE0MEhPeGpva1lMMXhYS1JVdVFHRlVSbTFqVUxPbFZBSEMtMjhleGlxZUNBOWoyNGZWZmxQYzJabjZ0VXQwcW5tcDYyczY5TWx3",
+  "id": "PYMNTS Data::CBMilgFBVV95cUxOWng0Unh6SXVVUTdyV0N1QndmaGRJQlItd0ZuaU5fcUtUa2l1bngwV0V0SlNKY05MZmJUaWp4dzh4eGpwWjNUZDBTVEtqaGdRa0R5MW9OZC00NWFadDFGZHZHLUQtRUV2UzhsMHVUTmViNF9vSHdGdEVpSFV3Y05waml6SFI3VHdzXzRLZmtUUDFEOG1tdFE",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-30T13:16:52.000Z",
-  "title": "Amazon Wins 59% of AI-Assisted Purchases as Checkout Becomes the Prize",
-  "snippet": ""
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166865",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T13:01:26.000Z",
-  "title": "Eleven Engineering Appoints Josh Carney As Marketing Manager",
-  "snippet": "The audio engineer and MusicTechHelpGuy creator will support marketing and content for SKAA wireless audio"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166868",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T13:01:12.000Z",
-  "title": "Josh.ai Adds myQ, PowerShades And Sonos Integrations",
-  "snippet": "Updates also improve control of supported Samsung TVs and expand whole-home audio capabilities"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166809",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T13:00:09.000Z",
-  "title": "Invisible Induction Cooktops Hide In Plain Sight",
-  "snippet": "This premium product segment turns heads"
- },
- {
-  "id": "NIQ::CBMirAFBVV95cUxPaW9ZMmxiWmVoOTdMMGF6ak9BQVVBYnJWOTRYbnJIVUlmMGJaUHZ4QlBmdm9zT00tNXBFeU0tYnhIM2NHcmpHU0JYd0F3ZTRaLW1JTkZpT3IzYmNuQTFmSVhkWm50RHBTWWkwQVJmZTFvaFpQY3BrWkNxb3NXNjBIX3dnSXN1UE5aR2plSzlKQ3pZellPc3VJc05lQ0t3WWQ4T3BwOWkyNVpGRE82",
-  "source": "NIQ",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-30T11:29:16.000Z",
-  "title": "Map of the Month: NIQ Purchasing Power, Europe 2026",
-  "snippet": ""
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/gen-z-brands-are-breaching-the-last-citadel-of-legacy-consumer-firms/135358492",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T11:17:16.000Z",
-  "title": "Gen Z brands are breaching the last citadel of legacy consumer firms",
-  "snippet": "India's Gen Z and D2C brands are challenging FMCG giants like Hindustan Unilever, ITC and Marico by expanding into kirana stores. New-age brands captured 21.7% of India's kirana market in H1 FY27, up from 14.8% a year…"
- },
- {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76422",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T11:13:45.000Z",
-  "title": "Poundland moves closer to administration after major shareholder rejects rescue bid",
-  "snippet": "Poundland is preparing to call in the administrators, after its major shareholder, Gordon Brothers, rejected a solvent takeover proposal from Martin Property Group. The post Poundland moves closer to administration…"
- },
- {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76418",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T10:38:03.000Z",
-  "title": "Tesco’s international retreat continues as £1.5bn sale sharpens UK focus",
-  "snippet": "Tesco has agreed to sell its businesses in the Czech Republic and Slovakia to Dutch supermarket giant Ahold Delhaize for €1.7bn (£1.5bn). The post Tesco’s international retreat continues as £1.5bn sale sharpens UK focus…"
- },
- {
-  "id": "Counterpoint Research::CBMihAFBVV95cUxNSVB1MzBzc0xpQ2FxSlhURHhRMl85TlM2dV9IWnY4MXZUdXRMRDY4blhZOU5kTUhoUENZZUo4YloxQVByVDcybHhtYTJrTk5TQmVaU0c4SXZFbnpLNXlmQ2FHcGE1X0U0bkR6Mi02bTVwaGVNcUd6cXVnek9kaWkxSlFNY0M",
-  "source": "Counterpoint Research",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-10-30T10:30:40.000Z",
-  "title": "Global Quarterly AI Laptop Tracker and Forecast, Q2 2026",
-  "snippet": ""
- },
- {
-  "id": "Counterpoint Research::CBMieEFVX3lxTE9LbklNOXpJVmtzSS1JaFRSMmttajhzQ0ppZTNjaWw0ZUozRS1ZYTZhMk44M3ZpUjRicFRTREp3SVkzd05mVjczSl9wclJKb2MxbEdla1lpUENnNUNXekhhcDV2SzV0cFZYY21BdTdBNHE4bzlVcTc4bw",
-  "source": "Counterpoint Research",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-10-30T10:30:40.000Z",
-  "title": "Global PC Tracker Q2 2026",
-  "snippet": ""
- },
- {
-  "id": "Counterpoint Research::CBMikgFBVV95cUxPUURQb0hQTW44VGNfWXVSMndGbExLLWptS0FvdzNLVHk4XzFuUFk0eEtOdHpVZjMycFVFb3FYSnd3b0wyNjB1SWtVVmNzdC12WG1DRU5NVTVOcHdQQ0Y5X2Y0SWY1bDgyU0o4Z1JmRXdrbm1QZ0ZzRHU3M250WHBWVEQ2MkZDUFlWZHpKM2trbG16UQ",
-  "source": "Counterpoint Research",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-10-30T10:30:39.000Z",
-  "title": "Global Quarterly ARM Laptop Forecast Q2 2026",
-  "snippet": ""
- },
- {
-  "id": "Counterpoint Research::CBMikAFBVV95cUxPbE9iQW02azFvQjBxbEhpMEpScHJrN2lZcmxHUW05ZGk4bTl1a29VSXR4Yl9iWThWUFBGeGt2dFJwQUJQSFY2bjN0aHJTMmctWHdVTUVBQ3Y5eXdQbXdTRklRV1FlSlZsdF9qNElEN0N3VGhxTHVidW1UbGxhTllPMm9BNzlVZk91SUh4VUt3Vlk",
-  "source": "Counterpoint Research",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-10-30T10:30:39.000Z",
-  "title": "Global Quarterly ARM Laptop Tracker Q2 2026",
-  "snippet": ""
- },
- {
-  "id": "Counterpoint Research::CBMiggFBVV95cUxPTW1xb3ZQZC01STQ2UGU2a180Nk1pQ29kOGNpYS0yS25zUVhla21jRks5SzNuV0J3bTl6N0x5M05vSDR0eU5FNW9oVGZQMHBNM3ZybkIzSEZqcTd5dzVxYzUwZnY5cDJxdkJDR0dZaUNBTER6V2syX1EwWWd0LUV2dWp3",
-  "source": "Counterpoint Research",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-10-30T10:30:39.000Z",
-  "title": "Global PC market updates, Q2 2026",
-  "snippet": ""
- },
- {
-  "id": "Counterpoint Research::CBMie0FVX3lxTE1UdlBXcXZLcm1TMk9lZmxHSW9TdkVuMHNBOGJJVU1Na0lqSmNjbzU3ODc0YmwtbnN6aXBHZ3JodXlLeUVNcldnZGpMRU1nTEZaY2VpOEd6dG44c2lPVDBkc1VJdzRaaWE2Sm9mYmJsN2F4R3hOR3FHWW1Maw",
-  "source": "Counterpoint Research",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-10-30T10:30:39.000Z",
-  "title": "Global Quarterly PC Forecasts Q2 2026",
-  "snippet": ""
- },
- {
-  "id": "Retail TouchPoints::CBMicEFVX3lxTFBZbTNLa1pNdzRTLWQyWXh1THozcHpBc0ZialB2V3hWcmZSMlV0Skx3NlFnWDFWZ0NwMzQ1czN4X0FfUV94MXBRMjZsUm1nVDFJZlM4OGljdDZ1NnZKc3dMWnVYS0hzNDd2QVI1UU8xd20",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-28T22:01:21.000Z",
-  "title": "Latest In: college enrollment cliff",
+  "publishedAt": "2026-10-20T00:16:35.000Z",
+  "title": "Global Digital Shopping Index: Brazil Playbook – The New Brazilian Shopper",
   "snippet": ""
  }
 ]
