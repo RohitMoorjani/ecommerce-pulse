@@ -1,43 +1,40 @@
 {
- "updatedAt": "2026-10-29T18:50:43.515Z",
- "title": "Make our store readable and buyable by AI agents before holiday peak",
- "summary": "55% of consumers use AI in product discovery (NIQ); Walmart added agent spending limits; Amazon widened Shop Direct; FTC probes Target, Walmart pricing; Asus sees PC prices up ~10%; Apple showed touchscreen Macs.",
+ "updatedAt": "2026-10-30T03:50:09.535Z",
+ "title": "Shopping is moving to AI agents, and our store must be ready for them",
+ "summary": "Amazon: 400M customers used Alexa for Shopping, spending 50% more. NIQ: 55% use AI in discovery. Walmart added agent spend limits; Target built holiday around an AI assistant. Memory shortage may last years (Samsung, SK Hynix).",
  "points": [
   {
-   "headline": "Retailers are setting the rules for AI shopping agents",
-   "detail": "Walmart added spending limits for agent purchases and Amazon widened Shop Direct to keep discovery in-house. We should define agent access and purchase controls for our store.",
+   "headline": "AI assistants now drive discovery and higher spend at scale",
+   "detail": "400M customers used Alexa for Shopping and spend 50% more; NIQ finds 55% use AI in discovery. Our product content and catalog must be readable and purchasable by assistants.",
+   "segment": "agentic",
+   "storyIds": [
+    "Modern Retail::https://www.modernretail.co/?p=174293",
+    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0"
+   ]
+  },
+  {
+   "headline": "Retailers are building agent trust and holding discovery in-house",
+   "detail": "Walmart added spending limits for agent purchases; Target centers holiday on its AI assistant. We should plan agent checkout controls and check how our listings appear to agents.",
    "segment": "agentic",
    "storyIds": [
     "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363692",
-    "PYMNTS Data::CBMiuwFBVV95cUxQem56Vk9DY0NRMUotVS0wWXlFUFU2dGVRSFdWS1ptSW5DNEtReGVfemtSN2NScVRjRHhtM19mVmRUUndCd0IwMXBoWkoyekhQNHFwRGp6SHVoMDNfTG1mTU8ydzFwLWVnd0hLWEZ6Zjd5dkFra0NQTThPcG5icFRSQWE3bGNHN1p5OTA3X09kSWJDYXhldUl2eVdvUHM3OWppVU5Ra3dBVVVJdUNvM0lUcXc3ZVdMekZBSUw4",
-    "PYMNTS Data::CBMirwFBVV95cUxNTHAwZS0wVHZjLUhEYXZnQnpEdUlLbkxrUHBabUtydFZBU2xoenlOb3kxNU5UUnIyY2JUdGU3RnBzbjhTMGVzU3RXNld5S21DSWNlTkt2REdTREZPTFlWamZFeE5aSVFwYjRGQXhvR21xaHp6Q0ZnbFJUbjZIdDB5MmJHVENuZXFtZEt5U05USXZxM3RJcGlMY29LWmdmZFRVdEVlcWxvZ2Q5MjZveEd3"
+    "Retail TouchPoints::CBMirAFBVV95cUxPQ0U3alFSVVZUaXVIQzY4ZTFEVUZuODhDVEFuRDBvUXVwMVNER016ekVDeHdHYjlXZmJjSy0xQ1JLUUtrcms5dGtpX2tGdkZWbEJubkZiTUtnOFJJam9uTlRUdVlyNGloTnpsSTlXUFJ2TVZCNlVUeHJpSFA0Z0toMDdpdDZNSHZOTm43ek5YdVZzODlnLVBvYTJDdU04NFJnOGtCb3o5SzZqaTdl"
    ]
   },
   {
-   "headline": "AI is now a mainstream discovery channel",
-   "detail": "NIQ finds 55% of consumers use AI during discovery; Gartner says 34% of US consumers would use GenAI for gift ideas. Product data quality now matters as much as SEO for us.",
-   "segment": "trends",
-   "storyIds": [
-    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
-    "Gartner::CBMilAJBVV95cUxPdEI3MmZCa2FBWVVoSC1ZNGh2OUhLSnhPRUl1eWgtMHd2T2dNVXRnRUhJUVh1WVhYMWl1Mm5RLXZzZzBPdzBQalVXYzlLNmlwLXhzSE8zU0RCcHpjTHhQSWxZazNrcUZraEl0Z1VnYlBULW1TOUI4eWVRYlZiNlFkSVJyT3FleGJHOFNnTU5jY0JEZVhaN1RkU2NhZC1UVjVoQTZjLTk2ckVmVktrdnQyeUZmRl8yeG8zZkQ1N3dCSFhmMjJNRXBPdGdYRW9lVlRpRzVndUN0ZjFGeF9xVF9sc1IyVm1ZY1o5b21jNE9mX0ZqNzY2UVYyY211aXg0eGFpelZGUGZ6ajQwRU9GX3FyNElCYUM"
-   ]
-  },
-  {
-   "headline": "Memory costs keep PC prices rising while Apple goes touch",
-   "detail": "Asus expects Taiwan commercial PC prices up nearly 10% in 2H26 and Samsung sees no memory relief before 2028; Apple showed touchscreen laptops. We should plan pricing and premium positioning.",
+   "headline": "Memory shortage keeps PC demand weak and costs high",
+   "detail": "Samsung and SK Hynix expect shortages for years; Intel AI PCs sell while the wider market shrinks. We should plan pricing, inventory and AI PC focus accordingly.",
    "segment": "pc",
    "storyIds": [
-    "DigiTimes::https://www.digitimes.com/news/a20261028PD204/asus-commercial-pc-2026-market.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261029VL217/samsung-hbm-chips-profit-2028.html",
-    "Reuters::CBMiwwFBVV95cUxOUG5iWVZIc0l0UF9OcVhkbnIyenJRX1J1OV8yMWQ4c0VsYlpZOXRCQUVkYzRxU25ZcVBrdTdZd0V1SGEteUpwU2Q0a3VOX2hkaDV1aUhnT1owMWV4VktZY1FHQkxNWHRWZnZlR0pkak9mQTZsdHgwLWlrMm1TdkNDNW00VS1GRFliWTZXcm1sQ1BYSGVONGVXMGNQdEVvNFFvTkN4QUQtQi15SW5VSnJEb1JwYjVJRmVZd0NFbG1tcFdDbXc"
+    "DigiTimes::https://www.digitimes.com/news/a20261029VL221/samsung-sk-hynix-investment-demand-production.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261030VL206/intel-pc-ai-pc-sales-demand.html"
    ]
   },
   {
-   "headline": "Pricing scrutiny and longer sales windows shape holiday promotions",
-   "detail": "The FTC ordered Target and Walmart to detail personalized pricing, while Walmart stretched Black Friday and Cyber Monday to 14 days. We should review our deal calendar and personalization practices.",
+   "headline": "Walmart's longer Black Friday window pulls demand earlier",
+   "detail": "Walmart stretches Black Friday and Cyber Monday events to 14 days from 10. We should check our deal calendar and price-matching against it.",
    "segment": "marketplaces",
    "storyIds": [
-    "Retail Dive::https://www.retaildive.com/news/ftc-orders-target-walmart-personalized-pricing-inquiry/873173/",
     "Retail Dive::https://www.retaildive.com/news/walmart-longer-black-friday-cyber-monday-sales-events/872747/"
    ]
   }

@@ -5853,5 +5853,149 @@
   "content_type": "announcement",
   "competitors": [],
   "publishedAt": "2026-10-29T13:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261030VL201/amazon-growth-expansion-infrastructure-aws.html": {
+  "keep": false,
+  "publishedAt": "2026-10-30T00:14:07.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261028VL228/alibaba-tencent-bytedance-dram-samsung.html": {
+  "keep": false,
+  "publishedAt": "2026-10-30T00:12:49.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261030VL206/intel-pc-ai-pc-sales-demand.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Intel AI PC sales grow even as the wider PC market shrinks on memory limits",
+  "short_headline": "AI PCs sell while the PC market shrinks",
+  "takeaway": "AI PCs are a bright spot in a weak market; we should lean on them in our store while memory constraints hold back volume.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-30T00:10:21.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261029VL221/samsung-sk-hynix-investment-demand-production.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Samsung and SK Hynix say the memory shortage could last for years",
+  "short_headline": "Memory crunch may last years",
+  "takeaway": "Expect memory-driven cost and supply pressure on PC pricing to persist; we should plan pricing and inventory accordingly.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-30T00:09:34.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261029PD245/samsung-2nm-faraday-asic-hpc.html": {
+  "keep": false,
+  "publishedAt": "2026-10-30T00:05:41.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261029PD239/loss-demand-panel-revenue-electronics.html": {
+  "keep": false,
+  "publishedAt": "2026-10-30T00:05:22.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261029PD234/smartphone-shipments-apple-oppo-huawei.html": {
+  "keep": false,
+  "publishedAt": "2026-10-30T00:05:03.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261029PD233/globalfoundries-fd-soi-data-manufacturing-president.html": {
+  "keep": false,
+  "publishedAt": "2026-10-30T00:04:38.000Z"
+ },
+ "Reuters::CBMiswFBVV95cUxNQXhDSjU4RmlrZmUyT0E5dzJNbmJNaXBBdGhndktXeGUtZVItTWlpNDBZcXR5LTZDMjFOdzdXenRpTnhNd01pZXBXX0V0OTVlYkMtVlJnN2l4YS1QeENxeWlzUUN6bDZkeThpc1VBMUZDQjFYcGxrQWFrVzBVOXdueV9Tb0drZjZ4T3JYWmRXS2MwWnMwMGpoT05FU1lUVWhRbXlPZEpYUjZQbnlrQWh3SGdsTQ": {
+  "keep": false,
+  "publishedAt": "2026-10-29T23:35:57.000Z"
+ },
+ "CRN::https://www.crn.com/news/components-peripherals/2026/intel-s-ceo-is-disappointed-it-couldn-t-meet-strong-cpu-demand-cites-near-term-challenges": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Intel CEO says it missed strong CPU demand in Q3 due to supply shortages",
+  "short_headline": "Intel could not meet strong CPU demand",
+  "takeaway": "CPU supply constraints could limit PC availability; we should watch allocation risks for our store.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-29T23:12:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=174293": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Amazon: 400M customers used Alexa for Shopping; users spend 50% more",
+  "short_headline": "Alexa for Shopping users spend 50% more",
+  "takeaway": "AI shopping assistants are driving higher spend at scale; we need to be discoverable and purchasable through them.",
+  "importance": 5,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-29T22:30:48.000Z"
+ },
+ "PYMNTS Data::CBMitwFBVV95cUxOT3o5ZWpRSnB5akp2SklKd3Zvd0dmVjlqMURES0dmYjNkOElGcjZEMm8yZVdEM19teGtqa0RxYkZQSjlpc3g1Vm13Y3g2SjJtaDdQZzdiTDVKNnFXenk3VW8wOFFDeWhJVVZLb2tmaEpTU1YtT0xWVjQ2MTZ2QUI5NTBrR1ZNTHJMZEZHdU9hWGUycl9sc2prYkxOSUZkVGI3bGJRSjJWWklfM091aUxNR0p2THVITlk": {
+  "keep": false,
+  "publishedAt": "2026-10-29T20:34:51.000Z"
+ },
+ "PYMNTS Data::CBMiogFBVV95cUxOUkdubldPejhESzFvRkx6Q0EzbFFESk1wTTdRYlFHLUJpNzZzSDd5ZmdUS21Ob19NVl9kVUZFTzFmSFBVdllUZXZjLV9JQVEwMHpjdkg5ck5iVVBnY2h1eWpqUUk0R01hMVpsalZTSUVrckhacVJwc2tZMC1EY3FXMlA2UmJPcTVRbmJ3dk5pcUJQamx0N3pRam9wa1l2NzFtV1E": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Amazon adds 100-plus capabilities to its AI shopping assistant",
+  "short_headline": "Amazon expands its AI shopping assistant",
+  "takeaway": "Amazon is rapidly widening what its assistant can do; we should check how our listings perform in its recommendations.",
+  "importance": 4,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-10-29T19:52:30.000Z"
+ },
+ "NIQ::CBMimgFBVV95cUxNbFc3TU5CWk13TGtsNlVVZGZ5bE9QbnduWVlGRTExanA4OUJzdGI4LXdJNU9ZWGc0cnMtNWNrMXRIbVRkZ2xzQ0ZlUXlWSEpaaHI3MzNWankwN2I2aEpubUJ6NG4wMlBkYUNjVXlWdTJNWnhRYnZ1NEV1WVl2My1pZEdwampxNHE2V3JhREpkbkhvX3hEeDlJNWF3": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "NIQ publishes Purchasing Power Europe 2026 compendium",
+  "short_headline": "NIQ Europe purchasing power compendium",
+  "takeaway": "European purchasing-power data can inform our regional pricing and promotion planning.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-29T19:30:26.000Z"
+ },
+ "PYMNTS Data::CBMilwFBVV95cUxQQVdyYnlhVDY3TUItNGF2OW1KZ212M1Bmd1lQRGJGYnJMSC1lV2IzbXgyTl9FSUliSWlkazZiZUhxdEVXblNKSUZXaEVHcng4UlVXd2VqVDZreVU1dGh5eG45V1RkR2FHU2R0bk5Dcm50N1J3MUd4bE1PMVkycE8xUUU5U0xJRlM0TmswWmhhZ0xMNVpzM053": {
+  "keep": false,
+  "publishedAt": "2026-10-29T19:24:30.000Z"
+ },
+ "NIQ::CBMi2wFBVV95cUxNNUE2LVgtRGcyVVIzYU5PamRsLWhmeG5sVVFFXzlZaEMzX1p3NWUzdmwtdDNMbmFfUXFWUzlqR09ENmlrRDhKRWhhQjRqMnVObm9FZnhMRE93VUxKLV9XNFZhcG1veWhqSTJuVDIzOXpoa2EwWjNVSENzLWRMcTRibW9XZEVqUzBXak1HVXFDUUYxaGRLT2NnWlBkeTJ2MnpwaXZXZ1Y0RC05WGYyRE9HOVVJMUFFZDkwNUxOeXpoQnBwb3g2NmxmMHR6Q0F0OGdEZG1SOFVXYkhvVWs": {
+  "keep": false,
+  "publishedAt": "2026-10-29T19:04:29.000Z"
+ },
+ "Retail TouchPoints::CBMi0gFBVV95cUxNanV1Y1hCbE5mbF81YVZwTnhWa25ZZ2g2OWZsVTIwZWVXZmNhMDdMekVRNFQtZl9UU2RvekNSWGY5TWMzVWNEWlNNeEdXTUVhWnpsNHA3SGIwelkzWTBNam5XMVJScElLQVNXdlBGc2xiSjlZLTBIMlFzV2Fnamc0SXBzbmM5eVFEd3FJbXNUSlhfa21tMnVDNE9uNmNQTFJZa1J2YlNDdDhlcnNYeEltd3FhSkJwQW1RMHYyZTJwanVKTDg1T3Z6N28wZXZaRUVmVHc": {
+  "keep": false,
+  "publishedAt": "2026-10-29T19:00:26.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363796": {
+  "keep": false,
+  "publishedAt": "2026-10-29T18:21:34.000Z"
+ },
+ "NIQ::CBMiogFBVV95cUxOc1pRX21mTWpHek0zLU1kUEpnREJ2M2ZuVm5Nd1gwV0pJZ1ppOXRITDhpQnNuY0ROU1luVVFybGZCaDVaQTl6QzdIWEhMNVB3cHc4Z1ZGTG40cE5WaGJZS0IxY2dVWmVad3Z1UlU0TDRmOC1wUk8wbldiRUdyaHNxTHpJYzRQYTRfMDVzSzNXTEl3WDRjZkxWRlFVakFwTEVHNGc": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "NIQ and Google partner to advance agentic commerce",
+  "short_headline": "NIQ and Google team up on agentic commerce",
+  "takeaway": "Agentic commerce is gaining data and measurement backing; we should watch how product data feeds into agents.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-10-29T15:04:33.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166880": {
+  "keep": false,
+  "publishedAt": "2026-10-29T13:02:22.000Z"
+ },
+ "Retail TouchPoints::CBMiaEFVX3lxTFBzd01xVVFwczlkNWdDODlHZ1hEQ2F0T0xQQjhqaFR0Z0NjQy11M2M2VFFFWEREZjNZTDNlOXlPeDhQZTRBVUFSRmFpM09CZ01rckp6SjQwLVpUeEJmUEZDdjVOMTFhTGlN": {
+  "keep": false,
+  "publishedAt": "2026-10-29T08:24:10.000Z"
+ },
+ "PYMNTS Data::CBMiqwFBVV95cUxQYzhGS1BoX1lnWEZvTmx2ZXBnSXd6NVM2RE5hT1ZTVWNUT1NwWkpRYzFvampSbFp6LTZOaDZqV1pJbmYzcUpPZVo0ZTdpY2g0UGpZMUctWWpUZmVWa0pVUGxPV0pPOExPT1VnV1hfUTRkRjI0N2hwbGtGdkRjcXlkbHFMWG9KSnVQeEY5WWdRdWM3OWtzaWlNcHk0MFM2ZXViYXhZUWE2d1NVU0U": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Google pushes AI agents into commerce as spending pressures cash flow",
+  "short_headline": "Google pushes AI agents into commerce",
+  "takeaway": "Google is pushing agents into shopping; we should prepare our catalog and checkout for agent-led purchases.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-29T00:44:23.000Z"
  }
 }
