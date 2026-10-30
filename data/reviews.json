@@ -5951,5 +5951,125 @@
   "content_type": "news",
   "competitors": [],
   "publishedAt": "2026-10-29T00:44:23.000Z"
+ },
+ "Reuters::CBMisAFBVV95cUxPblVtZktXRjdPbHJBWDM4WWJsV2RyMlhnOVFYRTZPc01udjZNZTVjeHdIN1dVY0w1M1NHbHpxNjV6Vm9jQ3FOUjBIaElyZEdSWWxycmNZdnJwNnBfdTJDc1FBMWVJZ19vR0s3Y1h2Uml2LThWc2NzQ2sxN3NnVzFEeGhvNnpPSElHSFRIQnJreHpCR2c3dnRQbEVYTDlJVjhzVVk3b1gxaFczMFhkb2NDSw": {
+  "keep": false,
+  "publishedAt": "2026-10-30T08:57:28.000Z"
+ },
+ "PYMNTS Data::CBMiogFBVV95cUxQdklBN09qNDE2SzZtZExoOTg3bl9ORFozdjllUU13MlRFa1Y5SEFJM2R2VlFPZE1OMk9IU3p2SHFQYXhJby1STlRxWkdUV0hnMFdGU25jdlkzTzBPbV81QTZZaXZGY3lPX0FMdzJpY0phZ1ZoR2wyaDRSZ1ZVdUM2dkdEVmY0SEpLcnlaTFFsM0gxMnJWeDlJcUdudjVrTWQ3V0E": {
+  "keep": false,
+  "publishedAt": "2026-10-30T08:05:17.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76412": {
+  "keep": false,
+  "publishedAt": "2026-10-30T05:33:00.000Z"
+ },
+ "IDC::CBMiYkFVX3lxTE92VWFqWmJ2SjB0emJUTWJLeVltLXZXVGhjcjNWR1hkYkZhV0o2SE04RUFmTk5qVHlrenJLMHpzVnZFeXlnZ0pOY2l6RHVwSjREYUpENjljUWRQdkJwbjhhTnhn": {
+  "keep": false,
+  "publishedAt": "2026-10-30T05:07:29.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=174234": {
+  "keep": false,
+  "publishedAt": "2026-10-30T04:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261029PD247/delta-electronics-manufacturing-capacity-production-development.html": {
+  "keep": false,
+  "publishedAt": "2026-10-30T03:43:56.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261030VL200/intel-pc-business-demand-revenue.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Intel: server surge faces supply setback as PC downturn persists",
+  "short_headline": "Intel server surge hit by supply, PC slump persists",
+  "takeaway": "A prolonged PC downturn at the chip supplier signals soft demand and supply risk; we should plan promotions and inventory conservatively.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-30T03:42:55.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261030PD211/doosan-nuclear-manufacturing-market-electricity.html": {
+  "keep": false,
+  "publishedAt": "2026-10-30T03:26:24.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261030PD206/utg-automotive-smartphone-technology-development.html": {
+  "keep": false,
+  "publishedAt": "2026-10-30T02:48:37.000Z"
+ },
+ "Inc42::https://inc42.com/?p=578513": {
+  "keep": false,
+  "publishedAt": "2026-10-30T02:30:12.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261030VL210/usa-fcc-testing-security.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "FCC adopts rules barring Chinese labs from certifying electronics for US market",
+  "short_headline": "FCC bars Chinese labs from certifying US electronics",
+  "takeaway": "Certification limits could delay or raise costs for devices entering the US; we should check launch timing and supply with our teams.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-30T02:22:27.000Z"
+ },
+ "TrendForce::CBMi8gFBVV95cUxNc25ha3VDLTVlbFppVTJ1VV9rYmNfaFZrRUNTNTBWN0E1OExHX3MzbTAyNzhUaTZDVk43MHRPSlpnRzQ0S19ETTVBZFFQOUp4TVROUS1DOHV3T194bUp2MG9ESTQ5Slp5MHhRLTVrUGpqeExlT19rd2I5NFR2c0RWWUdZc1BnZ1dTb0lvTHFxbVk1UGFiTHowVEJhdDUzNTJBbGJPa0N3MkpxQmthcmFOaVF5amh1a2JhamZIeXVYTWpza01sM3lqVkxPYnRNdHVZaFhfODZrUWRzenB0cjRyYWtJQVBPa2NLRlB4SG1yWlNzUQ": {
+  "keep": false,
+  "publishedAt": "2026-10-30T02:07:08.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261030PD201/anthropic-nvidia-software-capacity-market.html": {
+  "keep": false,
+  "publishedAt": "2026-10-30T01:58:45.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261030PD202/taiwan-equipment-capacity-demand-delta-electronics.html": {
+  "keep": false,
+  "publishedAt": "2026-10-30T01:52:37.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261029VL225/taiwan-manufacturing-tsmc-labor-packaging.html": {
+  "keep": false,
+  "publishedAt": "2026-10-30T01:39:08.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/sportswear/indias-running-boom-has-nike-asics-sprinting-for-the-next-10-billion/135338371": {
+  "keep": false,
+  "publishedAt": "2026-10-30T01:38:10.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261029PD248/delta-electronics-inventory-2026-demand-materials.html": {
+  "keep": false,
+  "publishedAt": "2026-10-30T01:32:40.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/karwa-chauth-shopping-spreads-beyond-the-north-as-d2c-sales-surge-64/135338203": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Karwa Chauth shopping spreads beyond north India as D2C sales on GoKwik rise 64%",
+  "short_headline": "Karwa Chauth lifts India D2C sales 64%",
+  "takeaway": "Festival-labelled demand is spreading across regions; we can test festival-themed offers and merchandising in India beyond the north.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-30T01:27:30.000Z"
+ },
+ "Omdia::CBMi4gFBVV95cUxPcWFlMVRKVkliQVVnX1NoZUtOSVplSVhZXzdSb0NhWkxocGxKZy1lYzZNdllCZ1NMN2I3WmljSTkweHdRU1YwSWpJWnFmdkUzNUEzSm1mYUxjNm1pX2pUX3NRQVkwSVdER283ZHh5Y2JtTVY5YWlzZG44M1loSDVwTUt0UXh4RHh0NWNfMDdOellONnI0QkNrbzVwS043QjNCb0xacXFrcTJLd3FXU2RaV19SaUhzNEJWcUpBd0Z0V3VmemtiYUhLYVNjRjhkakNFTEFFc2dtRFlWSFlrU2d6YlJB": {
+  "keep": false,
+  "publishedAt": "2026-10-30T01:04:32.000Z"
+ },
+ "Inc42::https://inc42.com/?p=578551": {
+  "keep": false,
+  "publishedAt": "2026-10-29T22:35:11.000Z"
+ },
+ "Reuters::CBMiogFBVV95cUxNamNwQk5mVXlad05tREVFeXVRU29iOGZLMHJLQ3dhQURxb2s2OXNfYzhjQ2tmakJEUFpJcU9FUlZrZmY1czdGVXpsYzVaY21EaVR3R2NDM3pfeEpXYVpRQmZOSXphSXdSMDlyM0plUnlvVnJCdkVhd2Q2dlhOTjUwQm42TE1uYVpsUEJEX1V0WHJ1cVZXajFSNm9zcHlGTUprQWc": {
+  "keep": false,
+  "publishedAt": "2026-10-29T13:15:50.000Z"
+ },
+ "Omdia::CBMisgFBVV95cUxQREU2em8zRXFiTlR6RnlfQVJrMnRVVU03cDF6Z1hhUzJtbnFXMk1lQWxLcnpFanlRU3pjSEhjbFZzaGVGSXVDWGJBT1VKUGJCME5nX2pWMlJ3eS1DbkdzVG43aF9mdW1Vc0lFZUw3RjRWUDE3Qkl4SlFlSE9lSFpVWGx3OTZCRktGeHpJTVRLWFdyNldrQkZoUXJPcndIVWFVazRlNlNRNzM0blFWTW5sQ01R": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Omdia: PC vendors must rethink strategy in an increasingly polarized market",
+  "short_headline": "Omdia: PC vendors face a polarized market",
+  "takeaway": "A polarizing PC market may reward clear premium and value positioning; we should check our online assortment and pricing against it.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-29T08:38:44.000Z"
+ },
+ "Reuters::CBMiqgFBVV95cUxQVnRkb1hlemJ1dC1UWVotYWtHNW9rVlhfc1otUFZOTmlBUlVLbTlNSWNtUks0WEpYMnpVLXZJLWRLNldGRGRNRXB0OHpfeGJwRmRhcjgyaC1pMHVvWTA3dzAxekZ4Xy0xN3NVQU9URjhJTXVZLXFXQXpvWFo3UE5aWGhjNElxLWJtcVVsWFI5N0hBV0VrM0NCQzdlYkdNUHMwTXpkNG02bEY0QQ": {
+  "keep": false,
+  "publishedAt": "2026-10-29T02:31:00.000Z"
  }
 }

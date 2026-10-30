@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-30T03:50:09.535Z",
+ "updatedAt": "2026-10-30T12:51:26.096Z",
  "title": "Shopping is moving to AI agents, and our store must be ready for them",
- "summary": "Amazon: 400M customers used Alexa for Shopping, spending 50% more. NIQ: 55% use AI in discovery. Walmart added agent spend limits; Target built holiday around an AI assistant. Memory shortage may last years (Samsung, SK Hynix).",
+ "summary": "Amazon: 400M customers used Alexa for Shopping, spending 50% more. NIQ: 55% use AI in discovery. Walmart added agent spend limits. Asus sees commercial PC prices up ~10% in 2H26; Samsung sees no memory relief before 2028.",
  "points": [
   {
    "headline": "AI assistants now drive discovery and higher spend at scale",
@@ -22,17 +22,26 @@
    ]
   },
   {
-   "headline": "Memory shortage keeps PC demand weak and costs high",
-   "detail": "Samsung and SK Hynix expect shortages for years; Intel AI PCs sell while the wider market shrinks. We should plan pricing, inventory and AI PC focus accordingly.",
+   "headline": "Memory shortage lifts PC prices and keeps overall demand weak",
+   "detail": "Asus expects Taiwan commercial PC prices up nearly 10% in 2H26; Samsung sees no buyer relief before 2028; Intel AI PCs grow as the market shrinks. We should plan pricing and inventory.",
    "segment": "pc",
    "storyIds": [
+    "DigiTimes::https://www.digitimes.com/news/a20261028PD204/asus-commercial-pc-2026-market.html",
     "DigiTimes::https://www.digitimes.com/news/a20261029VL221/samsung-sk-hynix-investment-demand-production.html",
     "DigiTimes::https://www.digitimes.com/news/a20261030VL206/intel-pc-ai-pc-sales-demand.html"
    ]
   },
   {
-   "headline": "Walmart's longer Black Friday window pulls demand earlier",
-   "detail": "Walmart stretches Black Friday and Cyber Monday events to 14 days from 10. We should check our deal calendar and price-matching against it.",
+   "headline": "Apple ends its touchscreen holdout with an OLED MacBook Pro",
+   "detail": "Apple shows pricey touchscreen laptops, with Samsung Display as sole panel source. We should review our premium laptop positioning and online pricing against it.",
+   "segment": "pc",
+   "storyIds": [
+    "DigiTimes::https://www.digitimes.com/news/a20261029VL200/apple-touchscreen-sdc-macbook-pro-supplier.html"
+   ]
+  },
+  {
+   "headline": "Walmart stretches Black Friday and Cyber Monday to 14 days",
+   "detail": "Walmart extends its events from 10 to 14 days. We should check our deal calendar and price-matching against it.",
    "segment": "marketplaces",
    "storyIds": [
     "Retail Dive::https://www.retaildive.com/news/walmart-longer-black-friday-cyber-monday-sales-events/872747/"
