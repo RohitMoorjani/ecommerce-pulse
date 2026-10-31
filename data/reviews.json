@@ -6254,5 +6254,25 @@
   "content_type": "analysis",
   "competitors": [],
   "publishedAt": "2026-10-26T08:01:18.000Z"
+ },
+ "Inc42::https://inc42.com/?p=578709": {
+  "keep": false,
+  "publishedAt": "2026-10-31T08:52:47.000Z"
+ },
+ "Inc42::https://inc42.com/?p=578696": {
+  "keep": false,
+  "publishedAt": "2026-10-31T08:26:18.000Z"
+ },
+ "IDC::CBMiYkFVX3lxTE1oNl8xQzNwUFVXOXpYbzVMMHhkbWJVUnFaa3k5UTljbFJwQ1pYdkY2bm9MdUdQdi0tTHd4ajd1cC1ma19yX204WThFcVFjSlBsOXE1ZlVseUFrbXJJMlhnSFpn": {
+  "keep": false,
+  "publishedAt": "2026-10-31T02:20:31.000Z"
+ },
+ "Reuters::CBMinwFBVV95cUxPaUFjR2o2ZHFLS3dLU0ZfVElpUjJ0ZUJoYWkyUkl0SzNMVU5yTkRLdVBvZnpnQVVzTVlncTNrMEwwd3F0N3Z3NE5Ec3dYRURVcmlZdnBXX2JfSTFfVzJZLWM0QXFlWU1LUGNGZUtoTGRoRkp1dGs5ZmFFdVVDMTRpM0VDeFdYQl84U3JhZHhNa2pqdHNpNmRWakNjTXRDcG8": {
+  "keep": false,
+  "publishedAt": "2026-10-28T12:17:31.000Z"
+ },
+ "Gartner::CBMiV0FVX3lxTE1McXhfYV9UNlNsTExpMXZmcW93Nm9wem9jMTlZZnctYU5PUFNPa0lWVzNCOW1RSGx2TEJZbmJBWGZydHB6TUN6NHJmdVRBc2dhNlMwTDhyYw": {
+  "keep": false,
+  "publishedAt": "2026-10-28T07:00:00.000Z"
  }
 }
