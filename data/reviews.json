@@ -6170,5 +6170,39 @@
  "Retail TouchPoints::CBMicEFVX3lxTFBZbTNLa1pNdzRTLWQyWXh1THozcHpBc0ZialB2V3hWcmZSMlV0Skx3NlFnWDFWZ0NwMzQ1czN4X0FfUV94MXBRMjZsUm1nVDFJZlM4OGljdDZ1NnZKc3dMWnVYS0hzNDd2QVI1UU8xd20": {
   "keep": false,
   "publishedAt": "2026-10-28T22:01:21.000Z"
+ },
+ "Reuters::CBMizAFBVV95cUxPM1JYY3JjSEZ6Mng5SkxoRFBtVFBLZVVsNGsyMWxIQzNQX0Rid3oxclNLV2dvSURnaWRrUDdYTUZ4WkIwZFVfbGp6bHM1LTZaUC1Fb3BSWF9iVWsxMGctdktndy1GRS1aZTRkb1otcjJFYk84NndKWGx6NXBXQUEyMmJMVUxXRkpkcF83M09yWVZSMjNjblRyeGxvZ3dOYTFMY1A2U2pYYzViSlpEVWlZWVUzczZ0NHBHZXhSSFlyMURGcFJLMFVzbFlwMEY": {
+  "keep": false,
+  "publishedAt": "2026-10-30T19:07:06.000Z"
+ },
+ "Reuters::CBMi0gFBVV95cUxPZ2Jmd0l5UTN5aDFsS3FXQmNJTS1DRUdjVUM4V1h5LVFodmY1ZDZWdXpFVWxOdVAxNll5eVRLb19CYzZyTDZZdGtHUGY0dktQcVZURy01QVU4NEpxeG9lem5HbjJFbFYzT2ZqbUJxYkd5RG1vSjlXckFLSktGZHVBeXl2LWQ0RnRhWXJWV1FvY1Z2ejV0d0hmZnJwcl9aVjNxWTBSMURRMlJvdFpYaFVEZEREMHFBR1FuNVJYWVdUZzRQYV83VnVsX2pPaERKb19RT1E": {
+  "keep": false,
+  "publishedAt": "2026-10-30T16:43:02.000Z"
+ },
+ "PYMNTS::https://www.pymnts.com/?p=4350312": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Amazon wins 59% of AI-assisted purchases as checkout becomes the AI shopping prize",
+  "short_headline": "Amazon wins 59% of AI-assisted purchases",
+  "takeaway": "AI sends shoppers beyond Amazon to browse, but Amazon still closes most sales; we must win the checkout step in AI journeys.",
+  "importance": 4,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-30T13:00:46.000Z"
+ },
+ "Reuters::CBMiqAFBVV95cUxNcXEzUmpkSHEwZWtxM2cwVjMwQkJXMVZqVUJrWk8xejY0TzkyZmtvN0E2Z3Q3MDJfNkRLOXRKUW5xR2QzLVM5WjQzSVp2OVBhQldOMVJKZkJ2ZC1qMm04dWFSVjExd1h2bXV2emx1dmkwTVFzT29DamloeVhPZUdwZEhuUmhvem92VG9MQzFIZU1ibDR1MWNaZ0o2ZVBOYzhodHdyQVY4T1U": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Intel flags weak PC demand as AI spending costs ripple across markets",
+  "short_headline": "Intel flags weak PC demand",
+  "takeaway": "Weak PC demand signals from Intel suggest softer volumes ahead; we should plan promotions and inventory for pricing pressure.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-29T21:03:00.000Z"
+ },
+ "PYMNTS Data::CBMilgFBVV95cUxOWng0Unh6SXVVUTdyV0N1QndmaGRJQlItd0ZuaU5fcUtUa2l1bngwV0V0SlNKY05MZmJUaWp4dzh4eGpwWjNUZDBTVEtqaGdRa0R5MW9OZC00NWFadDFGZHZHLUQtRUV2UzhsMHVUTmViNF9vSHdGdEVpSFV3Y05waml6SFI3VHdzXzRLZmtUUDFEOG1tdFE": {
+  "keep": false,
+  "publishedAt": "2026-10-20T00:16:35.000Z"
  }
 }

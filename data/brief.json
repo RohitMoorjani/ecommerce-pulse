@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T18:50:21.989Z",
+ "updatedAt": "2026-10-31T00:51:06.269Z",
  "title": "Shopping is moving to AI agents, and our store must be ready for them",
  "summary": "Amazon: 400M customers used Alexa for Shopping, spending 50% more, and wins 59% of AI-assisted purchases (PYMNTS). NIQ: 55% use AI in discovery. Walmart added agent spend limits. Asus sees PC prices up ~10% in 2H26.",
  "points": [
@@ -9,7 +9,7 @@
    "segment": "agentic",
    "storyIds": [
     "Modern Retail::https://www.modernretail.co/?p=174293",
-    "PYMNTS Data::CBMivgFBVV95cUxPQUhWZjl5T2t1amFBc0pQSVlCWUY1eXNYalZTT1Q2QlUtN1VfQnEydlZHMkZHMHF1aXhsaHlzaUVhNmFGS0pLS0VZRFRNbktGdjYxTmszNkVLODcxZ1M4cDBxblc5YzY1SWI5TlpjME9ZTXJudEE0MEhPeGpva1lMMXhYS1JVdVFHRlVSbTFqVUxPbFZBSEMtMjhleGlxZUNBOWoyNGZWZmxQYzJabjZ0VXQwcW5tcDYyczY5TWx3",
+    "PYMNTS::https://www.pymnts.com/?p=4350312",
     "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0"
    ]
   },
@@ -24,12 +24,13 @@
   },
   {
    "headline": "Memory shortage lifts PC prices and keeps overall demand weak",
-   "detail": "Asus expects Taiwan commercial PC prices up nearly 10% in 2H26; Samsung sees no buyer relief before 2028; Intel AI PCs grow as the market shrinks. We should plan pricing and inventory.",
+   "detail": "Asus expects Taiwan commercial PC prices up nearly 10% in 2H26; Samsung sees no buyer relief before 2028; Intel flags weak PC demand. We should plan pricing and inventory.",
    "segment": "pc",
    "storyIds": [
     "DigiTimes::https://www.digitimes.com/news/a20261028PD204/asus-commercial-pc-2026-market.html",
     "DigiTimes::https://www.digitimes.com/news/a20261029VL221/samsung-sk-hynix-investment-demand-production.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261030VL206/intel-pc-ai-pc-sales-demand.html"
+    "DigiTimes::https://www.digitimes.com/news/a20261030VL206/intel-pc-ai-pc-sales-demand.html",
+    "Reuters::CBMiqAFBVV95cUxNcXEzUmpkSHEwZWtxM2cwVjMwQkJXMVZqVUJrWk8xejY0TzkyZmtvN0E2Z3Q3MDJfNkRLOXRKUW5xR2QzLVM5WjQzSVp2OVBhQldOMVJKZkJ2ZC1qMm04dWFSVjExd1h2bXV2emx1dmkwTVFzT29DamloeVhPZUdwZEhuUmhvem92VG9MQzFIZU1ibDR1MWNaZ0o2ZVBOYzhodHdyQVY4T1U"
    ]
   },
   {
