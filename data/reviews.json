@@ -6204,5 +6204,55 @@
  "PYMNTS Data::CBMilgFBVV95cUxOWng0Unh6SXVVUTdyV0N1QndmaGRJQlItd0ZuaU5fcUtUa2l1bngwV0V0SlNKY05MZmJUaWp4dzh4eGpwWjNUZDBTVEtqaGdRa0R5MW9OZC00NWFadDFGZHZHLUQtRUV2UzhsMHVUTmViNF9vSHdGdEVpSFV3Y05waml6SFI3VHdzXzRLZmtUUDFEOG1tdFE": {
   "keep": false,
   "publishedAt": "2026-10-20T00:16:35.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=174299": {
+  "keep": false,
+  "publishedAt": "2026-10-31T04:00:00.000Z"
+ },
+ "Inc42::https://inc42.com/?p=578661": {
+  "keep": false,
+  "publishedAt": "2026-10-31T02:30:48.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261030VL222/taiwan-infrastructure-packaging-manufacturing-technology.html": {
+  "keep": false,
+  "publishedAt": "2026-10-30T23:34:04.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261030PD222/renesas-2026-revenue-capacity-demand.html": {
+  "keep": false,
+  "publishedAt": "2026-10-30T23:28:59.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261028VL223/gan-300mm-infineon-infrastructure-europe.html": {
+  "keep": false,
+  "publishedAt": "2026-10-30T23:28:25.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/global-fmcg-giants-find-an-indian-answer-to-their-western-slowdown/135349786": {
+  "keep": false,
+  "publishedAt": "2026-10-30T07:30:43.000Z"
+ },
+ "NIQ::CBMiqAFBVV95cUxQR01zbFA5RXRUaURjb3FqcHo3THQxa0NZQWpqUm9ESHhSSVNNbUdUWXhLQVBhWnNERXlJUFBycWo1T2tSQklnX3hBa0dwREFUZWViQTVWMHBWVFdiSTh5bG1QQld1WTRWOU1iTU5TaWViQm1jSnREcXktUUdsTXJUc3ppS3ZDbC10amVkZ2dzREVnTFk4bmxtMWVhNExuWTYxTV9JZGJ6bTQ": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Europeans’ purchasing power rises to 21,153 euros in 2026, NIQ reports",
+  "short_headline": "European purchasing power hits €21,153 in 2026",
+  "takeaway": "Rising per-capita spending power in Europe is a supportive backdrop for our regional tech demand and promotion planning.",
+  "importance": 2,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-29T12:51:21.000Z"
+ },
+ "Retail TouchPoints::CBMibkFVX3lxTE1CdXV1OTlIbzNZaXhHTmVmTjliOFUtdUdWT0VLSlJHZEJBRktsMUQ3VjNqOGJoZTRWZm9JbzFDVzF2R3g1OXY5bDY2TTA2Q2lPbUVCN25wQ0ZzcElaRVRsOVlaSEp3aGI5eVhrQmJR": {
+  "keep": false,
+  "publishedAt": "2026-10-28T19:53:12.000Z"
+ },
+ "PYMNTS::https://www.pymnts.com/?p=4329753": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "AI shoppers emerge as a distinct customer segment in the UAE, behaving differently",
+  "short_headline": "UAE AI shoppers form a distinct segment",
+  "takeaway": "AI-assisted shoppers behave differently from other channel users, so we should plan for them as a separate audience, not just another channel.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-10-26T08:01:18.000Z"
  }
 }

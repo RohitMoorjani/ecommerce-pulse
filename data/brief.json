@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T00:51:06.269Z",
+ "updatedAt": "2026-10-31T06:51:31.036Z",
  "title": "Shopping is moving to AI agents, and our store must be ready for them",
  "summary": "Amazon: 400M customers used Alexa for Shopping, spending 50% more, and wins 59% of AI-assisted purchases (PYMNTS). NIQ: 55% use AI in discovery. Walmart added agent spend limits. Asus sees PC prices up ~10% in 2H26.",
  "points": [
@@ -30,22 +30,16 @@
     "DigiTimes::https://www.digitimes.com/news/a20261028PD204/asus-commercial-pc-2026-market.html",
     "DigiTimes::https://www.digitimes.com/news/a20261029VL221/samsung-sk-hynix-investment-demand-production.html",
     "DigiTimes::https://www.digitimes.com/news/a20261030VL206/intel-pc-ai-pc-sales-demand.html",
-    "Reuters::CBMiqAFBVV95cUxNcXEzUmpkSHEwZWtxM2cwVjMwQkJXMVZqVUJrWk8xejY0TzkyZmtvN0E2Z3Q3MDJfNkRLOXRKUW5xR2QzLVM5WjQzSVp2OVBhQldOMVJKZkJ2ZC1qMm04dWFSVjExd1h2bXV2emx1dmkwTVFzT29DamloeVhPZUdwZEhuUmhvem92VG9MQzFIZU1ibDR1MWNaZ0o2ZVBOYzhodHdyQVY4T1U"
+    "Reuters::CBMiqAFBVV95cUxNcXEzUmpkSHEwZWtxM2cwVjMwQkJXMVZqVUJrWk8xejY0TzkyZmtvN0E2Z3Q3MDJfNkRLOXRKUW5xR2QzLVM5WjQzSVp2OVBhQldOMVJKZkJ2ZC1qMm04dWFSVjExd1h2bXV2emx1dmkwTVFzT29DamloeVhPZUdwZEhuUmhvem92VG9MQzFIZU1ibDR1MWNaZ0o2ZVBOYzhodHdyQVY4T1U",
+    "IDC::CBMiYkFVX3lxTE03V29UZjdYZnZ5YWR5UW5vdFBkaVVuRUhRQTBBM0xLQjBkVXRQU3hUN3dNZW1hWlk2TVlTOGw2eDVrUDVBQy1FajNSVExXbjJTVEU3YmRGTXhJS0N0cl9aNERn"
    ]
   },
   {
-   "headline": "Apple ends its touchscreen holdout with an OLED MacBook Pro",
-   "detail": "Apple shows pricey touchscreen laptops, with Samsung Display as sole panel source. We should review our premium laptop positioning and online pricing against it.",
-   "segment": "pc",
-   "storyIds": [
-    "DigiTimes::https://www.digitimes.com/news/a20261029VL200/apple-touchscreen-sdc-macbook-pro-supplier.html"
-   ]
-  },
-  {
-   "headline": "Walmart stretches Black Friday and Cyber Monday to 14 days",
-   "detail": "Walmart extends its events from 10 to 14 days. We should check our deal calendar and price-matching against it.",
+   "headline": "Regulators and rivals reshape holiday pricing and deal windows",
+   "detail": "FTC ordered Target, Walmart and others to detail personalized pricing; Walmart stretched Black Friday/Cyber Monday to 14 days. We should check our deal calendar and pricing transparency.",
    "segment": "marketplaces",
    "storyIds": [
+    "Retail Dive::https://www.retaildive.com/news/ftc-orders-target-walmart-personalized-pricing-inquiry/873173/",
     "Retail Dive::https://www.retaildive.com/news/walmart-longer-black-friday-cyber-monday-sales-events/872747/"
    ]
   }
