@@ -1,42 +1,74 @@
 [
  {
-  "id": "Reuters::CBMizAFBVV95cUxPM1JYY3JjSEZ6Mng5SkxoRFBtVFBLZVVsNGsyMWxIQzNQX0Rid3oxclNLV2dvSURnaWRrUDdYTUZ4WkIwZFVfbGp6bHM1LTZaUC1Fb3BSWF9iVWsxMGctdktndy1GRS1aZTRkb1otcjJFYk84NndKWGx6NXBXQUEyMmJMVUxXRkpkcF83M09yWVZSMjNjblRyeGxvZ3dOYTFMY1A2U2pYYzViSlpEVWlZWVUzczZ0NHBHZXhSSFlyMURGcFJLMFVzbFlwMEY",
-  "source": "Reuters",
+  "id": "Modern Retail::https://www.modernretail.co/?p=174299",
+  "source": "Modern Retail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T19:07:06.000Z",
-  "title": "Big Tech returns smallest share of cash to shareholders in 15 years, given AI spending",
+  "publishedAt": "2026-10-31T04:00:00.000Z",
+  "title": "What constitutes a wellness brand?",
+  "snippet": "This week's Modern Retail Podcast explores how categories like food, beauty and home gadgets are reshaping the definition of wellness."
+ },
+ {
+  "id": "Inc42::https://inc42.com/?p=578661",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-31T02:30:48.000Z",
+  "title": "Exclusive: upliance.ai In Talks To Raise Up To $4 Mn For R&D, Global Expansion",
+  "snippet": "D2C home appliance startup upliance.ai is in advanced talks to raise $3 Mn to $4 Mn (around ₹28-₹37 Cr) in…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261030VL222/taiwan-infrastructure-packaging-manufacturing-technology.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-30T23:34:04.000Z",
+  "title": "TSIA 30: Taiwan builds the AI backbone &mdash; but can it capture the AI economy?",
+  "snippet": "Taiwan already manufactures much of the physical infrastructure on which the AI boom depends. Advanced logic, packaging, substrates, testing, power delivery, cooling, and server assembly can all be sourced through an…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261030PD222/renesas-2026-revenue-capacity-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-30T23:28:59.000Z",
+  "title": "Renesas expands AI data center capacity, targets 33.2% margin in 2026",
+  "snippet": "Japan’s Renesas Electronics expects strong demand for AI data centers, industrial applications, and automotive semiconductors to drive 2026 revenue to JPY1.6668 trillion (US$10.55 billion), up 26.4% year-over-year, with…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028VL223/gan-300mm-infineon-infrastructure-europe.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-10-30T23:28:25.000Z",
+  "title": "Infineon's 300mm GaN push turns Europe's power-chip strength into an AI infrastructure bet",
+  "snippet": "The aggressive deployment of infrastructure-scale AI projects is rapidly driving up compute demand as chip architectures continue to scale across an expanding ecosystem of data-center racks. At the same time, sustaining…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/global-fmcg-giants-find-an-indian-answer-to-their-western-slowdown/135349786",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-30T07:30:43.000Z",
+  "title": "Global FMCG giants find an Indian answer to their Western slowdown",
+  "snippet": "Global consumer giants including PepsiCo, Nestle, Unilever, Pernod Ricard and Coca-Cola are increasingly looking to India for growth as demand slows in the US and Europe. Companies are betting on premiumisation, wider…"
+ },
+ {
+  "id": "NIQ::CBMiqAFBVV95cUxQR01zbFA5RXRUaURjb3FqcHo3THQxa0NZQWpqUm9ESHhSSVNNbUdUWXhLQVBhWnNERXlJUFBycWo1T2tSQklnX3hBa0dwREFUZWViQTVWMHBWVFdiSTh5bG1QQld1WTRWOU1iTU5TaWViQm1jSnREcXktUUdsTXJUc3ppS3ZDbC10amVkZ2dzREVnTFk4bmxtMWVhNExuWTYxTV9JZGJ6bTQ",
+  "source": "NIQ",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-29T12:51:21.000Z",
+  "title": "Europeans’ purchasing power rises to 21,153 euros in 2026",
   "snippet": ""
  },
  {
-  "id": "Reuters::CBMi0gFBVV95cUxPZ2Jmd0l5UTN5aDFsS3FXQmNJTS1DRUdjVUM4V1h5LVFodmY1ZDZWdXpFVWxOdVAxNll5eVRLb19CYzZyTDZZdGtHUGY0dktQcVZURy01QVU4NEpxeG9lem5HbjJFbFYzT2ZqbUJxYkd5RG1vSjlXckFLSktGZHVBeXl2LWQ0RnRhWXJWV1FvY1Z2ejV0d0hmZnJwcl9aVjNxWTBSMURRMlJvdFpYaFVEZEREMHFBR1FuNVJYWVdUZzRQYV83VnVsX2pPaERKb19RT1E",
-  "source": "Reuters",
+  "id": "Retail TouchPoints::CBMibkFVX3lxTE1CdXV1OTlIbzNZaXhHTmVmTjliOFUtdUdWT0VLSlJHZEJBRktsMUQ3VjNqOGJoZTRWZm9JbzFDVzF2R3g1OXY5bDY2TTA2Q2lPbUVCN25wQ0ZzcElaRVRsOVlaSEp3aGI5eVhrQmJR",
+  "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T16:43:02.000Z",
-  "title": "Chocolate makers get Halloween fright as health-conscious US shoppers cut back",
+  "publishedAt": "2026-10-28T19:53:12.000Z",
+  "title": "Latest In: social media discovery",
   "snippet": ""
  },
  {
-  "id": "PYMNTS::https://www.pymnts.com/?p=4350312",
+  "id": "PYMNTS::https://www.pymnts.com/?p=4329753",
   "source": "PYMNTS",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T13:00:46.000Z",
-  "title": "Amazon Wins 59% of AI-Assisted Purchases as Checkout Becomes the Prize",
-  "snippet": "Generative artificial intelligence (AI) is doing something that years of retail competition struggled to accomplish. It is teaching consumers to start shopping somewhere other than Amazon. The catch? AI just isn’t…"
- },
- {
-  "id": "Reuters::CBMiqAFBVV95cUxNcXEzUmpkSHEwZWtxM2cwVjMwQkJXMVZqVUJrWk8xejY0TzkyZmtvN0E2Z3Q3MDJfNkRLOXRKUW5xR2QzLVM5WjQzSVp2OVBhQldOMVJKZkJ2ZC1qMm04dWFSVjExd1h2bXV2emx1dmkwTVFzT29DamloeVhPZUdwZEhuUmhvem92VG9MQzFIZU1ibDR1MWNaZ0o2ZVBOYzhodHdyQVY4T1U",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-29T21:03:00.000Z",
-  "title": "Amazon burns cash, Intel flags weak PC demand as AI boom's costs ripple across markets",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMilgFBVV95cUxOWng0Unh6SXVVUTdyV0N1QndmaGRJQlItd0ZuaU5fcUtUa2l1bngwV0V0SlNKY05MZmJUaWp4dzh4eGpwWjNUZDBTVEtqaGdRa0R5MW9OZC00NWFadDFGZHZHLUQtRUV2UzhsMHVUTmViNF9vSHdGdEVpSFV3Y05waml6SFI3VHdzXzRLZmtUUDFEOG1tdFE",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-20T00:16:35.000Z",
-  "title": "Global Digital Shopping Index: Brazil Playbook – The New Brazilian Shopper",
-  "snippet": ""
+  "publishedAt": "2026-10-26T08:01:18.000Z",
+  "title": "AI Shoppers Emerge as Distinct UAE Customer Segment",
+  "snippet": "A merchant can add another digital shopping channel without necessarily changing the customer it serves. Artificial intelligence (AI) shopping presents a different reality, as the consumers using it behave differently…"
  }
 ]
