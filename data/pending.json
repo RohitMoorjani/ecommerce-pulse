@@ -1,74 +1,42 @@
 [
  {
-  "id": "Modern Retail::https://www.modernretail.co/?p=174299",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-31T04:00:00.000Z",
-  "title": "What constitutes a wellness brand?",
-  "snippet": "This week's Modern Retail Podcast explores how categories like food, beauty and home gadgets are reshaping the definition of wellness."
- },
- {
-  "id": "Inc42::https://inc42.com/?p=578661",
+  "id": "Inc42::https://inc42.com/?p=578709",
   "source": "Inc42",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-31T02:30:48.000Z",
-  "title": "Exclusive: upliance.ai In Talks To Raise Up To $4 Mn For R&D, Global Expansion",
-  "snippet": "D2C home appliance startup upliance.ai is in advanced talks to raise $3 Mn to $4 Mn (around ₹28-₹37 Cr) in…"
+  "publishedAt": "2026-10-31T08:52:47.000Z",
+  "title": "Exclusive: D2C Skincare Brand Numour In Talks To Raise $3.1 Mn From Sharrp Ventures",
+  "snippet": "Delhi NCR-based D2C skincare brand Numour is in talks to raise nearly $3.1 Mn (about ₹30 Cr) in a funding…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261030VL222/taiwan-infrastructure-packaging-manufacturing-technology.html",
-  "source": "DigiTimes",
+  "id": "Inc42::https://inc42.com/?p=578696",
+  "source": "Inc42",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-10-30T23:34:04.000Z",
-  "title": "TSIA 30: Taiwan builds the AI backbone &mdash; but can it capture the AI economy?",
-  "snippet": "Taiwan already manufactures much of the physical infrastructure on which the AI boom depends. Advanced logic, packaging, substrates, testing, power delivery, cooling, and server assembly can all be sourced through an…"
+  "publishedAt": "2026-10-31T08:26:18.000Z",
+  "title": "Walmart Probes Flipkart Employees Over Alleged ₹150 Cr Kickbacks: Report",
+  "snippet": "US retail giant Walmart has launched an investigation into allegations that employees at its subsidiary Flipkart received over ₹150 Cr…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261030PD222/renesas-2026-revenue-capacity-demand.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-30T23:28:59.000Z",
-  "title": "Renesas expands AI data center capacity, targets 33.2% margin in 2026",
-  "snippet": "Japan’s Renesas Electronics expects strong demand for AI data centers, industrial applications, and automotive semiconductors to drive 2026 revenue to JPY1.6668 trillion (US$10.55 billion), up 26.4% year-over-year, with…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261028VL223/gan-300mm-infineon-infrastructure-europe.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-10-30T23:28:25.000Z",
-  "title": "Infineon's 300mm GaN push turns Europe's power-chip strength into an AI infrastructure bet",
-  "snippet": "The aggressive deployment of infrastructure-scale AI projects is rapidly driving up compute demand as chip architectures continue to scale across an expanding ecosystem of data-center racks. At the same time, sustaining…"
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/global-fmcg-giants-find-an-indian-answer-to-their-western-slowdown/135349786",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T07:30:43.000Z",
-  "title": "Global FMCG giants find an Indian answer to their Western slowdown",
-  "snippet": "Global consumer giants including PepsiCo, Nestle, Unilever, Pernod Ricard and Coca-Cola are increasingly looking to India for growth as demand slows in the US and Europe. Companies are betting on premiumisation, wider…"
- },
- {
-  "id": "NIQ::CBMiqAFBVV95cUxQR01zbFA5RXRUaURjb3FqcHo3THQxa0NZQWpqUm9ESHhSSVNNbUdUWXhLQVBhWnNERXlJUFBycWo1T2tSQklnX3hBa0dwREFUZWViQTVWMHBWVFdiSTh5bG1QQld1WTRWOU1iTU5TaWViQm1jSnREcXktUUdsTXJUc3ppS3ZDbC10amVkZ2dzREVnTFk4bmxtMWVhNExuWTYxTV9JZGJ6bTQ",
-  "source": "NIQ",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-29T12:51:21.000Z",
-  "title": "Europeans’ purchasing power rises to 21,153 euros in 2026",
+  "id": "IDC::CBMiYkFVX3lxTE1oNl8xQzNwUFVXOXpYbzVMMHhkbWJVUnFaa3k5UTljbFJwQ1pYdkY2bm9MdUdQdi0tTHd4ajd1cC1ma19yX204WThFcVFjSlBsOXE1ZlVseUFrbXJJMlhnSFpn",
+  "source": "IDC",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-31T02:20:31.000Z",
+  "title": "Tech Leader Survey Spotlight: What Worries Insurance Carriers Most About Their Technology Spending Over the Next 12 Months?",
   "snippet": ""
  },
  {
-  "id": "Retail TouchPoints::CBMibkFVX3lxTE1CdXV1OTlIbzNZaXhHTmVmTjliOFUtdUdWT0VLSlJHZEJBRktsMUQ3VjNqOGJoZTRWZm9JbzFDVzF2R3g1OXY5bDY2TTA2Q2lPbUVCN25wQ0ZzcElaRVRsOVlaSEp3aGI5eVhrQmJR",
-  "source": "Retail TouchPoints",
+  "id": "Reuters::CBMinwFBVV95cUxPaUFjR2o2ZHFLS3dLU0ZfVElpUjJ0ZUJoYWkyUkl0SzNMVU5yTkRLdVBvZnpnQVVzTVlncTNrMEwwd3F0N3Z3NE5Ec3dYRURVcmlZdnBXX2JfSTFfVzJZLWM0QXFlWU1LUGNGZUtoTGRoRkp1dGs5ZmFFdVVDMTRpM0VDeFdYQl84U3JhZHhNa2pqdHNpNmRWakNjTXRDcG8",
+  "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-28T19:53:12.000Z",
-  "title": "Latest In: social media discovery",
+  "publishedAt": "2026-10-28T12:17:31.000Z",
+  "title": "Walmart cuts holiday meal basket price to $3.50 per person",
   "snippet": ""
  },
  {
-  "id": "PYMNTS::https://www.pymnts.com/?p=4329753",
-  "source": "PYMNTS",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-26T08:01:18.000Z",
-  "title": "AI Shoppers Emerge as Distinct UAE Customer Segment",
-  "snippet": "A merchant can add another digital shopping channel without necessarily changing the customer it serves. Artificial intelligence (AI) shopping presents a different reality, as the consumers using it behave differently…"
+  "id": "Gartner::CBMiV0FVX3lxTE1McXhfYV9UNlNsTExpMXZmcW93Nm9wem9jMTlZZnctYU5PUFNPa0lWVzNCOW1RSGx2TEJZbmJBWGZydHB6TUN6NHJmdVRBc2dhNlMwTDhyYw",
+  "source": "Gartner",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-28T07:00:00.000Z",
+  "title": "Why Africa Is Emerging as a Strategic BPO Delivery Destination",
+  "snippet": ""
  }
 ]
