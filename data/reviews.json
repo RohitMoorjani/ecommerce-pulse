@@ -6316,5 +6316,40 @@
   "content_type": "news",
   "competitors": [],
   "publishedAt": "2026-10-30T07:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261030PD215/samsung-2026-technology-operating-profit-investment.html": {
+  "keep": false,
+  "publishedAt": "2026-11-01T22:22:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261030PD244/lite-on-profit-revenue-demand-infrastructure.html": {
+  "keep": false,
+  "publishedAt": "2026-11-01T19:19:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261030VL228/nvidia-robotics-data-lg-hyundai.html": {
+  "keep": false,
+  "publishedAt": "2026-11-01T18:15:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261029VL222/samsung-business-2027-capacity-revenue.html": {
+  "keep": false,
+  "publishedAt": "2026-11-01T16:09:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261029VL223/chips-component-equipment-cost-localization-taiwan.html": {
+  "keep": false,
+  "publishedAt": "2026-11-01T15:09:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261028PD208/twm-taiwan-demand-telecom-growth.html": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Taiwan Mobile's BNPL users jump 49.9% as service moves beyond e-commerce checkout",
+  "short_headline": "Taiwan Mobile BNPL users up 49.9%",
+  "takeaway": "Rising BNPL uptake among gig workers suggests we should test instalment options for flexible-income buyers of PCs and accessories.",
+  "importance": 2,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-01T15:08:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261030VL231/tsmc-finfet-applied-materials-california.html": {
+  "keep": false,
+  "publishedAt": "2026-11-01T13:12:46.000Z"
  }
 }
