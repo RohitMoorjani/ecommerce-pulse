@@ -1,58 +1,170 @@
 [
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261030PD215/samsung-2026-technology-operating-profit-investment.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-01T22:22:00.000Z",
-  "title": "Column: Samsung's memory boom reshapes its investment strategy",
-  "snippet": "Samsung Electronics has never had more capital at its disposal. The company reported operating profit of KRW89.5 trillion (approx. US$67 billion) in the second quarter of 2026 and KRW107.4 trillion in the third, when…"
+  "id": "InternetRetailing::https://internetretailing.net/?p=76427",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-02T10:25:55.000Z",
+  "title": "GUEST COMMENT Boxing Day boxes clever: are retailers missing the bigger Q4 sales opportunity?",
+  "snippet": "Andy Squire, regional lead at Brave Ads, looks at why retailers concentrating their firepower on Black Friday could be overlooking some of the most valuable sales opportunities of the Christmas period. The post GUEST…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261030PD244/lite-on-profit-revenue-demand-infrastructure.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-01T19:19:00.000Z",
-  "title": "Lite-On reports record third-quarter profit as AI revenue exceeds 30%",
-  "snippet": "Lite-On Technology reported record net profit for the third quarter of 2026 as demand for AI infrastructure boosted its cloud and power businesses. The Taiwanese electronics supplier posted consolidated revenue of…"
+  "id": "Retail Dive::https://www.retaildive.com/spons/the-power-of-the-mall-why-the-best-shopping-centers-are-thriving/873217/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-02T10:00:00.000Z",
+  "title": "The power of the mall: Why the best shopping centers are thriving",
+  "snippet": "The mall is thriving. Here's what's driving its success and why it matters to retailers."
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261030VL228/nvidia-robotics-data-lg-hyundai.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-01T18:15:00.000Z",
-  "title": "Nvidia's Korea robotics push gains ground as LG starts data factory operations",
-  "snippet": "Nvidia's robotics partnerships in South Korea are moving beyond initial agreements, with LG Electronics beginning partial operations at its robot-training Data Factory and LG Innotek expanding cooperation on sensing…"
+  "id": "Retail Dive::https://www.retaildive.com/spons/your-catalog-may-already-be-visible-to-ai-agents-making-it-trustworthy-is/872994/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-02T10:00:00.000Z",
+  "title": "Your catalog may already be visible to AI agents. Making it trustworthy is the next step.",
+  "snippet": "Three barriers hinder agentic optimization. Discover how AI agents evaluate products and sway shoppers."
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261029VL222/samsung-business-2027-capacity-revenue.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-01T16:09:00.000Z",
-  "title": "Analysis: Samsung's own memory unit pushes its foundry toward a 2027 capacity crunch",
-  "snippet": "Samsung Electronics' contract chipmaking business spent years struggling to fill its factories. On its third-quarter earnings call, the company said that by 2027, demand will exceed capacity across all its nodes below…"
+  "id": "Retail Dive::https://www.retaildive.com/spons/how-can-associates-power-personalization-in-retail/873087/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-02T10:00:00.000Z",
+  "title": "How can associates power personalization in retail?",
+  "snippet": "Empower retail associates with mobile technology to deliver personalized, seamless customer experiences."
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261029VL223/chips-component-equipment-cost-localization-taiwan.html",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261102PD229/tokyo-electron-demand-forecast-profit-equipment.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-01T15:09:00.000Z",
-  "title": "The 20% problem: why Taiwan's imported equipment parts still carry 70% of the cost",
-  "snippet": "Taiwan can manufacture some of the world's most advanced chips, package them into increasingly complex AI systems, and connect much of the surrounding electronics supply chain within a remarkably small geographic…"
+  "publishedAt": "2026-11-02T07:39:10.000Z",
+  "title": "TEL sees 90% profit surge as AI chip demand stays strong",
+  "snippet": "Tokyo Electron (TEL) forecasts nearly 90% annual operating-profit growth as chipmakers accelerate capital spending to meet demand for AI hardware, despite mounting concerns over an AI bubble. The company also announced…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD208/twm-taiwan-demand-telecom-growth.html",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261102VL213/samsung-sdc-tcl-csot-acquisition-display.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-01T15:08:00.000Z",
-  "title": "TWM's BNPL users rise 49.9% as Taiwan targets gig-worker demand",
-  "snippet": "Taiwan Mobile (TWM) said its buy now, pay later (BNPL) service is expanding beyond e-commerce checkout to travel, pet care, and other consumer scenarios, driven by the growth of atypical employment and rising demand for…"
+  "publishedAt": "2026-11-02T05:47:20.000Z",
+  "title": "Samsung to buy TCL CSOT stake from its own display unit for US$960 million",
+  "snippet": "Samsung Electronics plans to acquire Samsung Display's entire 10.16% stake in China's TCL CSOT for KRW1.2718 trillion (approx. US$960 million), moving the investment from its OLED-focused subsidiary to the parent…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261030VL231/tsmc-finfet-applied-materials-california.html",
+  "id": "Modern Retail::https://www.modernretail.co/?p=173573",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-02T05:00:00.000Z",
+  "title": "Modern Retail+ Research: Brands’ holiday marketing tactics shift in 2026",
+  "snippet": "Modern Retail's recent holiday survey found that brands and retailers plan to adjust the marketing tactics they’ll use during the 2026 holiday season in comparison to those they used in 2025. Here are some of the most…"
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=174312",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-02T05:00:00.000Z",
+  "title": "More than half of online supplement shoppers say they’re worried about counterfeit products",
+  "snippet": "An iHerb survey recently found that more than half of online supplement shoppers fear counterfeits, pushing retailers and brands to explore how they can improve trust within the fast-growing supplement space."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261102PD220/mobile-samsung-samsung-electronics-taiwan-sales-smartphone.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-01T13:12:46.000Z",
-  "title": "The pioneer behind TSMC's FinFET leap: a personal look at Chenming Hu",
-  "snippet": "In 2008, I accompanied a graduate student delegation sponsored by Applied Materials to visit the University of California, Berkeley. The trip was arranged with hopes of meeting Dr. Chenming Hu, but he was away from his…"
+  "publishedAt": "2026-11-02T04:10:18.000Z",
+  "title": "Samsung partners with PXPay to bolster Samsung Wallet in Taiwan",
+  "snippet": "Samsung Electronics Taiwan is partnering with local mobile payment platform PXPay as part of its expansion of Samsung Wallet applications. The move, announced on October 30 with services beginning on November 1, follows…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261102VL212/samsung-chairman-japan-ai-chip-packaging-materials.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-02T04:09:11.000Z",
+  "title": "Samsung's Lee bets on Japan for AI chip packaging edge",
+  "snippet": "Samsung Electronics chairman Lee Jae-yong visited the company's Advanced Package Lab (APL) in Yokohama, Japan, on November 1, as the chipmaker looks to Japan's semiconductor materials and equipment industry to…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261102VL206/ai-pc-germany-market-hardware.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-02T04:06:01.000Z",
+  "title": "Exclusive: How Germany's fast-follower economy reshapes the AI PC race as local AI awaits killer app",
+  "snippet": "As AI PC configurations reach new technological heights amid a broader push toward higher-spec machines, the market is moving steadily toward wider adoption of AI-capable hardware."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261102PD221/fit-foxconn-fii-communications-data.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-02T03:20:57.000Z",
+  "title": "Foxconn's FII, FIT join forces to tackle AI data center bottlenecks beyond computing power",
+  "snippet": "Foxconn subsidiaries Foxconn Interconnect Technology (FIT) and Foxconn Industrial Internet (FII) are combining their expertise in computing, connectivity, power delivery and cooling to address increasingly complex AI…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261102VL204/iphone-revenue-business-investment-manufacturing.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-02T02:57:07.000Z",
+  "title": "Tata Sons injects US$115.7M into Tata Electronics as chip and iPhone arm gains weight in group",
+  "snippet": "Tata Sons has put INR11 billion (US$115.71 million) into Tata Electronics through a rights issue, according to regulatory filings, adding capital to a business that has quickly become one of the largest in the Tata…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/gen-z-rewrites-festive-gifting-with-ai-assisted-picks-artisanal-hampers-and-self-gifting/135442754",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-02T02:40:40.000Z",
+  "title": "Gen Z rewrites festive gifting with AI-assisted picks, artisanal hampers and self-gifting",
+  "snippet": "Gen Zers are embracing self-gifting while shopping for family and friends. Personalised gifts reflecting interests and lifestyles are becoming the norm during festivals. There is an increasing focus on supporting small…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/millennials-lead-ai-shopping-adoption-in-india-at-84-pc-ahead-of-gen-z-mckinsey/135442757",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-02T02:37:20.000Z",
+  "title": "Millennials lead AI shopping adoption in India at 84 pc, ahead of Gen Z: McKinsey",
+  "snippet": "In India, Millennials are leading the adoption of artificial intelligence for shopping, with 84 percent using AI tools. Gen Z follows closely at 74 percent, showcasing a growing trend across age groups. The report…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261102VL201/india-electronics-manufacturing-hyderabad-telangana.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-02T02:28:59.000Z",
+  "title": "India's Mivi opens electronics plant in Hyderabad as it moves into smartphones",
+  "snippet": "Indian consumer electronics brand Mivi has inaugurated an INR2 billion (approx. US$21.05 million) research, development, and manufacturing facility at E-City in Tukkuguda, Hyderabad, giving the audio-focused company a…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/ferrero-sees-india-entering-top-10-global-markets-bets-on-premiumisation-ramps-up-product-launches/135442429",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-02T02:22:28.000Z",
+  "title": "Ferrero sees India entering top 10 global markets, bets on premiumisation, ramps up product launches",
+  "snippet": "Ferrero sees India as a key market, expecting its growth in the premium chocolate segment. The company aims for sustainable growth, expanding its brand portfolio, strengthening distribution and building a sustainable…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261102PD213/apple-intelligence-cloud-siri-2027.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-02T02:20:32.000Z",
+  "title": "Apple Intelligence heads toward paid tiers in 2027, yet AI usage limits leave key questions unanswered",
+  "snippet": "Apple is preparing to charge for heavier use of certain Apple Intelligence features from 2027, introducing usage caps for cloud-based AI services that could become part of its existing iCloud+ subscriptions. The plan…"
+ },
+ {
+  "id": "PYMNTS Data::CBMiwAFBVV95cUxQVWI0RmdTQjRWSE91WjBnZlYyX0xyRUJjZWVFdkhlOFZDakw1WHZvaVg0dnNnUnprQkhMWU1ZZUhWZjBQVHgyRHpkSlIxY29Oc0NWdjZ4Z25IZnFjTkQtc004TFdyVnNZY3lZLVRxbjVKQWRSb3U3TnZfSFdEM1dGa0FBeF9MYmhUVkdyVURDOGVQZnFNc05iOFdGNUV0NHZqNmFENTI1SFk0dkV1MVNnaS1LaDJFSEtIR0poeXdDUHg",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-02T02:09:55.000Z",
+  "title": "Amazon Positions Alexa for Shopping to Counter Third-Party Agents",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261102VL207/kioxia-shipments-demand-revenue-business.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-02T02:04:40.000Z",
+  "title": "Kioxia's AI storage boom faces a test as pricing gains moderate, shipments shift",
+  "snippet": "Kioxia's latest results show how AI infrastructure spending is reshaping the NAND flash business, lifting profitability even as consumer demand weakens. Its nearly flat outlook for the next quarter, however, shifts…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261102PD201/taiwan-2025-investment-technology-growth.html?chid=10",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-02T01:43:57.000Z",
+  "title": "Taiwan&rsquo;s R&D investment reaches NT$1.13 trillion in 2025",
+  "snippet": "Master’s degree holders remain the backbone of Taiwan’s technology R&D workforce, while locally trained PhD students generally show weaker research capabilities, according to academic sources. The National Science and…"
  }
 ]
