@@ -1,10 +1,58 @@
 [
  {
-  "id": "Global Marketplaces::CBMiXEFVX3lxTE96QWRwZklUZ1R1MzJmVlk3MFd1bzE1MzY5bUV6b1o2N0ZXUFNzeFk5ZzlzcHRmQlg3b0F0N0xXX2YwajhUdFJYVTc1TVRlNDNSTzNUbjNpVFR4X21j",
-  "source": "Global Marketplaces",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T07:00:00.000Z",
-  "title": "Google to invest half a billion in China's JD.com",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261030PD215/samsung-2026-technology-operating-profit-investment.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-01T22:22:00.000Z",
+  "title": "Column: Samsung's memory boom reshapes its investment strategy",
+  "snippet": "Samsung Electronics has never had more capital at its disposal. The company reported operating profit of KRW89.5 trillion (approx. US$67 billion) in the second quarter of 2026 and KRW107.4 trillion in the third, when…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261030PD244/lite-on-profit-revenue-demand-infrastructure.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-01T19:19:00.000Z",
+  "title": "Lite-On reports record third-quarter profit as AI revenue exceeds 30%",
+  "snippet": "Lite-On Technology reported record net profit for the third quarter of 2026 as demand for AI infrastructure boosted its cloud and power businesses. The Taiwanese electronics supplier posted consolidated revenue of…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261030VL228/nvidia-robotics-data-lg-hyundai.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-01T18:15:00.000Z",
+  "title": "Nvidia's Korea robotics push gains ground as LG starts data factory operations",
+  "snippet": "Nvidia's robotics partnerships in South Korea are moving beyond initial agreements, with LG Electronics beginning partial operations at its robot-training Data Factory and LG Innotek expanding cooperation on sensing…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029VL222/samsung-business-2027-capacity-revenue.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-01T16:09:00.000Z",
+  "title": "Analysis: Samsung's own memory unit pushes its foundry toward a 2027 capacity crunch",
+  "snippet": "Samsung Electronics' contract chipmaking business spent years struggling to fill its factories. On its third-quarter earnings call, the company said that by 2027, demand will exceed capacity across all its nodes below…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261029VL223/chips-component-equipment-cost-localization-taiwan.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-01T15:09:00.000Z",
+  "title": "The 20% problem: why Taiwan's imported equipment parts still carry 70% of the cost",
+  "snippet": "Taiwan can manufacture some of the world's most advanced chips, package them into increasingly complex AI systems, and connect much of the surrounding electronics supply chain within a remarkably small geographic…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261028PD208/twm-taiwan-demand-telecom-growth.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-01T15:08:00.000Z",
+  "title": "TWM's BNPL users rise 49.9% as Taiwan targets gig-worker demand",
+  "snippet": "Taiwan Mobile (TWM) said its buy now, pay later (BNPL) service is expanding beyond e-commerce checkout to travel, pet care, and other consumer scenarios, driven by the growth of atypical employment and rising demand for…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261030VL231/tsmc-finfet-applied-materials-california.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-01T13:12:46.000Z",
+  "title": "The pioneer behind TSMC's FinFET leap: a personal look at Chenming Hu",
+  "snippet": "In 2008, I accompanied a graduate student delegation sponsored by Applied Materials to visit the University of California, Berkeley. The trip was arranged with hopes of meeting Dr. Chenming Hu, but he was away from his…"
  }
 ]
