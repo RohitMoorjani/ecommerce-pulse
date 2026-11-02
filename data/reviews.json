@@ -6312,5 +6312,117 @@
  "DigiTimes::https://www.digitimes.com/news/a20261030VL231/tsmc-finfet-applied-materials-california.html": {
   "keep": false,
   "publishedAt": "2026-11-01T13:12:46.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76427": {
+  "keep": false,
+  "publishedAt": "2026-11-02T10:25:55.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/spons/the-power-of-the-mall-why-the-best-shopping-centers-are-thriving/873217/": {
+  "keep": false,
+  "publishedAt": "2026-11-02T10:00:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/spons/your-catalog-may-already-be-visible-to-ai-agents-making-it-trustworthy-is/872994/": {
+  "keep": false,
+  "publishedAt": "2026-11-02T10:00:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/spons/how-can-associates-power-personalization-in-retail/873087/": {
+  "keep": false,
+  "publishedAt": "2026-11-02T10:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261102PD229/tokyo-electron-demand-forecast-profit-equipment.html": {
+  "keep": false,
+  "publishedAt": "2026-11-02T07:39:10.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261102VL213/samsung-sdc-tcl-csot-acquisition-display.html": {
+  "keep": false,
+  "publishedAt": "2026-11-02T05:47:20.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173573": {
+  "keep": false,
+  "publishedAt": "2026-11-02T05:00:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=174312": {
+  "keep": false,
+  "publishedAt": "2026-11-02T05:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261102PD220/mobile-samsung-samsung-electronics-taiwan-sales-smartphone.html": {
+  "keep": false,
+  "publishedAt": "2026-11-02T04:10:18.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261102VL212/samsung-chairman-japan-ai-chip-packaging-materials.html": {
+  "keep": false,
+  "publishedAt": "2026-11-02T04:09:11.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261102VL206/ai-pc-germany-market-hardware.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Germany shifts toward AI-capable PCs while local AI still awaits a killer app",
+  "short_headline": "Germany moves to AI PCs, awaiting a killer app",
+  "takeaway": "Higher-spec AI PCs are gaining ground in a key market; we should test how we position them online without a clear use case.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-11-02T04:06:01.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261102PD221/fit-foxconn-fii-communications-data.html": {
+  "keep": false,
+  "publishedAt": "2026-11-02T03:20:57.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261102VL204/iphone-revenue-business-investment-manufacturing.html": {
+  "keep": false,
+  "publishedAt": "2026-11-02T02:57:07.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/gen-z-rewrites-festive-gifting-with-ai-assisted-picks-artisanal-hampers-and-self-gifting/135442754": {
+  "keep": false,
+  "publishedAt": "2026-11-02T02:40:40.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/millennials-lead-ai-shopping-adoption-in-india-at-84-pc-ahead-of-gen-z-mckinsey/135442757": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Millennials lead AI shopping in India at 84%, Gen Z at 74%, says McKinsey",
+  "short_headline": "84% of Indian millennials use AI to shop: McKinsey",
+  "takeaway": "AI-assisted shopping is mainstream across age groups in India; our store there should be discoverable and comparable via AI tools.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-02T02:37:20.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261102VL201/india-electronics-manufacturing-hyderabad-telangana.html": {
+  "keep": false,
+  "publishedAt": "2026-11-02T02:28:59.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/ferrero-sees-india-entering-top-10-global-markets-bets-on-premiumisation-ramps-up-product-launches/135442429": {
+  "keep": false,
+  "publishedAt": "2026-11-02T02:22:28.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261102PD213/apple-intelligence-cloud-siri-2027.html": {
+  "keep": false,
+  "publishedAt": "2026-11-02T02:20:32.000Z"
+ },
+ "PYMNTS Data::CBMiwAFBVV95cUxQVWI0RmdTQjRWSE91WjBnZlYyX0xyRUJjZWVFdkhlOFZDakw1WHZvaVg0dnNnUnprQkhMWU1ZZUhWZjBQVHgyRHpkSlIxY29Oc0NWdjZ4Z25IZnFjTkQtc004TFdyVnNZY3lZLVRxbjVKQWRSb3U3TnZfSFdEM1dGa0FBeF9MYmhUVkdyVURDOGVQZnFNc05iOFdGNUV0NHZqNmFENTI1SFk0dkV1MVNnaS1LaDJFSEtIR0poeXdDUHg": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Amazon positions Alexa for shopping to counter third-party AI agents",
+  "short_headline": "Amazon pushes Alexa shopping against outside agents",
+  "takeaway": "Amazon is defending its shopper relationship against outside agents; we should watch how this affects discovery of our products on Amazon.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-02T02:09:55.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261102VL207/kioxia-shipments-demand-revenue-business.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Kioxia: AI storage boom lifts profit, but pricing gains moderate and consumer demand weakens",
+  "short_headline": "Kioxia: NAND pricing gains moderate, consumer weak",
+  "takeaway": "AI demand favors data center NAND over consumer; we should watch storage cost pressure on our PC and laptop pricing.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-02T02:04:40.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261102PD201/taiwan-2025-investment-technology-growth.html?chid=10": {
+  "keep": false,
+  "publishedAt": "2026-11-02T01:43:57.000Z"
  }
 }
