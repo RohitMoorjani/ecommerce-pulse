@@ -984,37 +984,6 @@
   "keep": false,
   "publishedAt": "2026-09-30T08:05:00.000Z"
  },
- "NIQ::CBMixgFBVV95cUxPdDJEdTI4TWZNejVLcnUxbFR3R3h2eW5ZYTAwTmtnSnQ2em9HVEdfZ2tiWDdnYl85akJiZmNnNDQxUXkya3lHUmdxLWtBa3lLa011cGtydVdtdlNMa05wLWRpN0lEcWppM05PS3dxTGp0WHo2ZjZ5OFNua0Y4MldhR0hJTDl3eWdQSGR4T2VRYnh2YXI0RExDQ2p4R2J1aG5aYmJzMEVwaER3WXFZZzhKcjMxRl94TFhpNEVIXzdvbnByWGVZQnc": {
-  "keep": false,
-  "publishedAt": "2026-09-29T13:37:44.000Z"
- },
- "PYMNTS Data::CBMiqAFBVV95cUxPYTY2REhUcDgxd1czVjV5M1JaUzNxVk80NVFzbUpfYm5ZYy1XcHJFMy1rdzhNUUlmdWFPR2c2VFRjOFhBMm5FOG1RZF9MYUh0eGZXU3M3UUJ3YlNiWURTTGxQQUdfTDhDZWtZZmFfTVZCb2NuWjN1TjRZTlhSLTd2TDEydGZUM2xpdng0c3NYR3dXNWJ3SnFGcDNQel9XMTcxWkxYUzFQUU4": {
-  "keep": false,
-  "publishedAt": "2026-09-29T08:04:19.000Z"
- },
- "Capital One Shopping Research::CBMiggFBVV95cUxNX2RqWnpNajU1d2pjUW9iM0FFQWduVXZuNW1XWWVON2htS3VRMThfa3lmY3lwb1NtVk1xa1I0dHl0dmRFMWhCOXNwVW5RRVpnT1hwb28yZzV3Y0Ztb2E2dzdDaFJoU0ZCVFpqb0d2Zzk5YU01R3RsSjlnSTc0VURVNUZR": {
-  "keep": false,
-  "publishedAt": "2026-09-29T07:00:00.000Z"
- },
- "Capital One Shopping Research::CBMihgFBVV95cUxNVllEOWQ3dlJlYjBnVTNnV0dVYm9fTlhwcnA4czR4RG1xMkNwWXJHUF9RVmhGUXZhSGFKRldSSGh3LXB4TTExNm90d0Qzb29pTWQ3akFfSFJPSFFCVlg1cnlVOV9DNTk4cVNreXVOWG1Sa3BJLXhvdl9rNkQtWHNURU1Vcmxvdw": {
-  "keep": false,
-  "publishedAt": "2026-09-29T07:00:00.000Z"
- },
- "Capital One Shopping Research::CBMigwFBVV95cUxNX2tFZU1BUlAwXzlCck1pcTdKYWRPQUppSHRoVnZHcWlzU2QtTkRGLUktUmNSZi0xSXh3ZVFHdUNXVVdlb2ppdDg4N0xpQ01pZmZrZjN5Z2NpVW1QR0xHMWUyLUg1bjFfNXcxZzVENUM1b2xWZGNPNmxjc1pvbmJncUZ6QQ": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "What share of retail sales is e-commerce in 2026: Capital One Shopping data",
-  "short_headline": "E-commerce's share of retail sales in 2026",
-  "takeaway": "A benchmark for how fast online is taking share from stores.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-09-29T07:00:00.000Z"
- },
- "NRF::CBMif0FVX3lxTE5hZ3Rla1NBRW01TjBzZVRlQ0VXb3U3SnVuQVRfaEtjYWlwMkJELXAtbkFoR2J4RGxnRjRWM09WTHVOektRQXlFc1lqU2Z2cXFVanU0Y2d4d01zT2NfQjlBNzZJN3NOZTR5STN6M1hNUVd1RExxb0stSGphTDU3Yk0": {
-  "keep": false,
-  "publishedAt": "2026-09-29T07:00:00.000Z"
- },
  "PYMNTS Data::CBMi4AFBVV95cUxNaHhCQVR6RlRwWF9KVTVxc2pEbnI2b2QwNk1fYWxGeWhQTHF4V08xY2lZWE5QQ0F2bGFmLWhhMVZWZkJhZko3M0h1ZldHUFc4YWZHb0UxbVRQa2w1OVJmY1FWT1l4c3BjSllnQXN5X3R3OGF2T2FMYWFWY0diTEtIRHdMQlpDUm1LMWNYdi1FY19CR1BEZEExcWduV3NmS00yQUVvLVFWWW1oZmZ3MmNOZGF6NHJmTTd3a2dXbnVfaTdTVl9aWXZFRUxOT2I4MzVrdkFaTGxzNHFUS1FDaFZnQw": {
   "keep": false,
   "publishedAt": "2026-10-07T16:56:06.000Z"
@@ -1481,10 +1450,6 @@
  "PYMNTS Data::CBMiyAFBVV95cUxOUnFRMURvR2Z3MldTRHd4YlJSZjZfMFZ6M3dTNVBndzc4MzVYQUFtbjZSaF9Sc1ZvMFotWnQ1UkJJWlpBTVlGWHIxVFNsOTVkVGFXV01lX2pIOWQ4OG54SkVmdk5EekZZM1dOUUNUbzRuT0Jia0gxTUZ4ZjJodGJpOTcxWUFoQTRNWGo5VDFKLVJCZV8tcHBHeWtTQTBRNk91Q3VDVGlhYzBPUkZyYU91YVJ3ekdrbll2TURya0hlQlNuUEcxRGM2Xw": {
   "keep": false,
   "publishedAt": "2026-10-07T06:30:04.000Z"
- },
- "PYMNTS Data::CBMimAFBVV95cUxNdE1kVmR0c1NZOWRBeHhPMnF5OWZ1YVBHdG9sTjN1N1VlekZ6U3drQ2Y1U3JFVzl4RVIxYXBuYkE3ZXMwQjBnaTNiNm5iM2ZGUk5tNS1meTB0ajlSdFhVZkJDV2ZoU24zX0dFTnBYOWluT0hMLUgwejh2bE1iU3E5ZnpfSmkzYnVPbFBVenJiQXFxbnNXUTJuaQ": {
-  "keep": false,
-  "publishedAt": "2026-09-29T07:00:00.000Z"
  },
  "Reuters::CBMiwwFBVV95cUxPVDRzbE1PT1FMZGh0NlpiRzJua3BiVUNoeFhoTG9GRmJ4aENiZ3BJY0lBVnVrdkRKOFVBTUF4NXRhdjJPc2VlZEpwaWlhSEd3NDJGbW1aa3d3ajM5SnNiNGRYdGhxcTNyaVMzdWZrSkdrRmxXUzZSc3BvMzE0ZkFsZmpRZGFpeHZTWU9XN3VOMjZPUkNDdHRMVVFSWmRGenc0VWRsLURGcXZEVW5LNW9rcHk2WVFmOWE1LXJMUWdLcEJybjA": {
   "keep": false,
@@ -4677,10 +4642,6 @@
   "keep": false,
   "publishedAt": "2026-10-26T13:00:58.000Z"
  },
- "NIQ::CBMioAFBVV95cUxNT1BiX1hwaWFxUFQ5WEJsV3c1cUZpNDVqa25qSVBBaWhWZkFxYklxUFdaa21telRvX1hrNzdnTXhtaXBmZGJWUjlpM2I3UUMxandfeGxQQV9aY2d2N0RyWlYtMkNmRXBfTDdYbFRlZGtXY3N4SHRlWTNUOW1JNlNobzRIVWQ5a240VjdOcW9IdmxxaVNtS18tVXZFX19LTlhW": {
-  "keep": false,
-  "publishedAt": "2026-09-29T07:28:41.000Z"
- },
  "DigiTimes::https://www.digitimes.com/news/a20261023PD238/samsung-humanoid-robot-development-ces.html": {
   "keep": false,
   "publishedAt": "2026-10-26T23:51:05.000Z"
@@ -4939,10 +4900,6 @@
  "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/tata-motors-amazon-partner-to-deploy-3000-electric-trucks-for-ecommerce-logistics/135229435": {
   "keep": false,
   "publishedAt": "2026-10-27T09:10:22.000Z"
- },
- "NIQ::CBMioAFBVV95cUxNdkdnSDYtU2t5R1RxSXVwOXhOcEFSRXEwa2FLcUUzNERnYWpfcUtpSWNQT3k1d0IxbGVhaVNYemNjWTJEOUNHS3Q0emhDclFaaTdvVnlTRDVVQUpsUVBsbS14MzhkRm5KZTBYckNZLTlTWE1qMVB4a0xHYnhiWFplUUNNdjN3dUdoUHV0djNvWmFPX3lvOUc5TzVVejF1dmlm": {
-  "keep": false,
-  "publishedAt": "2026-09-29T07:00:00.000Z"
  },
  "Retail TouchPoints::CBMi3wFBVV95cUxOemVvZGUwRFJrTFZ6bXlXS3lUcjA2TnBmUlNNcDF2NnlxdVpoWnJBMlYtdjhod2syRnFwZkJPNEFIU3dwTEtRTk1FcjczWWloSHZtTmFXazlWVjZaWjlNUC1HcFR3ZjRzOV8yVmlrVlBXYmdkZE9pU1RnSG9QaU1EOFJQSHBJY0VpbzlJZ21hOURsMm9IRWdKalpiMldzNWJYSTB4M2tSRXAwSmJyanhsUl9wNFFKSGhtVUdTU0FRMTZpamJ3RE9XTXlIOWxjNEV6ejN4YmM3RHNrY21hYlo0": {
   "keep": false,

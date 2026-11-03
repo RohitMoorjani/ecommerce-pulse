@@ -1,178 +1,234 @@
 [
  {
-  "id": "Inc42::https://inc42.com/?p=579003",
+  "id": "Retail Dive::https://www.retaildive.com/news/at-home-former-cfo-new-chief-executive/873593/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-03T16:36:00.000Z",
+  "title": "At Home taps former CFO as new chief executive",
+  "snippet": "Judd Nystrom returns to the company's C-suite several years after supporting its move into the public trading market."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/lee-authentic-brands-group-activewear-workwear-expansion/873590/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-03T16:28:00.000Z",
+  "title": "With new ownership, Lee eyes activewear and workwear",
+  "snippet": "The denim label is officially part of the Authentic Brands Group stable and will expand into adjacent “lifestyle offerings.”"
+ },
+ {
+  "id": "Retail TouchPoints::CBMitAFBVV95cUxNbV9uRDBoN2JPOXBLMGhYa0hoUHN0QnA3a2dydFJqbjVreC11Uk9CRmJ5N0lVX0V6RzZZRmY5NkRJWXMzN0FORXpYaDFNejFDdnZuNWxWQ2I4TWpya0JtZVUyQkV0T1dmZjRDUmFUdW12bGM1MTE4Q2VSWGxxVnhXOFdiRGtyMGFOZGFRbU44N1FaNno5cDAtNTh6WUszX25XR1I5T3VnNldvdUoxU3pnblBxMmQ",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-03T16:01:57.000Z",
+  "title": "Half of Shoppers Boycotted a Company Over Politics in the Past Year",
+  "snippet": ""
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/ai-recommendations-returns/873075/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-03T15:59:00.000Z",
+  "title": "AI recommendations are leading to returns",
+  "snippet": "The problem may not have to do with the technology itself, but rather the product description data, according to a new report."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/bed-bath-beyonds-turnaround-strategy-needs-reset-neighborhood-intelligence/873479/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-03T15:35:00.000Z",
+  "title": "Bed Bath & Beyond’s strategy needs a reset",
+  "snippet": "The company, now known as Neighborhood Intelligence, relied on acquisitions to expand its business beyond retail. With two deals called off, where does that leave its turnaround?"
+ },
+ {
+  "id": "Inc42::https://inc42.com/?p=579100",
   "source": "Inc42",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-03T05:50:52.000Z",
-  "title": "LenDenClub Parent Vartis Platforms Launches UdhaarSaathi For Small Business Loans",
-  "snippet": "Peer-to-peer (P2P) lending startup LenDenClub’s parent Vartis Platforms has launched UdhaarSaathi, a digital loan marketplace for small businesses, expanding its…"
+  "publishedAt": "2026-11-03T15:27:22.000Z",
+  "title": "ArisInfra Q2 Profit Rises 78% YoY To ₹22.8 Cr On The Back Of Strong Revenue Uptick",
+  "snippet": "Construction materials marketplace ArisInfra’s consolidated net profit for the September quarter (Q2 FY27) surged 78.1% to ₹22.8 Cr from ₹12.8…"
  },
  {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76439",
-  "source": "InternetRetailing",
+  "id": "Retail Dive::https://www.retaildive.com/news/why-jcpenney-is-taking-on-deal-fatigue-for-its-holiday-campaign/873484/",
+  "source": "Retail Dive",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T05:20:00.000Z",
-  "title": "Notino expands retail media offering with Criteo-powered ad platform",
-  "snippet": "Online beauty retailer Notino has expanded its retail media capabilities through a partnership with global commerce intelligence platform Criteo. The post Notino expands retail media offering with Criteo-powered ad…"
+  "publishedAt": "2026-11-03T15:06:00.000Z",
+  "title": "Why J.C. Penney is taking on deal fatigue for its holiday campaign",
+  "snippet": "Marisa Thalberg, chief customer and marketing officer at parent Catalyst Brands, explains the retailer’s latest push with agency Mischief."
  },
  {
-  "id": "Modern Retail::https://www.modernretail.co/?p=174344",
+  "id": "Modern Retail::https://www.modernretail.co/?p=174339",
   "source": "Modern Retail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T05:00:00.000Z",
-  "title": "What DoorDash’s Instacart acquisition says about the modern delivery platform pitch",
-  "snippet": "DoorDash’s announced Instacart deal shows that delivery platforms are shifting further into retail tech, ads and data-driven shopping."
+  "publishedAt": "2026-11-03T15:00:00.000Z",
+  "title": "Brands Briefing: Bag charms are the hot new trend in branded CPG merch",
+  "snippet": "Companies from Kraft Natural Cheese to Cava are rolling out food-themed bag charms to stay top of mind with young consumers."
  },
  {
-  "id": "Inc42::https://inc42.com/?p=578997",
+  "id": "TWICE::https://www.twice.com/?p=166926",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-03T14:01:52.000Z",
+  "title": "Klipsch Celebrates 80 Years Of Audio Innovation With KlipschFest 2026",
+  "snippet": "KlipschFest 2026 takes place on November 6–7"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=166909",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-03T14:01:29.000Z",
+  "title": "Magnetar UDP900MKII And UDP800MKII Players Earn THX Certification",
+  "snippet": "Certification follows testing of both universal media players by THX"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=166903",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-03T14:00:59.000Z",
+  "title": "Virtual Supply Completes Petra Industries Acquisition",
+  "snippet": "Deal adds an Oklahoma distribution center, more than 127 employees and new product lines"
+ },
+ {
+  "id": "Retail TouchPoints::CBMi2gFBVV95cUxPSzZOT1plWWhQV3g0WHo4eVI5MlJROFJpVC1ocmgtM2lUaDlfMGdQaDdtaFJCNXl2a1BNak5JNFJ6b2NZV3FxcmdpWXYteUhndmVaMmNFaUk5OUI1U0N3NjJWLUdnTDNRV2lDSGhkQjFOdTBWbDJTYzFkaDkwMTNtMGlYeVRaSFlZZl9hOGV4Y1p1cGhFVlpJMDVubF8zQXZSSEZreWt0NDJQTUQ5bFVlb3ZUaU84MnpXbWN6ODNLQUxoV0RudUxZOXV3cGhwUmlLWHRBOWIzN1JGdw",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-03T12:01:26.000Z",
+  "title": "Tinuiti's Andy Taylor on How Should Retailers Plan Holiday Ad Spend: The RetailTouchPoints.com Q&A",
+  "snippet": ""
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/holiday-shoppers-only-want-a-dash-of-ai-for-the-gift-hunt/873317/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-03T12:00:00.000Z",
+  "title": "Holiday shoppers only want a dash of AI for the gift hunt",
+  "snippet": "Price comparisons and narrowing down gift ideas are some of the ways consumers are using AI this season. But maintaining autonomy in the buying process remains important to shoppers."
+ },
+ {
+  "id": "Global Marketplaces::CBMinAFBVV95cUxNWGgxLUp6cElmMWJIUmRRUndreE00cUhJTWc1M1VULVZraElsc3ZWckhPWEs5ZDFGUnJJZkNDNHMyY19zZlhZMWVydjRRSV94ZTdBQ0VCSkVpRE83NWRBa1V1dkwzU2dtVEdpaFUwRWN5bFpRQ2VnYUYwQWVVaUp0dXJ3OHVmcDA2WEtYdVZyT2FUQzJzSEppNlZjNVE",
+  "source": "Global Marketplaces",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-03T11:23:13.000Z",
+  "title": "JD.com wins EU approval for acquisition of Germany's Ceconomy",
+  "snippet": ""
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=174451",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-03T11:00:00.000Z",
+  "title": "Baked by Melissa launches at-home baking kits at Target in time for the holidays",
+  "snippet": "Baked by Melissa, known for its bite-sized cupcakes, is launching at-home baking kits for the first time in Target. Here's why the brand felt it was ready for a significant new category launch."
+ },
+ {
+  "id": "Inc42::https://inc42.com/?p=579034",
   "source": "Inc42",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-03T04:39:16.000Z",
-  "title": "Exclusive: Nuuk To Raise ₹100 Cr From Wipro Consumer Care Ventures, RPSG At ₹500 Cr Valuation",
-  "snippet": "D2C home appliances brand Nuuk is raising around ₹100 Cr (about $10.5 Mn) in a funding round led by Wipro…"
+  "publishedAt": "2026-11-03T10:27:49.000Z",
+  "title": "GIVA Raises ₹975 Cr Led By Multiples PE, Eyes 160 New Stores In FY27",
+  "snippet": "Bengaluru-based D2C jewellery brand GIVA has raised ₹975 Cr (about $103 Mn) in a funding round led by Multiples Alternate…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261103VL209/apple-cost-iphone-growth-inventory.html",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261103PD227/samsung-galaxy-iphone-duo-sales-launch.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-03T03:49:12.000Z",
-  "title": "Analysis: Beyond iPhone growth, Apple's spending reveals broader cost challenge",
-  "snippet": "Apple is committing more money to research and securing supplies while reducing cash spending on fixed assets, a combination that shows how its AI ambitions and component shortages are reshaping investment. Its November…"
+  "publishedAt": "2026-11-03T09:10:08.000Z",
+  "title": "Apple's iPhone Duo launch lifts Samsung Galaxy Z Fold 8 sales in South Korea",
+  "snippet": "Samsung Electronics' Galaxy Z Fold 8 weekly sales in South Korea increased by more than 20% in the week after Apple launched its first foldable iPhone Duo, according to Seoul Economic Daily and Financial News. The…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261103VL207/profit-packaging-demand-price-investment.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-03T03:47:03.000Z",
-  "title": "China's chip packagers ride AI demand, price hikes, but investment gains, capex cloud the profit picture",
-  "snippet": "China's outsourced semiconductor assembly and test (OSAT) companies entered the fourth quarter with rising sales, high utilization, and an industry-wide price upturn. Their third-quarter results also show how much…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261103VL210/samsung-2030-capacity-business-production.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-03T03:10:39.000Z",
-  "title": "Samsung to exit 8-inch foundry business by 2030, report says",
-  "snippet": "Samsung Electronics plans to shut down its remaining 8-inch foundry lines by the end of 2030, forcing South Korean chip designers to seek alternative manufacturing capacity as competing foundries operate near full…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261103VL205/pcb-2027-demand-electronics-capacity.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-03T03:00:50.000Z",
-  "title": "AI demand, resin shock stretch India PCB shortage into 2027",
-  "snippet": "The printed circuit board (PCB) shortage that Indian electronics makers expect to worsen in the coming months is part of a global squeeze. AI servers are absorbing high-end laminate, glass fiber cloth, and Ajinomoto…"
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/dip-in-gold-price-puts-the-sparkle-back-into-festive-and-wedding-buying-jewellers-see-10-12-rise-in-dhanteras-sales/135478955",
-  "source": "ETRetail",
+  "id": "InternetRetailing::https://internetretailing.net/?p=76453",
+  "source": "InternetRetailing",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T02:16:52.000Z",
-  "title": "Dip in gold price puts the sparkle back into festive and wedding buying, jewellers see 10-12% rise in Dhanteras sales",
-  "snippet": "Gold prices have dropped significantly, encouraging consumers to return to jewellery stores for upcoming purchases. The correction in gold prices has led to increased footfalls and advance bookings for weddings…"
+  "publishedAt": "2026-11-03T09:10:00.000Z",
+  "title": "Premium Gamers’ discount-first mentality reflects wider retail shift towards value",
+  "snippet": "73% of ‘Premium Gamers’ view new games releases as overpriced at launch and actively wait until prices drop, according to new research. The post Premium Gamers’ discount-first mentality reflects wider retail shift…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261103PD214/3d-dram-cxmt-micron-samsung-sk-hynix.html",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261103VL220/samsung-tv-2027-lcd-qled.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-03T02:15:49.000Z",
-  "title": "Micron dismisses 4F-squared DRAM as CXMT presses ahead &mdash; why Samsung, SK Hynix remain divided",
-  "snippet": "Micron Technology and China's CXMT have taken sharply different approaches to next-generation DRAM scaling, exposing a divide over the commercial viability of 4F-squared memory-cell architecture. While CXMT is advancing…"
+  "publishedAt": "2026-11-03T09:09:05.000Z",
+  "title": "Samsung reportedly plans Galaxy-style TV lineup for 2027",
+  "snippet": "Samsung Electronics is considering a major overhaul of its TV lineup for 2027, replacing technology-based product names with three tiers modeled on its Galaxy smartphones as it looks to increase shipments and expand its…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261103PD203/nvidia-development-robotics-samsung-cloud.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-03T02:10:08.000Z",
-  "title": "Nvidia strengthens South Korea ties at AI Day Seoul",
-  "snippet": "Nvidia will showcase its expanding partnerships with South Korean companies at AI Day Seoul, where Samsung Electronics and SK Hynix will present semiconductor development cases using Nvidia AI technologies. LG…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261103VL206/apple-sales-outlook-memory-chips-price.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-03T02:07:51.000Z",
-  "title": "Apple's record holiday sales outlook faces costly test from memory inflation, AI spending",
-  "snippet": "Apple expects record holiday-quarter revenue, but surging memory prices, supply constraints, and rising Siri AI costs threaten profitability, putting new CEO John Ternus to an early test on the company's pricing power…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261103PD201/cash-flow-amazon-meta-microsoft-google.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-03T02:01:01.000Z",
-  "title": "AI spending surge puts tech giants&rsquo; cash flow under scrutiny",
-  "snippet": "Amazon, Microsoft, Google, and Meta are expected to spend more than US$720 billion on capital expenditures in 2026 to build out AI infrastructure, nearly three times the level of two years ago. Investors are watching…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261102PD237/samsung-demand-profit-market-competitiveness.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-03T01:36:58.000Z",
-  "title": "Samsung's Young Hyun Jun urges humility, customer trust amid semiconductor profit boom",
-  "snippet": "Despite record profits driven by surging demand for artificial intelligence (AI) and a booming semiconductor industry, Samsung Electronics vice chairman and head of its Device Solutions (DS) division Young Hyun Jun said…"
- },
- {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363879",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-03T01:36:51.000Z",
-  "title": "Walmart commits $6 billion to Symbotic for its AI and robotics solutions",
-  "snippet": "Walmart Inc.’s strategic investment, which accompanied Symbotic Inc.’s acquisition of Walmart’s robotics business, will grow by $6 billion, the companies announced on Oct. 29. The new expansion of their commercial…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261103VL202/revenue-apple-2026-growth-eps.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-03T01:08:26.000Z",
-  "title": "Apple closes record fiscal 2026 with US$114.5 billion in 4Q revenue &mdash; but growth remains uneven",
-  "snippet": "Apple reported record September-quarter revenue of US$114.5 billion for its fiscal 4Q26 ended September 26, 2026, up 12% YoY, supported by strong iPhone and Mac sales and an all-time high in Services revenue. The…"
- },
- {
-  "id": "PYMNTS Data::CBMitwFBVV95cUxOR085TUQtTFhyempjMDdaQUlpdzdrOHJ2RGVMUXlMTi1hME1IZVZiRXZLckFkM0hIcjFtT0FrN0p6d28zMzJ6RWEzbHBzY2dnVHNlTGlWa2dEN1Z0TmNaMHFtdW9lR0w2eHhHOE5tMkxETl9oRTA2bVdKNHgtSWVBVTRZRm1qcDY3SG5MMWhFd1J2OGVtYTdHdk1ySFpRMG1LZDFlWUZFVHpTZXF1TU5WUTJDb0pFVEU",
+  "id": "PYMNTS Data::CBMiuwFBVV95cUxOaVN1OVVUVkE4RU5CMVlqMm05eXNuQURUMkFjT3BwVGMwdXhoWEVtRDZoTDN4RWhJMUZsRzI5amlrd3UydkZhTnpGUkxGb1NXZ1RhOUpXZnZ4RVVTbGhLblZ2LXctcVhvUHQxUndLUDItZllzQXBSbmFXclFOYnBRSVRxV1hYTnlIclU2emhGNUx0VWVjbVdCb0xUaWwyZHhza0ExYXBxS3RrUC0xWEx3RnN2MHdZbHVVRFJr",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-03T00:19:46.000Z",
-  "title": "Mastercard Forms OpenAI and Tencent Partnerships to Drive Agentic Commerce",
+  "publishedAt": "2026-11-03T09:04:49.000Z",
+  "title": "Economic Optimism Gains 3.8 Percentage Points as Shoppers Stay Selective",
   "snippet": ""
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261103VL200/apple-growth-iphone-revenue-demand.html",
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/consumer-electronics/apple-q4-results-beat-estimates-as-iphone-18-pro-demand-price-hikes-offset-rising-chip-costs/135489559",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-03T08:40:52.000Z",
+  "title": "Apple Q4 results beat estimates as iPhone 18 Pro demand, price hikes offset rising chip costs",
+  "snippet": "Apple reported better-than-expected Q4 revenue of $114.48 billion and earnings of $2.10 per share, driven by strong iPhone 18 Pro demand and Mac sales. Higher product prices helped offset rising memory-chip costs. The…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261103PD229/soc-shipments-infrastructure-2026-mobile.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-02T23:33:39.000Z",
-  "title": "Apple's iPhone growth meets a tougher test on costs",
-  "snippet": "Apple enters the holiday selling season with stronger demand for its core products, but its latest results show that expanding sales do not automatically translate into faster operating profit growth. Record…"
+  "publishedAt": "2026-11-03T07:50:09.000Z",
+  "title": "Memory price surge hits smartphones, cutting 2026 mobile SoC shipments nearly 20%",
+  "snippet": "The AI infrastructure boom has driven up memory prices across consumer electronics, dampening sales of smartphones and notebooks while hitting upstream system-on-chip (SoC) developers. With memory prices projected to…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261102VL216/samsung-robot-nidec-robotics-development.html",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261103VL218/electronics-ddr5-dram-demand-hbm.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-02T23:30:24.000Z",
-  "title": "Samsung reportedly in talks with Nidec to develop robot motors",
-  "snippet": "Samsung Electronics is reportedly in talks with Japanese motor maker Nidec to jointly develop robot motors as the South Korean company expands its humanoid robotics business and pushes to automate its factories."
+  "publishedAt": "2026-11-03T07:17:17.000Z",
+  "title": "Japanese distributor turns away new customers as DDR5 prices double",
+  "snippet": "A Japanese electronics distributor has stopped accepting new customers because it cannot fully supply its existing ones, Nikkei reported, as demand from AI data centers tightens supply of the conventional DRAM used in…"
  },
  {
-  "id": "Reuters::CBMizAFBVV95cUxQOHlnVFNicmN3SnU1S0xfekpfQlFXTEFOSVBJOEQtNWRWUGd4MWMtOVp4UUZqbEVKNzI1cjZuSlZJMmhBY2s1OWhiRFl0MWZOZktST1lycE02LV8xQ1NyeEc1MTRuQkF2emtyRUNHeFotMGh1RzNLZVlUMkNXdFI5RXUxa29COHAwV0lwOURsUm5UckdwbDZ0US00c1owaUllbFZiOVZhRGVFbW9lTmM4VU5ydnZudkR2Z3dWNXdabXBoQm9mNU9IektkWi0",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-02T23:16:00.000Z",
-  "title": "Singapore's Grab lifts 2026 forecasts on strong ride-hailing, delivery demand",
+  "id": "Inc42::https://inc42.com/?p=579012",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-03T06:54:59.000Z",
+  "title": "Apple Logs Record India Revenue, Mac And Services Hit New Highs",
+  "snippet": "Apple reported an all-time revenue record in India in Q4 FY26, with its iPhone business setting a September quarter revenue…"
+ },
+ {
+  "id": "PYMNTS Data::CBMimAFBVV95cUxPMkxQLWdZY0RMMDREMHNENzRkaE9SN2VaWHhVeEphcGRNQW55dTY4TWstU1UtUjlNUmFJU01YU09BcGhQMTN3RkNqRGtuaS1Vd0lUWXFrTVF4VnZSdHRTZGlvd2hzNDJkUFd2MEN1MFR4LVlaVkJFb0dNTVFvb3ZVT2Q4QjB4TDdjaHdHd21may1pdk9iTzBjRA",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-03T01:09:46.000Z",
+  "title": "Upwork Embeds Freelance Marketplace Inside Top AI Tools",
   "snippet": ""
  },
  {
-  "id": "Reuters::CBMixgFBVV95cUxNTGFsc2NMYXRUbERoRkphY2hPVWNDM0ZRRmw3OHZzNnlfN0h1aEowUG9uaHZraTJPNlcyVFVYZGVjYmx2Ui01d09OTm9YejM3UGF1aUJKcHVUSUxxb0ZGNTktQmVuRVF0X0pKYTF2clJ6YnJpVmNmUEZESHc4ZWRqMkt1d0VyMEV2RVZlUkYtUE9EcW03ZXB5RzFmQk01endLRWtzNFpnVGd4el90TFUxLWhxaXRxYUsyT1lmbjIySjQ2NXcxdVE",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-02T21:31:00.000Z",
-  "title": "Apple forecasts margin drop in holiday quarter as rising memory costs bite",
+  "id": "Dell Blog::https://www.dell.com/blog/what-are-the-best-business-laptops-for-running-agentic-ai-on-windows-11-",
+  "source": "Dell Blog",
+  "sourceType": "Competitor Newsroom",
+  "publishedAt": "2026-11-02T15:00:00.000Z",
+  "title": "What are the best business laptops for running agentic AI on Windows 11?",
   "snippet": ""
  },
  {
-  "id": "Reuters::CBMikAFBVV95cUxQc01aRVpGZE5DcEJCR3Rlb2VxSG1SWWFPNHhHejFFV04xU0Z3X21nZ1lGaEtpYW84MzFBMEpmX1JRWHAwLUUwTENBYmpxUVVGMW1BM25oVWVybDVmQjF2djA0X2ZJcTMzbV9LR0NRdXFEM214Y2JJMlRzUTNkLVR6VWNzRVljb1F0ZG55c2UyQjE",
-  "source": "Reuters",
+  "id": "Global Marketplaces::CBMiygFBVV95cUxPaFBDT2ZyV3JPVmlaUFhIYVgyN0NGUmpUV3pkWTFscXc2Q0Yza1pnQ0l2NlNpWmxXOE1vdUdBR0RYNDJLSVdvZ3FQYk1CdEtLVTZhQjVrOXNybnE3ZS1NT2hyeUlkbEtFYkdZcnRRT2xYYXp4OFJZSC1PSlRkYVgtYzZueGRpS0NPQVdvVEhZaV9DUy1vaFJBWXc4T1RJZGNsalQyVFpqQzRzRGhRM3B5eExGWXdmVlZjWlE2RXJqN3NWQ295VUQwMmJ3",
+  "source": "Global Marketplaces",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-02T15:36:10.000Z",
-  "title": "US construction spending tumbles in September",
+  "publishedAt": "2026-11-02T07:08:00.000Z",
+  "title": "At 'China's Hollywood', visitors become stars as consumers spend more on experiences",
   "snippet": ""
+ },
+ {
+  "id": "Global Marketplaces::CBMizAFBVV95cUxPM1JYY3JjSEZ6Mng5SkxoRFBtVFBLZVVsNGsyMWxIQzNQX0Rid3oxclNLV2dvSURnaWRrUDdYTUZ4WkIwZFVfbGp6bHM1LTZaUC1Fb3BSWF9iVWsxMGctdktndy1GRS1aZTRkb1otcjJFYk84NndKWGx6NXBXQUEyMmJMVUxXRkpkcF83M09yWVZSMjNjblRyeGxvZ3dOYTFMY1A2U2pYYzViSlpEVWlZWVUzczZ0NHBHZXhSSFlyMURGcFJLMFVzbFlwMEY",
+  "source": "Global Marketplaces",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-30T15:40:01.000Z",
+  "title": "Big Tech returns smallest share of cash to shareholders in 15 years, given AI spending",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS::https://www.pymnts.com/?p=4350481",
+  "source": "PYMNTS",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-10-28T20:09:31.000Z",
+  "title": "Amazon Expands Shop Direct Catalog to Keep Shoppers Off Agents",
+  "snippet": "Amazon is expanding its Shop Direct initiative, which lists products from brands that don’t sell on its site, in an effort to keep shoppers coming to its site rather than using outside personal artificial intelligence…"
  }
 ]
