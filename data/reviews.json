@@ -6511,5 +6511,134 @@
  "Retail TouchPoints::CBMi4gFBVV95cUxQSnFFdGdQSUQ1bjN4Z252bVJQMWdQQWF0WUpJZzdjLVl4NTg1Sk44dnU3Q3hGTXFRYVp0ZTVMck14eE8tRFB0ckpUckc5N2s0SDdQNHN5dUtXdGNNVGlUU3YtOFRpSmFSS0tBaTBtaG5yVlhMSXU0V3QtWFIwa3RlLUVoWnhtNTM5Z09qSkRXTjZBWUtsb3lEdHF3TmR6dktzWjVVazVqcnJRaWNTWmtJaEJLZ0lmUnBhMkY0ZDZvc1JiQ0QwaFBtbXROTFhtUFBNb0ROcWd1MWhfSEZ3QXVKV2ZR": {
   "keep": false,
   "publishedAt": "2026-11-02T12:03:27.000Z"
+ },
+ "Inc42::https://inc42.com/?p=579003": {
+  "keep": false,
+  "publishedAt": "2026-11-03T05:50:52.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76439": {
+  "keep": false,
+  "publishedAt": "2026-11-03T05:20:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=174344": {
+  "keep": false,
+  "publishedAt": "2026-11-03T05:00:00.000Z"
+ },
+ "Inc42::https://inc42.com/?p=578997": {
+  "keep": false,
+  "publishedAt": "2026-11-03T04:39:16.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261103VL209/apple-cost-iphone-growth-inventory.html": {
+  "keep": false,
+  "publishedAt": "2026-11-03T03:49:12.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261103VL207/profit-packaging-demand-price-investment.html": {
+  "keep": false,
+  "publishedAt": "2026-11-03T03:47:03.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261103VL210/samsung-2030-capacity-business-production.html": {
+  "keep": false,
+  "publishedAt": "2026-11-03T03:10:39.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261103VL205/pcb-2027-demand-electronics-capacity.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "AI servers absorb laminate supply, stretching India PCB shortage into 2027",
+  "short_headline": "India PCB shortage stretches into 2027",
+  "takeaway": "A prolonged component squeeze could raise device costs and limit supply in India, so we should plan inventory and pricing there.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-03T03:00:50.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/dip-in-gold-price-puts-the-sparkle-back-into-festive-and-wedding-buying-jewellers-see-10-12-rise-in-dhanteras-sales/135478955": {
+  "keep": false,
+  "publishedAt": "2026-11-03T02:16:52.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261103PD214/3d-dram-cxmt-micron-samsung-sk-hynix.html": {
+  "keep": false,
+  "publishedAt": "2026-11-03T02:15:49.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261103PD203/nvidia-development-robotics-samsung-cloud.html": {
+  "keep": false,
+  "publishedAt": "2026-11-03T02:10:08.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261103VL206/apple-sales-outlook-memory-chips-price.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Apple expects record holiday sales but memory prices and AI costs test its pricing power",
+  "short_headline": "Apple holiday outlook tested by memory inflation",
+  "takeaway": "If Apple struggles to hold pricing against memory costs, we should watch for price moves that reset PC market expectations.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-11-03T02:07:51.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261103PD201/cash-flow-amazon-meta-microsoft-google.html": {
+  "keep": false,
+  "publishedAt": "2026-11-03T02:01:01.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261102PD237/samsung-demand-profit-market-competitiveness.html": {
+  "keep": false,
+  "publishedAt": "2026-11-03T01:36:58.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363879": {
+  "keep": false,
+  "publishedAt": "2026-11-03T01:36:51.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261103VL202/revenue-apple-2026-growth-eps.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Apple posts record US$114.5B September quarter, with strong iPhone and Mac sales",
+  "short_headline": "Apple posts record quarter on iPhone and Mac sales",
+  "takeaway": "Strong Mac demand at Apple raises the bar for our notebook share and online offers this holiday season.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-11-03T01:08:26.000Z"
+ },
+ "PYMNTS Data::CBMitwFBVV95cUxOR085TUQtTFhyempjMDdaQUlpdzdrOHJ2RGVMUXlMTi1hME1IZVZiRXZLckFkM0hIcjFtT0FrN0p6d28zMzJ6RWEzbHBzY2dnVHNlTGlWa2dEN1Z0TmNaMHFtdW9lR0w2eHhHOE5tMkxETl9oRTA2bVdKNHgtSWVBVTRZRm1qcDY3SG5MMWhFd1J2OGVtYTdHdk1ySFpRMG1LZDFlWUZFVHpTZXF1TU5WUTJDb0pFVEU": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Mastercard forms OpenAI and Tencent partnerships to drive agentic commerce",
+  "short_headline": "Mastercard partners OpenAI and Tencent on agent payments",
+  "takeaway": "Agent payment rails are forming with major AI platforms; we should check that our store can accept agent-initiated checkout.",
+  "importance": 4,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-11-03T00:19:46.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261103VL200/apple-growth-iphone-revenue-demand.html": {
+  "keep": false,
+  "publishedAt": "2026-11-02T23:33:39.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261102VL216/samsung-robot-nidec-robotics-development.html": {
+  "keep": false,
+  "publishedAt": "2026-11-02T23:30:24.000Z"
+ },
+ "Reuters::CBMizAFBVV95cUxQOHlnVFNicmN3SnU1S0xfekpfQlFXTEFOSVBJOEQtNWRWUGd4MWMtOVp4UUZqbEVKNzI1cjZuSlZJMmhBY2s1OWhiRFl0MWZOZktST1lycE02LV8xQ1NyeEc1MTRuQkF2emtyRUNHeFotMGh1RzNLZVlUMkNXdFI5RXUxa29COHAwV0lwOURsUm5UckdwbDZ0US00c1owaUllbFZiOVZhRGVFbW9lTmM4VU5ydnZudkR2Z3dWNXdabXBoQm9mNU9IektkWi0": {
+  "keep": false,
+  "publishedAt": "2026-11-02T23:16:00.000Z"
+ },
+ "Reuters::CBMixgFBVV95cUxNTGFsc2NMYXRUbERoRkphY2hPVWNDM0ZRRmw3OHZzNnlfN0h1aEowUG9uaHZraTJPNlcyVFVYZGVjYmx2Ui01d09OTm9YejM3UGF1aUJKcHVUSUxxb0ZGNTktQmVuRVF0X0pKYTF2clJ6YnJpVmNmUEZESHc4ZWRqMkt1d0VyMEV2RVZlUkYtUE9EcW03ZXB5RzFmQk01endLRWtzNFpnVGd4el90TFUxLWhxaXRxYUsyT1lmbjIySjQ2NXcxdVE": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Apple forecasts holiday-quarter margin drop as memory costs rise",
+  "short_headline": "Apple warns memory costs will cut holiday margin",
+  "takeaway": "Memory inflation is squeezing even Apple; we should expect pricing and promo pressure on PCs and plan our holiday margins accordingly.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-11-02T21:31:00.000Z"
+ },
+ "Reuters::CBMikAFBVV95cUxQc01aRVpGZE5DcEJCR3Rlb2VxSG1SWWFPNHhHejFFV04xU0Z3X21nZ1lGaEtpYW84MzFBMEpmX1JRWHAwLUUwTENBYmpxUVVGMW1BM25oVWVybDVmQjF2djA0X2ZJcTMzbV9LR0NRdXFEM214Y2JJMlRzUTNkLVR6VWNzRVljb1F0ZG55c2UyQjE": {
+  "keep": false,
+  "publishedAt": "2026-11-02T15:36:10.000Z"
  }
 }

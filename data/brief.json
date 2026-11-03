@@ -1,55 +1,43 @@
 {
- "updatedAt": "2026-11-02T21:51:35.350Z",
- "title": "Shopping is moving to AI agents, and our store must be ready for them",
- "summary": "Amazon: 400M customers used Alexa for Shopping, spending 50% more, and wins 59% of AI-assisted purchases (PYMNTS). NIQ: 55% use AI in discovery. Walmart added agent spend limits. Asus sees PC prices up ~10% in 2H26.",
+ "updatedAt": "2026-11-03T06:52:01.498Z",
+ "title": "AI-led shopping and rising PC costs both demand a store rethink",
+ "summary": "NIQ: 55% of consumers use AI in discovery; Amazon: 400M used Alexa for Shopping, spending 50% more. Asus expects commercial PC prices up ~10% in 2H26; Apple forecasts a holiday margin drop and added touchscreen Macs.",
  "points": [
   {
-   "headline": "AI assistants drive discovery and spend, and Amazon is winning the checkout",
-   "detail": "400M customers used Alexa for Shopping and spend 50% more; Amazon wins 59% of AI-assisted purchases; NIQ finds 55% use AI in discovery. Our catalog must be purchasable by assistants.",
+   "headline": "AI is now where shoppers start, and agents are being built to keep them inside",
+   "detail": "NIQ: 55% of consumers use AI in product discovery; Amazon says 400M used Alexa for Shopping and spend 50% more. Our listings and content must work for AI agents.",
    "segment": "agentic",
    "storyIds": [
+    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
     "Modern Retail::https://www.modernretail.co/?p=174293",
-    "PYMNTS::https://www.pymnts.com/?p=4350312",
-    "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0"
+    "PYMNTS Data::CBMiuwFBVV95cUxQem56Vk9DY0NRMUotVS0wWXlFUFU2dGVRSFdWS1ptSW5DNEtReGVfemtSN2NScVRjRHhtM19mVmRUUndCd0IwMXBoWkoyekhQNHFwRGp6SHVoMDNfTG1mTU8ydzFwLWVnd0hLWEZ6Zjd5dkFra0NQTThPcG5icFRSQWE3bGNHN1p5OTA3X09kSWJDYXhldUl2eVdvUHM3OWppVU5Ra3dBVVVJdUNvM0lUcXc3ZVdMekZBSUw4"
    ]
   },
   {
-   "headline": "Retailers are building agent rules and holding discovery in-house",
-   "detail": "Amazon expanded Shop Direct and positioned Alexa to counter outside AI agents; Walmart and Home Depot set rules for AI shoppers. We should check how our listings appear to agents.",
-   "segment": "agentic",
-   "storyIds": [
-    "PYMNTS Data::CBMiuwFBVV95cUxQem56Vk9DY0NRMUotVS0wWXlFUFU2dGVRSFdWS1ptSW5DNEtReGVfemtSN2NScVRjRHhtM19mVmRUUndCd0IwMXBoWkoyekhQNHFwRGp6SHVoMDNfTG1mTU8ydzFwLWVnd0hLWEZ6Zjd5dkFra0NQTThPcG5icFRSQWE3bGNHN1p5OTA3X09kSWJDYXhldUl2eVdvUHM3OWppVU5Ra3dBVVVJdUNvM0lUcXc3ZVdMekZBSUw4",
-    "PYMNTS Data::CBMiwAFBVV95cUxQVWI0RmdTQjRWSE91WjBnZlYyX0xyRUJjZWVFdkhlOFZDakw1WHZvaVg0dnNnUnprQkhMWU1ZZUhWZjBQVHgyRHpkSlIxY29Oc0NWdjZ4Z25IZnFjTkQtc004TFdyVnNZY3lZLVRxbjVKQWRSb3U3TnZfSFdEM1dGa0FBeF9MYmhUVkdyVURDOGVQZnFNc05iOFdGNUV0NHZqNmFENTI1SFk0dkV1MVNnaS1LaDJFSEtIR0poeXdDUHg",
-    "PYMNTS Data::CBMiogFBVV95cUxNTVlGc0l3bjB6akZ2RElfeDVVTzNpemlnajNyWlZ1VmdMRXMwQnVneW9IV3hRY0tzZTJzWk1CMzdfX3R1ZGNGSUtETk8yaml6aXVWSUxpczBTVDdpLVltVUFqU1ItVFh3UlE0ZWxqM09jYUtkUHlVY2ozVjd0NEpQbThnTkNodHJtZGJSWE5iaGVDYnpYTVF0QU9VbVJfaXN2bkE"
-   ]
-  },
-  {
-   "headline": "Memory shortage lifts PC prices and keeps overall demand weak",
-   "detail": "Asus expects Taiwan commercial PC prices up nearly 10% in 2H26; Samsung sees no buyer relief before 2028; Intel flags weak PC demand. We should plan pricing, inventory and financing.",
+   "headline": "Memory costs are lifting PC prices, and Apple now warns of margin pressure",
+   "detail": "Asus sees Taiwan commercial PC prices up nearly 10% in 2H26; Samsung sees no memory relief before 2028; Apple forecasts a holiday-quarter margin drop. Plan pricing and stock.",
    "segment": "pc",
    "storyIds": [
     "DigiTimes::https://www.digitimes.com/news/a20261028PD204/asus-commercial-pc-2026-market.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261029VL221/samsung-sk-hynix-investment-demand-production.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261030VL206/intel-pc-ai-pc-sales-demand.html",
-    "Reuters::CBMiqAFBVV95cUxNcXEzUmpkSHEwZWtxM2cwVjMwQkJXMVZqVUJrWk8xejY0TzkyZmtvN0E2Z3Q3MDJfNkRLOXRKUW5xR2QzLVM5WjQzSVp2OVBhQldOMVJKZkJ2ZC1qMm04dWFSVjExd1h2bXV2emx1dmkwTVFzT29DamloeVhPZUdwZEhuUmhvem92VG9MQzFIZU1ibDR1MWNaZ0o2ZVBOYzhodHdyQVY4T1U",
-    "IDC::CBMiYkFVX3lxTE03V29UZjdYZnZ5YWR5UW5vdFBkaVVuRUhRQTBBM0xLQjBkVXRQU3hUN3dNZW1hWlk2TVlTOGw2eDVrUDVBQy1FajNSVExXbjJTVEU3YmRGTXhJS0N0cl9aNERn"
+    "DigiTimes::https://www.digitimes.com/news/a20261029VL217/samsung-hbm-chips-profit-2028.html",
+    "Reuters::CBMixgFBVV95cUxNTGFsc2NMYXRUbERoRkphY2hPVWNDM0ZRRmw3OHZzNnlfN0h1aEowUG9uaHZraTJPNlcyVFVYZGVjYmx2Ui01d09OTm9YejM3UGF1aUJKcHVUSUxxb0ZGNTktQmVuRVF0X0pKYTF2clJ6YnJpVmNmUEZESHc4ZWRqMkt1d0VyMEV2RVZlUkYtUE9EcW03ZXB5RzFmQk01endLRWtzNFpnVGd4el90TFUxLWhxaXRxYUsyT1lmbjIySjQ2NXcxdVE"
    ]
   },
   {
-   "headline": "Regulators and rivals reshape holiday pricing and deal windows",
-   "detail": "FTC ordered Target, Walmart and others to detail personalized pricing; Walmart stretched Black Friday/Cyber Monday to 14 days. We should check our deal calendar and pricing transparency.",
-   "segment": "marketplaces",
+   "headline": "Apple adds touchscreen Macs and posts a record quarter, raising the premium laptop bar",
+   "detail": "Apple showed its first touchscreen laptops and reported record US$114.5B September-quarter revenue on strong Mac sales. Review our touch lineup and online positioning.",
+   "segment": "pc",
    "storyIds": [
-    "Retail Dive::https://www.retaildive.com/news/ftc-orders-target-walmart-personalized-pricing-inquiry/873173/",
-    "Retail Dive::https://www.retaildive.com/news/walmart-longer-black-friday-cyber-monday-sales-events/872747/"
+    "Reuters::CBMiuAFBVV95cUxNMGg0QUZLRkZQUmg1ei1BVWZCUEZkcFdueUIyZDJFX3ljN09yRjUzSEE5V0JWVVpRaGRHdHNDaHAtNkRlNXZfWElQM3QxM0lpZTM1UHJYQWhKRmQ2X3JJNzAxRy1lcGIyalhUTEFhRGxyOTUxeU04S2U1X1RSWWUwcldiQndWUTZtYlB0SGZVTFM4eV9HZVV4VGdsRDAzc3h6TWhiZmVDNVF0dkRGMXI1eFhMekQ0TTU2",
+    "DigiTimes::https://www.digitimes.com/news/a20261103VL202/revenue-apple-2026-growth-eps.html"
    ]
   },
   {
-   "headline": "Google takes a half-billion stake in JD.com, a marketplace channel for us",
-   "detail": "Google is to invest half a billion in JD.com. We should watch for changes to JD.com seller programs, search and discovery that affect how our products appear there.",
-   "segment": "marketplaces",
+   "headline": "Agent payment rails are forming as Mastercard teams with OpenAI and Tencent",
+   "detail": "Mastercard formed partnerships with OpenAI and Tencent to drive agentic commerce. We should confirm our checkout and payments can support agent-initiated purchases.",
+   "segment": "agentic",
    "storyIds": [
-    "Global Marketplaces::CBMiXEFVX3lxTE96QWRwZklUZ1R1MzJmVlk3MFd1bzE1MzY5bUV6b1o2N0ZXUFNzeFk5ZzlzcHRmQlg3b0F0N0xXX2YwajhUdFJYVTc1TVRlNDNSTzNUbjNpVFR4X21j"
+    "PYMNTS Data::CBMitwFBVV95cUxOR085TUQtTFhyempjMDdaQUlpdzdrOHJ2RGVMUXlMTi1hME1IZVZiRXZLckFkM0hIcjFtT0FrN0p6d28zMzJ6RWEzbHBzY2dnVHNlTGlWa2dEN1Z0TmNaMHFtdW9lR0w2eHhHOE5tMkxETl9oRTA2bVdKNHgtSWVBVTRZRm1qcDY3SG5MMWhFd1J2OGVtYTdHdk1ySFpRMG1LZDFlWUZFVHpTZXF1TU5WUTJDb0pFVEU"
    ]
   }
  ]
