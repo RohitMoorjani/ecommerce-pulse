@@ -1,234 +1,66 @@
 [
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/at-home-former-cfo-new-chief-executive/873593/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T16:36:00.000Z",
-  "title": "At Home taps former CFO as new chief executive",
-  "snippet": "Judd Nystrom returns to the company's C-suite several years after supporting its move into the public trading market."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/lee-authentic-brands-group-activewear-workwear-expansion/873590/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T16:28:00.000Z",
-  "title": "With new ownership, Lee eyes activewear and workwear",
-  "snippet": "The denim label is officially part of the Authentic Brands Group stable and will expand into adjacent “lifestyle offerings.”"
- },
- {
-  "id": "Retail TouchPoints::CBMitAFBVV95cUxNbV9uRDBoN2JPOXBLMGhYa0hoUHN0QnA3a2dydFJqbjVreC11Uk9CRmJ5N0lVX0V6RzZZRmY5NkRJWXMzN0FORXpYaDFNejFDdnZuNWxWQ2I4TWpya0JtZVUyQkV0T1dmZjRDUmFUdW12bGM1MTE4Q2VSWGxxVnhXOFdiRGtyMGFOZGFRbU44N1FaNno5cDAtNTh6WUszX25XR1I5T3VnNldvdUoxU3pnblBxMmQ",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T16:01:57.000Z",
-  "title": "Half of Shoppers Boycotted a Company Over Politics in the Past Year",
-  "snippet": ""
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/ai-recommendations-returns/873075/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T15:59:00.000Z",
-  "title": "AI recommendations are leading to returns",
-  "snippet": "The problem may not have to do with the technology itself, but rather the product description data, according to a new report."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/bed-bath-beyonds-turnaround-strategy-needs-reset-neighborhood-intelligence/873479/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T15:35:00.000Z",
-  "title": "Bed Bath & Beyond’s strategy needs a reset",
-  "snippet": "The company, now known as Neighborhood Intelligence, relied on acquisitions to expand its business beyond retail. With two deals called off, where does that leave its turnaround?"
- },
- {
-  "id": "Inc42::https://inc42.com/?p=579100",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-03T15:27:22.000Z",
-  "title": "ArisInfra Q2 Profit Rises 78% YoY To ₹22.8 Cr On The Back Of Strong Revenue Uptick",
-  "snippet": "Construction materials marketplace ArisInfra’s consolidated net profit for the September quarter (Q2 FY27) surged 78.1% to ₹22.8 Cr from ₹12.8…"
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/why-jcpenney-is-taking-on-deal-fatigue-for-its-holiday-campaign/873484/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T15:06:00.000Z",
-  "title": "Why J.C. Penney is taking on deal fatigue for its holiday campaign",
-  "snippet": "Marisa Thalberg, chief customer and marketing officer at parent Catalyst Brands, explains the retailer’s latest push with agency Mischief."
- },
- {
-  "id": "Modern Retail::https://www.modernretail.co/?p=174339",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T15:00:00.000Z",
-  "title": "Brands Briefing: Bag charms are the hot new trend in branded CPG merch",
-  "snippet": "Companies from Kraft Natural Cheese to Cava are rolling out food-themed bag charms to stay top of mind with young consumers."
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166926",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T14:01:52.000Z",
-  "title": "Klipsch Celebrates 80 Years Of Audio Innovation With KlipschFest 2026",
-  "snippet": "KlipschFest 2026 takes place on November 6–7"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166909",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T14:01:29.000Z",
-  "title": "Magnetar UDP900MKII And UDP800MKII Players Earn THX Certification",
-  "snippet": "Certification follows testing of both universal media players by THX"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166903",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T14:00:59.000Z",
-  "title": "Virtual Supply Completes Petra Industries Acquisition",
-  "snippet": "Deal adds an Oklahoma distribution center, more than 127 employees and new product lines"
- },
- {
-  "id": "Retail TouchPoints::CBMi2gFBVV95cUxPSzZOT1plWWhQV3g0WHo4eVI5MlJROFJpVC1ocmgtM2lUaDlfMGdQaDdtaFJCNXl2a1BNak5JNFJ6b2NZV3FxcmdpWXYteUhndmVaMmNFaUk5OUI1U0N3NjJWLUdnTDNRV2lDSGhkQjFOdTBWbDJTYzFkaDkwMTNtMGlYeVRaSFlZZl9hOGV4Y1p1cGhFVlpJMDVubF8zQXZSSEZreWt0NDJQTUQ5bFVlb3ZUaU84MnpXbWN6ODNLQUxoV0RudUxZOXV3cGhwUmlLWHRBOWIzN1JGdw",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T12:01:26.000Z",
-  "title": "Tinuiti's Andy Taylor on How Should Retailers Plan Holiday Ad Spend: The RetailTouchPoints.com Q&A",
-  "snippet": ""
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/holiday-shoppers-only-want-a-dash-of-ai-for-the-gift-hunt/873317/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T12:00:00.000Z",
-  "title": "Holiday shoppers only want a dash of AI for the gift hunt",
-  "snippet": "Price comparisons and narrowing down gift ideas are some of the ways consumers are using AI this season. But maintaining autonomy in the buying process remains important to shoppers."
- },
- {
-  "id": "Global Marketplaces::CBMinAFBVV95cUxNWGgxLUp6cElmMWJIUmRRUndreE00cUhJTWc1M1VULVZraElsc3ZWckhPWEs5ZDFGUnJJZkNDNHMyY19zZlhZMWVydjRRSV94ZTdBQ0VCSkVpRE83NWRBa1V1dkwzU2dtVEdpaFUwRWN5bFpRQ2VnYUYwQWVVaUp0dXJ3OHVmcDA2WEtYdVZyT2FUQzJzSEppNlZjNVE",
-  "source": "Global Marketplaces",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T11:23:13.000Z",
-  "title": "JD.com wins EU approval for acquisition of Germany's Ceconomy",
-  "snippet": ""
- },
- {
-  "id": "Modern Retail::https://www.modernretail.co/?p=174451",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T11:00:00.000Z",
-  "title": "Baked by Melissa launches at-home baking kits at Target in time for the holidays",
-  "snippet": "Baked by Melissa, known for its bite-sized cupcakes, is launching at-home baking kits for the first time in Target. Here's why the brand felt it was ready for a significant new category launch."
- },
- {
-  "id": "Inc42::https://inc42.com/?p=579034",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-03T10:27:49.000Z",
-  "title": "GIVA Raises ₹975 Cr Led By Multiples PE, Eyes 160 New Stores In FY27",
-  "snippet": "Bengaluru-based D2C jewellery brand GIVA has raised ₹975 Cr (about $103 Mn) in a funding round led by Multiples Alternate…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261103PD227/samsung-galaxy-iphone-duo-sales-launch.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-03T09:10:08.000Z",
-  "title": "Apple's iPhone Duo launch lifts Samsung Galaxy Z Fold 8 sales in South Korea",
-  "snippet": "Samsung Electronics' Galaxy Z Fold 8 weekly sales in South Korea increased by more than 20% in the week after Apple launched its first foldable iPhone Duo, according to Seoul Economic Daily and Financial News. The…"
- },
- {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76453",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T09:10:00.000Z",
-  "title": "Premium Gamers’ discount-first mentality reflects wider retail shift towards value",
-  "snippet": "73% of ‘Premium Gamers’ view new games releases as overpriced at launch and actively wait until prices drop, according to new research. The post Premium Gamers’ discount-first mentality reflects wider retail shift…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261103VL220/samsung-tv-2027-lcd-qled.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-03T09:09:05.000Z",
-  "title": "Samsung reportedly plans Galaxy-style TV lineup for 2027",
-  "snippet": "Samsung Electronics is considering a major overhaul of its TV lineup for 2027, replacing technology-based product names with three tiers modeled on its Galaxy smartphones as it looks to increase shipments and expand its…"
- },
- {
-  "id": "PYMNTS Data::CBMiuwFBVV95cUxOaVN1OVVUVkE4RU5CMVlqMm05eXNuQURUMkFjT3BwVGMwdXhoWEVtRDZoTDN4RWhJMUZsRzI5amlrd3UydkZhTnpGUkxGb1NXZ1RhOUpXZnZ4RVVTbGhLblZ2LXctcVhvUHQxUndLUDItZllzQXBSbmFXclFOYnBRSVRxV1hYTnlIclU2emhGNUx0VWVjbVdCb0xUaWwyZHhza0ExYXBxS3RrUC0xWEx3RnN2MHdZbHVVRFJr",
+  "id": "PYMNTS Data::CBMiogFBVV95cUxONFktRWsyNU9kbXliN2RxUzhfTmFpUVFtU0FKZktkUWVsS3MxdkhpcXloVzdxWjdjZklpZXdKbks2ZTFuei1EN0NMNTZZUHhYWjh0dEZkdHpKZVFTZVZDMjlYTmZ0eHVXMkx1VDY4UGhNb2xWUnRaQUZnQ09XZEZuLVhvd01rZmFMTW5LVUhNNjU4ZHJBMFdXSk9wNjFreGprX3c",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-03T09:04:49.000Z",
-  "title": "Economic Optimism Gains 3.8 Percentage Points as Shoppers Stay Selective",
+  "publishedAt": "2026-11-03T20:21:46.000Z",
+  "title": "Amazon Faces Antitrust Class Action Involving 10 Million Consumers",
   "snippet": ""
  },
  {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/consumer-electronics/apple-q4-results-beat-estimates-as-iphone-18-pro-demand-price-hikes-offset-rising-chip-costs/135489559",
-  "source": "ETRetail",
+  "id": "Retail TouchPoints::CBMitAFBVV95cUxNR0Z3aHlBNi0tcm15Ui1NeFlFQnZ2Z0VBTjZkeF9vanZ6SG9Tb2Fsdl9fQXFvZkpaQWlxSXUwRmQ3SG1mdk9zT3dhVHJlYVZCb3RsUFpfUmpJcGI1X25kS3FsUmJwNXhSRXFQSzNpTTdxYXM5amY5ZE1tbU5RdW5ZaVlqRElTUmNwWjZXOE9BbEJnTTVHSXlJQmlNS0RuRVZMaWFqYU4tb0JZUk91bERzbUEzbHM",
+  "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T08:40:52.000Z",
-  "title": "Apple Q4 results beat estimates as iPhone 18 Pro demand, price hikes offset rising chip costs",
-  "snippet": "Apple reported better-than-expected Q4 revenue of $114.48 billion and earnings of $2.10 per share, driven by strong iPhone 18 Pro demand and Mac sales. Higher product prices helped offset rising memory-chip costs. The…"
+  "publishedAt": "2026-11-03T20:18:27.000Z",
+  "title": "What Foot Traffic Reveals About Today’s Value-Conscious Consumer",
+  "snippet": ""
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261103PD229/soc-shipments-infrastructure-2026-mobile.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-03T07:50:09.000Z",
-  "title": "Memory price surge hits smartphones, cutting 2026 mobile SoC shipments nearly 20%",
-  "snippet": "The AI infrastructure boom has driven up memory prices across consumer electronics, dampening sales of smartphones and notebooks while hitting upstream system-on-chip (SoC) developers. With memory prices projected to…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261103VL218/electronics-ddr5-dram-demand-hbm.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-03T07:17:17.000Z",
-  "title": "Japanese distributor turns away new customers as DDR5 prices double",
-  "snippet": "A Japanese electronics distributor has stopped accepting new customers because it cannot fully supply its existing ones, Nikkei reported, as demand from AI data centers tightens supply of the conventional DRAM used in…"
- },
- {
-  "id": "Inc42::https://inc42.com/?p=579012",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-03T06:54:59.000Z",
-  "title": "Apple Logs Record India Revenue, Mac And Services Hit New Highs",
-  "snippet": "Apple reported an all-time revenue record in India in Q4 FY26, with its iPhone business setting a September quarter revenue…"
- },
- {
-  "id": "PYMNTS Data::CBMimAFBVV95cUxPMkxQLWdZY0RMMDREMHNENzRkaE9SN2VaWHhVeEphcGRNQW55dTY4TWstU1UtUjlNUmFJU01YU09BcGhQMTN3RkNqRGtuaS1Vd0lUWXFrTVF4VnZSdHRTZGlvd2hzNDJkUFd2MEN1MFR4LVlaVkJFb0dNTVFvb3ZVT2Q4QjB4TDdjaHdHd21may1pdk9iTzBjRA",
+  "id": "PYMNTS Data::CBMiowFBVV95cUxOSFkzT2ktc0U4UDJXQ1FadnZGdWhGc0FTeXV3eE5FZGh0NEZDN2JId1MxTmNERTVNWlF3QjlzTFMxMkZZRnJWNTdsSmdPTjRlOHQxV1lhY1ZFeGt4WWx2YU1CRHlHNUE0bWZHMVdqRWRYMGV3YnZNX2NjdUhBa1ZMUFNDaVFNSkRDd2wtdkIyMmZWc0w1VkxHX3k5cE93WEVUSVFJ",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-03T01:09:46.000Z",
-  "title": "Upwork Embeds Freelance Marketplace Inside Top AI Tools",
+  "publishedAt": "2026-11-03T19:09:50.000Z",
+  "title": "Shopify Revenue Jumps 32% as Agent-Driven Commerce Surges",
   "snippet": ""
  },
  {
-  "id": "Dell Blog::https://www.dell.com/blog/what-are-the-best-business-laptops-for-running-agentic-ai-on-windows-11-",
-  "source": "Dell Blog",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-11-02T15:00:00.000Z",
-  "title": "What are the best business laptops for running agentic AI on Windows 11?",
+  "id": "Circana::CBMixwFBVV95cUxOQ01pQmxVS1M4bUFrNU9hckRnNm9ianNjQXQ2R1cxNzBqdjRkMk5vNERVX1VBZGpjOW54S19kUzFVMTRNMGJhMzBQNGFCb0JreEZ0U3J1R0J3R3Jtb0IxMFJ1RVpKZ0FVQ0dHTmdVSzVBY1hGMy1fQUVzWEhCZVRINzhvTE44ZHh6RUJjV1pqSFNJakZZbE9EQU1qbklHbjNmWFlBOXYzWGl3OGhWS0UtcEYxRzVmTmhHeW4yeWVPRF9LbE9MN1J3",
+  "source": "Circana",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-03T18:26:48.000Z",
+  "title": "The Secret Life of Groceries: How Purchase to Consumption Reveals What Really Happens After Checkout and Why It Matters",
   "snippet": ""
  },
  {
-  "id": "Global Marketplaces::CBMiygFBVV95cUxPaFBDT2ZyV3JPVmlaUFhIYVgyN0NGUmpUV3pkWTFscXc2Q0Yza1pnQ0l2NlNpWmxXOE1vdUdBR0RYNDJLSVdvZ3FQYk1CdEtLVTZhQjVrOXNybnE3ZS1NT2hyeUlkbEtFYkdZcnRRT2xYYXp4OFJZSC1PSlRkYVgtYzZueGRpS0NPQVdvVEhZaV9DUy1vaFJBWXc4T1RJZGNsalQyVFpqQzRzRGhRM3B5eExGWXdmVlZjWlE2RXJqN3NWQ295VUQwMmJ3",
-  "source": "Global Marketplaces",
+  "id": "Inc42::https://inc42.com/?p=579126",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-03T18:23:43.000Z",
+  "title": "Blue Ashva Exits iD Fresh Food Via A ₹50 Cr Secondary Transaction",
+  "snippet": "D2C startup iD Fresh Food’s early backer Blue Ashva Capital has exited the startup’s cap table, offloading its entire stake…"
+ },
+ {
+  "id": "Reuters::CBMizAFBVV95cUxOYk5TNXY0NVhvQVVhRjBIbFROd3dxM0d4OTlndEY5aDduZ3dVeG9LSW5NMlpOZDM1d0IwQW05ZThLNm9lYUo5UEtkeHhqcEo0NFAyc0lRT0dlZi1wdVRqc2VQMG52cVp6MWFmektaMnpZTTdUczJWdmF5ejNQZVVVczdfSUlZUElDeS1jUEo1dkJNZDc5QXhFQ2ZiVTdRZHNmM3NaYngxWWNWSWRLWnJtcXJ0YjZ0ZnFRR010bk5VR1JyUm42VWFFclF6SG0",
+  "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-02T07:08:00.000Z",
-  "title": "At 'China's Hollywood', visitors become stars as consumers spend more on experiences",
+  "publishedAt": "2026-11-03T17:53:16.000Z",
+  "title": "Keurig Dr Pepper flags slower fourth-quarter coffee profits as shoppers trade down",
   "snippet": ""
  },
  {
-  "id": "Global Marketplaces::CBMizAFBVV95cUxPM1JYY3JjSEZ6Mng5SkxoRFBtVFBLZVVsNGsyMWxIQzNQX0Rid3oxclNLV2dvSURnaWRrUDdYTUZ4WkIwZFVfbGp6bHM1LTZaUC1Fb3BSWF9iVWsxMGctdktndy1GRS1aZTRkb1otcjJFYk84NndKWGx6NXBXQUEyMmJMVUxXRkpkcF83M09yWVZSMjNjblRyeGxvZ3dOYTFMY1A2U2pYYzViSlpEVWlZWVUzczZ0NHBHZXhSSFlyMURGcFJLMFVzbFlwMEY",
-  "source": "Global Marketplaces",
+  "id": "Reuters::CBMiygFBVV95cUxQN1ZNRllIUzRYTi1mME16MDlOVE0yVThsamd2NjRNSnhyNk9kYzJNbmlKZHJ0NXlYSXhKVmtqZUFIbVZ5VG9LX2J5YzRNYUJweE82YUtBRXhQZ0NrYXFuOENMbHRhSy10MkRCVmpHRXk2eEw5eUlOcWhEUlVRV1pwakpyb1IxdmxyUVZ3RUdXMWtCaTEzNG1adzZoTE5FT2ZjYzltOERYSENFX04tcDluaVN1cWJtNGotVmNNeDdiclpacHh6cC0wYlB3",
+  "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-10-30T15:40:01.000Z",
-  "title": "Big Tech returns smallest share of cash to shareholders in 15 years, given AI spending",
+  "publishedAt": "2026-11-03T06:28:00.000Z",
+  "title": "Retailer Zalando launches AI shopping agent as margins squeezed",
   "snippet": ""
  },
  {
-  "id": "PYMNTS::https://www.pymnts.com/?p=4350481",
-  "source": "PYMNTS",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-10-28T20:09:31.000Z",
-  "title": "Amazon Expands Shop Direct Catalog to Keep Shoppers Off Agents",
-  "snippet": "Amazon is expanding its Shop Direct initiative, which lists products from brands that don’t sell on its site, in an effort to keep shoppers coming to its site rather than using outside personal artificial intelligence…"
+  "id": "Counterpoint Research::CBMikAFBVV95cUxPWTZZTXhzN29DZVViUTB4U3FjU3p6TzI4dV9YcXpZLXpDMEw3MDQyVlZmMGxRbEpjRDg5aW51TnAxTzQ3a0VlTEdEY2lSVHdqZUNVRndKcl94aV9pM3p0SXFuX24yd1JTSGdfMWdZYkJ0TVVOaTZvRURIdUhBeGJ5X2VGZDZmb0hIdzFuNWstWlU",
+  "source": "Counterpoint Research",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-10-30T14:55:08.000Z",
+  "title": "Global Quarterly ARM Laptop Tracker Q2 2026",
+  "snippet": ""
  }
 ]
