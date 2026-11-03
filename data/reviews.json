@@ -6597,5 +6597,179 @@
  "Reuters::CBMikAFBVV95cUxQc01aRVpGZE5DcEJCR3Rlb2VxSG1SWWFPNHhHejFFV04xU0Z3X21nZ1lGaEtpYW84MzFBMEpmX1JRWHAwLUUwTENBYmpxUVVGMW1BM25oVWVybDVmQjF2djA0X2ZJcTMzbV9LR0NRdXFEM214Y2JJMlRzUTNkLVR6VWNzRVljb1F0ZG55c2UyQjE": {
   "keep": false,
   "publishedAt": "2026-11-02T15:36:10.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/at-home-former-cfo-new-chief-executive/873593/": {
+  "keep": false,
+  "publishedAt": "2026-11-03T16:36:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/lee-authentic-brands-group-activewear-workwear-expansion/873590/": {
+  "keep": false,
+  "publishedAt": "2026-11-03T16:28:00.000Z"
+ },
+ "Retail TouchPoints::CBMitAFBVV95cUxNbV9uRDBoN2JPOXBLMGhYa0hoUHN0QnA3a2dydFJqbjVreC11Uk9CRmJ5N0lVX0V6RzZZRmY5NkRJWXMzN0FORXpYaDFNejFDdnZuNWxWQ2I4TWpya0JtZVUyQkV0T1dmZjRDUmFUdW12bGM1MTE4Q2VSWGxxVnhXOFdiRGtyMGFOZGFRbU44N1FaNno5cDAtNTh6WUszX25XR1I5T3VnNldvdUoxU3pnblBxMmQ": {
+  "keep": false,
+  "publishedAt": "2026-11-03T16:01:57.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/ai-recommendations-returns/873075/": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Report ties AI product recommendations to returns, blaming weak product description data",
+  "short_headline": "AI recommendations are driving more returns",
+  "takeaway": "If AI shopping tools rely on our listings, thin product data could raise returns; we should audit specs and descriptions.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-03T15:59:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/bed-bath-beyonds-turnaround-strategy-needs-reset-neighborhood-intelligence/873479/": {
+  "keep": false,
+  "publishedAt": "2026-11-03T15:35:00.000Z"
+ },
+ "Inc42::https://inc42.com/?p=579100": {
+  "keep": false,
+  "publishedAt": "2026-11-03T15:27:22.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/why-jcpenney-is-taking-on-deal-fatigue-for-its-holiday-campaign/873484/": {
+  "keep": false,
+  "publishedAt": "2026-11-03T15:06:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=174339": {
+  "keep": false,
+  "publishedAt": "2026-11-03T15:00:00.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166926": {
+  "keep": false,
+  "publishedAt": "2026-11-03T14:01:52.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166909": {
+  "keep": false,
+  "publishedAt": "2026-11-03T14:01:29.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166903": {
+  "keep": false,
+  "publishedAt": "2026-11-03T14:00:59.000Z"
+ },
+ "Retail TouchPoints::CBMi2gFBVV95cUxPSzZOT1plWWhQV3g0WHo4eVI5MlJROFJpVC1ocmgtM2lUaDlfMGdQaDdtaFJCNXl2a1BNak5JNFJ6b2NZV3FxcmdpWXYteUhndmVaMmNFaUk5OUI1U0N3NjJWLUdnTDNRV2lDSGhkQjFOdTBWbDJTYzFkaDkwMTNtMGlYeVRaSFlZZl9hOGV4Y1p1cGhFVlpJMDVubF8zQXZSSEZreWt0NDJQTUQ5bFVlb3ZUaU84MnpXbWN6ODNLQUxoV0RudUxZOXV3cGhwUmlLWHRBOWIzN1JGdw": {
+  "keep": false,
+  "publishedAt": "2026-11-03T12:01:26.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/holiday-shoppers-only-want-a-dash-of-ai-for-the-gift-hunt/873317/": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Holiday shoppers use AI for price checks and gift ideas but want to keep control of buying",
+  "short_headline": "Holiday shoppers want only a dash of AI",
+  "takeaway": "Shoppers use AI to compare prices and narrow choices, so our store should support comparison while keeping checkout in shopper hands.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-03T12:00:00.000Z"
+ },
+ "Global Marketplaces::CBMinAFBVV95cUxNWGgxLUp6cElmMWJIUmRRUndreE00cUhJTWc1M1VULVZraElsc3ZWckhPWEs5ZDFGUnJJZkNDNHMyY19zZlhZMWVydjRRSV94ZTdBQ0VCSkVpRE83NWRBa1V1dkwzU2dtVEdpaFUwRWN5bFpRQ2VnYUYwQWVVaUp0dXJ3OHVmcDA2WEtYdVZyT2FUQzJzSEppNlZjNVE": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "JD.com wins EU approval for its acquisition of Germany’s Ceconomy",
+  "short_headline": "JD.com cleared to buy Ceconomy",
+  "takeaway": "A Chinese giant gaining MediaMarkt/Saturn’s reach reshapes European electronics retail; we should watch channel terms and pricing.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-03T11:23:13.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=174451": {
+  "keep": false,
+  "publishedAt": "2026-11-03T11:00:00.000Z"
+ },
+ "Inc42::https://inc42.com/?p=579034": {
+  "keep": false,
+  "publishedAt": "2026-11-03T10:27:49.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261103PD227/samsung-galaxy-iphone-duo-sales-launch.html": {
+  "keep": false,
+  "publishedAt": "2026-11-03T09:10:08.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76453": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "73% of ‘Premium Gamers’ find new games overpriced at launch and wait for price drops",
+  "short_headline": "Most premium gamers wait for discounts",
+  "takeaway": "Gaming shoppers are discount-led; our store should time gaming hardware promotions to this wait-for-a-drop behavior.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-03T09:10:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261103VL220/samsung-tv-2027-lcd-qled.html": {
+  "keep": false,
+  "publishedAt": "2026-11-03T09:09:05.000Z"
+ },
+ "PYMNTS Data::CBMiuwFBVV95cUxOaVN1OVVUVkE4RU5CMVlqMm05eXNuQURUMkFjT3BwVGMwdXhoWEVtRDZoTDN4RWhJMUZsRzI5amlrd3UydkZhTnpGUkxGb1NXZ1RhOUpXZnZ4RVVTbGhLblZ2LXctcVhvUHQxUndLUDItZllzQXBSbmFXclFOYnBRSVRxV1hYTnlIclU2emhGNUx0VWVjbVdCb0xUaWwyZHhza0ExYXBxS3RrUC0xWEx3RnN2MHdZbHVVRFJr": {
+  "keep": false,
+  "publishedAt": "2026-11-03T09:04:49.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/consumer-electronics/apple-q4-results-beat-estimates-as-iphone-18-pro-demand-price-hikes-offset-rising-chip-costs/135489559": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Apple Q4 beats estimates on iPhone 18 Pro and Mac sales; price hikes offset chip costs",
+  "short_headline": "Apple beats Q4 on iPhone and Mac, raises prices",
+  "takeaway": "Apple is passing memory costs on through higher prices; we should expect similar pricing room and pressure across PC lines.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-11-03T08:40:52.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261103PD229/soc-shipments-infrastructure-2026-mobile.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Memory price surge cuts 2026 mobile SoC shipments nearly 20% as notebooks and phones slow",
+  "short_headline": "Memory prices dampen phone and notebook sales",
+  "takeaway": "AI-driven memory costs are denting notebook demand; we should plan pricing and promotions around component inflation.",
+  "importance": 4,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-03T07:50:09.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261103VL218/electronics-ddr5-dram-demand-hbm.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Japanese distributor turns away new customers as DDR5 prices double on AI demand",
+  "short_headline": "DDR5 prices double, distributor stops new accounts",
+  "takeaway": "DRAM shortages could limit our PC supply and raise costs; we should secure inventory and watch pricing for holiday builds.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-03T07:17:17.000Z"
+ },
+ "Inc42::https://inc42.com/?p=579012": {
+  "keep": false,
+  "publishedAt": "2026-11-03T06:54:59.000Z"
+ },
+ "PYMNTS Data::CBMimAFBVV95cUxPMkxQLWdZY0RMMDREMHNENzRkaE9SN2VaWHhVeEphcGRNQW55dTY4TWstU1UtUjlNUmFJU01YU09BcGhQMTN3RkNqRGtuaS1Vd0lUWXFrTVF4VnZSdHRTZGlvd2hzNDJkUFd2MEN1MFR4LVlaVkJFb0dNTVFvb3ZVT2Q4QjB4TDdjaHdHd21may1pdk9iTzBjRA": {
+  "keep": false,
+  "publishedAt": "2026-11-03T01:09:46.000Z"
+ },
+ "Dell Blog::https://www.dell.com/blog/what-are-the-best-business-laptops-for-running-agentic-ai-on-windows-11-": {
+  "keep": false,
+  "publishedAt": "2026-11-02T15:00:00.000Z"
+ },
+ "Global Marketplaces::CBMiygFBVV95cUxPaFBDT2ZyV3JPVmlaUFhIYVgyN0NGUmpUV3pkWTFscXc2Q0Yza1pnQ0l2NlNpWmxXOE1vdUdBR0RYNDJLSVdvZ3FQYk1CdEtLVTZhQjVrOXNybnE3ZS1NT2hyeUlkbEtFYkdZcnRRT2xYYXp4OFJZSC1PSlRkYVgtYzZueGRpS0NPQVdvVEhZaV9DUy1vaFJBWXc4T1RJZGNsalQyVFpqQzRzRGhRM3B5eExGWXdmVlZjWlE2RXJqN3NWQ295VUQwMmJ3": {
+  "keep": false,
+  "publishedAt": "2026-11-02T07:08:00.000Z"
+ },
+ "Global Marketplaces::CBMizAFBVV95cUxPM1JYY3JjSEZ6Mng5SkxoRFBtVFBLZVVsNGsyMWxIQzNQX0Rid3oxclNLV2dvSURnaWRrUDdYTUZ4WkIwZFVfbGp6bHM1LTZaUC1Fb3BSWF9iVWsxMGctdktndy1GRS1aZTRkb1otcjJFYk84NndKWGx6NXBXQUEyMmJMVUxXRkpkcF83M09yWVZSMjNjblRyeGxvZ3dOYTFMY1A2U2pYYzViSlpEVWlZWVUzczZ0NHBHZXhSSFlyMURGcFJLMFVzbFlwMEY": {
+  "keep": false,
+  "publishedAt": "2026-10-30T15:40:01.000Z"
+ },
+ "PYMNTS::https://www.pymnts.com/?p=4350481": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Amazon expands Shop Direct catalog to keep shoppers from outside AI agents",
+  "short_headline": "Amazon widens Shop Direct to counter AI agents",
+  "takeaway": "Amazon is defending discovery against external agents; we should decide how our listings appear in agent-led shopping.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-10-28T20:09:31.000Z"
  }
 }
