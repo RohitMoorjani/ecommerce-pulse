@@ -6824,5 +6824,151 @@
   "content_type": "data",
   "competitors": [],
   "publishedAt": "2026-10-30T14:55:08.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104VL219/supermicro-earnings-cash-flow-demand-2027.html": {
+  "keep": false,
+  "publishedAt": "2026-11-04T05:42:22.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104PD237/darfon-pc-asia-capacity-aidc.html": {
+  "keep": false,
+  "publishedAt": "2026-11-04T05:38:09.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=174435": {
+  "keep": false,
+  "publishedAt": "2026-11-04T05:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104PD235/acer-its-home-appliance-revenue-sales.html": {
+  "keep": false,
+  "publishedAt": "2026-11-04T04:32:34.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104PD236/revenue-aeb-cloud-demand-profit.html": {
+  "keep": false,
+  "publishedAt": "2026-11-04T04:25:55.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104PD223/acer-pc-market-taiwan-2026.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Acer Taiwan consumer PC shipments up 15% as overall PC market slows",
+  "short_headline": "Acer Taiwan consumer PCs up 15% in a weak market",
+  "takeaway": "A rival is growing consumer share in a slumping market and is counting on Singles' Day promotions; we should check our own promo plans.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-04T04:06:14.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104PD206/utg-iphone-duo-production-sdc-shipments.html": {
+  "keep": false,
+  "publishedAt": "2026-11-04T03:47:13.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104VL216/hbm-us-chip-restrictions-huawei-china-chips.html": {
+  "keep": false,
+  "publishedAt": "2026-11-04T02:59:03.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104PD203/apple-revenue-growth-iphone-greater-china.html": {
+  "keep": false,
+  "publishedAt": "2026-11-04T02:51:59.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/industry/nexus-select-trust-q2-noi-rises-8-pc-to-rs-504-crore-declares-rs-359-crore-distribution/135519486": {
+  "keep": false,
+  "publishedAt": "2026-11-04T02:45:27.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104PD226/apple-macbook-2027-shipments-forecast.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Apple tells suppliers to plan 16M MacBook Neo units in 2027, double 2026",
+  "short_headline": "Apple plans to double MacBook Neo shipments in 2027",
+  "takeaway": "Apple is preparing a big laptop volume push; we should expect more price and promo pressure in the entry-level notebook segment.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-11-04T02:35:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104PD230/leo-pc-taiwan-revenue-syncmold-enterprise.html": {
+  "keep": false,
+  "publishedAt": "2026-11-04T02:33:12.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104PD202/samsung-africa-smartphone-market-sales.html": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Samsung grows 34.8% in Africa's shrinking smartphone market with instalment plans",
+  "short_headline": "Instalment plans help Samsung lead Africa smartphones",
+  "takeaway": "Instalment financing drove growth in a market down 16.6%; it is a lever we could test for PCs in price-sensitive regions.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-04T02:31:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104PD201/apple-iphone-duo-growth-iphone-market.html": {
+  "keep": false,
+  "publishedAt": "2026-11-04T02:25:22.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104VL205/financing-samsung-demand-sk-hynix-chipmakers.html": {
+  "keep": false,
+  "publishedAt": "2026-11-04T02:16:39.000Z"
+ },
+ "Counterpoint Research::CBMivAFBVV95cUxOcGZOcmNueTh0eDFFRnlfcWZ5Tjc4VnhZWW43N3hnSG9vQjE1TTl6MExDZHlZUUIwVnpSdm9IM3VGYU0zdU9FTWI5NTF1bHlPQmJ3RllqNjZjNmdIUUJpRk9sSUZXaUJ3ZUdUOC0tM2hlVUcwMGtiX1E0UDRYSmEySkpNS3ZOTDN1N1NfLWxwVnE2emFsSnoxRWFhRllNel9KOTZqaDhGVDNiMEx3c2xPSGRBeFZYcVNrdVZyMA": {
+  "keep": false,
+  "publishedAt": "2026-11-04T02:06:20.000Z"
+ },
+ "Counterpoint Research::CBMihwFBVV95cUxPZTNfV0lBWE1qVGNUbG5vaktoS3MyYnpHdmNJd0NTUjZLb2FpeFNzNTNCRmFxMVIzTFhMOG5rM3A0eHdMUlpxdWEyRkd2UzhKZHlLTVozb2FlWXZrbF9DRkFobXZYd0lwSktMRlo2Wkc1bEVXOHlOcUk4Z0pweklpRzNHLUtXcTg": {
+  "keep": false,
+  "publishedAt": "2026-11-04T02:06:19.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104VL210/onsemi-automotive-data-center-revenue-2027.html": {
+  "keep": false,
+  "publishedAt": "2026-11-04T01:43:56.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104PD200/infrastructure-alphabet-funding-meta-amazon.html": {
+  "keep": false,
+  "publishedAt": "2026-11-04T01:36:30.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104PD214/foxtron-tesla-taiwan-brand-2026.html": {
+  "keep": false,
+  "publishedAt": "2026-11-04T01:14:51.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104VL209/amd-pc-growth-embedded-2027.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "AMD prepares for another difficult PC year in 2027 as data center demand soars",
+  "short_headline": "AMD plans for a weaker PC market in 2027",
+  "takeaway": "A key chip supplier expects PC demand to stay soft, so we should plan 2027 volumes and promotions conservatively.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-04T01:00:07.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261103PD239/revenue-winbond-gross-margin-profit-business.html": {
+  "keep": false,
+  "publishedAt": "2026-11-04T00:58:31.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104VL204/bosch-robotics-business-manufacturing-market.html": {
+  "keep": false,
+  "publishedAt": "2026-11-04T00:48:04.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104VL203/lges-recovery-incentives-demand-loss.html": {
+  "keep": false,
+  "publishedAt": "2026-11-04T00:19:39.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104VL201.html": {
+  "keep": false,
+  "publishedAt": "2026-11-03T23:58:16.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104VL200.html": {
+  "keep": false,
+  "publishedAt": "2026-11-03T23:56:34.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261103PD215/manufacturing-foxconn-vertical-integration-infrastructure-component.html": {
+  "keep": false,
+  "publishedAt": "2026-11-03T23:51:43.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363894": {
+  "keep": false,
+  "publishedAt": "2026-11-03T23:17:47.000Z"
+ },
+ "Circana::CBMixgFBVV95cUxQVUU2RU9tQjJKTUo2YnlCWWV6MGlCTjJnUGtxUURBUG5xenRhMEhUTmczTnJUSm1WWXRCb0NpR3AyTXpydTJlS2NIZmFsQklROGxGWGlncGszWFIza0pOZ0M3UVVDWlRpRlhnU0FfUGdVaXVOOGZSaXJsRVRtZ2pGdVdTMnE0Sk5XSnRYTHV1OHBMZWpJOVV3UFRSMlZJZDE3Ry1JaUx1V3RvYmtrZ2lLV3RPbmVqelNWQnRCc3l5ZVhzY1Z3SEE": {
+  "keep": false,
+  "publishedAt": "2026-10-28T13:01:05.000Z"
  }
 }

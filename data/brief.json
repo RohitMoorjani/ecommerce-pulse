@@ -1,43 +1,44 @@
 {
- "updatedAt": "2026-11-04T00:50:49.910Z",
- "title": "AI agents now own shopping; our store must be built to sell in them",
- "summary": "55% of consumers use AI in discovery (NIQ); Amazon says 400M used Alexa for Shopping and wins 59% of AI-assisted purchases; Zalando launched an AI agent. Samsung sees no memory relief before 2028; Asus sees PC prices up nearly 10%.",
+ "updatedAt": "2026-11-04T06:52:19.993Z",
+ "title": "AI is the new storefront, and cost pressure will shape our PC pricing",
+ "summary": "55% of shoppers use AI in discovery (NIQ); 400M used Alexa for Shopping and spend 50% more (Amazon). Asus sees Taiwan commercial PC prices up ~10% in 2H26; Samsung sees no memory relief before 2028; Apple plans 16M MacBook Neo units in 2027.",
  "points": [
   {
-   "headline": "AI assistants start shopping journeys and Amazon wins most checkouts",
-   "detail": "NIQ: 55% use AI in discovery; Amazon wins 59% of AI-assisted purchases and says 400M used Alexa for Shopping. We should make our listings agent-readable and contest checkout.",
+   "headline": "AI assistants now steer product discovery and spend",
+   "detail": "55% of consumers use AI in discovery (NIQ) and Alexa shoppers spend 50% more (Amazon). Amazon also widened Shop Direct to keep discovery in-house. Our listings must be readable by AI agents.",
    "segment": "agentic",
    "storyIds": [
     "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
-    "PYMNTS Data::CBMivgFBVV95cUxPQUhWZjl5T2t1amFBc0pQSVlCWUY1eXNYalZTT1Q2QlUtN1VfQnEydlZHMkZHMHF1aXhsaHlzaUVhNmFGS0pLS0VZRFRNbktGdjYxTmszNkVLODcxZ1M4cDBxblc5YzY1SWI5TlpjME9ZTXJudEE0MEhPeGpva1lMMXhYS1JVdVFHRlVSbTFqVUxPbFZBSEMtMjhleGlxZUNBOWoyNGZWZmxQYzJabjZ0VXQwcW5tcDYyczY5TWx3",
-    "Modern Retail::https://www.modernretail.co/?p=174293"
+    "Modern Retail::https://www.modernretail.co/?p=174293",
+    "PYMNTS Data::CBMiuwFBVV95cUxQem56Vk9DY0NRMUotVS0wWXlFUFU2dGVRSFdWS1ptSW5DNEtReGVfemtSN2NScVRjRHhtM19mVmRUUndCd0IwMXBoWkoyekhQNHFwRGp6SHVoMDNfTG1mTU8ydzFwLWVnd0hLWEZ6Zjd5dkFra0NQTThPcG5icFRSQWE3bGNHN1p5OTA3X09kSWJDYXhldUl2eVdvUHM3OWppVU5Ra3dBVVVJdUNvM0lUcXc3ZVdMekZBSUw4"
    ]
   },
   {
-   "headline": "Retailers are racing to ship their own shopping agents",
-   "detail": "Zalando launched an AI shopping agent and Amazon added 100-plus capabilities to its assistant. We should test our own assistant that guides PC buyers to purchase.",
-   "segment": "agentic",
-   "storyIds": [
-    "Reuters::CBMiygFBVV95cUxQN1ZNRllIUzRYTi1mME16MDlOVE0yVThsamd2NjRNSnhyNk9kYzJNbmlKZHJ0NXlYSXhKVmtqZUFIbVZ5VG9LX2J5YzRNYUJweE82YUtBRXhQZ0NrYXFuOENMbHRhSy10MkRCVmpHRXk2eEw5eUlOcWhEUlVRV1pwakpyb1IxdmxyUVZ3RUdXMWtCaTEzNG1adzZoTE5FT2ZjYzltOERYSENFX04tcDluaVN1cWJtNGotVmNNeDdiclpacHh6cC0wYlB3",
-    "PYMNTS Data::CBMiogFBVV95cUxOUkdubldPejhESzFvRkx6Q0EzbFFESk1wTTdRYlFHLUJpNzZzSDd5ZmdUS21Ob19NVl9kVUZFTzFmSFBVdllUZXZjLV9JQVEwMHpjdkg5ck5iVVBnY2h1eWpqUUk0R01hMVpsalZTSUVrckhacVJwc2tZMC1EY3FXMlA2UmJPcTVRbmJ3dk5pcUJQamx0N3pRam9wa1l2NzFtV1E"
-   ]
-  },
-  {
-   "headline": "Memory costs keep pushing PC prices up with no near-term relief",
-   "detail": "Samsung sees no buyer relief before 2028 and Asus expects commercial PC prices up nearly 10% in 2H26. We should plan pricing, promotions and mix for a long squeeze.",
+   "headline": "Memory costs keep PC prices rising with no relief before 2028",
+   "detail": "Asus expects Taiwan commercial PC prices up nearly 10% in 2H26 after a ~30% H1 surge, and Samsung sees no buyer relief before 2028. We should plan pricing, promotions and stock for sustained cost pressure.",
    "segment": "pc",
    "storyIds": [
-    "DigiTimes::https://www.digitimes.com/news/a20261029VL217/samsung-hbm-chips-profit-2028.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261028PD204/asus-commercial-pc-2026-market.html"
+    "DigiTimes::https://www.digitimes.com/news/a20261028PD204/asus-commercial-pc-2026-market.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261029VL217/samsung-hbm-chips-profit-2028.html"
    ]
   },
   {
-   "headline": "Apple moves into touchscreen laptops while memory lifts its costs",
-   "detail": "Apple showed its first touchscreen laptops and forecast a holiday-quarter margin drop on memory costs. We should check how our touch lines are positioned and priced online.",
+   "headline": "Apple is pushing hard into laptops with touch and a doubled MacBook Neo plan",
+   "detail": "Apple showed touchscreen laptops and told suppliers to plan 16M MacBook Neo units in 2027, double 2026. Expect sharper laptop competition and promotions; review our entry-level and touch lineup online.",
    "segment": "pc",
    "storyIds": [
-    "Reuters::CBMiuAFBVV95cUxNMGg0QUZLRkZQUmg1ei1BVWZCUEZkcFdueUIyZDJFX3ljN09yRjUzSEE5V0JWVVpRaGRHdHNDaHAtNkRlNXZfWElQM3QxM0lpZTM1UHJYQWhKRmQ2X3JJNzAxRy1lcGIyalhUTEFhRGxyOTUxeU04S2U1X1RSWWUwcldiQndWUTZtYlB0SGZVTFM4eV9HZVV4VGdsRDAzc3h6TWhiZmVDNVF0dkRGMXI1eFhMekQ0TTU2",
-    "Reuters::CBMixgFBVV95cUxNTGFsc2NMYXRUbERoRkphY2hPVWNDM0ZRRmw3OHZzNnlfN0h1aEowUG9uaHZraTJPNlcyVFVYZGVjYmx2Ui01d09OTm9YejM3UGF1aUJKcHVUSUxxb0ZGNTktQmVuRVF0X0pKYTF2clJ6YnJpVmNmUEZESHc4ZWRqMkt1d0VyMEV2RVZlUkYtUE9EcW03ZXB5RzFmQk01endLRWtzNFpnVGd4el90TFUxLWhxaXRxYUsyT1lmbjIySjQ2NXcxdVE"
+    "DigiTimes::https://www.digitimes.com/news/a20261104PD226/apple-macbook-2027-shipments-forecast.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261029VL200/apple-touchscreen-sdc-macbook-pro-supplier.html"
+   ]
+  },
+  {
+   "headline": "PC demand is soft, but consumer promotions and AI PCs still grow",
+   "detail": "AMD plans for a weaker 2027 PC market, yet Acer Taiwan consumer shipments rose 15% and Intel AI PC sales grew. We should lean on AI PCs and Singles' Day style promotions.",
+   "segment": "pc",
+   "storyIds": [
+    "DigiTimes::https://www.digitimes.com/news/a20261104VL209/amd-pc-growth-embedded-2027.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261104PD223/acer-pc-market-taiwan-2026.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261030VL206/intel-pc-ai-pc-sales-demand.html"
    ]
   }
  ]
