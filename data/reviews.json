@@ -6771,5 +6771,58 @@
   "content_type": "news",
   "competitors": [],
   "publishedAt": "2026-10-28T20:09:31.000Z"
+ },
+ "PYMNTS Data::CBMiogFBVV95cUxONFktRWsyNU9kbXliN2RxUzhfTmFpUVFtU0FKZktkUWVsS3MxdkhpcXloVzdxWjdjZklpZXdKbks2ZTFuei1EN0NMNTZZUHhYWjh0dEZkdHpKZVFTZVZDMjlYTmZ0eHVXMkx1VDY4UGhNb2xWUnRaQUZnQ09XZEZuLVhvd01rZmFMTW5LVUhNNjU4ZHJBMFdXSk9wNjFreGprX3c": {
+  "keep": false,
+  "publishedAt": "2026-11-03T20:21:46.000Z"
+ },
+ "Retail TouchPoints::CBMitAFBVV95cUxNR0Z3aHlBNi0tcm15Ui1NeFlFQnZ2Z0VBTjZkeF9vanZ6SG9Tb2Fsdl9fQXFvZkpaQWlxSXUwRmQ3SG1mdk9zT3dhVHJlYVZCb3RsUFpfUmpJcGI1X25kS3FsUmJwNXhSRXFQSzNpTTdxYXM5amY5ZE1tbU5RdW5ZaVlqRElTUmNwWjZXOE9BbEJnTTVHSXlJQmlNS0RuRVZMaWFqYU4tb0JZUk91bERzbUEzbHM": {
+  "keep": false,
+  "publishedAt": "2026-11-03T20:18:27.000Z"
+ },
+ "PYMNTS Data::CBMiowFBVV95cUxOSFkzT2ktc0U4UDJXQ1FadnZGdWhGc0FTeXV3eE5FZGh0NEZDN2JId1MxTmNERTVNWlF3QjlzTFMxMkZZRnJWNTdsSmdPTjRlOHQxV1lhY1ZFeGt4WWx2YU1CRHlHNUE0bWZHMVdqRWRYMGV3YnZNX2NjdUhBa1ZMUFNDaVFNSkRDd2wtdkIyMmZWc0w1VkxHX3k5cE93WEVUSVFJ": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Shopify revenue jumps 32% as agent-driven commerce surges",
+  "short_headline": "Shopify revenue up 32% on agent-driven commerce",
+  "takeaway": "Agent-led shopping is already lifting a major commerce platform; we should make our catalog and checkout ready for AI agents.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-03T19:09:50.000Z"
+ },
+ "Circana::CBMixwFBVV95cUxOQ01pQmxVS1M4bUFrNU9hckRnNm9ianNjQXQ2R1cxNzBqdjRkMk5vNERVX1VBZGpjOW54S19kUzFVMTRNMGJhMzBQNGFCb0JreEZ0U3J1R0J3R3Jtb0IxMFJ1RVpKZ0FVQ0dHTmdVSzVBY1hGMy1fQUVzWEhCZVRINzhvTE44ZHh6RUJjV1pqSFNJakZZbE9EQU1qbklHbjNmWFlBOXYzWGl3OGhWS0UtcEYxRzVmTmhHeW4yeWVPRF9LbE9MN1J3": {
+  "keep": false,
+  "publishedAt": "2026-11-03T18:26:48.000Z"
+ },
+ "Inc42::https://inc42.com/?p=579126": {
+  "keep": false,
+  "publishedAt": "2026-11-03T18:23:43.000Z"
+ },
+ "Reuters::CBMizAFBVV95cUxOYk5TNXY0NVhvQVVhRjBIbFROd3dxM0d4OTlndEY5aDduZ3dVeG9LSW5NMlpOZDM1d0IwQW05ZThLNm9lYUo5UEtkeHhqcEo0NFAyc0lRT0dlZi1wdVRqc2VQMG52cVp6MWFmektaMnpZTTdUczJWdmF5ejNQZVVVczdfSUlZUElDeS1jUEo1dkJNZDc5QXhFQ2ZiVTdRZHNmM3NaYngxWWNWSWRLWnJtcXJ0YjZ0ZnFRR010bk5VR1JyUm42VWFFclF6SG0": {
+  "keep": false,
+  "publishedAt": "2026-11-03T17:53:16.000Z"
+ },
+ "Reuters::CBMiygFBVV95cUxQN1ZNRllIUzRYTi1mME16MDlOVE0yVThsamd2NjRNSnhyNk9kYzJNbmlKZHJ0NXlYSXhKVmtqZUFIbVZ5VG9LX2J5YzRNYUJweE82YUtBRXhQZ0NrYXFuOENMbHRhSy10MkRCVmpHRXk2eEw5eUlOcWhEUlVRV1pwakpyb1IxdmxyUVZ3RUdXMWtCaTEzNG1adzZoTE5FT2ZjYzltOERYSENFX04tcDluaVN1cWJtNGotVmNNeDdiclpacHh6cC0wYlB3": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Zalando launches AI shopping agent as retail margins get squeezed",
+  "short_headline": "Zalando launches AI shopping agent",
+  "takeaway": "Retailers are turning to AI shopping agents under margin pressure; we should test an assistant that guides PC buyers to purchase.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-11-03T06:28:00.000Z"
+ },
+ "Counterpoint Research::CBMikAFBVV95cUxPWTZZTXhzN29DZVViUTB4U3FjU3p6TzI4dV9YcXpZLXpDMEw3MDQyVlZmMGxRbEpjRDg5aW51TnAxTzQ3a0VlTEdEY2lSVHdqZUNVRndKcl94aV9pM3p0SXFuX24yd1JTSGdfMWdZYkJ0TVVOaTZvRURIdUhBeGJ5X2VGZDZmb0hIdzFuNWstWlU": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Counterpoint publishes Global Quarterly ARM Laptop Tracker for Q2 2026",
+  "short_headline": "Counterpoint ARM laptop tracker for Q2 2026",
+  "takeaway": "ARM laptop share data shows how the PC mix is shifting; we should check our online assortment against it.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-10-30T14:55:08.000Z"
  }
 }

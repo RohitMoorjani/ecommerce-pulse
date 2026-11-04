@@ -1,46 +1,43 @@
 {
- "updatedAt": "2026-11-03T18:54:17.042Z",
- "title": "Win AI-led discovery and checkout while memory costs squeeze PCs",
- "summary": "55% of consumers use AI in product discovery (NIQ); Amazon says 400M used Alexa for Shopping and wins 59% of AI-assisted purchases. Samsung sees no memory relief before 2028; DDR5 prices doubled; Apple flagged a margin drop.",
+ "updatedAt": "2026-11-04T00:50:49.910Z",
+ "title": "AI agents now own shopping; our store must be built to sell in them",
+ "summary": "55% of consumers use AI in discovery (NIQ); Amazon says 400M used Alexa for Shopping and wins 59% of AI-assisted purchases; Zalando launched an AI agent. Samsung sees no memory relief before 2028; Asus sees PC prices up nearly 10%.",
  "points": [
   {
-   "headline": "AI assistants now start shopping journeys, and Amazon closes most of the sales",
-   "detail": "NIQ: 55% use AI in discovery; Amazon wins 59% of AI-assisted purchases and widened Shop Direct to hold shoppers. We should make our listings agent-readable and contest checkout in AI journeys.",
+   "headline": "AI assistants start shopping journeys and Amazon wins most checkouts",
+   "detail": "NIQ: 55% use AI in discovery; Amazon wins 59% of AI-assisted purchases and says 400M used Alexa for Shopping. We should make our listings agent-readable and contest checkout.",
    "segment": "agentic",
    "storyIds": [
     "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
-    "PYMNTS::https://www.pymnts.com/?p=4350312",
-    "PYMNTS::https://www.pymnts.com/?p=4350481",
-    "Retail Dive::https://www.retaildive.com/news/ai-recommendations-returns/873075/"
+    "PYMNTS Data::CBMivgFBVV95cUxPQUhWZjl5T2t1amFBc0pQSVlCWUY1eXNYalZTT1Q2QlUtN1VfQnEydlZHMkZHMHF1aXhsaHlzaUVhNmFGS0pLS0VZRFRNbktGdjYxTmszNkVLODcxZ1M4cDBxblc5YzY1SWI5TlpjME9ZTXJudEE0MEhPeGpva1lMMXhYS1JVdVFHRlVSbTFqVUxPbFZBSEMtMjhleGlxZUNBOWoyNGZWZmxQYzJabjZ0VXQwcW5tcDYyczY5TWx3",
+    "Modern Retail::https://www.modernretail.co/?p=174293"
    ]
   },
   {
-   "headline": "Agent payment rails are forming with major AI platforms",
-   "detail": "Mastercard formed OpenAI and Tencent partnerships for agentic commerce. We should confirm our store can accept agent-initiated checkout and payments.",
+   "headline": "Retailers are racing to ship their own shopping agents",
+   "detail": "Zalando launched an AI shopping agent and Amazon added 100-plus capabilities to its assistant. We should test our own assistant that guides PC buyers to purchase.",
    "segment": "agentic",
    "storyIds": [
-    "PYMNTS Data::CBMitwFBVV95cUxOR085TUQtTFhyempjMDdaQUlpdzdrOHJ2RGVMUXlMTi1hME1IZVZiRXZLckFkM0hIcjFtT0FrN0p6d28zMzJ6RWEzbHBzY2dnVHNlTGlWa2dEN1Z0TmNaMHFtdW9lR0w2eHhHOE5tMkxETl9oRTA2bVdKNHgtSWVBVTRZRm1qcDY3SG5MMWhFd1J2OGVtYTdHdk1ySFpRMG1LZDFlWUZFVHpTZXF1TU5WUTJDb0pFVEU"
+    "Reuters::CBMiygFBVV95cUxQN1ZNRllIUzRYTi1mME16MDlOVE0yVThsamd2NjRNSnhyNk9kYzJNbmlKZHJ0NXlYSXhKVmtqZUFIbVZ5VG9LX2J5YzRNYUJweE82YUtBRXhQZ0NrYXFuOENMbHRhSy10MkRCVmpHRXk2eEw5eUlOcWhEUlVRV1pwakpyb1IxdmxyUVZ3RUdXMWtCaTEzNG1adzZoTE5FT2ZjYzltOERYSENFX04tcDluaVN1cWJtNGotVmNNeDdiclpacHh6cC0wYlB3",
+    "PYMNTS Data::CBMiogFBVV95cUxOUkdubldPejhESzFvRkx6Q0EzbFFESk1wTTdRYlFHLUJpNzZzSDd5ZmdUS21Ob19NVl9kVUZFTzFmSFBVdllUZXZjLV9JQVEwMHpjdkg5ck5iVVBnY2h1eWpqUUk0R01hMVpsalZTSUVrckhacVJwc2tZMC1EY3FXMlA2UmJPcTVRbmJ3dk5pcUJQamx0N3pRam9wa1l2NzFtV1E"
    ]
   },
   {
-   "headline": "Memory shortage keeps PC costs and prices rising into 2028",
-   "detail": "Samsung sees no buyer relief before 2028, DDR5 prices doubled, Asus expects commercial PC prices up nearly 10% in 2H26. We should plan pricing, promotions and inventory for sustained cost pressure.",
+   "headline": "Memory costs keep pushing PC prices up with no near-term relief",
+   "detail": "Samsung sees no buyer relief before 2028 and Asus expects commercial PC prices up nearly 10% in 2H26. We should plan pricing, promotions and mix for a long squeeze.",
    "segment": "pc",
    "storyIds": [
     "DigiTimes::https://www.digitimes.com/news/a20261029VL217/samsung-hbm-chips-profit-2028.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261103VL218/electronics-ddr5-dram-demand-hbm.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261028PD204/asus-commercial-pc-2026-market.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261103PD229/soc-shipments-infrastructure-2026-mobile.html"
+    "DigiTimes::https://www.digitimes.com/news/a20261028PD204/asus-commercial-pc-2026-market.html"
    ]
   },
   {
-   "headline": "Apple posts record quarter but warns of holiday margin drop from memory costs",
-   "detail": "Apple reported $114.5B September-quarter revenue on iPhone and Mac strength, raised prices, and forecast lower holiday-quarter margin. We should expect competitor price moves to reset PC expectations.",
+   "headline": "Apple moves into touchscreen laptops while memory lifts its costs",
+   "detail": "Apple showed its first touchscreen laptops and forecast a holiday-quarter margin drop on memory costs. We should check how our touch lines are positioned and priced online.",
    "segment": "pc",
    "storyIds": [
-    "DigiTimes::https://www.digitimes.com/news/a20261103VL202/revenue-apple-2026-growth-eps.html",
-    "Reuters::CBMixgFBVV95cUxNTGFsc2NMYXRUbERoRkphY2hPVWNDM0ZRRmw3OHZzNnlfN0h1aEowUG9uaHZraTJPNlcyVFVYZGVjYmx2Ui01d09OTm9YejM3UGF1aUJKcHVUSUxxb0ZGNTktQmVuRVF0X0pKYTF2clJ6YnJpVmNmUEZESHc4ZWRqMkt1d0VyMEV2RVZlUkYtUE9EcW03ZXB5RzFmQk01endLRWtzNFpnVGd4el90TFUxLWhxaXRxYUsyT1lmbjIySjQ2NXcxdVE",
-    "ETRetail::https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/consumer-electronics/apple-q4-results-beat-estimates-as-iphone-18-pro-demand-price-hikes-offset-rising-chip-costs/135489559"
+    "Reuters::CBMiuAFBVV95cUxNMGg0QUZLRkZQUmg1ei1BVWZCUEZkcFdueUIyZDJFX3ljN09yRjUzSEE5V0JWVVpRaGRHdHNDaHAtNkRlNXZfWElQM3QxM0lpZTM1UHJYQWhKRmQ2X3JJNzAxRy1lcGIyalhUTEFhRGxyOTUxeU04S2U1X1RSWWUwcldiQndWUTZtYlB0SGZVTFM4eV9HZVV4VGdsRDAzc3h6TWhiZmVDNVF0dkRGMXI1eFhMekQ0TTU2",
+    "Reuters::CBMixgFBVV95cUxNTGFsc2NMYXRUbERoRkphY2hPVWNDM0ZRRmw3OHZzNnlfN0h1aEowUG9uaHZraTJPNlcyVFVYZGVjYmx2Ui01d09OTm9YejM3UGF1aUJKcHVUSUxxb0ZGNTktQmVuRVF0X0pKYTF2clJ6YnJpVmNmUEZESHc4ZWRqMkt1d0VyMEV2RVZlUkYtUE9EcW03ZXB5RzFmQk01endLRWtzNFpnVGd4el90TFUxLWhxaXRxYUsyT1lmbjIySjQ2NXcxdVE"
    ]
   }
  ]
