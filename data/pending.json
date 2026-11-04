@@ -1,66 +1,234 @@
 [
  {
-  "id": "PYMNTS Data::CBMiogFBVV95cUxONFktRWsyNU9kbXliN2RxUzhfTmFpUVFtU0FKZktkUWVsS3MxdkhpcXloVzdxWjdjZklpZXdKbks2ZTFuei1EN0NMNTZZUHhYWjh0dEZkdHpKZVFTZVZDMjlYTmZ0eHVXMkx1VDY4UGhNb2xWUnRaQUZnQ09XZEZuLVhvd01rZmFMTW5LVUhNNjU4ZHJBMFdXSk9wNjFreGprX3c",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-03T20:21:46.000Z",
-  "title": "Amazon Faces Antitrust Class Action Involving 10 Million Consumers",
-  "snippet": ""
- },
- {
-  "id": "Retail TouchPoints::CBMitAFBVV95cUxNR0Z3aHlBNi0tcm15Ui1NeFlFQnZ2Z0VBTjZkeF9vanZ6SG9Tb2Fsdl9fQXFvZkpaQWlxSXUwRmQ3SG1mdk9zT3dhVHJlYVZCb3RsUFpfUmpJcGI1X25kS3FsUmJwNXhSRXFQSzNpTTdxYXM5amY5ZE1tbU5RdW5ZaVlqRElTUmNwWjZXOE9BbEJnTTVHSXlJQmlNS0RuRVZMaWFqYU4tb0JZUk91bERzbUEzbHM",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T20:18:27.000Z",
-  "title": "What Foot Traffic Reveals About Today’s Value-Conscious Consumer",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMiowFBVV95cUxOSFkzT2ktc0U4UDJXQ1FadnZGdWhGc0FTeXV3eE5FZGh0NEZDN2JId1MxTmNERTVNWlF3QjlzTFMxMkZZRnJWNTdsSmdPTjRlOHQxV1lhY1ZFeGt4WWx2YU1CRHlHNUE0bWZHMVdqRWRYMGV3YnZNX2NjdUhBa1ZMUFNDaVFNSkRDd2wtdkIyMmZWc0w1VkxHX3k5cE93WEVUSVFJ",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-03T19:09:50.000Z",
-  "title": "Shopify Revenue Jumps 32% as Agent-Driven Commerce Surges",
-  "snippet": ""
- },
- {
-  "id": "Circana::CBMixwFBVV95cUxOQ01pQmxVS1M4bUFrNU9hckRnNm9ianNjQXQ2R1cxNzBqdjRkMk5vNERVX1VBZGpjOW54S19kUzFVMTRNMGJhMzBQNGFCb0JreEZ0U3J1R0J3R3Jtb0IxMFJ1RVpKZ0FVQ0dHTmdVSzVBY1hGMy1fQUVzWEhCZVRINzhvTE44ZHh6RUJjV1pqSFNJakZZbE9EQU1qbklHbjNmWFlBOXYzWGl3OGhWS0UtcEYxRzVmTmhHeW4yeWVPRF9LbE9MN1J3",
-  "source": "Circana",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-03T18:26:48.000Z",
-  "title": "The Secret Life of Groceries: How Purchase to Consumption Reveals What Really Happens After Checkout and Why It Matters",
-  "snippet": ""
- },
- {
-  "id": "Inc42::https://inc42.com/?p=579126",
-  "source": "Inc42",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104VL219/supermicro-earnings-cash-flow-demand-2027.html",
+  "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-03T18:23:43.000Z",
-  "title": "Blue Ashva Exits iD Fresh Food Via A ₹50 Cr Secondary Transaction",
-  "snippet": "D2C startup iD Fresh Food’s early backer Blue Ashva Capital has exited the startup’s cap table, offloading its entire stake…"
+  "publishedAt": "2026-11-04T05:42:22.000Z",
+  "title": "Supermicro eyes faster cash conversion as turnaround times shrink to 74 days",
+  "snippet": "Supermicro expressed confidence to analysts during its earnings call for the first quarter of fiscal year 2027 regarding quicker turnaround times for orders and improved cash flow. The company cited greater demand for…"
  },
  {
-  "id": "Reuters::CBMizAFBVV95cUxOYk5TNXY0NVhvQVVhRjBIbFROd3dxM0d4OTlndEY5aDduZ3dVeG9LSW5NMlpOZDM1d0IwQW05ZThLNm9lYUo5UEtkeHhqcEo0NFAyc0lRT0dlZi1wdVRqc2VQMG52cVp6MWFmektaMnpZTTdUczJWdmF5ejNQZVVVczdfSUlZUElDeS1jUEo1dkJNZDc5QXhFQ2ZiVTdRZHNmM3NaYngxWWNWSWRLWnJtcXJ0YjZ0ZnFRR010bk5VR1JyUm42VWFFclF6SG0",
-  "source": "Reuters",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD237/darfon-pc-asia-capacity-aidc.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T05:38:09.000Z",
+  "title": "Darfon to consolidate China, Southeast Asia capacity, shift resources to AIDC components",
+  "snippet": "PC component maker Darfon Electronics is consolidating its production capacity in China and Southeast Asia, while simultaneously shifting some of its resources for IT peripherals toward components for AI data centers…"
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=174435",
+  "source": "Modern Retail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T17:53:16.000Z",
-  "title": "Keurig Dr Pepper flags slower fourth-quarter coffee profits as shoppers trade down",
-  "snippet": ""
+  "publishedAt": "2026-11-04T05:00:00.000Z",
+  "title": "How Stitch Fix is using AI and customer feedback to build its private brands",
+  "snippet": "Stitch Fix is going narrow and deep with its private brands, a strategy it says is contributing to revenue growth."
  },
  {
-  "id": "Reuters::CBMiygFBVV95cUxQN1ZNRllIUzRYTi1mME16MDlOVE0yVThsamd2NjRNSnhyNk9kYzJNbmlKZHJ0NXlYSXhKVmtqZUFIbVZ5VG9LX2J5YzRNYUJweE82YUtBRXhQZ0NrYXFuOENMbHRhSy10MkRCVmpHRXk2eEw5eUlOcWhEUlVRV1pwakpyb1IxdmxyUVZ3RUdXMWtCaTEzNG1adzZoTE5FT2ZjYzltOERYSENFX04tcDluaVN1cWJtNGotVmNNeDdiclpacHh6cC0wYlB3",
-  "source": "Reuters",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD235/acer-its-home-appliance-revenue-sales.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T04:32:34.000Z",
+  "title": "Acer Intelligence Space eyes India growth after strong appliance sales",
+  "snippet": "Acer Intelligence Space (ITS) has gained traction in India's home appliance market by hiring a Bollywood star as its brand ambassador and combining competitive pricing with channel expansion. Strong demand for its air…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD236/revenue-aeb-cloud-demand-profit.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T04:25:55.000Z",
+  "title": "AEB 3Q26 revenue jumps 70% on AI demand",
+  "snippet": "Cloud and AI services provider Acer E-Enabling Service Business (AEB) reported 3Q26 revenue of NT$3.822 billion (approx. US$116.7 million), up 70% year-over-year, as AI application demand drove simultaneous growth in…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD223/acer-pc-market-taiwan-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T04:06:14.000Z",
+  "title": "Acer Taiwan expects significant consumer PC growth in 2026 despite overall market weakness",
+  "snippet": "Despite a sharp slowdown in the overall PC market in the second half of 2026, Acer's consumer PC shipments to the Taiwan market rose 15% year-over-year from January to October. The vendor expects Single's Day promotions…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD206/utg-iphone-duo-production-sdc-shipments.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T03:47:13.000Z",
+  "title": "UTI begins iPhone Duo UTG shipments to Samsung Display",
+  "snippet": "South Korean company UTI, the second supplier of ultra-thin glass (UTG) cover glass for Apple’s first foldable smartphone, the iPhone Duo, has begun shipments to Samsung Display (SDC), but mass production is running…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104VL216/hbm-us-chip-restrictions-huawei-china-chips.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T02:59:03.000Z",
+  "title": "Decoy processors carry Korean HBM past US export controls into China",
+  "snippet": "A loophole in US export controls reportedly lets high-bandwidth memory (HBM) made by Samsung Electronics and SK Hynix reach China's AI chip industry. The loophole shows how much Huawei's next-generation processors still…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD203/apple-revenue-growth-iphone-greater-china.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T02:51:59.000Z",
+  "title": "Apple China revenue hits record as memory costs test growth",
+  "snippet": "Apple's Greater China revenue rose 21% year-over-year to a record US$17.5 billion in the fourth quarter of fiscal 2026, ended September, while full-year revenue increased 28%, driven by the launch of the iPhone 18 Pro…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/industry/nexus-select-trust-q2-noi-rises-8-pc-to-rs-504-crore-declares-rs-359-crore-distribution/135519486",
+  "source": "ETRetail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T06:28:00.000Z",
-  "title": "Retailer Zalando launches AI shopping agent as margins squeezed",
-  "snippet": ""
+  "publishedAt": "2026-11-04T02:45:27.000Z",
+  "title": "Nexus Select Trust Q2 NOI rises 8 PC to Rs 504 crore; declares Rs 359 crore distribution",
+  "snippet": "Leasing activity remained strong, with the company achieving re-leasing spreads of 25 per cent on 0.5 million sq ft during the quarter. Its balance sheet had a debt cost of 7.2 per cent, down 30 basis points…"
  },
  {
-  "id": "Counterpoint Research::CBMikAFBVV95cUxPWTZZTXhzN29DZVViUTB4U3FjU3p6TzI4dV9YcXpZLXpDMEw3MDQyVlZmMGxRbEpjRDg5aW51TnAxTzQ3a0VlTEdEY2lSVHdqZUNVRndKcl94aV9pM3p0SXFuX24yd1JTSGdfMWdZYkJ0TVVOaTZvRURIdUhBeGJ5X2VGZDZmb0hIdzFuNWstWlU",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD226/apple-macbook-2027-shipments-forecast.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T02:35:00.000Z",
+  "title": "Apple expects MacBook Neo shipments to double in 2027, sources say",
+  "snippet": "Apple has given suppliers a shipment forecast of 16 million MacBook Neo units for 2027, about double the nearly 8 million units expected in 2026, according to supply-chain sources."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD230/leo-pc-taiwan-revenue-syncmold-enterprise.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T02:33:12.000Z",
+  "title": "Rising LEO satellite share cushions Syncmold, PC market misses peak season",
+  "snippet": "Taiwan's Syncmold Enterprise grew its third-quarter 2026 revenue even as global PC shipments slumped 20.1%, with its expanding low Earth orbit (LEO) satellite business offering key support and emerging as the precision…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD202/samsung-africa-smartphone-market-sales.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T02:31:00.000Z",
+  "title": "Samsung leads Africa smartphone market with installment plans",
+  "snippet": "Samsung Electronics defied a 16.6% year-over-year decline in Africa's overall smartphone sales in the second quarter of 2026, posting 34.8% growth and claiming the continent's smartphone market leadership by sales value…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD201/apple-iphone-duo-growth-iphone-market.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T02:25:22.000Z",
+  "title": "iPhone Duo opens new growth path as AI, services, costs test Ternus",
+  "snippet": "Apple's first foldable iPhone, the iPhone Duo, could reignite upgrade demand in the mature iPhone market, but supply constraints and reported display-quality issues highlight the challenge of turning product excitement…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104VL205/financing-samsung-demand-sk-hynix-chipmakers.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T02:16:39.000Z",
+  "title": "South Korean chipmakers face financing dilemma behind AI memory demand",
+  "snippet": "Samsung Electronics' and SK Hynix's dependence on sustained AI infrastructure spending is bringing customer financing risk into focus. As demand for high-bandwidth memory and server DRAM lifts their businesses, industry…"
+ },
+ {
+  "id": "Counterpoint Research::CBMivAFBVV95cUxOcGZOcmNueTh0eDFFRnlfcWZ5Tjc4VnhZWW43N3hnSG9vQjE1TTl6MExDZHlZUUIwVnpSdm9IM3VGYU0zdU9FTWI5NTF1bHlPQmJ3RllqNjZjNmdIUUJpRk9sSUZXaUJ3ZUdUOC0tM2hlVUcwMGtiX1E0UDRYSmEySkpNS3ZOTDN1N1NfLWxwVnE2emFsSnoxRWFhRllNel9KOTZqaDhGVDNiMEx3c2xPSGRBeFZYcVNrdVZyMA",
   "source": "Counterpoint Research",
   "sourceType": "Analyst",
-  "publishedAt": "2026-10-30T14:55:08.000Z",
-  "title": "Global Quarterly ARM Laptop Tracker Q2 2026",
+  "publishedAt": "2026-11-04T02:06:20.000Z",
+  "title": "Apple Accelerates OLED Adoption with New iPad mini and Touch-Enabled MacBook Pro, Reinforcing Premium Display Strategy",
+  "snippet": ""
+ },
+ {
+  "id": "Counterpoint Research::CBMihwFBVV95cUxPZTNfV0lBWE1qVGNUbG5vaktoS3MyYnpHdmNJd0NTUjZLb2FpeFNzNTNCRmFxMVIzTFhMOG5rM3A0eHdMUlpxdWEyRkd2UzhKZHlLTVozb2FlWXZrbF9DRkFobXZYd0lwSktMRlo2Wkc1bEVXOHlOcUk4Z0pweklpRzNHLUtXcTg",
+  "source": "Counterpoint Research",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-04T02:06:19.000Z",
+  "title": "Qualcomm and Anduril Unveil BlueChip: A Strategic Push to Bring PC Manufacturing Back to the US",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104VL210/onsemi-automotive-data-center-revenue-2027.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T01:43:56.000Z",
+  "title": "Onsemi targets every stage of AI power delivery while holding back automotive restocking",
+  "snippet": "Onsemi is pitching its AI data center business as a play on the entire power path inside an AI rack, and for now it is prioritizing that business and industrial customers over automotive restocking. On its third-quarter…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD200/infrastructure-alphabet-funding-meta-amazon.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T01:36:30.000Z",
+  "title": "Tech giants commit over US$3 trillion as AI infrastructure faces funding, power test",
+  "snippet": "Alphabet, Meta Platforms, Microsoft, Amazon, and Oracle have disclosed more than US$3 trillion in future commitments for leases, equipment purchases, energy, and construction as the AI infrastructure race accelerates…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD214/foxtron-tesla-taiwan-brand-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T01:14:51.000Z",
+  "title": "Analysis: Foxtron led Taiwan's EV market during Tesla's delivery lull",
+  "snippet": "Foxtron Vehicle Technologies became Taiwan's top-selling EV brand for the first time in October 2026 by capitalizing on Tesla's early-quarter supply gap. The milestone is a sign that the homegrown automaker is gaining…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104VL209/amd-pc-growth-embedded-2027.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T01:00:07.000Z",
+  "title": "AMD plans for a weaker PC market in 2027 as embedded growth gains momentum",
+  "snippet": "AMD is preparing for another difficult year in PCs even as demand for its data center products exceeds available supply. The company's earnings call exposed the widening gap between its businesses: higher component…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261103PD239/revenue-winbond-gross-margin-profit-business.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T00:58:31.000Z",
+  "title": "Winbond profit surges 12-fold in 3Q26 as gross margin tops 70%",
+  "snippet": "Winbond Electronics reported strong results for the third quarter of 2026, with revenue, including subsidiary Nuvoton Technology, reaching NT$82.33 billion (approx. US$2.51 billion), up 37.6% from the previous quarter…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104VL204/bosch-robotics-business-manufacturing-market.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T00:48:04.000Z",
+  "title": "Bosch creates semiconductor division to expand in robotics, external chipmaking",
+  "snippet": "Bosch plans to create a dedicated semiconductor division as it seeks more business in robotics, AI infrastructure, and manufacturing for external customers, extending a chip strategy rooted in automotive electronics…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104VL203/lges-recovery-incentives-demand-loss.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T00:19:39.000Z",
+  "title": "LG Energy Solution's storage battery surge restores core profit as spending falls",
+  "snippet": "LG Energy Solution's third-quarter recovery shows energy storage as a growing earnings driver as the battery maker redirects production toward North American demand. Better factory utilization helped restore operating…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104VL201.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-03T23:58:16.000Z",
+  "title": "AMD's data center surge shifts growth toward AI systems as cash conversion weakens",
+  "snippet": "AMD's third-quarter results show its data center business becoming the main driver of growth and profitability, even as gaming demand retreats. The next test is whether a steep expansion in AI systems and server…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104VL200.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-03T23:56:34.000Z",
+  "title": "Supermicro's record AI server sales put margins and cash conversion in focus",
+  "snippet": "Supermicro's latest results show its expansion into complete AI data center systems gaining scale, while leaving open how much of that growth can translate into durable profitability and cash. Record sales lifted…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261103PD215/manufacturing-foxconn-vertical-integration-infrastructure-component.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-03T23:51:43.000Z",
+  "title": "Foxconn's AI infrastructure edge goes beyond assembly &mdash; precision manufacturing, vertical integration set a higher bar",
+  "snippet": "Foxconn is leveraging its precision manufacturing and vertical integration capabilities to strengthen its position in AI infrastructure, where rapid server upgrades increasingly demand tighter component tolerances and…"
+ },
+ {
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363894",
+  "source": "Digital Commerce 360",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-03T23:17:47.000Z",
+  "title": "Estée Lauder CEO praises travel retail, online sales as Q1 net sales grow 6%",
+  "snippet": "The Estée Lauder Companies Inc. reported increases in online sales in Asia and in its travel retail business during the company’s fiscal first quarter ended Sept. 30. The Health & Beauty brand raised its outlook for…"
+ },
+ {
+  "id": "Circana::CBMixgFBVV95cUxQVUU2RU9tQjJKTUo2YnlCWWV6MGlCTjJnUGtxUURBUG5xenRhMEhUTmczTnJUSm1WWXRCb0NpR3AyTXpydTJlS2NIZmFsQklROGxGWGlncGszWFIza0pOZ0M3UVVDWlRpRlhnU0FfUGdVaXVOOGZSaXJsRVRtZ2pGdVdTMnE0Sk5XSnRYTHV1OHBMZWpJOVV3UFRSMlZJZDE3Ry1JaUx1V3RvYmtrZ2lLV3RPbmVqelNWQnRCc3l5ZVhzY1Z3SEE",
+  "source": "Circana",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-28T13:01:05.000Z",
+  "title": "GTA VI: Record 29% Purchase Intent Among U.S. Gamers",
   "snippet": ""
  }
 ]
