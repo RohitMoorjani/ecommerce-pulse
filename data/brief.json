@@ -1,44 +1,35 @@
 {
- "updatedAt": "2026-11-04T06:52:19.993Z",
+ "updatedAt": "2026-11-04T18:51:41.091Z",
  "title": "AI is the new storefront, and cost pressure will shape our PC pricing",
- "summary": "55% of shoppers use AI in discovery (NIQ); 400M used Alexa for Shopping and spend 50% more (Amazon). Asus sees Taiwan commercial PC prices up ~10% in 2H26; Samsung sees no memory relief before 2028; Apple plans 16M MacBook Neo units in 2027.",
+ "summary": "55% of shoppers use AI in discovery (NIQ); 400M used Alexa for Shopping and spend 50% more (Amazon). Samsung sees no memory relief before 2028; Apple plans 16M MacBook Neo units in 2027; HP named a new CEO.",
  "points": [
   {
    "headline": "AI assistants now steer product discovery and spend",
-   "detail": "55% of consumers use AI in discovery (NIQ) and Alexa shoppers spend 50% more (Amazon). Amazon also widened Shop Direct to keep discovery in-house. Our listings must be readable by AI agents.",
+   "detail": "55% use AI in discovery (NIQ); Alexa shoppers spend 50% more; Amazon wins 59% of AI-assisted purchases. Our listings and checkout must work inside AI agents.",
    "segment": "agentic",
    "storyIds": [
     "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
     "Modern Retail::https://www.modernretail.co/?p=174293",
-    "PYMNTS Data::CBMiuwFBVV95cUxQem56Vk9DY0NRMUotVS0wWXlFUFU2dGVRSFdWS1ptSW5DNEtReGVfemtSN2NScVRjRHhtM19mVmRUUndCd0IwMXBoWkoyekhQNHFwRGp6SHVoMDNfTG1mTU8ydzFwLWVnd0hLWEZ6Zjd5dkFra0NQTThPcG5icFRSQWE3bGNHN1p5OTA3X09kSWJDYXhldUl2eVdvUHM3OWppVU5Ra3dBVVVJdUNvM0lUcXc3ZVdMekZBSUw4"
+    "PYMNTS::https://www.pymnts.com/?p=4350312"
    ]
   },
   {
    "headline": "Memory costs keep PC prices rising with no relief before 2028",
-   "detail": "Asus expects Taiwan commercial PC prices up nearly 10% in 2H26 after a ~30% H1 surge, and Samsung sees no buyer relief before 2028. We should plan pricing, promotions and stock for sustained cost pressure.",
+   "detail": "Samsung sees no buyer relief before 2028 and Asus expects commercial PC prices up nearly 10% in 2H26. Plan pricing, promotions and stock for sustained cost pressure.",
    "segment": "pc",
    "storyIds": [
+    "DigiTimes::https://www.digitimes.com/news/a20261029VL217/samsung-hbm-chips-profit-2028.html",
     "DigiTimes::https://www.digitimes.com/news/a20261028PD204/asus-commercial-pc-2026-market.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261029VL217/samsung-hbm-chips-profit-2028.html"
+    "DigiTimes::https://www.digitimes.com/news/a20261103PD229/soc-shipments-infrastructure-2026-mobile.html"
    ]
   },
   {
-   "headline": "Apple is pushing hard into laptops with touch and a doubled MacBook Neo plan",
-   "detail": "Apple showed touchscreen laptops and told suppliers to plan 16M MacBook Neo units in 2027, double 2026. Expect sharper laptop competition and promotions; review our entry-level and touch lineup online.",
+   "headline": "Apple and HP reshape the competitive PC field",
+   "detail": "Apple told suppliers to plan 16M MacBook Neo units in 2027, double 2026, while HP named a new CEO amid memory costs. Expect entry-level promo pressure.",
    "segment": "pc",
    "storyIds": [
     "DigiTimes::https://www.digitimes.com/news/a20261104PD226/apple-macbook-2027-shipments-forecast.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261029VL200/apple-touchscreen-sdc-macbook-pro-supplier.html"
-   ]
-  },
-  {
-   "headline": "PC demand is soft, but consumer promotions and AI PCs still grow",
-   "detail": "AMD plans for a weaker 2027 PC market, yet Acer Taiwan consumer shipments rose 15% and Intel AI PC sales grew. We should lean on AI PCs and Singles' Day style promotions.",
-   "segment": "pc",
-   "storyIds": [
-    "DigiTimes::https://www.digitimes.com/news/a20261104VL209/amd-pc-growth-embedded-2027.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261104PD223/acer-pc-market-taiwan-2026.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261030VL206/intel-pc-ai-pc-sales-demand.html"
+    "CRN::https://www.crn.com/news/computing/2026/5-things-to-know-about-new-hp-ceo-emma-walmsley"
    ]
   }
  ]
