@@ -1,178 +1,74 @@
 [
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/outdoor-voices-expands-uk-eu/873730/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-04T16:57:00.000Z",
-  "title": "Outdoor Voices inks licensing deal for UK and EU",
-  "snippet": "The activewear lifestyle brand is partnering with Focus Brands to expand into new markets, with an initial focus on wholesale and e-commerce."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/adidas-q3-earnings-sales-growth-lifestyle-footwear-market/873640/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-04T16:51:00.000Z",
-  "title": "‘This will normalize’: What Adidas’ Q3 reveals about the broader footwear market",
-  "snippet": "CEO Bjørn Gulden acknowledged difficulties in the lifestyle footwear market but said growth won’t happen until “the market is clean.”"
- },
- {
-  "id": "Circana::CBMixgFBVV95cUxQM3R4OEZsYVQyY3VIc3ZHejdaSlBBZ2ZqbjBoaFJGbU5XQ0hLZ1BpRFE1N1JsX0pabUwwWjE2VDRzcmhFa3lJU1E0YUd1SlNzd1lqbEllbXgwYnZQZjNJM3R3Ny1IR3FyVW1TS1FKN0I5Ujl1cTFuZW1Jbm1XeTFWMDNLckNYdWl2NTV0R1QzbTRTWFZkVVBBOU5IVGZxS21PZkp0OFRuOFd5Zl9JRThiWDh6MlpPSF9GVE9nUzQ1SGtwUV9qSFE",
-  "source": "Circana",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-04T16:26:48.000Z",
-  "title": "Economic Confidence Slips Ahead of the Holidays, but Consumers Remain Determined to Celebrate, Circana Finds",
-  "snippet": ""
- },
- {
-  "id": "Reuters::CBMivAFBVV95cUxPUWZfYmc3VnVieU56OVF4S1RhMlVMMUhXR2JjZzFhVnVvcnBhLTU0aHFEUDVlN044aThuQWZ4UWpOY1c0cm5wT24xTktkRS1FVjI4VndwLU9WbzFSek1ublFKTmQ2UUxPMTVoam9lcmxnYUM2WGgxdUVOMF9EZ0MyVENMRDU3VUlZQk5yUGd0QXdQWWZUbVo0cVZ2azZFSUFERjhVX1pxaDVOQ0trZ1dRNTR4RFpBenh1QUgyWQ",
+  "id": "Reuters::CBMirgFBVV95cUxQMGV2UGo5V1FRUGxkUzdPWVo1NGhFM2lvM2N5NVUycUUya2VIX3N2aHM5am8tNUhCQ21oMng4LVQ2UllCWnRpdlNqUDd4MTM2ZVhpUTBlR3NQTTdBZFNMVlRDVV9LQ2d4Vjc1M0ZBcldwZmVEaGpDTENnVHR2bmp3Sm9ENnF6YWU1TDRjcmxiSWQwTjY5clQwb2V2a1JMdUhxLXRfLUZwUlNwR0Rob1E",
   "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-04T15:37:45.000Z",
-  "title": "AI shopping agents could threaten Amazon and Walmart's ad business",
+  "publishedAt": "2026-11-04T22:19:58.000Z",
+  "title": "Arm forecasts third-quarter revenue above estimates on AI spending boom",
   "snippet": ""
  },
  {
-  "id": "CRN::https://www.crn.com/news/computing/2026/5-things-to-know-about-new-hp-ceo-emma-walmsley",
+  "id": "Retail Dive::https://www.retaildive.com/news/google-wallet-digital-agentic-retail/873721/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-04T21:41:00.000Z",
+  "title": "Google makes big plans for wallet",
+  "snippet": "The tech giant thinks a digital wallet should act as a repository for receipts, track online orders and arrange refunds, among other tasks."
+ },
+ {
+  "id": "Retail TouchPoints::CBMirwFBVV95cUxNMlZGYVdxQ3duUFM1R1JPYW5LRjVLWURyc0FJS3daQ2JXQXllcGE3Q0kyd2lKOHZuMHAxaXVOS0pFaG9qaXYzWlRaZGNKUzhOelF4b2R1NksxaUlpUi1BTVV4Rl9qLVVzQWJ4M0RfdllIYmc1VWtuVnlldm5nSzB2emZfTHN5Vk0yaHF2TGtBRjBMbndDazVndXBNRnpKSzBxeGlpVkN3SHN5QWI1QmNn",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-04T20:02:14.000Z",
+  "title": "Forter Introduces New Capabilities with Agentic Commerce Engine",
+  "snippet": ""
+ },
+ {
+  "id": "CRN::https://www.crn.com/news/computing/2026/hp-s-ceo-hire-from-outside-it-industry-is-smart-move-could-bring-new-insights-partners",
   "source": "CRN",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-04T14:45:00.000Z",
-  "title": "5 Things To Know About New HP CEO Emma Walmsley",
-  "snippet": "HP Inc. announced Wednesday it has named Emma Walmsley, a former biopharmaceuticals CEO, as its next chief executive as the PC and printer giant continues to pursue AI-driven growth and deal with surging memory costs."
+  "publishedAt": "2026-11-04T19:44:00.000Z",
+  "title": "HP’s CEO Hire From Outside IT Industry Is Smart Move, Could Bring ‘New Insights’: Partners",
+  "snippet": "HP Inc.’s appointment of a prominent executive from outside the IT industry, former GSK CEO Emma Walmsley, to serve as its incoming chief executive could be crucial to bringing new perspectives to the PC giant in the…"
  },
  {
-  "id": "TWICE::https://www.twice.com/?p=166915",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-04T14:01:25.000Z",
-  "title": "Birdfy Makes Automatic Bird ID Free For Life",
-  "snippet": "The benefit covers new and existing customers and includes identification of more than 6,000 bird species"
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363910",
+  "source": "Digital Commerce 360",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-04T19:35:17.000Z",
+  "title": "CVS Health to split retail pharmacy and health care service into two companies",
+  "snippet": "CVS Health announced that it plans to separate its retail pharmacy chain from its health care insurance and services business units into two distinct companies. The move comes as retail pharmacies broadly face…"
  },
  {
-  "id": "TWICE::https://www.twice.com/?p=166941",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-04T14:01:22.000Z",
-  "title": "‘Demand Is Already Well Ahead Of What We Can Build’: This US Factory Claims Its ‘One Large Robot’ Can Build Circuit Boards Faster Than Its Chinese Competition",
-  "snippet": "CircuitHub claims to beat Chinese PCB suppliers on speed, not price"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166919",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-04T14:00:29.000Z",
-  "title": "The One-Page MAP Check Before Holiday TV Deals Go Live",
-  "snippet": "Five things brands and dealers should settle before the November promos start"
- },
- {
-  "id": "NIQ::CBMiuwFBVV95cUxQYUFYcU1KTEY5M0xLb204S1FyTFpncUdpd21sVmZRY3Jkam1HeHhTWFpXNXViWS1zMHlTYXZuSFpXaGJaQ05ObENIZ0ZCY1ptRkhCWFkzSFlTOUlaV3hIZ3FMSktTOTN5b1dZTGNfcmVrckRuZk1NajlkeEJuQ1VtYkR1UC1KZnMwdU9pbW9LZ1dQbTF3UnVOMF9sZVFadDFtWVdYT05IbWhJVE1HNkJ2aWR1ZGFlVUNBY2U0",
-  "source": "NIQ",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-04T12:58:44.000Z",
-  "title": "Restaurants’ delivery sales strengthen in September after tough Summer",
-  "snippet": ""
- },
- {
-  "id": "Retail TouchPoints::CBMiV0FVX3lxTE56RUZPaVBLdG1lQzJlTksyeTRiT2Q2Y2t6VzR2TkJrZ2x1N01WejFPek8xOUtLZmNSLUpvOW9kLXF3eTkwWnMtWUJsSXhRNEpubmUwaXljdw",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-04T12:56:37.000Z",
-  "title": "Retail News & Insights",
-  "snippet": ""
- },
- {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76459",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-04T12:17:25.000Z",
-  "title": "Omnicom Media joins RMX retail media pilot",
-  "snippet": "Connected commerce company SMG has named Omnicom Media (OM) as the agency beta partner for RMX, its retail media exchange platform. The post Omnicom Media joins RMX retail media pilot appeared first on InternetRetailing."
- },
- {
-  "id": "Retail TouchPoints::CBMiuwFBVV95cUxNbmNtRWNpSElaZXNRS2I1Z25OS29kVDB0eU1vV2xGaDhhdlcxaVhoVmY2VjBrRzZvNXgxZGROOWxQYnhoS3RoUm5kaER1bkgyT0k1ZEhkTHNNb2M0eE5GUGVsLV9wemFHUXNvWktxR2F6RzVYc1RFbFlPdGNUT3RVbHBzd2NKUlNSNkEyVUxGdkMtU2NoOG5fTksxampXdlI0ZzdzN2l4VzJiN0tFY0ZHSTFRMEhIdEhHcWdr",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-04T12:02:06.000Z",
-  "title": "Consumers Value Trust Over Price When Shopping for Apparel: True Religion",
-  "snippet": ""
- },
- {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76456",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-04T11:23:48.000Z",
-  "title": "M&S food momentum puts pressure on supermarket rivals",
-  "snippet": "Marks & Spencer's interim results for H1 26/27 show food sales growth that continues to outpace much of the wider market. The post M&S food momentum puts pressure on supermarket rivals appeared first on…"
- },
- {
-  "id": "Inc42::https://inc42.com/?p=579242",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-04T10:42:21.000Z",
-  "title": "Nykaa’s Q2 Profit More Than Triples To ₹101 Cr, Revenue Up 28% YoY",
-  "snippet": "Beauty and fashion ecommerce major Nykaa reported a 206.8% jump in its consolidated net profit to ₹101.2 Cr in the…"
- },
- {
-  "id": "PYMNTS Data::CBMinwFBVV95cUxOSkszT01PVGgwSzVCcFpzeUdLeEVzNGdrLUJydm0yWnF0UTdfVGdhQWcxSENBMmlyaGVFU29lZlg2emc0enU0SzJZRE5henFuR0JpNnp3VHJIeXFJRXZvZldLUFNqZXZXTHl5VDUydTc5aXBlaVNUdlprb0pnb0dGRUlEQ01XVHNfRXlaQ2FRZ3RCa1JUaTE5U1NGcG5hVzA",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-04T09:04:50.000Z",
-  "title": "Younger Consumers Make Providers Pay for Bad Billing",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS::https://www.pymnts.com/?p=4365948",
+  "id": "PYMNTS::https://www.pymnts.com/?p=4368531",
   "source": "PYMNTS",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-04T09:00:52.000Z",
-  "title": "Google’s Next Big Bet Is a Business It’s Never Won",
-  "snippet": "On October 28, Google told Wall Street something that publishers, small businesses and anyone who’s ever depended on search traffic have been telling Google for two years. When the AI answers the question, the money…"
+  "publishedAt": "2026-11-04T19:16:51.000Z",
+  "title": "Amazon Offers Merchants New Connection to Alexa for Shopping",
+  "snippet": "Amazon is launching an extension of its Shop Director program to help merchants connect with Alexa for Shopping. The Shop Direct Merchant Workspace, announced Wednesday (Nov. 4), lets any eligible merchant register for…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261104VL221/samsung-broadcom-supreme-smartphone-2023.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-04T08:53:59.000Z",
-  "title": "Broadcom loses final appeal over Samsung chip supply deal",
-  "snippet": "South Korea's Supreme Court has upheld a KRW18.664 billion (approx. US$13.9 million) fine against Broadcom for pressuring Samsung Electronics into a long-term smartphone component purchasing agreement by disrupting…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PR201/onsemi-processor-technology-revenue-growth.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-04T08:47:00.000Z",
-  "title": "Onsemi to buy Ferric for US$600M to strengthen AI processor power delivery",
-  "snippet": "Onsemi has agreed to acquire Ferric, Inc., a developer of integrated voltage regulator (IVR) technology, for US$600 million in cash plus up to US$175 million in contingent consideration tied to revenue milestones, the…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD210/intel-ddr4-raptor-lake-pc.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-04T07:22:47.000Z",
-  "title": "Intel reportedly targets DDR4 upgrades with Raptor Lake Next",
-  "snippet": "DDR4 memory, once gradually fading from the market, is regaining popularity as tight DRAM supply drives DDR5 prices higher. Following AMD's revival of processors supporting the AM4 platform, Intel is reportedly…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261104VL220/samsung-hbm-amd-texas-fab.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-04T06:57:15.000Z",
-  "title": "Samsung to reportedly make AMD, Nvidia HBM base dies at second Texas fab",
-  "snippet": "Samsung Electronics plans to produce high-bandwidth memory (HBM) base dies for AMD at its second foundry plant in Taylor, Texas, with the US chipmaker accounting for most of the facility's planned output, South Korea's…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD225/pc-2026-darfon-demand-revenue.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-04T06:50:00.000Z",
-  "title": "PC slump hits Darfon, but MLCCs, green energy keep 2026 growth on track",
-  "snippet": "Affected by weak notebook and PC demand, Darfon Electronics reported third-quarter 2026 consolidated revenue of NT$7.011 billion (US$214 million), up 7.8% year-over-year but down about 6.7% quarter-over-quarter. The…"
- },
- {
-  "id": "Reuters::CBMiwAFBVV95cUxNM01ic0VHVkhaaTh2RV9KVV8zNHFCNW1TZnRlc29mMDg5T200aGRFZkdhd0JtYmtiZGt4LVJRdTdzWlV4dnhnRk9WVW5NWE1QWEFXSmhnZFVDNHpUVk94b0NFOEt4MXNLRWFmYTQzZnlZN3VvTGNtVzZFNnFHQVJ6NWlISXlsNFFBYnVVMnhXTVlOUHE0MWk2TWhYUFgtQ2Yzc1JzVHVRNmo5RmpvQ3Qwc3E3bkJVQTRnQ2JIX2x5NVg",
-  "source": "Reuters",
+  "id": "Retail Dive::https://www.retaildive.com/news/wayfair-strongest-quarter-since-pandemic/873740/",
+  "source": "Retail Dive",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T21:18:00.000Z",
-  "title": "AMD forecast eases AI spending fears as data-center sales surge",
+  "publishedAt": "2026-11-04T17:18:00.000Z",
+  "title": "Wayfair notches ‘strongest quarter of growth’ since the pandemic",
+  "snippet": "The retailer posted nearly 10% revenue gains and 4.7% growth in active customers in Q3, even as consumer spending habits change in the home category."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/hydro-flask-osprey-owner-receives-acquisition-proposal-valued-at-16b/873719/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-04T16:31:00.000Z",
+  "title": "Hydro Flask, Osprey owner receives acquisition proposal valued at $1.6B",
+  "snippet": "Empower Brands made an unsolicited offer to purchase all outstanding common stock at $37 per share, alleging Helen of Troy's board destroyed shareholder value."
+ },
+ {
+  "id": "PYMNTS Data::CBMikAFBVV95cUxPd3NvaDdrTUpBSWhmVU1heXozbGVacEZIN3VuczN6TVZIX1F4WTZfeElubDhfbWFrWDBfZkZjSmRaYUM1S0E1cHFlbVM4dDBHbS1GOXY5TWdtNkhOVkMtOUlYU2J0SXVBa0hiLWFlQURhbDh1OE13Uk5SbFNjUl9SREhrandNeFNraTM3ZkhuVWg",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-28T14:37:28.000Z",
+  "title": "Why Consumers Are Looking to Financial Institutions for Insurance",
   "snippet": ""
  }
 ]
