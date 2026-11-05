@@ -1,74 +1,106 @@
 [
  {
-  "id": "Reuters::CBMirgFBVV95cUxQMGV2UGo5V1FRUGxkUzdPWVo1NGhFM2lvM2N5NVUycUUya2VIX3N2aHM5am8tNUhCQ21oMng4LVQ2UllCWnRpdlNqUDd4MTM2ZVhpUTBlR3NQTTdBZFNMVlRDVV9LQ2d4Vjc1M0ZBcldwZmVEaGpDTENnVHR2bmp3Sm9ENnF6YWU1TDRjcmxiSWQwTjY5clQwb2V2a1JMdUhxLXRfLUZwUlNwR0Rob1E",
+  "id": "Modern Retail::https://www.modernretail.co/?p=173575",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-05T05:00:00.000Z",
+  "title": "Modern Retail+ Reseach: Brands’ focus on owned channels wavers for the 2026 holiday season",
+  "snippet": "A new Modern Retail+ Research report examines which commerce channels are dominating marketers’ holiday strategies."
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=174597",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-05T05:00:00.000Z",
+  "title": "High-protein holiday treats are here",
+  "snippet": "Products like high-protein peppermint bark and hot cocoa are taking up more shelf space this holiday season at retailers like Target."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261105VL219/semiconductors-equipment-production-asml-earnings-2028.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-05T05:00:00.000Z",
+  "title": "Chipmakers rush to secure equipment for 2029 as lead times top two years",
+  "snippet": "Chipmakers are moving to secure production equipment for delivery as far ahead as 2029, as AI-driven fab expansion pushes some equipment lead times beyond two years and forces manufacturers to negotiate supply contracts…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261105VL218/cirrus-logic-revenue-capacity-earnings-camera.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-05T04:23:11.000Z",
+  "title": "Cirrus Logic rides iPhone content wave, but backend squeeze, PC slump cloud the path ahead",
+  "snippet": "Cirrus Logic reported revenue of US$559.5 million for its fiscal second quarter ended September 26, up 22% sequentially and roughly flat year-on-year. Non-GAAP earnings per share came in at US$2.70, with gross margin…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261105PD218/growth-electronics-market-telecom-2025.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-05T03:56:32.000Z",
+  "title": "Price hikes, market saturation curb global telecom, consumer electronics export growth",
+  "snippet": "Rising global oil prices have driven up food costs, squeezing consumer discretionary budgets for products with higher price elasticity, such as smartphones and consumer electronics. A specialized report from Taiwan's…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261105PD219/flexium-2027-production-2028-infrastructure.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-05T03:47:12.000Z",
+  "title": "Flexium eyes 2027 breakthrough as PTFE enters mass production in 2028",
+  "snippet": "Flexium Interconnect chairman Walter Cheng said the company has emerged from the toughest operating downturn of the past two years and expects AI orders for smart glasses and infrastructure to accelerate in 2027, which…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261105VL216/samsung-fab-hbm-2nm-production.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-05T02:55:00.000Z",
+  "title": "Samsung reportedly plans 2nm fab to boost HBM base-die output",
+  "snippet": "Samsung Electronics is preparing to build a 2nm- and 4nm-class foundry fab at its Giheung campus in Yongin, South Korea, to expand production of logic base dies used in high-bandwidth memory (HBM). The fab is estimated…"
+ },
+ {
+  "id": "TrendForce::CBMizAFBVV95cUxPay1aY3VBY2hJdXNoOWROdnZXT0xFT0M1eTlJMWlXVFBIaWhpM2YyTTZjdFhkZW8tX1NnNnpFOFRZRWJsQjBPUGdyUE54a3N6eGkyc1MwdVFBUWpZaDlBMC1vSGxuOGJHUDVCUEhVcWtNOUo0RWFUeVBlMXRMYWtRajlBaG1HZklIZ1BEa0s5dVdVQXZFbkZVNHNMX0xiV2l1eFlGQTVYOUJ3aUdLUEJEWnpXc3lnUHNXaGM0Zlp5V05Vek5ZcDBSUWtwZU4",
+  "source": "TrendForce",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-05T02:35:31.000Z",
+  "title": "[News] Huawei, Alibaba, Tencent, Xiaomi, Baidu, ZTE and Lenovo Invest in Optical Communications",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD242/winbond-fab-expansion-equipment-wafer.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-05T02:35:00.000Z",
+  "title": "Winbond approves US$2.2 billion fab expansion, seeks long-term deals with 10 customers",
+  "snippet": "Winbond's board has approved approximately NT$73.1 billion (approx. US$2.23 billion) in capital spending to expand its Kaohsiung wafer fab, as the Taiwanese memory chipmaker prepares to select 10 strategic customers for…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD228/murata-silicon-semco-winbond-capacitor.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T23:37:41.000Z",
+  "title": "Murata, Samsung Electro-Mechanics reportedly secure Winbond's silicon capacitor capacity",
+  "snippet": "Murata Manufacturing and Samsung Electro-Mechanics (Semco) have reportedly secured silicon capacitor production capacity from Winbond Electronics to meet demand from their end customers, as the Taiwanese memory maker…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD221/automakers-capacity-logistics-competition-military.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T23:36:24.000Z",
+  "title": "From assembly lines to front lines, defense opens new opportunities for automakers",
+  "snippet": "As low capacity utilization, steep tariffs, and fierce competition from Chinese automakers pressure the industry, significant growth in European defense spending is opening new business opportunities for European and US…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD219/nvidia-infrastructure-epc-data-capacity.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-04T23:34:14.000Z",
+  "title": "Nvidia DSX POD leads modular wave as Taiwanese firms race into AI data-center integration",
+  "snippet": "As AI data center construction continues to scale up, shortening build times and bringing computing capacity online faster have become key priorities for cloud service providers (CSPs) and AI infrastructure companies…"
+ },
+ {
+  "id": "Reuters::CBMiswFBVV95cUxQdzhBWW84MDBIWHJlekhTMV9ZSlQ1UVFPbjdvc0swVkJzNHhGZEYyLS1ZdW5Xam1YeG5sSHJrdXlFNWVqMmVVN2lCSUIwMzh1bGRrazk0YU9Ka2FQc0VvWWxUZXJ6TEI2MHh1VEd0X2IyV3Jybld2UEdBakkwMmJGcWFEUVUzTTZMdVA5azA3ZTEweXQtS3RSSnU0SmxxS0Q4WGRwanBHMVppdGpzOFRUYk5Jcw",
   "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-04T22:19:58.000Z",
-  "title": "Arm forecasts third-quarter revenue above estimates on AI spending boom",
-  "snippet": ""
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/google-wallet-digital-agentic-retail/873721/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-04T21:41:00.000Z",
-  "title": "Google makes big plans for wallet",
-  "snippet": "The tech giant thinks a digital wallet should act as a repository for receipts, track online orders and arrange refunds, among other tasks."
- },
- {
-  "id": "Retail TouchPoints::CBMirwFBVV95cUxNMlZGYVdxQ3duUFM1R1JPYW5LRjVLWURyc0FJS3daQ2JXQXllcGE3Q0kyd2lKOHZuMHAxaXVOS0pFaG9qaXYzWlRaZGNKUzhOelF4b2R1NksxaUlpUi1BTVV4Rl9qLVVzQWJ4M0RfdllIYmc1VWtuVnlldm5nSzB2emZfTHN5Vk0yaHF2TGtBRjBMbndDazVndXBNRnpKSzBxeGlpVkN3SHN5QWI1QmNn",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-04T20:02:14.000Z",
-  "title": "Forter Introduces New Capabilities with Agentic Commerce Engine",
-  "snippet": ""
- },
- {
-  "id": "CRN::https://www.crn.com/news/computing/2026/hp-s-ceo-hire-from-outside-it-industry-is-smart-move-could-bring-new-insights-partners",
-  "source": "CRN",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-04T19:44:00.000Z",
-  "title": "HP’s CEO Hire From Outside IT Industry Is Smart Move, Could Bring ‘New Insights’: Partners",
-  "snippet": "HP Inc.’s appointment of a prominent executive from outside the IT industry, former GSK CEO Emma Walmsley, to serve as its incoming chief executive could be crucial to bringing new perspectives to the PC giant in the…"
- },
- {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363910",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-04T19:35:17.000Z",
-  "title": "CVS Health to split retail pharmacy and health care service into two companies",
-  "snippet": "CVS Health announced that it plans to separate its retail pharmacy chain from its health care insurance and services business units into two distinct companies. The move comes as retail pharmacies broadly face…"
- },
- {
-  "id": "PYMNTS::https://www.pymnts.com/?p=4368531",
-  "source": "PYMNTS",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-04T19:16:51.000Z",
-  "title": "Amazon Offers Merchants New Connection to Alexa for Shopping",
-  "snippet": "Amazon is launching an extension of its Shop Director program to help merchants connect with Alexa for Shopping. The Shop Direct Merchant Workspace, announced Wednesday (Nov. 4), lets any eligible merchant register for…"
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/wayfair-strongest-quarter-since-pandemic/873740/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-04T17:18:00.000Z",
-  "title": "Wayfair notches ‘strongest quarter of growth’ since the pandemic",
-  "snippet": "The retailer posted nearly 10% revenue gains and 4.7% growth in active customers in Q3, even as consumer spending habits change in the home category."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/hydro-flask-osprey-owner-receives-acquisition-proposal-valued-at-16b/873719/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-04T16:31:00.000Z",
-  "title": "Hydro Flask, Osprey owner receives acquisition proposal valued at $1.6B",
-  "snippet": "Empower Brands made an unsolicited offer to purchase all outstanding common stock at $37 per share, alleging Helen of Troy's board destroyed shareholder value."
- },
- {
-  "id": "PYMNTS Data::CBMikAFBVV95cUxPd3NvaDdrTUpBSWhmVU1heXozbGVacEZIN3VuczN6TVZIX1F4WTZfeElubDhfbWFrWDBfZkZjSmRaYUM1S0E1cHFlbVM4dDBHbS1GOXY5TWdtNkhOVkMtOUlYU2J0SXVBa0hiLWFlQURhbDh1OE13Uk5SbFNjUl9SREhrandNeFNraTM3ZkhuVWg",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-28T14:37:28.000Z",
-  "title": "Why Consumers Are Looking to Financial Institutions for Insurance",
+  "publishedAt": "2026-11-04T21:39:43.000Z",
+  "title": "MercadoLibre profit misses on logistics spending, revenue tops estimates",
   "snippet": ""
  }
 ]
