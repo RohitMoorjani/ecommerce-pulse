@@ -1,36 +1,44 @@
 {
- "updatedAt": "2026-11-05T06:51:42.023Z",
- "title": "AI is the new storefront, and cost pressure will shape our PC pricing",
- "summary": "55% of shoppers use AI in discovery (NIQ); 400M used Alexa for Shopping and spend 50% more (Amazon), which now opens Alexa to merchants. Samsung sees no memory relief before 2028; Apple plans 16M MacBook Neo units in 2027; HP named a new CEO.",
+ "updatedAt": "2026-11-05T18:51:01.085Z",
+ "title": "AI shopping assistants now steer buying, and our store must be agent-ready",
+ "summary": "55% of shoppers use AI in discovery (NIQ); Amazon wins 59% of AI-assisted purchases and opened Alexa to merchants. Memory costs cut notebook SoC shipments ~20%; Amazon fees and ads reached $66.1B in Q3; TikTok Shop launched an app.",
  "points": [
   {
-   "headline": "AI assistants steer discovery, and Amazon is opening Alexa to merchants",
-   "detail": "55% use AI in discovery (NIQ); Alexa shoppers spend 50% more; Amazon wins 59% of AI-assisted purchases and now lets merchants register. Our listings must work inside AI agents.",
+   "headline": "AI discovery is mainstream, and Amazon is capturing the checkout",
+   "detail": "55% use AI in discovery (NIQ); Amazon wins 59% of AI-assisted purchases and lets merchants connect to Alexa. We should make our feeds and checkout agent-ready.",
    "segment": "agentic",
    "storyIds": [
     "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
-    "Modern Retail::https://www.modernretail.co/?p=174293",
-    "PYMNTS::https://www.pymnts.com/?p=4350312",
-    "PYMNTS::https://www.pymnts.com/?p=4368531"
+    "PYMNTS::https://www.pymnts.com/?p=4368531",
+    "PYMNTS Data::CBMivgFBVV95cUxPQUhWZjl5T2t1amFBc0pQSVlCWUY1eXNYalZTT1Q2QlUtN1VfQnEydlZHMkZHMHF1aXhsaHlzaUVhNmFGS0pLS0VZRFRNbktGdjYxTmszNkVLODcxZ1M4cDBxblc5YzY1SWI5TlpjME9ZTXJudEE0MEhPeGpva1lMMXhYS1JVdVFHRlVSbTFqVUxPbFZBSEMtMjhleGlxZUNBOWoyNGZWZmxQYzJabjZ0VXQwcW5tcDYyczY5TWx3"
    ]
   },
   {
-   "headline": "Memory costs keep PC prices rising with no relief before 2028",
-   "detail": "Samsung sees no buyer relief before 2028 and Asus expects commercial PC prices up nearly 10% in 2H26. Plan pricing, promotions and stock for sustained cost pressure.",
+   "headline": "Memory costs are shrinking notebook volumes and squeezing margins",
+   "detail": "Memory prices cut 2026 mobile SoC shipments nearly 20%; Apple forecasts a margin drop and Samsung and SK Hynix see shortages lasting years. Plan pricing and inventory.",
    "segment": "pc",
    "storyIds": [
-    "DigiTimes::https://www.digitimes.com/news/a20261029VL217/samsung-hbm-chips-profit-2028.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261028PD204/asus-commercial-pc-2026-market.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261103PD229/soc-shipments-infrastructure-2026-mobile.html"
+    "DigiTimes::https://www.digitimes.com/news/a20261103PD229/soc-shipments-infrastructure-2026-mobile.html",
+    "Reuters::CBMixgFBVV95cUxNTGFsc2NMYXRUbERoRkphY2hPVWNDM0ZRRmw3OHZzNnlfN0h1aEowUG9uaHZraTJPNlcyVFVYZGVjYmx2Ui01d09OTm9YejM3UGF1aUJKcHVUSUxxb0ZGNTktQmVuRVF0X0pKYTF2clJ6YnJpVmNmUEZESHc4ZWRqMkt1d0VyMEV2RVZlUkYtUE9EcW03ZXB5RzFmQk01endLRWtzNFpnVGd4el90TFUxLWhxaXRxYUsyT1lmbjIySjQ2NXcxdVE",
+    "DigiTimes::https://www.digitimes.com/news/a20261029VL221/samsung-sk-hynix-investment-demand-production.html"
    ]
   },
   {
-   "headline": "Apple and HP reshape the competitive PC field",
-   "detail": "Apple told suppliers to plan 16M MacBook Neo units in 2027, double 2026, while HP named a new CEO amid memory costs. Expect entry-level promo pressure.",
+   "headline": "Apple plans a big entry-level laptop push while AI PCs hold up",
+   "detail": "Apple told suppliers to plan 16M MacBook Neo units in 2027, double 2026, while Intel AI PC sales grow in a shrinking market. Expect entry-level promo pressure.",
    "segment": "pc",
    "storyIds": [
     "DigiTimes::https://www.digitimes.com/news/a20261104PD226/apple-macbook-2027-shipments-forecast.html",
-    "CRN::https://www.crn.com/news/computing/2026/5-things-to-know-about-new-hp-ceo-emma-walmsley"
+    "DigiTimes::https://www.digitimes.com/news/a20261030VL206/intel-pc-ai-pc-sales-demand.html"
+   ]
+  },
+  {
+   "headline": "Marketplace costs rise and TikTok Shop opens a new channel",
+   "detail": "Amazon fees and ads hit $66.1B in Q3, 96.6% of its retail sales; TikTok Shop launched a stand-alone app. We should weigh channel margins and test new ones.",
+   "segment": "marketplaces",
+   "storyIds": [
+    "Marketplace Pulse::http://www.marketplacepulse.com/articles/amazons-fees-and-ads-near-its-retail-sales",
+    "TechCrunch::https://techcrunch.com/?p=3185426"
    ]
   }
  ]
