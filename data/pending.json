@@ -1,106 +1,242 @@
 [
  {
-  "id": "Modern Retail::https://www.modernretail.co/?p=173575",
-  "source": "Modern Retail",
+  "id": "Retail Dive::https://www.retaildive.com/news/ikea-holiday-market-store-events/873869/",
+  "source": "Retail Dive",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-05T05:00:00.000Z",
-  "title": "Modern Retail+ Reseach: Brands’ focus on owned channels wavers for the 2026 holiday season",
-  "snippet": "A new Modern Retail+ Research report examines which commerce channels are dominating marketers’ holiday strategies."
+  "publishedAt": "2026-11-05T17:22:00.000Z",
+  "title": "Ikea leans into events for the holidays",
+  "snippet": "Two locations will feature outdoor markets, while all stores will host holiday events this month. The furniture retailer also expanded its assortment."
  },
  {
-  "id": "Modern Retail::https://www.modernretail.co/?p=174597",
-  "source": "Modern Retail",
+  "id": "Retail Dive::https://www.retaildive.com/news/elf-beauty-q2-earnings-sales-growth-innovation-pricing-power/873868/",
+  "source": "Retail Dive",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-05T05:00:00.000Z",
-  "title": "High-protein holiday treats are here",
-  "snippet": "Products like high-protein peppermint bark and hot cocoa are taking up more shelf space this holiday season at retailers like Target."
+  "publishedAt": "2026-11-05T17:02:00.000Z",
+  "title": "E.l.f. Beauty growth driven by innovation, not just pricing power",
+  "snippet": "The company’s Q2 net sales jumped 51%, with industry analysts in awe of its go-to-market capabilities and Rhode brand strength."
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261105VL219/semiconductors-equipment-production-asml-earnings-2028.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-05T05:00:00.000Z",
-  "title": "Chipmakers rush to secure equipment for 2029 as lead times top two years",
-  "snippet": "Chipmakers are moving to secure production equipment for delivery as far ahead as 2029, as AI-driven fab expansion pushes some equipment lead times beyond two years and forces manufacturers to negotiate supply contracts…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261105VL218/cirrus-logic-revenue-capacity-earnings-camera.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-05T04:23:11.000Z",
-  "title": "Cirrus Logic rides iPhone content wave, but backend squeeze, PC slump cloud the path ahead",
-  "snippet": "Cirrus Logic reported revenue of US$559.5 million for its fiscal second quarter ended September 26, up 22% sequentially and roughly flat year-on-year. Non-GAAP earnings per share came in at US$2.70, with gross margin…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261105PD218/growth-electronics-market-telecom-2025.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-05T03:56:32.000Z",
-  "title": "Price hikes, market saturation curb global telecom, consumer electronics export growth",
-  "snippet": "Rising global oil prices have driven up food costs, squeezing consumer discretionary budgets for products with higher price elasticity, such as smartphones and consumer electronics. A specialized report from Taiwan's…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261105PD219/flexium-2027-production-2028-infrastructure.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-05T03:47:12.000Z",
-  "title": "Flexium eyes 2027 breakthrough as PTFE enters mass production in 2028",
-  "snippet": "Flexium Interconnect chairman Walter Cheng said the company has emerged from the toughest operating downturn of the past two years and expects AI orders for smart glasses and infrastructure to accelerate in 2027, which…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261105VL216/samsung-fab-hbm-2nm-production.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-05T02:55:00.000Z",
-  "title": "Samsung reportedly plans 2nm fab to boost HBM base-die output",
-  "snippet": "Samsung Electronics is preparing to build a 2nm- and 4nm-class foundry fab at its Giheung campus in Yongin, South Korea, to expand production of logic base dies used in high-bandwidth memory (HBM). The fab is estimated…"
- },
- {
-  "id": "TrendForce::CBMizAFBVV95cUxPay1aY3VBY2hJdXNoOWROdnZXT0xFT0M1eTlJMWlXVFBIaWhpM2YyTTZjdFhkZW8tX1NnNnpFOFRZRWJsQjBPUGdyUE54a3N6eGkyc1MwdVFBUWpZaDlBMC1vSGxuOGJHUDVCUEhVcWtNOUo0RWFUeVBlMXRMYWtRajlBaG1HZklIZ1BEa0s5dVdVQXZFbkZVNHNMX0xiV2l1eFlGQTVYOUJ3aUdLUEJEWnpXc3lnUHNXaGM0Zlp5V05Vek5ZcDBSUWtwZU4",
-  "source": "TrendForce",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-05T02:35:31.000Z",
-  "title": "[News] Huawei, Alibaba, Tencent, Xiaomi, Baidu, ZTE and Lenovo Invest in Optical Communications",
+  "id": "Retail TouchPoints::CBMirAFBVV95cUxQYkdUZG8yMnR0am1rWVo4bzF2MnBsRmJDeFRvUTFvWFU3bk50TFVBQnhDcm9mX2R3WWhFS1M4a2dsbnBDN0lxUjhneVE0d3cxckwtdUZfSERsREFvSmpZLWFSZjd0dk1VOV83T0pCRldaMjFKR29vblNDdzdvN05lRGI0VHNrRndUQWFtazBHaWNWZDdPLWhMenh3VXdZbjhPQzlTOXNuejJjQXNB",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-05T17:00:57.000Z",
+  "title": "Are Mass Promotions Doing More Harm Than Good?",
   "snippet": ""
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD242/winbond-fab-expansion-equipment-wafer.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-05T02:35:00.000Z",
-  "title": "Winbond approves US$2.2 billion fab expansion, seeks long-term deals with 10 customers",
-  "snippet": "Winbond's board has approved approximately NT$73.1 billion (approx. US$2.23 billion) in capital spending to expand its Kaohsiung wafer fab, as the Taiwanese memory chipmaker prepares to select 10 strategic customers for…"
+  "id": "Marketplace Pulse::http://www.marketplacepulse.com/articles/amazons-fees-and-ads-near-its-retail-sales",
+  "source": "Marketplace Pulse",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-05T17:00:00.000Z",
+  "title": "Amazon’s Fees and Ads Near Its Retail Sales",
+  "snippet": "Amazon collected $66.1 billion from seller fees and advertising in the third quarter, equal to 96.6% of the $68.5 billion it made selling goods online itself. A year earlier, that figure was 89.3%. Prime Day moved out…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD228/murata-silicon-semco-winbond-capacitor.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-04T23:37:41.000Z",
-  "title": "Murata, Samsung Electro-Mechanics reportedly secure Winbond's silicon capacitor capacity",
-  "snippet": "Murata Manufacturing and Samsung Electro-Mechanics (Semco) have reportedly secured silicon capacitor production capacity from Winbond Electronics to meet demand from their end customers, as the Taiwanese memory maker…"
+  "id": "Retail Dive::https://www.retaildive.com/news/ethan-allen-ceo-out-as-chair-after-activist-board-shakeup/873850/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-05T16:41:00.000Z",
+  "title": "Ethan Allen CEO out as chair after activist board shakeup",
+  "snippet": "Financier Doug Bergeron, who will be one of the furniture retailer’s new directors, has slammed the company’s leadership for months."
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD221/automakers-capacity-logistics-competition-military.html",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261105PD229/chips-act-samsung-2026-sk-hynix-data.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-04T23:36:24.000Z",
-  "title": "From assembly lines to front lines, defense opens new opportunities for automakers",
-  "snippet": "As low capacity utilization, steep tariffs, and fierce competition from Chinese automakers pressure the industry, significant growth in European defense spending is opening new business opportunities for European and US…"
+  "publishedAt": "2026-11-05T16:34:00.000Z",
+  "title": "US midterm elections shake-up leaves Samsung, SK Hynix facing AI data center risks, CHIPS Act opportunities",
+  "snippet": "The Democrats' sweeping victory in the November 2026 US midterm elections, securing control of both chambers of Congress, has prompted South Korean industries to reassess the implications for investment, trade, and…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD219/nvidia-infrastructure-epc-data-capacity.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-04T23:34:14.000Z",
-  "title": "Nvidia DSX POD leads modular wave as Taiwanese firms race into AI data-center integration",
-  "snippet": "As AI data center construction continues to scale up, shortening build times and bringing computing capacity online faster have become key priorities for cloud service providers (CSPs) and AI infrastructure companies…"
+  "id": "Retail Dive::https://www.retaildive.com/news/revolve-q3-earnings-sales-growth-store-strength-expand-fleet/873747/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-05T16:18:00.000Z",
+  "title": "Revolve points to stores’ strengths but won’t rush to expand its fleet",
+  "snippet": "At the apparel retailer’s three locations, its private labels thrive and margins are higher, but it’s “years away” from having an extensive global footprint, co-founder Michael Mente said Tuesday."
  },
  {
-  "id": "Reuters::CBMiswFBVV95cUxQdzhBWW84MDBIWHJlekhTMV9ZSlQ1UVFPbjdvc0swVkJzNHhGZEYyLS1ZdW5Xam1YeG5sSHJrdXlFNWVqMmVVN2lCSUIwMzh1bGRrazk0YU9Ka2FQc0VvWWxUZXJ6TEI2MHh1VEd0X2IyV3Jybld2UEdBakkwMmJGcWFEUVUzTTZMdVA5azA3ZTEweXQtS3RSSnU0SmxxS0Q4WGRwanBHMVppdGpzOFRUYk5Jcw",
+  "id": "Retail Dive::https://www.retaildive.com/news/hydro-flask-owner-rejects-opportunistic-takeover-proposal-empower-brands/873837/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-05T15:59:00.000Z",
+  "title": "Hydro Flask owner rejects ‘opportunistic’ takeover proposal",
+  "snippet": "Helen of Troy said Empower Brands’ unsolicited offer was timed to exploit a low stock price, which has been partly impacted by U.S. tariff policies."
+ },
+ {
+  "id": "Reuters::CBMixAFBVV95cUxNLTUxZVQ4czNyRzFEVW1rcl85TkNOX3U4elBwWmpVR0lWMEFRRkI1Z190XzlMeW5UVXNMS0ZrMU83a3pCZlFWY0RUUTQtZkM2Ujlkc056eDJFbjhadDRmczZsd2FJdjJRcjgzVHIzN2FTUzRvOERxdzh6bDVDSVplVVU5SGZuR000SldCLWxjV2FjT3BHd2JyYWFSTDNhZVgwclR4aGxJMjFvVTVnbHBnZUhTZFltdldwQlhOU0xBSDNkM0hr",
   "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-04T21:39:43.000Z",
-  "title": "MercadoLibre profit misses on logistics spending, revenue tops estimates",
+  "publishedAt": "2026-11-05T15:34:28.000Z",
+  "title": "Tapestry lifts outlook as young shoppers snap up Coach bags, shares jump",
+  "snippet": ""
+ },
+ {
+  "id": "TechCrunch::https://techcrunch.com/?p=3185426",
+  "source": "TechCrunch",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-05T15:33:58.000Z",
+  "title": "TikTok quietly launches a stand-alone TikTok Shop app",
+  "snippet": "The app will offer personalized product recommendations, shopping through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support."
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=174650",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "title": "Big-Box Briefing: The themes that will dominate Jason Bonfig’s tenure as Best Buy’s new CEO",
+  "snippet": "The biggest electronics retailer in the U.S. ushered in a new era this week. On Nov. 1, Jason Bonfig — a 27-year Best Buy veteran who most recently served as the company’s chief customer, product and fulfillment officer…"
+ },
+ {
+  "id": "Dell Blog::https://www.dell.com/blog/navigating-rising-hardware-costs-a-small-business-guide-to-pc-value",
+  "source": "Dell Blog",
+  "sourceType": "Competitor Newsroom",
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "title": "Navigating Rising Hardware Costs: A Small Business Guide to PC Value",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS Data::CBMiuAFBVV95cUxONS1YdWk3MWhUYzRSZlhmN1Y4dkh2ckdrMmFkLWxvSldBOVlFOG5rXzRVd1lqOHlKSnNtRW9mY1pLNXd3TS1hNDRPLVpsQTZ3ZjFvVWg1RWVfTE96M25yVXNhOXJJdWdrWnYxMGM4LUV3dUczeXB1R0lrVVBWb21Pd1ZrZ2JBVjdtckJWdVBVbjE0aVByQm16ODBOX2s4WG83TnFsRjNBbkJLMGFzbjA3NzRZVmJxNzdS",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-05T14:10:57.000Z",
+  "title": "Gen X Automates Retirement but Still Scrambles to Save for Emergencies",
+  "snippet": ""
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=166945",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-05T14:01:15.000Z",
+  "title": "ASCENDO Introduces THE MULE 10 Kick Woofer",
+  "snippet": "Designed to deliver upper-bass impact while limiting excitation of low-frequency room modes"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=166969",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-05T14:01:12.000Z",
+  "title": "Tivoli Audio Adds Four Colors To Model One BT",
+  "snippet": "The limited-release collection draws inspiration from Japanese interiors and natural materials"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=166929",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-05T14:00:41.000Z",
+  "title": "Luxury Audio Market Forecast To Reach $3.4 Billion By 2030",
+  "snippet": "Futuresource projects retail value will grow 4% annually, led by loudspeakers and two-channel electronics"
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76472",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-05T12:32:18.000Z",
+  "title": "Criteo expands connected TV ambitions as retail media data moves onto the biggest screen in the home",
+  "snippet": "Commerce media platform Criteo has announced plans to expand its Performance Connected TV (CTV) offering beyond the US. The post Criteo expands connected TV ambitions as retail media data moves onto the biggest screen…"
+ },
+ {
+  "id": "Retail TouchPoints::CBMiqgFBVV95cUxQU1ZzMDdLYW1XdjdkYm9ucmg0SmY5UEl3dzB6QTdPUmFCRHJSU3U0bmN2a05QMlBncldzSzlhWVhpWnRsejBPc1QwMk9iN29nYWdGVUJwM042azJrYTI5aUpFZ2NJbDRKUG1qWTFzam51UDZldkRlOXFZQkF0a2JMcVFuSnBFOFFrTXNtbGpJLVc5T2lQcy0wRmJkLTFGTjl2cnBnQUs5V195UQ",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-05T12:05:54.000Z",
+  "title": "Elastic Suite, Locally Partner to Launch Smart Replenishment",
+  "snippet": ""
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76462",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-05T11:54:49.000Z",
+  "title": "Poundland crisis risks triggering high street domino effect, insolvency expert warns",
+  "snippet": "With around 600 Poundland stores across the UK entering the crucial Christmas trading period, any move into insolvency could put supplier businesses at risk. The post Poundland crisis risks triggering high street domino…"
+ },
+ {
+  "id": "Reuters::CBMisAFBVV95cUxOTlAyNm1YQWdJa3dkeTlZS01IZmJFVUZmYWZnYVN2TFFpTF9mQmh1OGlwMGI1ZWV2Q05tSE5fbjRTWnAzMVVZSkRoZ0VXekF2U2M1TXpnVHByenMtQS1VRF8ycUE2a2FxRFh3WC00VEhmNnUwcTBDWGktaGZVc2M2ZERLdmVUSEQ4RUdIb0RGTThkM28xMUF0UF8wTEhMQ0lxd1BFM1ExcWIxclVuNG1HVw",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-05T11:46:05.000Z",
+  "title": "Why Gen Z is turning to prediction markets for a financial edge",
+  "snippet": ""
+ },
+ {
+  "id": "TechCrunch::https://techcrunch.com/?p=3185337",
+  "source": "TechCrunch",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-05T11:00:00.000Z",
+  "title": "Amazon ditches Grubhub, taps Uber Eats for Prime",
+  "snippet": "Amazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States."
+ },
+ {
+  "id": "Retail TouchPoints::CBMixgFBVV95cUxQRFk2aGpHTHJlNDJqeXN6R0xjdHlEbUFDWlpnMFVza0YzT0pBcjlCYlNHZ2V5ME5jTlpzVVViV3JhZTZEZTk2SURkSjFoVVlPb3VEZ0Z5V1JvQmJRemxxZnYzTnRaWDc3NTNCSDlJTGFoX3JES2VpYjBLZU5tN1FmaHZwdmo2OUxqbVhuUGUzVnpGeWY5Z0gyc3hoN1FkM0l4b3BHdm50U3pQRUVKZFlCMDFwdlpRQWpieEhEVzlVQm9acjBMMnc",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-05T10:20:29.000Z",
+  "title": "Retail News & Insights",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261105VL232/texas-data-center-electronics-manufacturing-ai-server.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-05T09:39:36.000Z",
+  "title": "Taiwan tech firms' Texas factory commitments total US$2.9 billion",
+  "snippet": "Eight Taiwanese electronics manufacturers have disclosed approximately US$2.9 billion in factory-related asset transactions and investment plans in Texas since January 2024, accounting for nearly half of their US…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261105PD236/acer-pc-development-shipments.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-05T09:39:12.000Z",
+  "title": "Acer reshuffles executives as Chan-ping Bo takes product, procurement role",
+  "snippet": "Acer is set to approve a senior executive reshuffle at its board meeting on Thursday afternoon, with Acer Being Communication general manager Chan-ping Bo reportedly taking over product and procurement responsibilities…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/marico-expects-4700bc-to-break-even-ahead-of-schedule-two-more-digital-brands-to-turn-profitable-in-a-year-saugata-gupta/135565140",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-05T08:16:40.000Z",
+  "title": "Marico expects 4700BC to break even ahead of schedule, two more digital brands to turn profitable in a year: Saugata Gupta",
+  "snippet": "Marico anticipates accelerated profitability for its digital-first brands, particularly 4700BC, expected to break even within a year. The company is expanding distribution channels for its premium foods and personal…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261105PD231/advantech-growth-equipment-pc-revenue.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-05T08:00:07.000Z",
+  "title": "Advantech sees high-double-digit growth through 2027, driven by AI and semiconductor equipment",
+  "snippet": "Industrial PC leader Advantech reported record quarterly revenue and net profit for the third quarter of 2026, propelled by strong demand across semiconductor equipment, factory automation, and medical devices…"
+ },
+ {
+  "id": "Inc42::https://inc42.com/?p=579353",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-05T06:49:09.000Z",
+  "title": "Shiprocket Turns Profitable In Q2, Revenue Jumps 35% YoY To ₹674 Cr",
+  "snippet": "Ecommerce enablement platform Shiprocket turned profitable in the September quarter, reporting a consolidated net profit of ₹0.6 Cr against a…"
+ },
+ {
+  "id": "NIQ::CBMixwFBVV95cUxNZmlrNnczWERvY1V1aXg2U05vQjRnU05QLXlHSjhOYktld2Y5aTBraWlkNUJkZnU2bkpUZFNhVUNNcnBBcUtwOHNQQ2NtdFd3TnlIc0FSb2RPVDM1YnVVMW9XNS1HZkZlUG91bXRpZF9SejdZOGNjeTNfSGZ0TFJ2QkRvRHN4OVE4emRZbGI1dlM2dXRHS0NoQm9UeVpKU0hqSzFOS3A0U1N1LU5xSEhVaUk3MnZWOW45Ukc0Zjd2eEk3ZE9Vb3hZ",
+  "source": "NIQ",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-04T13:17:07.000Z",
+  "title": "The GLP-1 Effect: How weight-loss drugs are reshaping the shopping basket",
+  "snippet": ""
+ },
+ {
+  "id": "NRF::CBMieEFVX3lxTE1UNlNZbmlRYkNDcUVsNy14WlZUOXQxRS1HZ29lMWNzM0o2YUthbkl5MTlZM2lVSl9ITUdNNUNMemNhclhLei1GaTBRaHVOWmpUT3hOMXJjTTg3UHZyVXBjWWQtLWg1MG1heUFfU2VNMkQ4YzZsc294aw",
+  "source": "NRF",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-04T08:00:00.000Z",
+  "title": "How holiday shoppers plan to manage costs",
+  "snippet": ""
+ },
+ {
+  "id": "Counterpoint Research::CBMivAFBVV95cUxQaC1QaExrR0h1cWxFUlZrMW9lWFVGNkZOYWRMaldEaWV5dExYUnVjZzhnSXVpQnY1ZmhJcUZMdVdxTWRVbmFONEVqMnBoQzNidHFTd0s4VjdYeFFWbHlIc0p0YjZ6R05xMTFsQ21yZFBsQ0RmdFVHRW5kTHpFbXNiR3VtcGRCSnA4MGVIbzdWQ2VfNmlxcEFuRWdHZGJtWVNoSHFVMENKbThFSmYtYlNIakM3dU56dXBhT29Yaw",
+  "source": "Counterpoint Research",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-04T02:06:20.000Z",
+  "title": "Apple Accelerates OLED Adoption with New iPad mini and Touch-Enabled MacBook Pro, Reinforcing Premium Display Strategy",
   "snippet": ""
  }
 ]
