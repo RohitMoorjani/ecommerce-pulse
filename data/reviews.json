@@ -7114,5 +7114,78 @@
  "PYMNTS Data::CBMikAFBVV95cUxPd3NvaDdrTUpBSWhmVU1heXozbGVacEZIN3VuczN6TVZIX1F4WTZfeElubDhfbWFrWDBfZkZjSmRaYUM1S0E1cHFlbVM4dDBHbS1GOXY5TWdtNkhOVkMtOUlYU2J0SXVBa0hiLWFlQURhbDh1OE13Uk5SbFNjUl9SREhrandNeFNraTM3ZkhuVWg": {
   "keep": false,
   "publishedAt": "2026-10-28T14:37:28.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=173575": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Brands waver on owned channels in 2026 holiday plans, Modern Retail+ report finds",
+  "short_headline": "Brands waver on owned channels this holiday",
+  "takeaway": "Shifting channel mix could change where holiday shoppers find tech; we should check our store against marketplace and retailer pushes.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-05T05:00:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=174597": {
+  "keep": false,
+  "publishedAt": "2026-11-05T05:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261105VL219/semiconductors-equipment-production-asml-earnings-2028.html": {
+  "keep": false,
+  "publishedAt": "2026-11-05T05:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261105VL218/cirrus-logic-revenue-capacity-earnings-camera.html": {
+  "keep": false,
+  "publishedAt": "2026-11-05T04:23:11.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261105PD218/growth-electronics-market-telecom-2025.html": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Price hikes and saturation slow consumer electronics export growth as budgets tighten",
+  "short_headline": "Higher prices curb consumer electronics demand",
+  "takeaway": "Higher living costs squeeze discretionary budgets for price-elastic electronics; we should expect promo-sensitive demand for our products.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-05T03:56:32.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261105PD219/flexium-2027-production-2028-infrastructure.html": {
+  "keep": false,
+  "publishedAt": "2026-11-05T03:47:12.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261105VL216/samsung-fab-hbm-2nm-production.html": {
+  "keep": false,
+  "publishedAt": "2026-11-05T02:55:00.000Z"
+ },
+ "TrendForce::CBMizAFBVV95cUxPay1aY3VBY2hJdXNoOWROdnZXT0xFT0M1eTlJMWlXVFBIaWhpM2YyTTZjdFhkZW8tX1NnNnpFOFRZRWJsQjBPUGdyUE54a3N6eGkyc1MwdVFBUWpZaDlBMC1vSGxuOGJHUDVCUEhVcWtNOUo0RWFUeVBlMXRMYWtRajlBaG1HZklIZ1BEa0s5dVdVQXZFbkZVNHNMX0xiV2l1eFlGQTVYOUJ3aUdLUEJEWnpXc3lnUHNXaGM0Zlp5V05Vek5ZcDBSUWtwZU4": {
+  "keep": false,
+  "publishedAt": "2026-11-05T02:35:31.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104PD242/winbond-fab-expansion-equipment-wafer.html": {
+  "keep": false,
+  "publishedAt": "2026-11-05T02:35:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104PD228/murata-silicon-semco-winbond-capacitor.html": {
+  "keep": false,
+  "publishedAt": "2026-11-04T23:37:41.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104PD221/automakers-capacity-logistics-competition-military.html": {
+  "keep": false,
+  "publishedAt": "2026-11-04T23:36:24.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104PD219/nvidia-infrastructure-epc-data-capacity.html": {
+  "keep": false,
+  "publishedAt": "2026-11-04T23:34:14.000Z"
+ },
+ "Reuters::CBMiswFBVV95cUxQdzhBWW84MDBIWHJlekhTMV9ZSlQ1UVFPbjdvc0swVkJzNHhGZEYyLS1ZdW5Xam1YeG5sSHJrdXlFNWVqMmVVN2lCSUIwMzh1bGRrazk0YU9Ka2FQc0VvWWxUZXJ6TEI2MHh1VEd0X2IyV3Jybld2UEdBakkwMmJGcWFEUVUzTTZMdVA5azA3ZTEweXQtS3RSSnU0SmxxS0Q4WGRwanBHMVppdGpzOFRUYk5Jcw": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "MercadoLibre profit misses on logistics spending while revenue tops estimates",
+  "short_headline": "MercadoLibre profit misses on logistics spend",
+  "takeaway": "Heavy logistics investment shows delivery is the battleground in Latin American e-commerce; we should weigh it for our channel plans there.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-04T21:39:43.000Z"
  }
 }
