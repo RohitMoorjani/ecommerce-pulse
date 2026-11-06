@@ -1,154 +1,138 @@
 [
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261105PD239/e-commerce-logistics-capacity-expansion-investment.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-05T23:25:29.000Z",
-  "title": "Coupang expands Taoyuan logistics center to improve bulky-item delivery",
-  "snippet": "Coupang announced on November 5 that it was expanding the operating space at its first warehouse and logistics center in Taoyuan, Taiwan, as the company's local business continued to develop. The expansion is intended…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261105PD233/patent-samsung-galaxy-lawsuit-electronic-components.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-05T23:24:39.000Z",
-  "title": "Murata-Maxscend RF chip patent battle hits Samsung's older Galaxy devices",
-  "snippet": "A patent lawsuit between Japanese electronic components maker Murata and Chinese radio-frequency (RF) front-end chip vendor Maxscend has ensnared some Samsung Electronics Galaxy smartphones and tablets equipped with the…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261105PD216/acer-pc-accessory-outlook-profit.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-05T23:19:52.000Z",
-  "title": "Acer Gadget expands lifestyle accessories as PC market weakens",
-  "snippet": "As the PC market outlook deteriorates, Acer subsidiary Acer Gadget is expanding its lifestyle accessories business to cushion the impact of a weaker market. General manager Chung I-chun said lifestyle accessories…"
- },
- {
-  "id": "PYMNTS Data::CBMisgFBVV95cUxPdGcxZldLSGJ4d0FmYzFTLUhwTlVMbDA4SDA0RjNib2F6Yk9tT0FWeUtzZzRicjNTSFlMdXFLcXd0Z0NoNFJzb3ZEclh6b1Q4cS0tVXEteUpoVHhuNnZNME1sWVdpNW00S2pZWkJLNF9vdFg2QWI3cVV1Q3lPRnRid2FpdnNFRXN6NjB4UDVjOGJ3dW5XVHJrNS1GVE1xRnVKblpEbjBnUzg1Rm5KeFhMMC13",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-05T23:15:00.000Z",
-  "title": "Payment Processors Compete on Checkout With Passkeys",
-  "snippet": ""
- },
- {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363948",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-05T23:06:17.000Z",
-  "title": "Bark revenue falls despite commerce growth resuming in Q2",
-  "snippet": "Bark net revenue and direct-to-consumer (DTC) revenue both declined in the company’s fiscal second quarter ended Sept. 30. However, the seller of pet products managed to reignite growth for its commerce revenue — which…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261105VL210/apple-iphone-smartphone-india-revenue-growth.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-05T22:33:00.000Z",
-  "title": "India's premium shift shields Apple from decade-low smartphone slump",
-  "snippet": "India is now an important market for Apple in two ways. It is a growth market where the company set an all-time revenue record in the September quarter, even as overall smartphone shipments fell to a decade low. It is…"
- },
- {
-  "id": "PYMNTS Data::CBMisgFBVV95cUxOOTMtUXlrTFg4Q2VEQXRuQ0hPa3NGYXdXay1kSG1EcThIN3NfaHNKWk1ESnRxcWdtVFVjV0gzYV9RUTBkUkhtbVhwbXFMR2xBZnZZNXJSOG5vam02eUZ5Sko2WTRyQ3R4YTQ2eHhTTm5XVDRkWVFqVUZuZm15QmxYZUxEbjFmUlJ4aUVvcUFTNTBFNE9SY0IzSm1YZnlGZm1FdVpSeENFSXJQNDFNRnc1b1ZB",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-05T22:22:23.000Z",
-  "title": "Visa Finds AI Models Fail 43% of Shopping Test Runs",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMingFBVV95cUxPM3pUSnBqanZlQ3hiQk1sOEk2WlJMbXBRSy1kYVNDMG5XT3hROWdfZWlpRmUtbVd3T3ZqbTZ0dXNrT2FnZEVGd3F2THVnUllzckVvS3MtcVhBTXNDRlhGX2NtOGtuZlpqMlNpOTc3WHdobUdPLTVfUjMxajlZQjZfb3hZWUdCUHpoQktTOGgzV0x4ZUZQbk5KZHBLMUJ5UQ",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-05T21:56:56.000Z",
-  "title": "Amazon Raises Seller Fees as Walmart Expands Drone Delivery",
-  "snippet": ""
- },
- {
-  "id": "Circana::CBMihAFBVV95cUxNYktxcTdYVzVmM2V0VkJweExhWTFHNFJsaUFDcUlhRXdycVhjTXZ3aHVETWhhcFRBZ1FDX09aeVdzRzVVQy1OM0I5RUpzaGE5OFVvV0RvckY2dDY5V3FhbjgxdUNWMDhyU1BWbExZbF9mXzFENEs4Nzl2SkFhMHNUVG5zWHM",
-  "source": "Circana",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-05T21:22:13.000Z",
-  "title": "AI, Measured: Where Consumers Draw the Line with AI",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMiwwFBVV95cUxPU3RIN3BoY2pKOUtTZTJwYVFCZkJiVmFZLXdZZmIxdzBRT2U1d3BZQWNqZ1ZTUHVDeXg1eTU4U2lFaWZXU1g2alpnYWVtOUZnU1lTVkJmQlg1aWM2TFVBMTZsN25vZ1RvZF9wMHprMWtlbDVJMS1SZldNeWRMbzZrYVRxMjBqcXRBb25MUEhuTURhdFZ3YUVtVnBZS2NxaXNiM2RPVXJ3YnJVQXRBcFoxQWd1SnRwU1pUV1lMYU1Rb0dnRXc",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-05T20:41:59.000Z",
-  "title": "Fed: Banks Tightened Lending Standards for Small Businesses and Subprime Consumers",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMikgFBVV95cUxONV9nLU1mMVhPRlV0dFg3RVF1aHhnbzNhdVJLaWJkMGNhdmNsTTAwS3lVcl92UE1sUTdwSWVWakRLMUJFREJySGpsUURFUk92MER0bEFULXBMVkp2VzVXX1B0NWl0X0x1eW9LREVaenlXTmkwUXB5a1Z4Q1dSQzU3NVBOZ0o2bkU1czRVakhEVVJPQQ",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-05T20:11:59.000Z",
-  "title": "Walmart Adds 300 Sites to Drone Delivery Network",
-  "snippet": ""
- },
- {
-  "id": "NRF::CBMiigFBVV95cUxQcDlQcW1JRWo0WFdjZU1sZ00wcFJsbUxjR3U3cGZmSVBocTNiN01SQkM1MHJqYXRMRngwcW9iZUxpU2RvaURWNGRLR1J0aFdHSTY1OEJhNU5HMjlUekJZRmFRYmtyM1N2Rzl1dml5RmlZRDlEWnFCSnE0WHc3Y1AtcmJtd3UwaVJPUkE",
-  "source": "NRF",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-05T18:41:55.000Z",
-  "title": "How small retailers are preparing for Small Business Saturday",
-  "snippet": ""
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261104PD241/foxconn-data-center-equipment-2026-cooling.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-05T18:32:00.000Z",
-  "title": "DIGITIMES Insight: Foxconn extends AI strategy to data center system integration, targeting modular computing delivery with DSX POD",
-  "snippet": "At Hon Hai Tech Day 2026 (HHTD 26), Foxconn showcased the Nvidia DSX POD containerized solution. By leveraging factory pre-building, electromechanical integration, and pre-testing, Foxconn integrates computing racks…"
- },
- {
-  "id": "Reuters::CBMipwFBVV95cUxPQXp2Q3NVSS1qMGl2VFZhWTJxREN5ZHg3T2lNeE5MYjBGT3JGZUVwV2drT0V5S0h0a2Y3UUxfSl9nRWZrWlozR2RYNkRPRC05N0g0T2J4bEljZW1RdllqODEtb2dBYmk3NHFzNS0zMWRHenpON2lZbER1SDhZaWhDbnZWSmZ5cmRxbVduR0FWakFzQzFwZElyYVIwamdSdXhJYmhnbTREVQ",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-05T18:09:47.000Z",
-  "title": "Nasdaq set to confirm correction as AI spending worries mount",
-  "snippet": ""
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-05T18:01:00.000Z",
-  "title": "Walmart ramps up Sparky features in time for the holidays",
-  "snippet": "New visual recognition and cart generation capabilities for the AI assistant aim to ease the pain of holiday shopping, both online and in stores."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/amazon-adds-alexa-ai-shopping-functions/873602/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-05T17:38:00.000Z",
-  "title": "Amazon adds over 100 Alexa for Shopping functions",
-  "snippet": "New capabilities include managing subscriptions, resolving billing questions, and creating and editing lists and registries."
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261105PD235/chicony-revenue-demand-pc-2026.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-05T17:36:00.000Z",
-  "title": "Chicony shifts toward premium PCs, AI applications as demand weakens",
-  "snippet": "Chicony Electronics reported unaudited consolidated revenue of NT$5.647 billion (US$172 million) for October 2026, down 9.1% month-over-month and 24% year-over-year. Persistent global PC component cost pressure…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261105PD222/cht-google-partnership-ai-expansion.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-05T17:34:00.000Z",
-  "title": "Chunghwa Telecom targets 200,000 Google AI subscribers in consumer-facing AI expansion",
-  "snippet": "Chunghwa Telecom is expanding its Google partnership by bringing the latest Google AI services to consumers, with the aim of achieving 200,000 subscribers in the first year, according to Chunghwa Telecom Consumer…"
- },
- {
-  "id": "Retail TouchPoints::CBMi0gFBVV95cUxPVTNsQUdaZ2RjT1pHUUI4cTRudlRsQklabU9vRGxOSVRmc3pfY1E4VjJXTmx0NUxSQTJnRUZtS3VSQVpSY2dDSk9LZlU3dWViUE9nZzFyYkR0OWZTNlNVYWVIZ204VlJlRlJSNk5JWi10RThieElVcjVjNGJoVGE0NVk1cktLWU5yUUg3LVZmZURzRHVzbDIyTXYtd0RseDJYTkYxZmVEcXlRWFVuUkJUODVsLVViWXAwTVl4OUdVVUlxdTNsdzlrbkhLdy1PYm9ralE",
+  "id": "Retail TouchPoints::CBMiZEFVX3lxTE9PNk92UjQxRlBLRkFoWEZIaWRvLTZRQ1B2YlJLczRBTGVHUUg3Ym5DOGtTUW5oeVVGOVA3NUp5Q2IyU2JTNTNJRU5oc3lIWVZTUGVMejFqYnROQ3lfcHUzeGlHbHU",
   "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-04T18:59:09.000Z",
-  "title": "Retail Loss Is Bigger Than External Theft: IHL Group/Sensormatic Solutions Research",
+  "publishedAt": "2026-11-06T06:30:16.000Z",
+  "title": "Latest In: mass promotions",
+  "snippet": ""
+ },
+ {
+  "id": "Inc42::https://inc42.com/?p=579467",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-06T06:00:55.000Z",
+  "title": "Cashfree Launches ‘Checkout For Agents’ To Enable AI-Led Payments",
+  "snippet": "Fintech soonicorn Cashfree Payments has launched ‘Checkout for Agents’, a new tool that enables AI agents to process customer payments…"
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=174572",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-06T05:00:00.000Z",
+  "title": "K-beauty brand Laneige bets on experiential retail with a mix-and-match lip mask station",
+  "snippet": "Laneige, a Korean beauty brand known for its lip masks and moisturizers, is stepping up its experiential retail efforts as it targets global growth."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261106VL212/lx-semicon-loss-semicon-display-revenue.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-06T04:24:24.000Z",
+  "title": "LX Semicon posts first quarterly operating loss since IPO",
+  "snippet": "South Korean chip designer LX Semicon posted its first quarterly operating loss since going public in 2010, as weak demand for display chips and pricing pressure from electronics manufacturers weighed on earnings. The…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261106VL211/china-ic-manufacturing-equipment-expansion-investment-2027.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-06T03:46:28.000Z",
+  "title": "China's chip equipment makers ride record AI orders into 2027, but new challenges lie ahead",
+  "snippet": "Chinese semiconductor equipment makers report record orders extending into 2027, with AI-driven investment in advanced memory, logic chips and packaging strengthening demand for domestic manufacturing tools. The…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261105VL231/samsung-2028-2027-equipment-production.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-06T03:35:03.000Z",
+  "title": "Samsung speeds P5 Fab 2 construction as memory chip shortage looks to last through 2028",
+  "snippet": "Samsung Electronics plans to begin structural work at its P5 Fab 2 facility in Pyeongtaek, South Korea, in January 2027, accelerating its memory capacity expansion as chip shortages are expected to persist through 2028…"
+ },
+ {
+  "id": "NIQ::CBMinwFBVV95cUxQVE1rYVhKd2lPM21ZU0xsRGNvcG1UZWtlTXJFTmtEX3pHWWZZTUVpYldkLXhPVlZpYkR0eWJjMmNiZ2QyRl9TYUsyTFNhVTZYSG9Odm11dDEyMlMyUFZPVTYyQy01ZkY4dm9GWmg5NWYxX1Rad0gyV3JvMGhBMXc1RVJBUUZNOUZOUE1oRW02ZWZLUG1zVjZ0XzJEWXlWV2c",
+  "source": "NIQ",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-06T03:34:24.000Z",
+  "title": "What Black Friday 2026 reveals about the 2027 shopper.",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS Data::CBMisAFBVV95cUxOOFk4enIyR183MS1GSUhpWFloeEEzT1A3QUdodzdKWUxfdDJBckQtQVlfYk9JSUNHSnQ5eGFmcThJdlA2QXhWaGhvSlljMzVKU3RwbUVwdV9UOWdjX25uU3VaNVlUM0gtdFZHX0QxNTU2RWh2NlhkVGFWNGYzeDBlQXFvYllDeVlzSlJfUDVJblI1SEU2NmxjOU45ZVVUTkg4RFlodElvWW81SDh2V1VyMQ",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-06T02:57:02.000Z",
+  "title": "Affirm CEO Expects AI Shopping Agents to Favor Interest-Free Installments",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261106PD218/primax-security-b2b-growth-automotive.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-06T02:42:35.000Z",
+  "title": "Primax bets on B2B pivot for double-digit growth through 2029",
+  "snippet": "Taiwan-based Primax Electronics plans to increase the share of its business-to-business (B2B) operations over the next five years, expanding beyond traditional PC peripherals into artificial intelligence (AI), smart…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261106PD219/sk-hynix-samsung-ssd-exports-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-06T02:30:52.000Z",
+  "title": "Samsung, SK Hynix eye AI inference boom as South Korea's SSD exports soar 584%",
+  "snippet": "Samsung Electronics and SK Hynix are expanding their high-value NAND flash portfolios to meet growing demand for high-performance, high-capacity enterprise solid-state drives (eSSDs). The proliferation of AI agents and…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261106PD209/samsung-tv-lcd-market-panel.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-06T01:41:45.000Z",
+  "title": "China's LCD cuts and price hikes threaten Samsung TV profits",
+  "snippet": "Samsung Electronics' TV business faces the prospect of prolonged losses as Chinese panel makers, including BOE Technology Group (BOE) and TCL China Star Optoelectronics Technology (TCL CSOT), raise LCD prices, while…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261105PD244/wt-2027-acquisition-electronics-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-06T00:55:00.000Z",
+  "title": "WT Microelectronics expects AI pull-in momentum to last through 2027",
+  "snippet": "Semiconductor distributor WT Microelectronics expects pull-in momentum from the artificial intelligence (AI) supply chain to remain strong from the fourth quarter of 2026 through 2027. Meanwhile, inventory destocking in…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261105PD245/acer-profit-revenue-gross-margin-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-06T00:45:59.000Z",
+  "title": "Acer's 3Q26 net income hits five-year high with all three key margins improved",
+  "snippet": "Acer convened a board meeting on November 5, approving its consolidated financial statements for the third quarter and the first nine months of 2026."
+ },
+ {
+  "id": "IDC::CBMiZEFVX3lxTE1FRGxMd3FfVnJybHV5dGNNQjFYbkY4OFFvMUJ2QlVFMlhvVlJrZHZYczJ6ZmhwM3dfVnlxUkFRTFA2WmFhcEI2TEdTZ1lETGtRQzZBRlBjV2NZMjNickJRSXlYYlY",
+  "source": "IDC",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-05T23:32:59.000Z",
+  "title": "Intel 3Q26 Results: Datacenter Strength Offset by a Weak PC Outlook",
+  "snippet": ""
+ },
+ {
+  "id": "Reuters::CBMiswFBVV95cUxQbWlRSnZRckZhR1NzMmNYejNrWmFCR0plTy13STBIdEhWU2VtcFc4ZHQ1cGp4cENYRlM2dHRCaGg3VGloU18ydGtfWVhoWUVnVmtGWWJJQXNMWUhHWFMzdURJOFRXMldWM2gyRXNQTlgyQURGZHhFaUc0Zk5xNVVBcXRPZmNHOExDa0NUZnlRVVFHLXZ2MVIyb3hvMHZYSnVtbU54TndHX1Z1NXhrWUhMNFp5bw",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-05T20:53:19.000Z",
+  "title": "From cosmetics to drugs to PCs, Walmsley faces fresh outsider test at HP",
+  "snippet": ""
+ },
+ {
+  "id": "Retail TouchPoints::CBMiZkFVX3lxTFA1ZG5DLWhFWURuZi1oQkJjSGNZbzhXQXN5RzNZemN6MHlTS3FBM21IeWhGRWpjRHlHZlg4NVpYaXM3NkFwZzVpS1FJbHdIdTNmNF9MRnNoT282ZkdacG5fc1R6REZPdw",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-03T08:00:00.000Z",
+  "title": "Latest In: Meta advertising",
+  "snippet": ""
+ },
+ {
+  "id": "Retail TouchPoints::CBMibkFVX3lxTFBPRlpIV280NVR2RU5MZm5DTEhpSkZuXzdZeVBuZDgtU0tKOGJWT2syTlpLdF9GaGRjcEZDQ3FnT0VfM2N3RnVTNE1kZUUyOHRNalN6SXg0WGUxSUhBdWZsb1YzNzJlXzI1eHAwb0JR",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-02T20:57:38.000Z",
+  "title": "Latest In: multi-brand portfolios",
   "snippet": ""
  }
 ]
