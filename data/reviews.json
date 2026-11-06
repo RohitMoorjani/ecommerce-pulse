@@ -7277,5 +7277,144 @@
    "Apple"
   ],
   "publishedAt": "2026-11-04T02:06:20.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261105PD239/e-commerce-logistics-capacity-expansion-investment.html": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Coupang expands its first Taoyuan logistics center for bulky-item delivery",
+  "short_headline": "Coupang expands Taiwan logistics center",
+  "takeaway": "Coupang is investing in Taiwan delivery of bulky goods; watch it as a channel for large electronics.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-05T23:25:29.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261105PD233/patent-samsung-galaxy-lawsuit-electronic-components.html": {
+  "keep": false,
+  "publishedAt": "2026-11-05T23:24:39.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261105PD216/acer-pc-accessory-outlook-profit.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Acer Gadget expands lifestyle accessories to offset a weakening PC market",
+  "short_headline": "Acer pivots to accessories",
+  "takeaway": "Rivals are diversifying into accessories; we could push accessory attach in our store.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-05T23:19:52.000Z"
+ },
+ "PYMNTS Data::CBMisgFBVV95cUxPdGcxZldLSGJ4d0FmYzFTLUhwTlVMbDA4SDA0RjNib2F6Yk9tT0FWeUtzZzRicjNTSFlMdXFLcXd0Z0NoNFJzb3ZEclh6b1Q4cS0tVXEteUpoVHhuNnZNME1sWVdpNW00S2pZWkJLNF9vdFg2QWI3cVV1Q3lPRnRid2FpdnNFRXN6NjB4UDVjOGJ3dW5XVHJrNS1GVE1xRnVKblpEbjBnUzg1Rm5KeFhMMC13": {
+  "keep": false,
+  "publishedAt": "2026-11-05T23:15:00.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363948": {
+  "keep": false,
+  "publishedAt": "2026-11-05T23:06:17.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261105VL210/apple-iphone-smartphone-india-revenue-growth.html": {
+  "keep": false,
+  "publishedAt": "2026-11-05T22:33:00.000Z"
+ },
+ "PYMNTS Data::CBMisgFBVV95cUxOOTMtUXlrTFg4Q2VEQXRuQ0hPa3NGYXdXay1kSG1EcThIN3NfaHNKWk1ESnRxcWdtVFVjV0gzYV9RUTBkUkhtbVhwbXFMR2xBZnZZNXJSOG5vam02eUZ5Sko2WTRyQ3R4YTQ2eHhTTm5XVDRkWVFqVUZuZm15QmxYZUxEbjFmUlJ4aUVvcUFTNTBFNE9SY0IzSm1YZnlGZm1FdVpSeENFSXJQNDFNRnc1b1ZB": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Visa finds AI models fail 43% of shopping test runs",
+  "short_headline": "AI shopping agents fail 43% of Visa tests",
+  "takeaway": "Agent checkout is still unreliable; we should test how agents handle our store before relying on them.",
+  "importance": 4,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-05T22:22:23.000Z"
+ },
+ "PYMNTS Data::CBMingFBVV95cUxPM3pUSnBqanZlQ3hiQk1sOEk2WlJMbXBRSy1kYVNDMG5XT3hROWdfZWlpRmUtbVd3T3ZqbTZ0dXNrT2FnZEVGd3F2THVnUllzckVvS3MtcVhBTXNDRlhGX2NtOGtuZlpqMlNpOTc3WHdobUdPLTVfUjMxajlZQjZfb3hZWUdCUHpoQktTOGgzV0x4ZUZQbk5KZHBLMUJ5UQ": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Amazon raises seller fees as Walmart expands drone delivery",
+  "short_headline": "Amazon raises seller fees",
+  "takeaway": "Higher Amazon fees may squeeze our marketplace margins; review pricing and channel mix.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-05T21:56:56.000Z"
+ },
+ "Circana::CBMihAFBVV95cUxNYktxcTdYVzVmM2V0VkJweExhWTFHNFJsaUFDcUlhRXdycVhjTXZ3aHVETWhhcFRBZ1FDX09aeVdzRzVVQy1OM0I5RUpzaGE5OFVvV0RvckY2dDY5V3FhbjgxdUNWMDhyU1BWbExZbF9mXzFENEs4Nzl2SkFhMHNUVG5zWHM": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Circana research looks at where consumers draw the line with AI",
+  "short_headline": "Where consumers draw the line with AI",
+  "takeaway": "Shopper limits on AI should guide which AI shopping features we build in our store.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-05T21:22:13.000Z"
+ },
+ "PYMNTS Data::CBMiwwFBVV95cUxPU3RIN3BoY2pKOUtTZTJwYVFCZkJiVmFZLXdZZmIxdzBRT2U1d3BZQWNqZ1ZTUHVDeXg1eTU4U2lFaWZXU1g2alpnYWVtOUZnU1lTVkJmQlg1aWM2TFVBMTZsN25vZ1RvZF9wMHprMWtlbDVJMS1SZldNeWRMbzZrYVRxMjBqcXRBb25MUEhuTURhdFZ3YUVtVnBZS2NxaXNiM2RPVXJ3YnJVQXRBcFoxQWd1SnRwU1pUV1lMYU1Rb0dnRXc": {
+  "keep": false,
+  "publishedAt": "2026-11-05T20:41:59.000Z"
+ },
+ "PYMNTS Data::CBMikgFBVV95cUxONV9nLU1mMVhPRlV0dFg3RVF1aHhnbzNhdVJLaWJkMGNhdmNsTTAwS3lVcl92UE1sUTdwSWVWakRLMUJFREJySGpsUURFUk92MER0bEFULXBMVkp2VzVXX1B0NWl0X0x1eW9LREVaenlXTmkwUXB5a1Z4Q1dSQzU3NVBOZ0o2bkU1czRVakhEVVJPQQ": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Walmart adds 300 sites to its drone delivery network",
+  "short_headline": "Walmart adds 300 drone delivery sites",
+  "takeaway": "Walmart is raising the delivery-speed bar; it could shape expectations for electronics orders.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-05T20:11:59.000Z"
+ },
+ "NRF::CBMiigFBVV95cUxQcDlQcW1JRWo0WFdjZU1sZ00wcFJsbUxjR3U3cGZmSVBocTNiN01SQkM1MHJqYXRMRngwcW9iZUxpU2RvaURWNGRLR1J0aFdHSTY1OEJhNU5HMjlUekJZRmFRYmtyM1N2Rzl1dml5RmlZRDlEWnFCSnE0WHc3Y1AtcmJtd3UwaVJPUkE": {
+  "keep": false,
+  "publishedAt": "2026-11-05T18:41:55.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261104PD241/foxconn-data-center-equipment-2026-cooling.html": {
+  "keep": false,
+  "publishedAt": "2026-11-05T18:32:00.000Z"
+ },
+ "Reuters::CBMipwFBVV95cUxPQXp2Q3NVSS1qMGl2VFZhWTJxREN5ZHg3T2lNeE5MYjBGT3JGZUVwV2drT0V5S0h0a2Y3UUxfSl9nRWZrWlozR2RYNkRPRC05N0g0T2J4bEljZW1RdllqODEtb2dBYmk3NHFzNS0zMWRHenpON2lZbER1SDhZaWhDbnZWSmZ5cmRxbVduR0FWakFzQzFwZElyYVIwamdSdXhJYmhnbTREVQ": {
+  "keep": false,
+  "publishedAt": "2026-11-05T18:09:47.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Walmart adds visual recognition and cart generation to Sparky AI assistant",
+  "short_headline": "Walmart adds visual search to Sparky",
+  "takeaway": "Walmart is making AI-built carts mainstream; our store should be ready for agent-driven baskets.",
+  "importance": 4,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-11-05T18:01:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/amazon-adds-alexa-ai-shopping-functions/873602/": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Amazon adds over 100 Alexa for Shopping functions, from subscriptions to registries",
+  "short_headline": "Amazon adds 100+ Alexa shopping functions",
+  "takeaway": "Alexa is moving from search into account management; we should consider how our products surface there.",
+  "importance": 4,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-11-05T17:38:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261105PD235/chicony-revenue-demand-pc-2026.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Chicony October revenue falls 24% year on year as PC component costs bite",
+  "short_headline": "Chicony revenue down 24% as PC demand weakens",
+  "takeaway": "Component cost pressure and weak PC demand point to pricing and margin pressure for us.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-05T17:36:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261105PD222/cht-google-partnership-ai-expansion.html": {
+  "keep": false,
+  "publishedAt": "2026-11-05T17:34:00.000Z"
+ },
+ "Retail TouchPoints::CBMi0gFBVV95cUxPVTNsQUdaZ2RjT1pHUUI4cTRudlRsQklabU9vRGxOSVRmc3pfY1E4VjJXTmx0NUxSQTJnRUZtS3VSQVpSY2dDSk9LZlU3dWViUE9nZzFyYkR0OWZTNlNVYWVIZ204VlJlRlJSNk5JWi10RThieElVcjVjNGJoVGE0NVk1cktLWU5yUUg3LVZmZURzRHVzbDIyTXYtd0RseDJYTkYxZmVEcXlRWFVuUkJUODVsLVViWXAwTVl4OUdVVUlxdTNsdzlrbkhLdy1PYm9ralE": {
+  "keep": false,
+  "publishedAt": "2026-11-04T18:59:09.000Z"
  }
 }

@@ -1,42 +1,43 @@
 {
- "updatedAt": "2026-11-05T18:51:01.085Z",
- "title": "AI shopping assistants now steer buying, and our store must be agent-ready",
- "summary": "55% of shoppers use AI in discovery (NIQ); Amazon wins 59% of AI-assisted purchases and opened Alexa to merchants. Memory costs cut notebook SoC shipments ~20%; Amazon fees and ads reached $66.1B in Q3; TikTok Shop launched an app.",
+ "updatedAt": "2026-11-06T00:51:24.549Z",
+ "title": "AI shopping is mainstream, and our store must be agent-ready",
+ "summary": "55% of shoppers use AI in discovery (NIQ); Amazon adds 100+ Alexa shopping functions and Walmart upgrades Sparky; Visa finds AI models fail 43% of shopping tests. Chicony revenue fell 24% on PC component costs; Amazon raised seller fees.",
  "points": [
   {
-   "headline": "AI discovery is mainstream, and Amazon is capturing the checkout",
-   "detail": "55% use AI in discovery (NIQ); Amazon wins 59% of AI-assisted purchases and lets merchants connect to Alexa. We should make our feeds and checkout agent-ready.",
+   "headline": "AI discovery is mainstream as Amazon and Walmart deepen their assistants",
+   "detail": "55% use AI in discovery (NIQ); Amazon added 100+ Alexa shopping functions and Walmart added visual recognition and cart generation to Sparky. Make our feeds and checkout agent-ready.",
    "segment": "agentic",
    "storyIds": [
     "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
-    "PYMNTS::https://www.pymnts.com/?p=4368531",
+    "Retail Dive::https://www.retaildive.com/news/amazon-adds-alexa-ai-shopping-functions/873602/",
+    "Retail Dive::https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/"
+   ]
+  },
+  {
+   "headline": "Agent shopping is still unreliable, which makes a smooth checkout a differentiator",
+   "detail": "Visa found AI models fail 43% of shopping test runs, while Amazon wins 59% of AI-assisted purchases. We should test how agents handle our store and win the checkout step.",
+   "segment": "agentic",
+   "storyIds": [
+    "PYMNTS Data::CBMisgFBVV95cUxOOTMtUXlrTFg4Q2VEQXRuQ0hPa3NGYXdXay1kSG1EcThIN3NfaHNKWk1ESnRxcWdtVFVjV0gzYV9RUTBkUkhtbVhwbXFMR2xBZnZZNXJSOG5vam02eUZ5Sko2WTRyQ3R4YTQ2eHhTTm5XVDRkWVFqVUZuZm15QmxYZUxEbjFmUlJ4aUVvcUFTNTBFNE9SY0IzSm1YZnlGZm1FdVpSeENFSXJQNDFNRnc1b1ZB",
     "PYMNTS Data::CBMivgFBVV95cUxPQUhWZjl5T2t1amFBc0pQSVlCWUY1eXNYalZTT1Q2QlUtN1VfQnEydlZHMkZHMHF1aXhsaHlzaUVhNmFGS0pLS0VZRFRNbktGdjYxTmszNkVLODcxZ1M4cDBxblc5YzY1SWI5TlpjME9ZTXJudEE0MEhPeGpva1lMMXhYS1JVdVFHRlVSbTFqVUxPbFZBSEMtMjhleGlxZUNBOWoyNGZWZmxQYzJabjZ0VXQwcW5tcDYyczY5TWx3"
    ]
   },
   {
-   "headline": "Memory costs are shrinking notebook volumes and squeezing margins",
-   "detail": "Memory prices cut 2026 mobile SoC shipments nearly 20%; Apple forecasts a margin drop and Samsung and SK Hynix see shortages lasting years. Plan pricing and inventory.",
+   "headline": "Memory and component costs weaken PC demand and squeeze margins",
+   "detail": "Memory prices cut 2026 mobile SoC shipments nearly 20%; Chicony revenue fell 24% year on year on component costs; Acer is pushing accessories. Plan pricing, inventory and accessory attach.",
    "segment": "pc",
    "storyIds": [
     "DigiTimes::https://www.digitimes.com/news/a20261103PD229/soc-shipments-infrastructure-2026-mobile.html",
-    "Reuters::CBMixgFBVV95cUxNTGFsc2NMYXRUbERoRkphY2hPVWNDM0ZRRmw3OHZzNnlfN0h1aEowUG9uaHZraTJPNlcyVFVYZGVjYmx2Ui01d09OTm9YejM3UGF1aUJKcHVUSUxxb0ZGNTktQmVuRVF0X0pKYTF2clJ6YnJpVmNmUEZESHc4ZWRqMkt1d0VyMEV2RVZlUkYtUE9EcW03ZXB5RzFmQk01endLRWtzNFpnVGd4el90TFUxLWhxaXRxYUsyT1lmbjIySjQ2NXcxdVE",
-    "DigiTimes::https://www.digitimes.com/news/a20261029VL221/samsung-sk-hynix-investment-demand-production.html"
+    "DigiTimes::https://www.digitimes.com/news/a20261105PD235/chicony-revenue-demand-pc-2026.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261105PD216/acer-pc-accessory-outlook-profit.html"
    ]
   },
   {
-   "headline": "Apple plans a big entry-level laptop push while AI PCs hold up",
-   "detail": "Apple told suppliers to plan 16M MacBook Neo units in 2027, double 2026, while Intel AI PC sales grow in a shrinking market. Expect entry-level promo pressure.",
-   "segment": "pc",
-   "storyIds": [
-    "DigiTimes::https://www.digitimes.com/news/a20261104PD226/apple-macbook-2027-shipments-forecast.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261030VL206/intel-pc-ai-pc-sales-demand.html"
-   ]
-  },
-  {
-   "headline": "Marketplace costs rise and TikTok Shop opens a new channel",
-   "detail": "Amazon fees and ads hit $66.1B in Q3, 96.6% of its retail sales; TikTok Shop launched a stand-alone app. We should weigh channel margins and test new ones.",
+   "headline": "Marketplace costs rise while delivery and new channels expand",
+   "detail": "Amazon raised seller fees and its fees and ads hit $66.1B in Q3; TikTok Shop launched an app. We should weigh channel margins and test new ones.",
    "segment": "marketplaces",
    "storyIds": [
+    "PYMNTS Data::CBMingFBVV95cUxPM3pUSnBqanZlQ3hiQk1sOEk2WlJMbXBRSy1kYVNDMG5XT3hROWdfZWlpRmUtbVd3T3ZqbTZ0dXNrT2FnZEVGd3F2THVnUllzckVvS3MtcVhBTXNDRlhGX2NtOGtuZlpqMlNpOTc3WHdobUdPLTVfUjMxajlZQjZfb3hZWUdCUHpoQktTOGgzV0x4ZUZQbk5KZHBLMUJ5UQ",
     "Marketplace Pulse::http://www.marketplacepulse.com/articles/amazons-fees-and-ads-near-its-retail-sales",
     "TechCrunch::https://techcrunch.com/?p=3185426"
    ]
