@@ -439,35 +439,6 @@
   "keep": false,
   "publishedAt": "2026-10-05T04:00:00.000Z"
  },
- "Reuters::CBMi1gFBVV95cUxQVjBOX2tiblNKM3pNUVJ2VzViQzZobDRCQk5pbk1Nai1vUlNDTG94a2JIRDNYSU96Mm1DTnZjWE5LbW9MbXh1RGtXUnEzRXJHOGx2Y1JmdlVBMGpuRGZkMUlZc0hGSUoxVTAyMWdpQmNPSndSTXFHVHhzMnRYaUdqdVY2NW5kY2l4V2IyN0pmNlgxR0JuUjdCRW5ZejBtU3NpdXhtdkJQNDE0c3k5b25wWXBHZE5tMjRnNU1leTJZZUJPWk0zOHZLdHhmNUl5OXBKLXlkNktR": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "Apple will flag AI requests for Mac data after complaints about Meta's Muse agent",
-  "short_headline": "Apple to flag AI agents' requests for Mac data",
-  "takeaway": "Platform owners are setting rules for what AI agents can access, which will shape agentic shopping.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [
-   "Apple"
-  ],
-  "publishedAt": "2026-10-02T22:43:45.000Z"
- },
- "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363268": {
-  "keep": false,
-  "publishedAt": "2026-10-02T21:33:04.000Z"
- },
- "Retail TouchPoints::CBMinwFBVV95cUxQZWoycm1YYUY4R3lnbFJ3c3llOFFrbV9Ja0NTWVdsVkNJX1hZRmtQNTlvUVdCVXRXS1RaUmotbjgwWFB1NWM2N0ZTMUc1SUd6Qk94R2w4bzVFREVqVEZxUjd6YjlHRGR1R1FueDRMT2NoVEVNeWUtZkRBd0djUjFaNWZXWVlIM3VoWk1RejA5Q2s3dUQyZHdEb0dxZ2dnUFk": {
-  "keep": false,
-  "publishedAt": "2026-10-02T19:06:57.000Z"
- },
- "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363260": {
-  "keep": false,
-  "publishedAt": "2026-10-02T18:42:35.000Z"
- },
- "Retail TouchPoints::CBMivgFBVV95cUxORHhXYkp0TkxpVjNTZGZWWnp5ejU1Mm1ET2JQcmlUNlhvcjVWeko5b3ljd254Y1NZekR0LVBuWHhodXBtbW43WF9ZWmFXenJob1ZNd3ZJX1lNc1RLRDFYWDBudzR5SUFVVkxQSFh0NWVDMExKMmJjX3RaVXBXcG54Z1RwUFVBX0Q5dnM0b2k3Q0pBejJYLUdpWlhsRTJtMVJvM3ROUjFfdWl2MklyYUNiVVNJX3UzQ09qb0pwNERB": {
-  "keep": false,
-  "publishedAt": "2026-10-02T18:22:11.000Z"
- },
  "Retail Dive::https://www.retaildive.com/news/lululemon-heidi-oneill-executive-leadership-team/832505/": {
   "keep": false,
   "publishedAt": "2026-10-08T15:52:00.000Z"
@@ -872,10 +843,6 @@
   "competitors": [],
   "publishedAt": "2026-10-03T08:04:35.000Z"
  },
- "NFIB & QuickBooks Small Business::CBMiugFBVV95cUxOS09UczdQd1BOeEtfbXlMYkNYZFZNZi1jdGM2N2hyMHRJQWtlYUdCXzhLV2Ftb3lmZjZwQ1Q3b3BROFhldDRmdU1BM29IODBmU1kxNFJtOGpXQ1pwWHJCa0NUcGxPVmpOdW91STdTRzlHZjlKWm1jWXZ3UnM3Y05CbzNfLVVPanEyTWVadzNJcXFiZ1BmZ1h6SjNoeXhDSEcyZE1vMlBKeWFUY0FwM3RKaW10YURmWXRTeWc": {
-  "keep": false,
-  "publishedAt": "2026-10-02T19:26:14.000Z"
- },
  "PYMNTS Data::CBMi4AFBVV95cUxNaHhCQVR6RlRwWF9KVTVxc2pEbnI2b2QwNk1fYWxGeWhQTHF4V08xY2lZWE5QQ0F2bGFmLWhhMVZWZkJhZko3M0h1ZldHUFc4YWZHb0UxbVRQa2w1OVJmY1FWT1l4c3BjSllnQXN5X3R3OGF2T2FMYWFWY0diTEtIRHdMQlpDUm1LMWNYdi1FY19CR1BEZEExcWduV3NmS00yQUVvLVFWWW1oZmZ3MmNOZGF6NHJmTTd3a2dXbnVfaTdTVl9aWXZFRUxOT2I4MzVrdkFaTGxzNHFUS1FDaFZnQw": {
   "keep": false,
   "publishedAt": "2026-10-07T16:56:06.000Z"
@@ -1260,10 +1227,6 @@
  "Reuters::CBMivwFBVV95cUxNSmlfdHVPODBnTWJnYUs2UWZ6QjU2aHRvSHRJaFFyU1dxTnFNWmdiZTQtSmZ6NXJKSm5yWmxCRjZkTXM5a2EwNDAyR1FHT0ZWMU1DdjRHMkZmekNaQ1FETFJpd3ZGb2d2YmtXZE5sR0VjNFVGZkRCWkpnTjNsRWNlbmltVjFGZldBUmJWQXhmNzFkSXhXdUVadE12RTZ2M2R4NjNGZHl6MjhFTkdZOGpMRU81aHhRSjd6c0VobWZtQQ": {
   "keep": false,
   "publishedAt": "2026-10-06T13:18:37.000Z"
- },
- "PYMNTS Data::CBMi5gFBVV95cUxQV09yN2lwRHNqT0tzR1FheklhNkt5U0dBdDY4Wm5qV2VlVGU0U1J6c2xucnNNNTRYZWtCOTQwRVhYU1hqZ01XLTBzYWNTRGplODhLbXp1d0hiTVR3M0RlYS01cHlLT0pUNENBcXM3cjlzcjdGT21ibC1RZks2UnBLUllrdDNuNlVqOWZRNWFLSVI5TXhuWlFQeUlmUnVCSlBMcFI2NmF1ejRuVGUzZFl0MmRkQVpoQ1c1TE1aSFpaYjROMzREanZUYS1hT2p3bno2UlRXZTExUTRpT2FRR1lpS0syam9pQQ": {
-  "keep": false,
-  "publishedAt": "2026-10-02T19:23:10.000Z"
  },
  "Retail TouchPoints::CBMixgFBVV95cUxNRUt5WWV2YVFjZU5OT3FleHRNUFl3bjBJbVpjTm03cVlRQXYwUElTam9UNjFfZFUzQU5qbjdFa2tfRlRqS1NvSlNfMlVLcFVRRzBMOTgxemZHNWJVMXo5dk0teWRsZEVnWFV2ZnhNUFAyX2x4ZHpXRDJMNW9RdnU0Rm1ZeEZoRl85SWkyNnNleEo2Z205NFR5Tlc0UWxTS0tZZHJYRDhvOWJlcEtsOU5INnVMT3Z5WWxacV9iRE9RRjNSUS1WbEE": {
   "keep": false,
