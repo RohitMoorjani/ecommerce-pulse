@@ -1,45 +1,53 @@
 {
- "updatedAt": "2026-11-06T00:51:24.549Z",
- "title": "AI shopping is mainstream, and our store must be agent-ready",
- "summary": "55% of shoppers use AI in discovery (NIQ); Amazon adds 100+ Alexa shopping functions and Walmart upgrades Sparky; Visa finds AI models fail 43% of shopping tests. Chicony revenue fell 24% on PC component costs; Amazon raised seller fees.",
+ "updatedAt": "2026-11-06T06:51:44.282Z",
+ "title": "AI agents will own the checkout, so our store must be agent-ready",
+ "summary": "55% of consumers use AI in discovery (NIQ); Amazon wins 59% of AI-assisted buys (PYMNTS); Visa saw AI fail 43% of shopping tests. Mastercard, Amazon, Walmart added agent rails; memory shortage runs to 2028; Apple targets 16M MacBook Neo.",
  "points": [
   {
-   "headline": "AI discovery is mainstream as Amazon and Walmart deepen their assistants",
-   "detail": "55% use AI in discovery (NIQ); Amazon added 100+ Alexa shopping functions and Walmart added visual recognition and cart generation to Sparky. Make our feeds and checkout agent-ready.",
+   "headline": "AI discovery is mainstream, but Amazon closes most agent-led sales",
+   "detail": "55% of consumers use AI to discover products (NIQ) and Amazon wins 59% of AI-assisted purchases. We need product data and checkout that AI assistants can use to send buyers to our store.",
    "segment": "agentic",
    "storyIds": [
     "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0",
-    "Retail Dive::https://www.retaildive.com/news/amazon-adds-alexa-ai-shopping-functions/873602/",
-    "Retail Dive::https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/"
-   ]
-  },
-  {
-   "headline": "Agent shopping is still unreliable, which makes a smooth checkout a differentiator",
-   "detail": "Visa found AI models fail 43% of shopping test runs, while Amazon wins 59% of AI-assisted purchases. We should test how agents handle our store and win the checkout step.",
-   "segment": "agentic",
-   "storyIds": [
-    "PYMNTS Data::CBMisgFBVV95cUxOOTMtUXlrTFg4Q2VEQXRuQ0hPa3NGYXdXay1kSG1EcThIN3NfaHNKWk1ESnRxcWdtVFVjV0gzYV9RUTBkUkhtbVhwbXFMR2xBZnZZNXJSOG5vam02eUZ5Sko2WTRyQ3R4YTQ2eHhTTm5XVDRkWVFqVUZuZm15QmxYZUxEbjFmUlJ4aUVvcUFTNTBFNE9SY0IzSm1YZnlGZm1FdVpSeENFSXJQNDFNRnc1b1ZB",
     "PYMNTS Data::CBMivgFBVV95cUxPQUhWZjl5T2t1amFBc0pQSVlCWUY1eXNYalZTT1Q2QlUtN1VfQnEydlZHMkZHMHF1aXhsaHlzaUVhNmFGS0pLS0VZRFRNbktGdjYxTmszNkVLODcxZ1M4cDBxblc5YzY1SWI5TlpjME9ZTXJudEE0MEhPeGpva1lMMXhYS1JVdVFHRlVSbTFqVUxPbFZBSEMtMjhleGlxZUNBOWoyNGZWZmxQYzJabjZ0VXQwcW5tcDYyczY5TWx3"
    ]
   },
   {
-   "headline": "Memory and component costs weaken PC demand and squeeze margins",
-   "detail": "Memory prices cut 2026 mobile SoC shipments nearly 20%; Chicony revenue fell 24% year on year on component costs; Acer is pushing accessories. Plan pricing, inventory and accessory attach.",
-   "segment": "pc",
+   "headline": "Agent payments and merchant programs are forming; reliability is still weak",
+   "detail": "Mastercard partnered with OpenAI and Tencent, Amazon opened a merchant workspace for Alexa for Shopping, and Visa saw AI fail 43% of test runs. We should test and register our store for agents.",
+   "segment": "agentic",
    "storyIds": [
-    "DigiTimes::https://www.digitimes.com/news/a20261103PD229/soc-shipments-infrastructure-2026-mobile.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261105PD235/chicony-revenue-demand-pc-2026.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261105PD216/acer-pc-accessory-outlook-profit.html"
+    "PYMNTS Data::CBMitwFBVV95cUxOR085TUQtTFhyempjMDdaQUlpdzdrOHJ2RGVMUXlMTi1hME1IZVZiRXZLckFkM0hIcjFtT0FrN0p6d28zMzJ6RWEzbHBzY2dnVHNlTGlWa2dEN1Z0TmNaMHFtdW9lR0w2eHhHOE5tMkxETl9oRTA2bVdKNHgtSWVBVTRZRm1qcDY3SG5MMWhFd1J2OGVtYTdHdk1ySFpRMG1LZDFlWUZFVHpTZXF1TU5WUTJDb0pFVEU",
+    "PYMNTS::https://www.pymnts.com/?p=4368531",
+    "PYMNTS Data::CBMisgFBVV95cUxOOTMtUXlrTFg4Q2VEQXRuQ0hPa3NGYXdXay1kSG1EcThIN3NfaHNKWk1ESnRxcWdtVFVjV0gzYV9RUTBkUkhtbVhwbXFMR2xBZnZZNXJSOG5vam02eUZ5Sko2WTRyQ3R4YTQ2eHhTTm5XVDRkWVFqVUZuZm15QmxYZUxEbjFmUlJ4aUVvcUFTNTBFNE9SY0IzSm1YZnlGZm1FdVpSeENFSXJQNDFNRnc1b1ZB"
    ]
   },
   {
-   "headline": "Marketplace costs rise while delivery and new channels expand",
-   "detail": "Amazon raised seller fees and its fees and ads hit $66.1B in Q3; TikTok Shop launched an app. We should weigh channel margins and test new ones.",
+   "headline": "Memory shortage lasting to 2028 will pressure PC costs and pricing",
+   "detail": "Samsung expects chip shortages through 2028, memory prices cut 2026 mobile SoC shipments nearly 20%, and Apple forecast a margin drop. We should plan pricing and promotions around component inflation.",
+   "segment": "pc",
+   "storyIds": [
+    "DigiTimes::https://www.digitimes.com/news/a20261105VL231/samsung-2028-2027-equipment-production.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261103PD229/soc-shipments-infrastructure-2026-mobile.html",
+    "Reuters::CBMixgFBVV95cUxNTGFsc2NMYXRUbERoRkphY2hPVWNDM0ZRRmw3OHZzNnlfN0h1aEowUG9uaHZraTJPNlcyVFVYZGVjYmx2Ui01d09OTm9YejM3UGF1aUJKcHVUSUxxb0ZGNTktQmVuRVF0X0pKYTF2clJ6YnJpVmNmUEZESHc4ZWRqMkt1d0VyMEV2RVZlUkYtUE9EcW03ZXB5RzFmQk01endLRWtzNFpnVGd4el90TFUxLWhxaXRxYUsyT1lmbjIySjQ2NXcxdVE"
+   ]
+  },
+  {
+   "headline": "Apple plans a laptop volume push as marketplace costs rise",
+   "detail": "Apple told suppliers to plan 16M MacBook Neo units in 2027, double 2026, while Amazon seller fees and ads hit 96.6% of its retail sales. Entry-level promo pressure and channel margins need watching.",
+   "segment": "pc",
+   "storyIds": [
+    "DigiTimes::https://www.digitimes.com/news/a20261104PD226/apple-macbook-2027-shipments-forecast.html",
+    "Marketplace Pulse::http://www.marketplacepulse.com/articles/amazons-fees-and-ads-near-its-retail-sales"
+   ]
+  },
+  {
+   "headline": "TikTok Shop app and JD.com-Ceconomy deal open new channel options",
+   "detail": "TikTok launched a stand-alone Shop app with in-app checkout, and the EU approved JD.com buying Ceconomy (MediaMarkt/Saturn). We should consider testing tech and accessories there and watch European terms.",
    "segment": "marketplaces",
    "storyIds": [
-    "PYMNTS Data::CBMingFBVV95cUxPM3pUSnBqanZlQ3hiQk1sOEk2WlJMbXBRSy1kYVNDMG5XT3hROWdfZWlpRmUtbVd3T3ZqbTZ0dXNrT2FnZEVGd3F2THVnUllzckVvS3MtcVhBTXNDRlhGX2NtOGtuZlpqMlNpOTc3WHdobUdPLTVfUjMxajlZQjZfb3hZWUdCUHpoQktTOGgzV0x4ZUZQbk5KZHBLMUJ5UQ",
-    "Marketplace Pulse::http://www.marketplacepulse.com/articles/amazons-fees-and-ads-near-its-retail-sales",
-    "TechCrunch::https://techcrunch.com/?p=3185426"
+    "TechCrunch::https://techcrunch.com/?p=3185426",
+    "Global Marketplaces::CBMinAFBVV95cUxNWGgxLUp6cElmMWJIUmRRUndreE00cUhJTWc1M1VULVZraElsc3ZWckhPWEs5ZDFGUnJJZkNDNHMyY19zZlhZMWVydjRRSV94ZTdBQ0VCSkVpRE83NWRBa1V1dkwzU2dtVEdpaFUwRWN5bFpRQ2VnYUYwQWVVaUp0dXJ3OHVmcDA2WEtYdVZyT2FUQzJzSEppNlZjNVE"
    ]
   }
  ]

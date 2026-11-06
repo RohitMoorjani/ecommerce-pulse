@@ -7408,5 +7408,115 @@
  "Retail TouchPoints::CBMi0gFBVV95cUxPVTNsQUdaZ2RjT1pHUUI4cTRudlRsQklabU9vRGxOSVRmc3pfY1E4VjJXTmx0NUxSQTJnRUZtS3VSQVpSY2dDSk9LZlU3dWViUE9nZzFyYkR0OWZTNlNVYWVIZ204VlJlRlJSNk5JWi10RThieElVcjVjNGJoVGE0NVk1cktLWU5yUUg3LVZmZURzRHVzbDIyTXYtd0RseDJYTkYxZmVEcXlRWFVuUkJUODVsLVViWXAwTVl4OUdVVUlxdTNsdzlrbkhLdy1PYm9ralE": {
   "keep": false,
   "publishedAt": "2026-11-04T18:59:09.000Z"
+ },
+ "Retail TouchPoints::CBMiZEFVX3lxTE9PNk92UjQxRlBLRkFoWEZIaWRvLTZRQ1B2YlJLczRBTGVHUUg3Ym5DOGtTUW5oeVVGOVA3NUp5Q2IyU2JTNTNJRU5oc3lIWVZTUGVMejFqYnROQ3lfcHUzeGlHbHU": {
+  "keep": false,
+  "publishedAt": "2026-11-06T06:30:16.000Z"
+ },
+ "Inc42::https://inc42.com/?p=579467": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Cashfree launches Checkout for Agents so AI agents can process payments",
+  "short_headline": "Cashfree launches payments checkout for AI agents",
+  "takeaway": "Agent-ready payment rails are arriving; we should check that our store checkout can accept agent-initiated purchases.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-11-06T06:00:55.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=174572": {
+  "keep": false,
+  "publishedAt": "2026-11-06T05:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261106VL212/lx-semicon-loss-semicon-display-revenue.html": {
+  "keep": false,
+  "publishedAt": "2026-11-06T04:24:24.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261106VL211/china-ic-manufacturing-equipment-expansion-investment-2027.html": {
+  "keep": false,
+  "publishedAt": "2026-11-06T03:46:28.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261105VL231/samsung-2028-2027-equipment-production.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Samsung speeds P5 Fab 2 build as memory chip shortage seen lasting through 2028",
+  "short_headline": "Memory shortage seen lasting through 2028",
+  "takeaway": "Prolonged memory tightness means higher component costs and PC price pressure we must factor into our store pricing.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-06T03:35:03.000Z"
+ },
+ "NIQ::CBMinwFBVV95cUxQVE1rYVhKd2lPM21ZU0xsRGNvcG1UZWtlTXJFTmtEX3pHWWZZTUVpYldkLXhPVlZpYkR0eWJjMmNiZ2QyRl9TYUsyTFNhVTZYSG9Odm11dDEyMlMyUFZPVTYyQy01ZkY4dm9GWmg5NWYxX1Rad0gyV3JvMGhBMXc1RVJBUUZNOUZOUE1oRW02ZWZLUG1zVjZ0XzJEWXlWV2c": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "NIQ: what Black Friday 2026 reveals about the 2027 shopper",
+  "short_headline": "NIQ: Black Friday 2026 previews the 2027 shopper",
+  "takeaway": "NIQ research on holiday shopping may inform how we plan promotions and messaging for the coming seasons.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-11-06T03:34:24.000Z"
+ },
+ "PYMNTS Data::CBMisAFBVV95cUxOOFk4enIyR183MS1GSUhpWFloeEEzT1A3QUdodzdKWUxfdDJBckQtQVlfYk9JSUNHSnQ5eGFmcThJdlA2QXhWaGhvSlljMzVKU3RwbUVwdV9UOWdjX25uU3VaNVlUM0gtdFZHX0QxNTU2RWh2NlhkVGFWNGYzeDBlQXFvYllDeVlzSlJfUDVJblI1SEU2NmxjOU45ZVVUTkg4RFlodElvWW81SDh2V1VyMQ": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Affirm CEO expects AI shopping agents to favor interest-free installments",
+  "short_headline": "Affirm CEO: AI agents will favor 0% installments",
+  "takeaway": "If agents steer buyers to interest-free plans, our store financing offers may need to be visible to agents for big-ticket PCs.",
+  "importance": 3,
+  "content_type": "opinion",
+  "competitors": [],
+  "publishedAt": "2026-11-06T02:57:02.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261106PD218/primax-security-b2b-growth-automotive.html": {
+  "keep": false,
+  "publishedAt": "2026-11-06T02:42:35.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261106PD219/sk-hynix-samsung-ssd-exports-demand.html": {
+  "keep": false,
+  "publishedAt": "2026-11-06T02:30:52.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261106PD209/samsung-tv-lcd-market-panel.html": {
+  "keep": false,
+  "publishedAt": "2026-11-06T01:41:45.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261105PD244/wt-2027-acquisition-electronics-2026.html": {
+  "keep": false,
+  "publishedAt": "2026-11-06T00:55:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261105PD245/acer-profit-revenue-gross-margin-2026.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Acer posts five-year-high 3Q26 net income as all three key margins improve",
+  "short_headline": "Acer 3Q26 net income hits five-year high",
+  "takeaway": "A rival PC maker with improving margins may gain room for sharper pricing and promotions that we should watch.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-06T00:45:59.000Z"
+ },
+ "IDC::CBMiZEFVX3lxTE1FRGxMd3FfVnJybHV5dGNNQjFYbkY4OFFvMUJ2QlVFMlhvVlJrZHZYczJ6ZmhwM3dfVnlxUkFRTFA2WmFhcEI2TEdTZ1lETGtRQzZBRlBjV2NZMjNickJRSXlYYlY": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Intel 3Q26: datacenter strength offsets a weak PC outlook, IDC says",
+  "short_headline": "Intel 3Q26: datacenter strong, PC outlook weak",
+  "takeaway": "A weak PC outlook from the main chip supplier signals softer demand and supply pressure we should plan for.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-11-05T23:32:59.000Z"
+ },
+ "Reuters::CBMiswFBVV95cUxQbWlRSnZRckZhR1NzMmNYejNrWmFCR0plTy13STBIdEhWU2VtcFc4ZHQ1cGp4cENYRlM2dHRCaGg3VGloU18ydGtfWVhoWUVnVmtGWWJJQXNMWUhHWFMzdURJOFRXMldWM2gyRXNQTlgyQURGZHhFaUc0Zk5xNVVBcXRPZmNHOExDa0NUZnlRVVFHLXZ2MVIyb3hvMHZYSnVtbU54TndHX1Z1NXhrWUhMNFp5bw": {
+  "keep": false,
+  "publishedAt": "2026-11-05T20:53:19.000Z"
+ },
+ "Retail TouchPoints::CBMiZkFVX3lxTFA1ZG5DLWhFWURuZi1oQkJjSGNZbzhXQXN5RzNZemN6MHlTS3FBM21IeWhGRWpjRHlHZlg4NVpYaXM3NkFwZzVpS1FJbHdIdTNmNF9MRnNoT282ZkdacG5fc1R6REZPdw": {
+  "keep": false,
+  "publishedAt": "2026-11-03T08:00:00.000Z"
+ },
+ "Retail TouchPoints::CBMibkFVX3lxTFBPRlpIV280NVR2RU5MZm5DTEhpSkZuXzdZeVBuZDgtU0tKOGJWT2syTlpLdF9GaGRjcEZDQ3FnT0VfM2N3RnVTNE1kZUUyOHRNalN6SXg0WGUxSUhBdWZsb1YzNzJlXzI1eHAwb0JR": {
+  "keep": false,
+  "publishedAt": "2026-11-02T20:57:38.000Z"
  }
 }
