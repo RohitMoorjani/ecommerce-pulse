@@ -1,82 +1,18 @@
 [
  {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363993",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-06T20:59:33.000Z",
-  "title": "GME acquires regional rival Commercial Supply Co.",
-  "snippet": "Two Midwestern workplace safety distributors have joined forces, with GME Supply acquiring Commercial Supply Co. GME Supply, a Columbia, Missouri-based distributor of workplace safety gear and equipment, announced the…"
+  "id": "Modern Retail::https://www.modernretail.co/?p=174853",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-07T05:00:00.000Z",
+  "title": "How delivery apps came to be ‘discovery platforms’",
+  "snippet": "DoorDash’s Instacart deal shows delivery apps investing further into retail discovery, ad tech and AI-driven shopping."
  },
  {
-  "id": "Retail TouchPoints::CBMi7wFBVV95cUxQZ2ZXNG1XTDZROWFIRWVmUEN5TFpfYmpUYlo1NnJiLS1lX05vLWVhSHBlOU1MNFd2LTdtVlIzekhfLWVpRFlsMVVEakdhQ3FCcGlaQ2JzVnVZamU0Qm9heVFjVmoyY0otUmFlVWdSYmZZa3FCYzZ6eWFfeGt1MzdHRThuRlRjdmZ0b24zMm9yTXR2N25jTGJlNXVxa2J4UnB3V2dJMUg3eFlieFhELU1SWFVjQlVsdXZnbFZ2MUcxT0lpRHdyY2lma0NGM3pIM3JySVRjR3M4MWZONktCWXNzazg2QTgxczk4QXZaMUlQUQ",
+  "id": "Retail TouchPoints::CBMib0FVX3lxTE91dXBMdk5QZUJTdFE0ZmE1QTlsUlpVREpGZDJVV2czbnNwVkprUGNjLTNQbC1ibl8tNnBnT3RsLWhEN0ZOMlNxUnZuMnk1TXNwRUNodTNYNTd1TTFEaWdIQ25ObEV5VTVBb1E1WmNzYw",
   "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-06T20:55:22.000Z",
-  "title": "Why Cellular Access is Critical for Retailers: Improving Operational Efficiency with Connected Technologies",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS::https://www.pymnts.com/?p=4375831",
-  "source": "PYMNTS",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-06T18:45:31.000Z",
-  "title": "Amazon Lets Users Text Alexa to Get Shopping Help",
-  "snippet": "Amazon will begin giving customers the option to text its Alexa for Shopping tool for assistance in their product searches. “Select customers can now text Alexa for Shopping their requests, and it gets to work finding…"
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/bed-bath-beyonds-new-concept-original-store-format-earnings/874012/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-06T17:47:00.000Z",
-  "title": "Bed Bath & Beyond’s new concept takes a page from original format",
-  "snippet": "The store, with familiar elements like the towel wall and coupons, comes as its parent company reported strong revenue gains driven by recent acquisitions."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/the-childrens-place-leadership-shakeup-bankruptcy-rumors/874004/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-06T17:31:00.000Z",
-  "title": "The Children’s Place shakes up leadership amid bankruptcy rumors",
-  "snippet": "With various executives and directors out, including the CEO, the children’s apparel retailer’s CFO has taken over as principal executive officer."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/under-armour-q2-earnings-sales-declines-licensed-youth-sports/873996/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-06T17:13:00.000Z",
-  "title": "Under Armour to sell more full-price product at outlet stores",
-  "snippet": "The move is part of a broader store revamp and comes as the athletics brand tries to increase its premium positioning in the market."
- },
- {
-  "id": "PYMNTS Data::CBMimAFBVV95cUxNS0NUQmg4enNiUk5ndWxtR1E2UGpaM2dTMm0yRjVlY0REWTR2R0Yzc01wcW1DTjFBOW1IVlpTcjhUci1nU2taZnFsNWRFRnFBMFl4cW1JSWFaSy1aTF94dWVKTXZVbUk2OURQMVZKU2RYdjUyellSaXZtQnExOVB1X2FGY2NYdVdIWXJMeXJxSEhLdDlxRzBkUw",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-06T17:12:07.000Z",
-  "title": "Smaller Retailers Fear Fuel Costs Will Dampen Holiday Sales",
-  "snippet": ""
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/reformation-q3-earnings-sales-growth-ai-planning-tool-in-stock-rates/873991/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-06T17:12:00.000Z",
-  "title": "Reformation implements new AI planning tool, helping in-stock rates",
-  "snippet": "The apparel brand's Q3 net revenue jumped 19% and analysts remarked on its strong performance as a newly public company."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/mattel-cuts-forecast-holidays-barbie-problem/873960/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-06T17:07:00.000Z",
-  "title": "As Barbie stumbles, Mattel cuts forecast ahead of the holidays",
-  "snippet": "When asked if he had a catchphrase or mission statement, CEO Roger Lynch on his first earnings call said, “Oh give me a break, I just got here.”"
- },
- {
-  "id": "IDC::CBMiogFBVV95cUxOdlFhcVdtVFNpYUI4NDI2WFE0ZGlOSEVsR25yZVN3bUE3YjJ5LXE4WnpZNDlmWTJZem5La1VfbTlfREgxWmkweElRSS1VRmEtcEdlalo2OGhNMml1Z0x6cWpxVmZidEFTR2N1NDNSeXk0NmFEYktNd003dmRkTWNJNFpyOVJJdVgwMGpJdVhaWmx5djRzUk9DMzNJdk9YRGN2dHc",
-  "source": "IDC",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-06T16:56:25.000Z",
-  "title": "AI Infrastructure Spending Hits $121.4B in Q2",
+  "publishedAt": "2026-11-06T10:50:42.000Z",
+  "title": "Latest In: inventory replenishment",
   "snippet": ""
  }
 ]
