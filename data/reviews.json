@@ -7486,5 +7486,59 @@
  "Reuters::CBMitgFBVV95cUxPaFpRWmZqYUh6YWdpSGE0S3RpaW5kaU56bmtZeEZCdkhCR3R5N1pvdl9wQTNLWkNMWDJBV3VhOVhneEdOOVJnSjdjSGtiN2R6T0dGd290QXp1NTZkaUI1Nm1ueWRXZDBqYmE0TFc2blFTZHRrd055dXc3Tlk0MFNCd00tUmQ2Z0ZnYThTaDliei1MLXZyOFNFc1d3aS1LZ1RSUDlwckUzUjduZ2tzRkZFdzEtX2U5Zw": {
   "keep": false,
   "publishedAt": "2026-11-05T18:58:08.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363993": {
+  "keep": false,
+  "publishedAt": "2026-11-06T20:59:33.000Z"
+ },
+ "Retail TouchPoints::CBMi7wFBVV95cUxQZ2ZXNG1XTDZROWFIRWVmUEN5TFpfYmpUYlo1NnJiLS1lX05vLWVhSHBlOU1MNFd2LTdtVlIzekhfLWVpRFlsMVVEakdhQ3FCcGlaQ2JzVnVZamU0Qm9heVFjVmoyY0otUmFlVWdSYmZZa3FCYzZ6eWFfeGt1MzdHRThuRlRjdmZ0b24zMm9yTXR2N25jTGJlNXVxa2J4UnB3V2dJMUg3eFlieFhELU1SWFVjQlVsdXZnbFZ2MUcxT0lpRHdyY2lma0NGM3pIM3JySVRjR3M4MWZONktCWXNzazg2QTgxczk4QXZaMUlQUQ": {
+  "keep": false,
+  "publishedAt": "2026-11-06T20:55:22.000Z"
+ },
+ "PYMNTS::https://www.pymnts.com/?p=4375831": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Amazon lets select customers text Alexa for Shopping to find products",
+  "short_headline": "Amazon adds text access to Alexa for Shopping",
+  "takeaway": "Messaging-based AI shopping assistants could become a discovery channel; we should check how our products surface there.",
+  "importance": 4,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-11-06T18:45:31.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/bed-bath-beyonds-new-concept-original-store-format-earnings/874012/": {
+  "keep": false,
+  "publishedAt": "2026-11-06T17:47:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/the-childrens-place-leadership-shakeup-bankruptcy-rumors/874004/": {
+  "keep": false,
+  "publishedAt": "2026-11-06T17:31:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/under-armour-q2-earnings-sales-declines-licensed-youth-sports/873996/": {
+  "keep": false,
+  "publishedAt": "2026-11-06T17:13:00.000Z"
+ },
+ "PYMNTS Data::CBMimAFBVV95cUxNS0NUQmg4enNiUk5ndWxtR1E2UGpaM2dTMm0yRjVlY0REWTR2R0Yzc01wcW1DTjFBOW1IVlpTcjhUci1nU2taZnFsNWRFRnFBMFl4cW1JSWFaSy1aTF94dWVKTXZVbUk2OURQMVZKU2RYdjUyellSaXZtQnExOVB1X2FGY2NYdVdIWXJMeXJxSEhLdDlxRzBkUw": {
+  "keep": false,
+  "publishedAt": "2026-11-06T17:12:07.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/reformation-q3-earnings-sales-growth-ai-planning-tool-in-stock-rates/873991/": {
+  "keep": false,
+  "publishedAt": "2026-11-06T17:12:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/mattel-cuts-forecast-holidays-barbie-problem/873960/": {
+  "keep": false,
+  "publishedAt": "2026-11-06T17:07:00.000Z"
+ },
+ "IDC::CBMiogFBVV95cUxOdlFhcVdtVFNpYUI4NDI2WFE0ZGlOSEVsR25yZVN3bUE3YjJ5LXE4WnpZNDlmWTJZem5La1VfbTlfREgxWmkweElRSS1VRmEtcEdlalo2OGhNMml1Z0x6cWpxVmZidEFTR2N1NDNSeXk0NmFEYktNd003dmRkTWNJNFpyOVJJdVgwMGpJdVhaWmx5djRzUk9DMzNJdk9YRGN2dHc": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "IDC: AI infrastructure spending hits $121.4B in Q2",
+  "short_headline": "AI infrastructure spend reaches $121.4B in Q2",
+  "takeaway": "Heavy AI infrastructure spending may tighten server and component supply and pricing, which we should watch for our server lines.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-06T16:56:25.000Z"
  }
 }
