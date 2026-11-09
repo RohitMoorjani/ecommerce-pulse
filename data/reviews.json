@@ -7552,5 +7552,122 @@
  "IDC::CBMiYkFVX3lxTE5LeGlGaC1wMkhIRExZVlN0Yk9ONWYycjNCdlZodU1SSFdUaGRMQkptT3NPUmlxaHkwYk9iY0d6SHhmNDdjekhYay1ZZU5HNU96aEZpMXhnLVIxaWJwUU9JZDVR": {
   "keep": false,
   "publishedAt": "2026-11-05T09:20:02.000Z"
+ },
+ "Retail TouchPoints::CBMikwFBVV95cUxNMzV0NkJNSmtxTzhxZkJPTU4yNzNuVVVHdEIzOFZCdkg4akZ6LUl2Y0JUUXpFbFZMOWJGWW9jYmJXaktBYzFlTm5Ec3VjWGEydHpodWpoQ1pKZzR0b0JnaEk2amRCbElra2NsaThVYXpZR2phakFnVlRocWh1WEp6ZXJVQnkySm1MX1dLT0p3dmw2eDA": {
+  "keep": false,
+  "publishedAt": "2026-11-09T05:04:13.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=174866": {
+  "keep": false,
+  "publishedAt": "2026-11-09T05:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261109PD235/smee-lithography-packaging-equipment-2026.html": {
+  "keep": false,
+  "publishedAt": "2026-11-09T04:33:05.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261109PD212/equipment-tcl-lg-csot-production.html": {
+  "keep": false,
+  "publishedAt": "2026-11-09T04:30:47.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261109PD214/sic-wafer-technology-manufacturing-funding.html": {
+  "keep": false,
+  "publishedAt": "2026-11-09T03:41:07.000Z"
+ },
+ "Global Marketplaces::CBMiugFBVV95cUxOVnFVeVZwZHVtWWlwTEFFSkxGZVZFMVhXd3RrLS1CbTdLU2pCN0E1eERiVDlIQnctUWxtY29ac1JvQVU2b2FrTWpza2R4RG9lc05YSDhYdGQ4WEt1ZzZXV3phcTQtakh1Qkhqdy05VUVQZ3NBLVdIR3NvdkNrcklLdUcxZGJ3NFl3TFdsZU1XSHlscnhBWnc5cEQxVHBzV18xLUFoRE5FS3JRU2RVNjZ3LTlsN2Mtc05SV3c": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "South Korea fines Coupang $220 million for abusing dominance in food delivery",
+  "short_headline": "Korea fines Coupang $220M over dominance abuse",
+  "takeaway": "Regulators are targeting Coupang’s market power in Korea; we should watch for effects on its seller and brand terms.",
+  "importance": 2,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-09T03:24:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261109PD205/wah-hong-materials-cooling-electronics-management.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Higher memory prices weaken consumer electronics demand, Wah Hong reports",
+  "short_headline": "Memory price hikes weaken electronics demand",
+  "takeaway": "Memory-driven price increases are dampening consumer electronics demand; we should test price-sensitivity and bundle offers.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-09T02:57:40.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261109PD200/king-yuan-testing-ai-chip-texas-capacity.html": {
+  "keep": false,
+  "publishedAt": "2026-11-09T02:16:37.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261106PD239/ecs-edge-ai-pc-demand-shipments-2026.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "ECS sees 4Q26 shipments plunging 56% on weak PC demand, pivots to edge AI",
+  "short_headline": "ECS expects 4Q26 shipments to plunge 56%",
+  "takeaway": "Weak PC demand and component changes are hitting the supply chain; we should plan for softer channel orders and tighter inventory.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-09T01:46:40.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261106PD240/pc-ipc-hardware-industrial-growth.html": {
+  "keep": false,
+  "publishedAt": "2026-11-09T01:46:29.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261106PD244/apple-intel-earnings-intel-3-capacity.html": {
+  "keep": false,
+  "publishedAt": "2026-11-09T01:46:17.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261106PD246/pc-adas-2026-revenue-2027.html": {
+  "keep": false,
+  "publishedAt": "2026-11-09T01:46:12.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261106PD247/gmt-pmic-management-ic-supplier.html": {
+  "keep": false,
+  "publishedAt": "2026-11-09T01:46:04.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261106PD250/gseo-lens-maker-revenue-2026.html": {
+  "keep": false,
+  "publishedAt": "2026-11-09T01:45:46.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261106VL205/electronics-manufacturing-capacity-expansion-2027.html": {
+  "keep": false,
+  "publishedAt": "2026-11-09T01:45:22.000Z"
+ },
+ "PYMNTS Data::CBMi-gFBVV95cUxNYjNuQ2t2X0hySGpzcnRkd1cyaGRYZGNrZXMyNzlaOUNoREt0OFdnYlY1N0Y4WkQ4QTRIYWlDSkt6VHRBN2hZVVJoeEhaUmsyY2w4emJaWFdjNWgtcFpXUkFpMmpCcHdfT3FRSC1fa2lsakprWFhxWGVVd2tOd0VuMlVRTGo0UG9yajVxYVdpNHhDTlVWTmdTN0lWN0dsSEhwZEotUFBoVUl0VDVUUHhaS3R1WlhxY21BalFzUlRTelNVZGVPVXFKWnFnZUwyaTl5aDJiOHJiYzJ0QTV3eDJEVTJlU1ZNeUVwY1ZJY0lQaXhJSEJaaG53aFB3": {
+  "keep": false,
+  "publishedAt": "2026-11-08T21:53:46.000Z"
+ },
+ "Reuters::CBMisAFBVV95cUxQQkJyc3dlTThDcC1Fb05WSGRoS05GZEdfN0FfZjZHaE5kNVVWYm9Nb1dXQ185YzBPVmgxTE9rUHJMTE1iVEdZcDdBVEZxclQxTkhuRkVBd0tkMnBpVTc0WmFjZW9HSVVFeU5kbjBDQUVwcEQydWRLM05nMWZZV3BpTXVUelFHRnZWaWlWZDhUNWh0UGxTYzlQbmc4LVVUWEtJN3ZhbERqelRHTG1NQzZQUw": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Amazon rolls out text-based shopping through Alexa",
+  "short_headline": "Amazon adds text-based shopping via Alexa",
+  "takeaway": "Conversational shopping on Amazon expands; we should check how our products surface and get recommended in assistant-led queries.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-06T14:03:55.000Z"
+ },
+ "Global Marketplaces::CBMizAFBVV95cUxQOHlnVFNicmN3SnU1S0xfekpfQlFXTEFOSVBJOEQtNWRWUGd4MWMtOVp4UUZqbEVKNzI1cjZuSlZJMmhBY2s1OWhiRFl0MWZOZktST1lycE02LV8xQ1NyeEc1MTRuQkF2emtyRUNHeFotMGh1RzNLZVlUMkNXdFI5RXUxa29COHAwV0lwOURsUm5UckdwbDZ0US00c1owaUllbFZiOVZhRGVFbW9lTmM4VU5ydnZudkR2Z3dWNXdabXBoQm9mNU9IektkWi0": {
+  "keep": false,
+  "publishedAt": "2026-11-02T23:16:00.000Z"
+ },
+ "Global Marketplaces::CBMixgFBVV95cUxNTGFsc2NMYXRUbERoRkphY2hPVWNDM0ZRRmw3OHZzNnlfN0h1aEowUG9uaHZraTJPNlcyVFVYZGVjYmx2Ui01d09OTm9YejM3UGF1aUJKcHVUSUxxb0ZGNTktQmVuRVF0X0pKYTF2clJ6YnJpVmNmUEZESHc4ZWRqMkt1d0VyMEV2RVZlUkYtUE9EcW03ZXB5RzFmQk01endLRWtzNFpnVGd4el90TFUxLWhxaXRxYUsyT1lmbjIySjQ2NXcxdVE": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Apple forecasts holiday-quarter margin drop as rising memory costs bite",
+  "short_headline": "Apple warns memory costs will cut margins",
+  "takeaway": "Memory costs are squeezing even Apple; we should expect pricing and promo pressure on our own PCs this holiday season.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-11-02T21:31:00.000Z"
+ },
+ "Global Marketplaces::CBMiqwFBVV95cUxPb1V5QVBweV9vQlV1X1kxZWJPRWp0VXc3M1FWNHljRWNjVlMzRmhLVnBUOFItNFZpdlJhOWNsbkV0VWNWR0R3ZjIzUk1sNzBsXzVoLTRQUV9ianhRQXVCN09icHRDNzJwbEItZ2xKQWM4WEV5TGt1T3N5VkFfSW9WeVU0SEFqWjBGMXM4NjFMbW0yUEQ2YVZOS2lmbFRTT3JBUnFVLVRScGMtdDQ": {
+  "keep": false,
+  "publishedAt": "2026-11-02T10:47:44.000Z"
  }
 }

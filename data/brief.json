@@ -1,31 +1,21 @@
 {
- "updatedAt": "2026-11-08T12:51:03.516Z",
- "title": "Memory costs and AI shopping agents force us to rethink price, reach",
- "summary": "Samsung sees the memory shortage lasting to 2028 and Apple forecasts a holiday margin drop; Amazon added 100+ Alexa shopping functions, Walmart upgraded Sparky; Visa found AI fails 43% of shopping tests.",
+ "updatedAt": "2026-11-09T06:52:45.662Z",
+ "title": "Shopping is moving into AI assistants while memory costs squeeze PCs",
+ "summary": "Amazon added 100+ Alexa for Shopping functions, opened merchant registration and began text shopping; Walmart upgraded Sparky; Visa found AI models fail 43% of shopping tests. Apple warned of margin drop on memory costs; Samsung sees shortage to 2028.",
  "points": [
   {
-   "headline": "Memory inflation squeezes PC margins into 2028",
-   "detail": "Samsung expects the memory shortage to last through 2028, Apple forecasts a margin drop and mobile SoC shipments fall nearly 20%. We should plan pricing and promotions around component costs.",
-   "segment": "pc",
-   "storyIds": [
-    "DigiTimes::https://www.digitimes.com/news/a20261105VL231/samsung-2028-2027-equipment-production.html",
-    "Reuters::CBMixgFBVV95cUxNTGFsc2NMYXRUbERoRkphY2hPVWNDM0ZRRmw3OHZzNnlfN0h1aEowUG9uaHZraTJPNlcyVFVYZGVjYmx2Ui01d09OTm9YejM3UGF1aUJKcHVUSUxxb0ZGNTktQmVuRVF0X0pKYTF2clJ6YnJpVmNmUEZESHc4ZWRqMkt1d0VyMEV2RVZlUkYtUE9EcW03ZXB5RzFmQk01endLRWtzNFpnVGd4el90TFUxLWhxaXRxYUsyT1lmbjIySjQ2NXcxdVE",
-    "DigiTimes::https://www.digitimes.com/news/a20261103PD229/soc-shipments-infrastructure-2026-mobile.html"
-   ]
-  },
-  {
-   "headline": "Retail AI assistants are becoming a discovery and checkout layer",
-   "detail": "Amazon added 100+ Alexa functions and text access; Walmart added cart generation to Sparky. We should make our listings and feeds readable by these assistants.",
+   "headline": "Assistants from Amazon and Walmart are becoming shopping channels",
+   "detail": "Amazon added 100+ Alexa functions, opened merchant sign-up and began text shopping; Walmart added cart generation to Sparky. We should check how our products and feeds surface in them.",
    "segment": "agentic",
    "storyIds": [
     "Retail Dive::https://www.retaildive.com/news/amazon-adds-alexa-ai-shopping-functions/873602/",
-    "Retail Dive::https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/",
-    "PYMNTS::https://www.pymnts.com/?p=4375831"
+    "PYMNTS::https://www.pymnts.com/?p=4368531",
+    "Retail Dive::https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/"
    ]
   },
   {
    "headline": "Agent checkout is promising but still unreliable",
-   "detail": "Visa found AI models fail 43% of shopping test runs while Mastercard forms OpenAI and Tencent partnerships. We should test how agents handle our store.",
+   "detail": "Visa found AI models fail 43% of shopping test runs, while Mastercard is forming OpenAI and Tencent partnerships. We should test how agents handle our store before relying on them.",
    "segment": "agentic",
    "storyIds": [
     "PYMNTS Data::CBMisgFBVV95cUxOOTMtUXlrTFg4Q2VEQXRuQ0hPa3NGYXdXay1kSG1EcThIN3NfaHNKWk1ESnRxcWdtVFVjV0gzYV9RUTBkUkhtbVhwbXFMR2xBZnZZNXJSOG5vam02eUZ5Sko2WTRyQ3R4YTQ2eHhTTm5XVDRkWVFqVUZuZm15QmxYZUxEbjFmUlJ4aUVvcUFTNTBFNE9SY0IzSm1YZnlGZm1FdVpSeENFSXJQNDFNRnc1b1ZB",
@@ -33,16 +23,26 @@
    ]
   },
   {
-   "headline": "Apple plans a big laptop volume push",
-   "detail": "Apple told suppliers to plan 16M MacBook Neo units in 2027, double 2026. We should expect pricing and promo pressure in entry-level notebooks.",
+   "headline": "Memory costs are hitting PC margins and demand through 2028",
+   "detail": "Apple forecasts a holiday-quarter margin drop, mobile SoC shipments fall nearly 20%, and Samsung sees the shortage lasting to 2028. We should plan pricing and promotions around component inflation.",
+   "segment": "pc",
+   "storyIds": [
+    "Reuters::CBMixgFBVV95cUxNTGFsc2NMYXRUbERoRkphY2hPVWNDM0ZRRmw3OHZzNnlfN0h1aEowUG9uaHZraTJPNlcyVFVYZGVjYmx2Ui01d09OTm9YejM3UGF1aUJKcHVUSUxxb0ZGNTktQmVuRVF0X0pKYTF2clJ6YnJpVmNmUEZESHc4ZWRqMkt1d0VyMEV2RVZlUkYtUE9EcW03ZXB5RzFmQk01endLRWtzNFpnVGd4el90TFUxLWhxaXRxYUsyT1lmbjIySjQ2NXcxdVE",
+    "DigiTimes::https://www.digitimes.com/news/a20261103PD229/soc-shipments-infrastructure-2026-mobile.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261105VL231/samsung-2028-2027-equipment-production.html"
+   ]
+  },
+  {
+   "headline": "Apple is planning a big entry-level laptop push",
+   "detail": "Apple told suppliers to plan 16M MacBook Neo units in 2027, double 2026. Expect more price and promo pressure in entry notebooks.",
    "segment": "pc",
    "storyIds": [
     "DigiTimes::https://www.digitimes.com/news/a20261104PD226/apple-macbook-2027-shipments-forecast.html"
    ]
   },
   {
-   "headline": "Marketplace costs rise as new channels emerge",
-   "detail": "Amazon seller fees and ads reached $66.1B in Q3, and TikTok launched a stand-alone Shop app. We should weigh channel margins against growing our own store.",
+   "headline": "Marketplace costs rise as new channels open",
+   "detail": "Amazon seller fees and ads hit $66.1B in Q3 while TikTok launched a stand-alone Shop app. We should weigh channel margin against growing our own store.",
    "segment": "marketplaces",
    "storyIds": [
     "Marketplace Pulse::http://www.marketplacepulse.com/articles/amazons-fees-and-ads-near-its-retail-sales",
