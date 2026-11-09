@@ -1,10 +1,162 @@
 [
  {
-  "id": "IDC::CBMiYkFVX3lxTE5LeGlGaC1wMkhIRExZVlN0Yk9ONWYycjNCdlZodU1SSFdUaGRMQkptT3NPUmlxaHkwYk9iY0d6SHhmNDdjekhYay1ZZU5HNU96aEZpMXhnLVIxaWJwUU9JZDVR",
-  "source": "IDC",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-05T09:20:02.000Z",
-  "title": "IDC's Worldwide Notebook PC ODM Tracker Taxonomy, 2026",
+  "id": "Retail TouchPoints::CBMikwFBVV95cUxNMzV0NkJNSmtxTzhxZkJPTU4yNzNuVVVHdEIzOFZCdkg4akZ6LUl2Y0JUUXpFbFZMOWJGWW9jYmJXaktBYzFlTm5Ec3VjWGEydHpodWpoQ1pKZzR0b0JnaEk2amRCbElra2NsaThVYXpZR2phakFnVlRocWh1WEp6ZXJVQnkySm1MX1dLT0p3dmw2eDA",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-09T05:04:13.000Z",
+  "title": "Why Better CX Starts Before the Store",
+  "snippet": ""
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=174866",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-09T05:00:00.000Z",
+  "title": "Poppi founder Allison Ellsworth on launching Jetty, a new hydration brand",
+  "snippet": "Poppi founder Allison Ellsworth is launching Jetty, a better-for-you lower-sodium hydration brand targeted at everyday consumer use."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD235/smee-lithography-packaging-equipment-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-09T04:33:05.000Z",
+  "title": "China's lithography ambitions gain ground as SMEE claims 90% local sourcing in chipmaking tools",
+  "snippet": "Shanghai Micro Electronics Equipment (SMEE) has showcased a new generation of domestically developed lithography systems spanning front-end wafer fabrication and advanced packaging, marking further progress in China's…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD212/equipment-tcl-lg-csot-production.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-09T04:30:47.000Z",
+  "title": "South Korean equipment maker Naintech supplies TCL CSOT via LG for 8.6-generation inkjet OLED line",
+  "snippet": "South Korean equipment maker Naintech is expanding beyond secondary-battery equipment by entering TCL China Star Optoelectronic Technology’s 8.6-generation inkjet OLED mass-production line. South Korean media reported…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD214/sic-wafer-technology-manufacturing-funding.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-09T03:41:07.000Z",
+  "title": "US Department of Defense commits US$75 million to Halo SiC wafer expansion",
+  "snippet": "The Department of Defense's Office of Strategic Capital (OSC) has offered Halo Industries, a semiconductor startup based in Santa Clara, California, a conditional loan commitment of US$75 million. The funding is…"
+ },
+ {
+  "id": "Global Marketplaces::CBMiugFBVV95cUxOVnFVeVZwZHVtWWlwTEFFSkxGZVZFMVhXd3RrLS1CbTdLU2pCN0E1eERiVDlIQnctUWxtY29ac1JvQVU2b2FrTWpza2R4RG9lc05YSDhYdGQ4WEt1ZzZXV3phcTQtakh1Qkhqdy05VUVQZ3NBLVdIR3NvdkNrcklLdUcxZGJ3NFl3TFdsZU1XSHlscnhBWnc5cEQxVHBzV18xLUFoRE5FS3JRU2RVNjZ3LTlsN2Mtc05SV3c",
+  "source": "Global Marketplaces",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-09T03:24:00.000Z",
+  "title": "South Korea fines Coupang $220 million for abusing dominance in food delivery market",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD205/wah-hong-materials-cooling-electronics-management.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-09T02:57:40.000Z",
+  "title": "Taiwanese ICT manufacturer Wah Hong accelerates AI cooling as memory hikes hit electronics",
+  "snippet": "Higher memory prices caused by tight supply weakened demand for consumer electronics, while investment in Wah Hong Industrial's thermal management division weighed on overall third-quarter performance. The company is…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD200/king-yuan-testing-ai-chip-texas-capacity.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-09T02:16:37.000Z",
+  "title": "Semiconductor testing company KYEC keeps US AI chip testing plant on track despite election shift",
+  "snippet": "King Yuan Electronics (KYEC) general manager Gauss Chang said the company's plan to establish a US testing facility in Texas remains on schedule despite concerns that a shift in control after the US midterm elections…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261106PD239/ecs-edge-ai-pc-demand-shipments-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-09T01:46:40.000Z",
+  "title": "ECS sees 4Q26 shipments plunging 56%, targets edge AI",
+  "snippet": "Weak PC demand, customer order adjustments, product transitions, and component supply changes are sharply weakening Elitegroup Computer Systems' (ECS) 2026 OEM and channel shipment outlook. Supply-chain sources estimate…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261106PD240/pc-ipc-hardware-industrial-growth.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-09T01:46:29.000Z",
+  "title": "Adlink's shift beyond industrial PC hardware unlocks stronger margins, growth",
+  "snippet": "Industrial PC (IPC) manufacturer Adlink reported a 43% year-on-year increase in consolidated revenue for the first nine months of 2026, with its operating margin rising to 11% from approximately 5% a year earlier…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261106PD244/apple-intel-earnings-intel-3-capacity.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-09T01:46:17.000Z",
+  "title": "Podcast highlights: Apple hoards supplies via long-term contracts; Intel reverts 18A to Intel 3",
+  "snippet": "Recent earnings reports from Apple and Intel highlight growing supply-chain strain driven by soaring memory costs and massive AI infrastructure build-outs. DIGITIMES analyst Luke Lin identified two supply-chain signals…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261106PD246/pc-adas-2026-revenue-2027.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-09T01:46:12.000Z",
+  "title": "Elan Microelectronics pursues dual-track PC strategy as AI, ADAS, drone lines ramp up",
+  "snippet": "Elan Microelectronics posted Q3 2026 revenue of NT$2.22 billion (approx. US$67.8 million), down 30.7% quarter-over-quarter and 33.1% year-over-year due to a weak PC peak season. Gross margin fell 2.7 percentage points…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261106PD247/gmt-pmic-management-ic-supplier.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-09T01:46:04.000Z",
+  "title": "PMIC supplier GMT sees upside in potential AI spending slowdown",
+  "snippet": "Taiwanese power management IC (PMIC) supplier Global Mixed-mode Technology (GMT) sees a potential slowdown in cloud AI spending as an opportunity to ease wafer capacity constraints and rising memory prices that have…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261106PD250/gseo-lens-maker-revenue-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-09T01:45:46.000Z",
+  "title": "GSEO revenue drops 20% in October 2026 on China holiday, delayed launches",
+  "snippet": "Optical lens maker Genius Electronic Optical (GSEO) reported October 2026 consolidated revenue of NT$2.126 billion (approx. US$64.9 million), down 20.41% from September and 5.78% from the same month in 2025, as China's…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261106VL205/electronics-manufacturing-capacity-expansion-2027.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-09T01:45:22.000Z",
+  "title": "India roundup: India electronics manufacturing expands amid AI-driven supply constraints",
+  "snippet": "India's electronics sector is drawing fresh investment in semiconductors, optical connectivity and manufacturing capacity, even as AI-driven component shortages threaten production, while consumer brands pursue…"
+ },
+ {
+  "id": "PYMNTS Data::CBMi-gFBVV95cUxNYjNuQ2t2X0hySGpzcnRkd1cyaGRYZGNrZXMyNzlaOUNoREt0OFdnYlY1N0Y4WkQ4QTRIYWlDSkt6VHRBN2hZVVJoeEhaUmsyY2w4emJaWFdjNWgtcFpXUkFpMmpCcHdfT3FRSC1fa2lsakprWFhxWGVVd2tOd0VuMlVRTGo0UG9yajVxYVdpNHhDTlVWTmdTN0lWN0dsSEhwZEotUFBoVUl0VDVUUHhaS3R1WlhxY21BalFzUlRTelNVZGVPVXFKWnFnZUwyaTl5aDJiOHJiYzJ0QTV3eDJEVTJlU1ZNeUVwY1ZJY0lQaXhJSEJaaG53aFB3",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-08T21:53:46.000Z",
+  "title": "Careful Consumers Want Control. SoFi Tech Solutions Says Banks Should Hand It Over",
+  "snippet": ""
+ },
+ {
+  "id": "Reuters::CBMisAFBVV95cUxQQkJyc3dlTThDcC1Fb05WSGRoS05GZEdfN0FfZjZHaE5kNVVWYm9Nb1dXQ185YzBPVmgxTE9rUHJMTE1iVEdZcDdBVEZxclQxTkhuRkVBd0tkMnBpVTc0WmFjZW9HSVVFeU5kbjBDQUVwcEQydWRLM05nMWZZV3BpTXVUelFHRnZWaWlWZDhUNWh0UGxTYzlQbmc4LVVUWEtJN3ZhbERqelRHTG1NQzZQUw",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-06T14:03:55.000Z",
+  "title": "Amazon rolls out text-based shopping through Alexa",
+  "snippet": ""
+ },
+ {
+  "id": "Global Marketplaces::CBMizAFBVV95cUxQOHlnVFNicmN3SnU1S0xfekpfQlFXTEFOSVBJOEQtNWRWUGd4MWMtOVp4UUZqbEVKNzI1cjZuSlZJMmhBY2s1OWhiRFl0MWZOZktST1lycE02LV8xQ1NyeEc1MTRuQkF2emtyRUNHeFotMGh1RzNLZVlUMkNXdFI5RXUxa29COHAwV0lwOURsUm5UckdwbDZ0US00c1owaUllbFZiOVZhRGVFbW9lTmM4VU5ydnZudkR2Z3dWNXdabXBoQm9mNU9IektkWi0",
+  "source": "Global Marketplaces",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-02T23:16:00.000Z",
+  "title": "Singapore's Grab lifts 2026 forecasts on strong ride-hailing, delivery demand",
+  "snippet": ""
+ },
+ {
+  "id": "Global Marketplaces::CBMixgFBVV95cUxNTGFsc2NMYXRUbERoRkphY2hPVWNDM0ZRRmw3OHZzNnlfN0h1aEowUG9uaHZraTJPNlcyVFVYZGVjYmx2Ui01d09OTm9YejM3UGF1aUJKcHVUSUxxb0ZGNTktQmVuRVF0X0pKYTF2clJ6YnJpVmNmUEZESHc4ZWRqMkt1d0VyMEV2RVZlUkYtUE9EcW03ZXB5RzFmQk01endLRWtzNFpnVGd4el90TFUxLWhxaXRxYUsyT1lmbjIySjQ2NXcxdVE",
+  "source": "Global Marketplaces",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-02T21:31:00.000Z",
+  "title": "Apple forecasts margin drop in holiday quarter as rising memory costs bite",
+  "snippet": ""
+ },
+ {
+  "id": "Global Marketplaces::CBMiqwFBVV95cUxPb1V5QVBweV9vQlV1X1kxZWJPRWp0VXc3M1FWNHljRWNjVlMzRmhLVnBUOFItNFZpdlJhOWNsbkV0VWNWR0R3ZjIzUk1sNzBsXzVoLTRQUV9ianhRQXVCN09icHRDNzJwbEItZ2xKQWM4WEV5TGt1T3N5VkFfSW9WeVU0SEFqWjBGMXM4NjFMbW0yUEQ2YVZOS2lmbFRTT3JBUnFVLVRScGMtdDQ",
+  "source": "Global Marketplaces",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-02T10:47:44.000Z",
+  "title": "French school protests resume on smaller scale as students return from break",
   "snippet": ""
  }
 ]
