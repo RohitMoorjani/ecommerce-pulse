@@ -315,33 +315,6 @@
   "keep": false,
   "publishedAt": "2026-10-06T21:47:00.000Z"
  },
- "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363315": {
-  "keep": false,
-  "publishedAt": "2026-10-06T21:12:29.000Z"
- },
- "Retail TouchPoints::CBMixgFBVV95cUxNVVdBQ2ZsX3JRYldiekp3NWRIcEwxUHBQcFBvNHVsMHR6NURxSU5ZeGdjRy1LbGtKUUdmcW5fMHhBdEJVWlpCUXAtQldoZGZkZ2dwV2h2b3dYdllCTHhFNTlXWlNCR3VHNEEzTk4ycG9GUFBhX3hjVlRCYm80eEJTOS14VzBOWkdlU2VNZ0JOdFpRYnVZdnplTEpyWS1Kb01CVEFWM3RESWJYblV2clJubHJDa21hZVppcHk1ejJGaTZzdHhKc2c": {
-  "keep": false,
-  "publishedAt": "2026-10-06T20:13:46.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/walmart-defends-dynamic-pricing-practices-again/832248/": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Walmart lets a personalized-pricing patent lapse as scrutiny grows",
-  "short_headline": "Walmart backs off personalized-pricing patent",
-  "takeaway": "Personalized pricing draws public scrutiny; keep any price personalization on our store transparent.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-06T16:44:00.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/mattel-investor-pushes-potential-sale/832228/": {
-  "keep": false,
-  "publishedAt": "2026-10-06T16:20:00.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/where-do-associates-fit-in-an-ai-world-retail/831640/": {
-  "keep": false,
-  "publishedAt": "2026-10-06T16:14:00.000Z"
- },
  "Retail Dive::https://www.retaildive.com/news/lululemon-heidi-oneill-executive-leadership-team/832505/": {
   "keep": false,
   "publishedAt": "2026-10-08T15:52:00.000Z"
@@ -596,44 +569,6 @@
  "Reuters::CBMitgFBVV95cUxQMzhhSlRkUEQzdlRlZEJob2lBbUZfZUItM0Y5bGpCTFVkX0o3UmVDdjhPMm1QelJkSTk3MGU1V3JzVVZtR0dGVmtCdlNESmktcjY3dm5tOHRvV0xYZERLR29tcGVObXVYbzZ6UWFIcE5tNW9nOTF5aXhySVowNGtKamlRcXRjV2pjcExhX0NyUHRsZ2Z3NmF2Y0hkNGRYNW5aZlpfRHZyZ3hud3htTEhmSWdRSFNqQQ": {
   "keep": false,
   "publishedAt": "2026-10-06T23:06:00.000Z"
- },
- "NFIB & QuickBooks Small Business::CBMipAFBVV95cUxOYXpERkdoVlhFTldhelpOT2VPY1cwZ2FRREhzREYtdXdLTTM5d2ZacWZ2YkRMTXNoTjdyWlRsZnlucFM1TmZYRzBKOVFUNlNDQVpLR2FqaVR6NFBPWlZRVTVXZGlvcnFTZTNKOFYza3EwaG5sSUFpZWpLcTFkUlQ2QjcyU1BONmpNRjJ6Q0lSWTZEY2JkZ3JobGl0eE5yeUF5S0pYbQ": {
-  "keep": false,
-  "publishedAt": "2026-10-06T20:57:13.000Z"
- },
- "PYMNTS Data::CBMitAFBVV95cUxOME1yWmJDUlBSUEZ3Y052SkhIMVNfaUxpNnhqczVZVW9vZVlUMFVvN3p5N3dENTVIVDFlN3JDRVBvbHl5NVR2VEkyOXJib1czaEpvTkpueGkwa0VWdkh4WkZtdklRMWU0R1FJaGpvMFVsb2d6SG5Xelc2WllVa1hNR3ZpZlhaRkZvd1k2Y0lEa3VINHdCRnI5Z0NoUndCSnJ3VTRwd2hiMHpvMVcxNGRhdk1HYy0": {
-  "keep": false,
-  "publishedAt": "2026-10-06T20:39:46.000Z"
- },
- "TechCrunch::https://techcrunch.com/?p=3174440": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "Anti-bot defenses are blocking personal AI shopping agents from websites",
-  "short_headline": "Bot blocks are stopping AI shopping agents",
-  "takeaway": "Check whether our own site blocks legitimate shopping agents; being agent-accessible may soon matter for sales.",
-  "importance": 4,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-06T19:56:50.000Z"
- },
- "PYMNTS Data::CBMiogFBVV95cUxOSzE0ajBnTEsyaW9tckJKdS00Ymo3R2VrNk9ZdDJNZkliaE9YaXhfeVB3V25uYnpaczlablpkOXZhZFFNVnF2SGQxTFdLYTJUSUdDUDlEVWc4NlljRldXMF9OUlRRWkN0N29VVTRlUE1ZQ01VS2RoTXBWaFdCMTZjMVpHZ0t5SzlZb19HVVdTQkNPUzNGSjVtTEhoaVc0c2Rzc0E": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "AI power users spend like small businesses, PYMNTS data shows",
-  "short_headline": "AI power users spend like small businesses",
-  "takeaway": "Heavy AI users behave like SMB buyers, a natural audience for business-grade laptops and accessories.",
-  "importance": 4,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-06T19:54:46.000Z"
- },
- "NFIB & QuickBooks Small Business::CBMirwFBVV95cUxQRmpIT0V4NEt2NFRqVE9IZ2lneGNydUJxdWUtZjFFaFBHWlJlT2ZabUlyb1d6ZEVwcElpb21mUW93c09HMXh4UWM1WlVsaktaVEstT0pnWEJreEw5aVZjQmFYVUZMY1NfOXJOWFNDdFAxUVB3ZWJKSEtsaHI3bEVjXzRjMENPckF6YmxlVUtIelVzeVU1THNVSE16NW41TFQ0SlpZaUpmRWhCM3ZoeWRj": {
-  "keep": false,
-  "publishedAt": "2026-10-06T16:39:16.000Z"
- },
- "NFIB & QuickBooks Small Business::CBMinwFBVV95cUxQQldVRHp2YklTRF8tcHZzY2tOcFF5VW02RU04ME1pQzBaemNMRlFXcjVfWENjaUpJTVZOdUN2d2p4Vm5PRnVxZFdjdWxZYzZuRXBUNU5PQnhnYjNmaVlCN0kxdFFOQ3RtM05HYS14UlhpdXpFSHdCbnE4UHdnVU1RenNZVVpoOEUwOV9YWHRyNmtEbUtETHd5YXBTU2w0WnM": {
-  "keep": false,
-  "publishedAt": "2026-10-06T16:13:57.000Z"
  },
  "PYMNTS Data::CBMi4AFBVV95cUxNaHhCQVR6RlRwWF9KVTVxc2pEbnI2b2QwNk1fYWxGeWhQTHF4V08xY2lZWE5QQ0F2bGFmLWhhMVZWZkJhZko3M0h1ZldHUFc4YWZHb0UxbVRQa2w1OVJmY1FWT1l4c3BjSllnQXN5X3R3OGF2T2FMYWFWY0diTEtIRHdMQlpDUm1LMWNYdi1FY19CR1BEZEExcWduV3NmS00yQUVvLVFWWW1oZmZ3MmNOZGF6NHJmTTd3a2dXbnVfaTdTVl9aWXZFRUxOT2I4MzVrdkFaTGxzNHFUS1FDaFZnQw": {
   "keep": false,
