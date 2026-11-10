@@ -1,282 +1,146 @@
 [
  {
-  "id": "Modern Retail::https://www.modernretail.co/?p=174893",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-09T18:50:02.000Z",
-  "title": "Exclusive: TikTok Shop launches a paid premium tier for 1M of its top US shoppers",
-  "snippet": "TikTok Shop is opening up a new paid membership program called TikTok Shop Plus in time for the competitive holiday season."
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364032",
+  "source": "Digital Commerce 360",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-10T03:12:35.000Z",
+  "title": "Under Armour Q2 sales slide as CEO cites optimism about AI",
+  "snippet": "Under Armour CEO Kevin Plank spoke in optimistic terms about the sports apparel and equipment brand’s road ahead, even as net revenue fell 6.9% year over year to $1.24 billion in the fiscal second quarter ended Sept…"
  },
  {
-  "id": "Circana::CBMioAFBVV95cUxPLUtoUEFhNHFjYUpJWUZ5RWFPUGFYYUtCSzIxbGdpckNfME8yOEt2eEtyanZld2lGQzFjMG1NLWNYQ096eDRvS24xMlBCazcwR0gtX1dEclJxQWRTUTk0cUl4NlR1a3NQSFJXUk1NeFBKWmJ1OTZJdG50eWJlX0dQVE56QmJQU29xNTU1N3NqS3JPSm1HcjVkZ0FuWDZ1Vnpy",
-  "source": "Circana",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-09T18:47:44.000Z",
-  "title": "Holiday Out-of-Stocks: Finding the Empty Shelf Before Your Shopper Does",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261110PD215/chemical-materials-ai-server-brand-electronics-nvidia.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-10T02:14:45.000Z",
+  "title": "Column: Nvidia explores PTFE for AI servers amid PFAS concerns",
+  "snippet": "Polytetrafluoroethylene (PTFE), the material behind the Teflon brand, has become one of the most closely watched materials for advanced electronics, drawing attention at the Open Compute Project (OCP) Global Summit and…"
  },
  {
-  "id": "Retail TouchPoints::CBMiygFBVV95cUxPMWFqMjZnNTRpNVM4Qkt0Tk5pSFFhMG4taWx5ZF9qUE5oNU4yZ3pqZzk1NEpEVUVJbU9mMHlldm9DcUZTNzF5dzZsejMzVXRvUDNGRzNMaXpjcDlEejZfTDZNSGpoeTFmQ3hGUzB0T25TazFxNVNnSm55bXpMRTNNWVZpRlQtaVdZdGdWVnM0bVhicFZHdWFuSldZdllHZXBPYy1Pb1QtMzZJY1l4djRUNWhvNmFFREdEQ2RtNU9ZWVRUTll6UXFaX2xR",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-09T17:04:16.000Z",
-  "title": "Why Black Friday Is the Perfect Test of the Price-vs.-Value Equation",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261110PD209/taiwan-2027-2026-exports-investment.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-10T02:02:03.000Z",
+  "title": "TIER sees Taiwan growth slowing to 6.45% in 2027",
+  "snippet": "Taiwan's growth is expected to ease in 2027 as a surge in AI-related exports and business investment lifts this year's comparison base. However, continued spending on AI infrastructure should support trade and private…"
  },
  {
-  "id": "PYMNTS Data::CBMilwFBVV95cUxQajlpd1c0WXlselA3MXFLbFdKOHZndFYtSjR5LUtKaXUyV1ZJMUZuN3g5Sk9icHVnOW1Hc005d1NGZ1RPQWtLVHBnaGl4WkEyZ2VocE5aTXpZNHI3QkREVnk4UzMzRDRBQXNSXzZKQ1pVUER3VTRCT3NDTVExWTZXREQ3VUE4WXZ2QkRyS0x1akdiOUZFVXVR",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD221/winbond-2028-chairman-funding-investment.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-10T01:22:08.000Z",
+  "title": "Winbond sees AI data center buildout largely secured through 2028, flags 2029 as possible turning point",
+  "snippet": "Winbond Electronics chairman Arthur Chiao said the AI data center buildout planned by major cloud service providers (CSPs) for 2027 and 2028 is largely secured, with funding, land, power, and infrastructure almost all…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD220/spansion-winbond-brand-infineon-flash.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-10T01:22:02.000Z",
+  "title": "Winbond to run Infineon flash unit as independent, fabless Spansion brand",
+  "snippet": "Winbond Electronics will revive the Spansion brand for the NOR Flash and F-RAM business it is buying from Infineon Technologies and run it as a fully independent, fabless company, chairman Arthur Chiao said, describing…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD210/phison-revenue-business-profit-growth.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-10T01:21:46.000Z",
+  "title": "Phison Electronics' AI business tops 50% of revenue in 3Q26",
+  "snippet": "Phison Electronics' AI business contributed more than 50% of total revenue in the third quarter of 2026, as demand for AI infrastructure and enterprise storage continued to grow. The company reported record revenue…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD207/intel-photonics-silicon-in-memory-computing-technology.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-10T01:21:36.000Z",
+  "title": "Intel targets silicon photonics, in-memory computing beyond GPUs",
+  "snippet": "As the global semiconductor industry continues to focus on Nvidia, Intel is looking beyond GPUs to determine where next-generation computing architectures will go. In an interview with Japanese publication PC Watch…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD219/chairman-winbond-nuvoton-market-subsidiary.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-10T01:21:20.000Z",
+  "title": "Winbond chairman urges restraint in memory rally, expects 30-month bonuses as Nuvoton plans succession",
+  "snippet": "Winbond Electronics chairman Arthur Chiao said memory prices and profits should not go any further at this stage, warning that a market in which memory thrives while other industries struggle is bad for consumers and…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD238/infineon-server-rack-equipment-power-semiconductors-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-10T01:20:32.000Z",
+  "title": "Infineon bets on 800V DC for megawatt AI racks",
+  "snippet": "Rising power demand at AI data centers is driving demand for power semiconductors used in server power supplies, grid equipment, and chip-level power delivery. Infineon Technologies is positioning its silicon (Si)…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261109VL207/materials-electronics-production-investment-component.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-10T01:19:32.000Z",
+  "title": "India approves INR75 billion in electronics projects, expanding materials production",
+  "snippet": "India approved 12 applications involving a proposed investment of INR75.03 billion (US$796.90 million) under its Electronics Component Manufacturing Scheme (ECMS) on November 6, broadening support for domestic materials…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261109VL225/huawei-harmonyos-supply-chain-desktop-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-10T01:19:05.000Z",
+  "title": "Inside Huawei's 100% domestic desktop: How China is accelerating supply chain self-reliance",
+  "snippet": "At the HarmonyOS Office Industry Summit 2026, Huawei introduced the Qingyun HM650, its first HarmonyOS desktop PC built entirely with domestic components. The HM650 represents a major milestone for both Huawei and…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261110PD205/simplo-profit-revenue-demand-2027.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-10T00:58:06.000Z",
+  "title": "Simplo Technology reports lower third-quarter profit as laptop peak season disappoints",
+  "snippet": "Simplo Technology's third-quarter net profit attributable to shareholders fell 27.6% from the previous quarter as laptop demand softened during the traditional peak season and a US customer's poor smartphone yields…"
+ },
+ {
+  "id": "PYMNTS Data::CBMitgFBVV95cUxQSzZWYUZhcS1adl93empvMldpVVF4MHlMX05KZ0lhMnAxeUM3ZTQ3RGstY01feEFMY2VHUFlCQmtZQVpVY3liZ2MtMS04ejhCMy1NQUZtUHBmRVRSdEoxaVBIS240QmI0bGJZaS1sdGdlblpHNFE4bnhScGdrYjVxNERLd1JiX3FvUUZsY0ZyQnYtRHJwSjk4bWJzT3R0R08tREpaUUJvakJ2NGpKdzJGMnd5WWVBdw",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-09T16:52:03.000Z",
-  "title": "Experian Aims to Help BNPL Users Boost Their Financial Health",
+  "publishedAt": "2026-11-09T23:32:05.000Z",
+  "title": "Consumers See a Brighter Economy but Less Room in the Holiday Budget",
   "snippet": ""
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/the-childrens-place-in-search-of-new-ownership-files-for-bankruptcy/874078/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-09T16:52:00.000Z",
-  "title": "The Children’s Place, in search of new ownership, files for bankruptcy",
-  "snippet": "The specialty apparel retailer, which initiated store-closing sales last week, aims to sell itself by the end of the year, and bids are due in just a month."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/thredup-revenue-growth-slows-despite-record-buyers/874081/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-09T16:42:00.000Z",
-  "title": "ThredUp revenue growth slows despite record number of buyers",
-  "snippet": "The fashion resale platform is approaching the holiday season with lowered expectations amid stiff competition in an increasingly crowded sector."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/amazon-deploys-thousands-of-smart-glasses-to-delivery-drivers/873762/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-09T16:40:00.000Z",
-  "title": "Amazon deploys thousands of smart glasses to delivery drivers",
-  "snippet": "The glasses provide navigation and drop-off instructions within drivers' field of view, part of the company's effort to boost delivery efficiency."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/levis-claymation-holiday-campaign-celebrates-handmade-craft-amid-ai-bloat/873842/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-09T15:59:00.000Z",
-  "title": "Levi’s claymation holiday campaign celebrates handmade craft amid AI bloat",
-  "snippet": "The nostalgic effort follows a back-to-school campaign that CEO Michelle Gass said failed to generate the expected demand and traffic."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/amazon-text-to-shop-ai-agent/874085/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-09T15:42:00.000Z",
-  "title": "Amazon debuts text-to-shop AI agent feature",
-  "snippet": "Select U.S. customers can now text Alexa for Shopping, with the company planning to debut the functionality more broadly in the coming weeks."
- },
- {
-  "id": "Retail TouchPoints::CBMilgFBVV95cUxOODhscFNaWVBKU0hJRnJfZWVuRURPbVE3VHJ0QzBoRHhRQURPcVA3MUV1azlWX3VXUll5WTJreUNGN0hrSmJuS21vY2pXZnd4dUJoLVZWZTEtUXNPZWhQTjkyLTFnbTQ3aGRaNGpNTllvdUNLeThLSjNoQUJ3dUdVNHplNGlyTk9BNGh5S3FZY3JlMEFvWUE",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-09T15:04:36.000Z",
-  "title": "Inside True Religion’s Next Era of Growth",
-  "snippet": ""
- },
- {
-  "id": "Modern Retail::https://www.modernretail.co/?p=174884",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-09T15:00:00.000Z",
-  "title": "How Azuna’s strong supply chain fuels its 9-figure sales",
-  "snippet": "For the 7-year-old air-freshener alternative brand Azuna, topping nine figures in annual online revenue has required aggressive inventory strategies that enable buffer time and vertical control."
- },
- {
-  "id": "CRN::https://www.crn.com/news/channel-news/2026/two-countries-one-opportunity-what-u-k-and-u-s-it-spending-intent-reveals-about-the-future-of-the-channel",
-  "source": "CRN",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-09T14:45:00.000Z",
-  "title": "Two Countries, One Opportunity: What U.K. And U.S. IT Spending Intent Reveals About The Future Of The Channel",
-  "snippet": "The latest end-user spending-intent data from U.K. and U.S. IT leaders reveals that the future of the channel may not be about selling more AI at all. It may be about helping customers operationalize, govern and secure…"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166985",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-09T14:01:44.000Z",
-  "title": "EnGenius Adds NTS Direct As North American Distributor",
-  "snippet": "Partnership expands channel access to EnGenius networking and communications products"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166977",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-09T14:01:30.000Z",
-  "title": "Josh.ai Expands Installer Options With Nimble DevSuite+ Update",
-  "snippet": "Update adds Home Assistant connectivity, custom driver development and certified Nexus 21 TV lift integration"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=166931",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-09T14:00:16.000Z",
-  "title": "Don’t Retire That Receiver: How Old AV Gear Can Create New Sales Opportunities",
-  "snippet": "Dealers can help customers think of older AV gear as the starting point for a second system"
- },
- {
-  "id": "Dell Blog::https://www.dell.com/blog/jonathan-de-almeida-s-journey-from-dreaming-of-a-dell-laptop-to-shaping-the-future-of-responsible-ai",
-  "source": "Dell Blog",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-11-09T14:00:00.000Z",
-  "title": "Jonathan De Almeida’s Journey: From Dreaming of a Dell Laptop to Shaping the Future of Responsible AI",
-  "snippet": ""
- },
- {
-  "id": "Global Marketplaces::CBMi0AFBVV95cUxQanptRUNhdmdrV2x6Y01qWFNCU3BlRTZTN1FyZ2hubTNralRKUE8yWWVpNUd0NERlVngtNS00dG1JYmd0bzVobkNjcDl4X0lXUFdKdnhwQU5ZbW1mMWh1dGZHS3N4Mmk5UGozTzdBdEpwZi1lNl9HUEJXUFYxaGtua2cyUWNVNC1EQjE4M2FJQURmQU4xUjhzR281UkpZa3V2VTVXRmhJOHNFRjJXS1VpUENObEpId0x6VFFSUjh6c01jdEFCUGhVM0xwaEZtM2NG",
-  "source": "Global Marketplaces",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-09T12:54:20.000Z",
-  "title": "Apple Intelligence AI service registers with Chinese regulator for use on tablets, laptops",
-  "snippet": ""
- },
- {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76485",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-09T12:46:40.000Z",
-  "title": "GUEST COMMENT What’s really driving advertising value?",
-  "snippet": "Esme Robinson, VP Platform Solutions & GTM, Epsilon, explains why advertising measurement focuses too much on outcomes and not enough on value. The post GUEST COMMENT What’s really driving advertising value? appeared…"
- },
- {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76481",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-09T12:28:32.000Z",
-  "title": "Black Friday spending set to hit £9.8bn as shoppers plan Christmas bargains",
-  "snippet": "Black Friday spending is set to reach £9.8bn, according to research by VoucherCodes.co.uk. This represents a 3% increase year on year. The post Black Friday spending set to hit £9.8bn as shoppers plan Christmas bargains…"
- },
- {
-  "id": "Retail TouchPoints::CBMijAFBVV95cUxNZ2h3R1JtRDlFN2JlV2RLM3RBdGk3czBvd3BEUW9oZ3dxMzJtNms4VG1lU1pJbnR4c3ZnTTlRYS0xWE0tODdFLWcyQ2tuRUZ2aDNxeWp5NUNjaXZOWjNaLXZTREFWZUV3d3pWNlBVdWFxOXZoWnlEbkdNallzcnFvUkRDd2Y1UnMxYlQtcw",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-09T12:14:11.000Z",
-  "title": "Visa: U.S. Holiday Spending to Rise 4.5%",
-  "snippet": ""
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/spons/how-enterprise-brands-are-retooling-commerce-platforms-to-capture-ai-shoppe/873905/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-09T10:00:00.000Z",
-  "title": "How enterprise brands are retooling commerce platforms to capture AI shoppers",
-  "snippet": "Whether your brand surfaces in agentic commerce hinges on the systems behind your storefront."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/spons/beyond-the-ai-shortlist-how-brands-can-inspire-the-next-purchase/873681/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-09T10:00:00.000Z",
-  "title": "Beyond the AI shortlist: How brands can inspire the next purchase",
-  "snippet": "Inspiration comes before the search. Check out how you can drive discovery and desire before intent."
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD266/2026-taiwan-technology-taiwan-space-agency.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-09T09:33:53.000Z",
-  "title": "Taiwan President taps chip strengths for self-reliant space push",
-  "snippet": "Taiwan will continuously elevate its self-reliant space technology capabilities while leveraging its long-standing strengths in semiconductors, electronics, telecommunications, and precision manufacturing, President…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD257/king-yuan-demand-president-testing-supply-chain.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-09T09:09:11.000Z",
-  "title": "KYEC warns AI demand is amplifying semiconductor supply-chain risks",
-  "snippet": "King Yuan Electronics (KYEC) president Gauss Chang said the AI era is creating new challenges for capacity expansion, as rapidly rising chip prices and shorter product cycles are reshaping the value of semiconductor…"
- },
- {
-  "id": "PYMNTS Data::CBMiogFBVV95cUxNbEJvTmlGdW8ySWZjUVgwRUpKRjRkTHJOYjlhYTVMY0l2cHpkMTloRF9oMWZOVzZYckdhbUdHM1hDMmZ6NXFpNnV5Mk8wNFFLRV9fWmhsOWUtOUNfVTFqWDFobXNqTDg4ZkZpNzhlVjlCSlJhS1cwZGZqMmFST3g3SVdqMi1FSVM5UHJfVFA2WE1vaC1pR05kYVJrR25TNk1SOUE",
+  "id": "PYMNTS Data::CBMisAFBVV95cUxOWlVQMFNxS1k1OEZSc0puV0RTSVVSS0NYTGFaMmwwUDNRc1U1ZThKVEM5X04tS19kdFpLOGtCSlczT0drZnhhcHFuYW1JQlZMRXJGSFA1R1Y0ODQ4YkFYbEwybVdtenFRMGNMcWY3Wl9ySmxfM1FoYVpFSGZxZWQwd2tNVV9FNHpIb2JLSkxhWFg3TkZNdzBmUTRoN2w4Q1E5M1ZnalJxNzhucDk4dUc1UA",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-09T09:02:04.000Z",
-  "title": "44% of Brands Want to Set the Rules for Checkout Rewards",
+  "publishedAt": "2026-11-09T20:57:05.000Z",
+  "title": "Meta Forms Sales Group to Sell AI to Small Businesses",
   "snippet": ""
  },
  {
-  "id": "PYMNTS Data::CBMiswFBVV95cUxPMUtMN1p6cjNObHF2aTVBUzNDRWRnZHdUVW1wMVh4OWk1UV9sYWY5MVhBclFDM2s0QWpORW9LbEs4VGZmQUVOZXRLUktBcFdoLVNES3VfTXpONXZFZnd6SURRRzlUNXZweWtBNGdGMnlQSnQ1cTlWRnlhbVZoMm5nMGJNUnpQSHB5RjhQbzVBbUlJLVkzLUFVb0xuMy1wTzBJRzRHaXMtbzRYM2xiQXB2VHp0QQ",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-09T09:01:59.000Z",
-  "title": "Unexpected Expenses Hit More Consumers Still Keeping Up With Bills",
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364014",
+  "source": "Digital Commerce 360",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-09T20:06:03.000Z",
+  "title": "The Children’s Place bankruptcy filing sets bidding in December",
+  "snippet": "The Children’s Place Inc. filed for Chapter 11 bankruptcy protection in a series of documents dated Nov. 8. The children’s apparel retailer announced its plans that same day, outlining that it would pursue the sale of…"
+ },
+ {
+  "id": "Retail TouchPoints::CBMitwFBVV95cUxQXzlsN25ndUJtV0ZjdzlpR2NoaDJQYThKOEwyejdiYjNuOVZjRXk3MGJsdW9QYUF6ZTd2aHdUTTRRRGFERUV4c21fbGNWOUR0b2s3Ykh1cmtfTHJvdHM1Yjg0UDF1cUJsMUlCWTdzNDMxczZVcmtfc3VJYUtRUi11SGl5UzdxUXNOMjFOTHc3Y095R2FMTnNCMTBoYXdjdzBPU0t1bHZFazdscUtHT2J6UnM4NXowdnM",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-09T20:04:45.000Z",
+  "title": "Maybelline New York Brings Real-Time Makeup Virtual Try-On To ChatGPT",
   "snippet": ""
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261109VL226/samsung-sk-hynix-asml-euv-equipment.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-09T07:50:29.000Z",
-  "title": "Samsung, SK Hynix race to secure EUV tools as ASML warns of shortages",
-  "snippet": "Samsung Electronics and SK Hynix are competing to secure extreme ultraviolet (EUV) lithography equipment from ASML as the Dutch supplier warns that its planned capacity will fall short of customer demand in 2027 and…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261109VL221/nvidia-kakao-autonomous-driving-doosan-sk-hynix.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-09T07:27:47.000Z",
-  "title": "Nvidia's Korea deals proceed despite Jensen probe as Kakao Mobility signs Level 4 autonomous driving pact",
-  "snippet": "Nvidia is pitching South Korea's factories as the proving ground for robots trained in simulation. At its AI Day Seoul 2026 event on November 9, the company detailed physical AI projects with Hyundai Motor Group, Doosan…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD247/deepseek-launch-bloomberg-design-infrastructure.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-09T07:15:00.000Z",
-  "title": "DeepSeek Harness active users quadruple as plugin ecosystem expands",
-  "snippet": "DeepSeek said its open-source AI agent framework, DeepSeek Harness, had 1.54 million daily active users as of November 4, more than quadrupling in less than three months. The company also plans to launch an official…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD255/cwtc-revenue-demand-investment-2025.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-09T07:08:36.000Z",
-  "title": "Chang Wah Technology holds high utilization, boosts China investment",
-  "snippet": "Chang Wah Technology reported October consolidated revenue of NT$1.715 billion (US$52.2 million), up 0.09% month-over-month and 50.83% year-over-year, as demand remained strong despite a weeklong holiday in China and…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD252/sk-hynix-samsung-micron-ic-manufacturing-robot.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-09T06:51:32.000Z",
-  "title": "Samsung, SK Hynix, Micron forge rare alliance to pave way for unmanned chip fabs",
-  "snippet": "Samsung Electronics, SK Hynix and Micron are reportedly collaborating on charging standards for mobile robots used in semiconductor fabs, seeking to accelerate factory automation and lay the groundwork for unmanned…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261109VL223/samsung-texas-fab-production-manufacturing.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-09T06:31:08.000Z",
-  "title": "Samsung's Texas fab may begin trial runs in December",
-  "snippet": "Samsung Electronics may begin trial runs across its Taylor, Texas, foundry in mid-to-late December 2026 as it installs and tests manufacturing equipment ahead of planned commercial production in 2027."
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD204/revenue-catcher-production-2027-2026.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-09T02:53:31.000Z",
-  "title": "Taiwanese structural components manufacturer Catcher targets 20% server revenue as AI PC enters production",
-  "snippet": "Catcher Technology is expanding into AI servers and expects server revenue to account for 20% of total revenue by the end of 2026, chairman Allen Horng said. The company also expects to begin mass production of AI…"
- },
- {
-  "id": "Global Marketplaces::CBMirwFBVV95cUxPSnlxQ1JoQmdtMWZ4UzhHRWJacmNRTGNCeDJmTWRRV2xpdU9xUzY2MzhVSklqMkNxeG93QVNnRUZCYUxvVUNBaHVta2lPS2VxMDlxQnZvandHTXZQVk1LNmVTakZxTzJjcHFGbjBwUHd0ajBwdl9HUERfaEsyWGNicU9yeklKMldtNldLMk5rNWpRNnMyWXY1QUNVa3lLU21tcXEwbXUzMFUzTTZtNnRN",
+  "id": "Global Marketplaces::CBMixAFBVV95cUxNLTUxZVQ4czNyRzFEVW1rcl85TkNOX3U4elBwWmpVR0lWMEFRRkI1Z190XzlMeW5UVXNMS0ZrMU83a3pCZlFWY0RUUTQtZkM2Ujlkc056eDJFbjhadDRmczZsd2FJdjJRcjgzVHIzN2FTUzRvOERxdzh6bDVDSVplVVU5SGZuR000SldCLWxjV2FjT3BHd2JyYWFSTDNhZVgwclR4aGxJMjFvVTVnbHBnZUhTZFltdldwQlhOU0xBSDNkM0hr",
   "source": "Global Marketplaces",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-05T21:35:00.000Z",
-  "title": "AI data center firm IREN delays Microsoft AI deliveries, plans $15 billion spending push",
+  "publishedAt": "2026-11-05T15:34:28.000Z",
+  "title": "Tapestry lifts outlook as young shoppers snap up Coach bags, shares jump",
   "snippet": ""
  },
  {
-  "id": "Global Marketplaces::CBMiygFBVV95cUxQN1ZNRllIUzRYTi1mME16MDlOVE0yVThsamd2NjRNSnhyNk9kYzJNbmlKZHJ0NXlYSXhKVmtqZUFIbVZ5VG9LX2J5YzRNYUJweE82YUtBRXhQZ0NrYXFuOENMbHRhSy10MkRCVmpHRXk2eEw5eUlOcWhEUlVRV1pwakpyb1IxdmxyUVZ3RUdXMWtCaTEzNG1adzZoTE5FT2ZjYzltOERYSENFX04tcDluaVN1cWJtNGotVmNNeDdiclpacHh6cC0wYlB3",
-  "source": "Global Marketplaces",
+  "id": "Retail TouchPoints::CBMiyAFBVV95cUxPTGh2Tk95amVkX3RFTnVYTmVlU3hRcXlnVmFIZXJaQXRyb3Y3U1hNa2o2NkpIWWM0d3IzOWgzR3JOVlhMZWlnVTVUUTdvb1BnZ04tTWZyS0lmMUdiODVkb28xVzBSRktRQjdOZjlIcGZUM294S3lObFlBbThaTGN2YlRycFJ2TmMtVER3ajNkdE8wSHJxWDBwQ0NnOFhUVmw5eHBOdks5bTQ5YTVyOHBodmEyUGVocEVhQ1JZeXRfN2NBa01xQThNYw",
+  "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-03T06:34:28.000Z",
-  "title": "Retailer Zalando launches AI shopping agent as margins squeezed",
+  "publishedAt": "2026-11-04T18:19:18.000Z",
+  "title": "Retail Loss Is Bigger Than External Theft: IHL Group/Sensormatic Solutions Research",
   "snippet": ""
  }
 ]
