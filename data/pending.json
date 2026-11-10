@@ -1,146 +1,186 @@
 [
  {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364032",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-10T03:12:35.000Z",
-  "title": "Under Armour Q2 sales slide as CEO cites optimism about AI",
-  "snippet": "Under Armour CEO Kevin Plank spoke in optimistic terms about the sports apparel and equipment brand’s road ahead, even as net revenue fell 6.9% year over year to $1.24 billion in the fiscal second quarter ended Sept…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261110PD215/chemical-materials-ai-server-brand-electronics-nvidia.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-10T02:14:45.000Z",
-  "title": "Column: Nvidia explores PTFE for AI servers amid PFAS concerns",
-  "snippet": "Polytetrafluoroethylene (PTFE), the material behind the Teflon brand, has become one of the most closely watched materials for advanced electronics, drawing attention at the Open Compute Project (OCP) Global Summit and…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261110PD209/taiwan-2027-2026-exports-investment.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-10T02:02:03.000Z",
-  "title": "TIER sees Taiwan growth slowing to 6.45% in 2027",
-  "snippet": "Taiwan's growth is expected to ease in 2027 as a surge in AI-related exports and business investment lifts this year's comparison base. However, continued spending on AI infrastructure should support trade and private…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD221/winbond-2028-chairman-funding-investment.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-10T01:22:08.000Z",
-  "title": "Winbond sees AI data center buildout largely secured through 2028, flags 2029 as possible turning point",
-  "snippet": "Winbond Electronics chairman Arthur Chiao said the AI data center buildout planned by major cloud service providers (CSPs) for 2027 and 2028 is largely secured, with funding, land, power, and infrastructure almost all…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD220/spansion-winbond-brand-infineon-flash.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-10T01:22:02.000Z",
-  "title": "Winbond to run Infineon flash unit as independent, fabless Spansion brand",
-  "snippet": "Winbond Electronics will revive the Spansion brand for the NOR Flash and F-RAM business it is buying from Infineon Technologies and run it as a fully independent, fabless company, chairman Arthur Chiao said, describing…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD210/phison-revenue-business-profit-growth.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-10T01:21:46.000Z",
-  "title": "Phison Electronics' AI business tops 50% of revenue in 3Q26",
-  "snippet": "Phison Electronics' AI business contributed more than 50% of total revenue in the third quarter of 2026, as demand for AI infrastructure and enterprise storage continued to grow. The company reported record revenue…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD207/intel-photonics-silicon-in-memory-computing-technology.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-10T01:21:36.000Z",
-  "title": "Intel targets silicon photonics, in-memory computing beyond GPUs",
-  "snippet": "As the global semiconductor industry continues to focus on Nvidia, Intel is looking beyond GPUs to determine where next-generation computing architectures will go. In an interview with Japanese publication PC Watch…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD219/chairman-winbond-nuvoton-market-subsidiary.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-10T01:21:20.000Z",
-  "title": "Winbond chairman urges restraint in memory rally, expects 30-month bonuses as Nuvoton plans succession",
-  "snippet": "Winbond Electronics chairman Arthur Chiao said memory prices and profits should not go any further at this stage, warning that a market in which memory thrives while other industries struggle is bad for consumers and…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD238/infineon-server-rack-equipment-power-semiconductors-demand.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-10T01:20:32.000Z",
-  "title": "Infineon bets on 800V DC for megawatt AI racks",
-  "snippet": "Rising power demand at AI data centers is driving demand for power semiconductors used in server power supplies, grid equipment, and chip-level power delivery. Infineon Technologies is positioning its silicon (Si)…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261109VL207/materials-electronics-production-investment-component.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-10T01:19:32.000Z",
-  "title": "India approves INR75 billion in electronics projects, expanding materials production",
-  "snippet": "India approved 12 applications involving a proposed investment of INR75.03 billion (US$796.90 million) under its Electronics Component Manufacturing Scheme (ECMS) on November 6, broadening support for domestic materials…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261109VL225/huawei-harmonyos-supply-chain-desktop-2026.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-10T01:19:05.000Z",
-  "title": "Inside Huawei's 100% domestic desktop: How China is accelerating supply chain self-reliance",
-  "snippet": "At the HarmonyOS Office Industry Summit 2026, Huawei introduced the Qingyun HM650, its first HarmonyOS desktop PC built entirely with domestic components. The HM650 represents a major milestone for both Huawei and…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261110PD205/simplo-profit-revenue-demand-2027.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-10T00:58:06.000Z",
-  "title": "Simplo Technology reports lower third-quarter profit as laptop peak season disappoints",
-  "snippet": "Simplo Technology's third-quarter net profit attributable to shareholders fell 27.6% from the previous quarter as laptop demand softened during the traditional peak season and a US customer's poor smartphone yields…"
- },
- {
-  "id": "PYMNTS Data::CBMitgFBVV95cUxQSzZWYUZhcS1adl93empvMldpVVF4MHlMX05KZ0lhMnAxeUM3ZTQ3RGstY01feEFMY2VHUFlCQmtZQVpVY3liZ2MtMS04ejhCMy1NQUZtUHBmRVRSdEoxaVBIS240QmI0bGJZaS1sdGdlblpHNFE4bnhScGdrYjVxNERLd1JiX3FvUUZsY0ZyQnYtRHJwSjk4bWJzT3R0R08tREpaUUJvakJ2NGpKdzJGMnd5WWVBdw",
+  "id": "PYMNTS Data::CBMimgFBVV95cUxON244X1NnMEwzQlVXSWVuTEMyTmNVLUZUSXA2SjYzVDJCWld5VzBOdW8yQUctYXZ2YXhhZHRFNmZlNzFPUHlWdm5rY3IzTWY2REtnTWVSQ0tlaHJ6bjJWTHZhSi04OS0zRFVHYlFLWDlNWVZlX2FGOXludTdWSHRZdmJvZ0g4QkNLa1ViZUVkdnVERHAxalRHamJ3",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-09T23:32:05.000Z",
-  "title": "Consumers See a Brighter Economy but Less Room in the Holiday Budget",
+  "publishedAt": "2026-11-10T14:36:04.000Z",
+  "title": "Sage Launches Small Business Partnerships With Mastercard and Adyen",
   "snippet": ""
  },
  {
-  "id": "PYMNTS Data::CBMisAFBVV95cUxOWlVQMFNxS1k1OEZSc0puV0RTSVVSS0NYTGFaMmwwUDNRc1U1ZThKVEM5X04tS19kdFpLOGtCSlczT0drZnhhcHFuYW1JQlZMRXJGSFA1R1Y0ODQ4YkFYbEwybVdtenFRMGNMcWY3Wl9ySmxfM1FoYVpFSGZxZWQwd2tNVV9FNHpIb2JLSkxhWFg3TkZNdzBmUTRoN2w4Q1E5M1ZnalJxNzhucDk4dUc1UA",
-  "source": "PYMNTS Data",
+  "id": "Retail Dive::https://www.retaildive.com/news/target-vs-walmart-holiday-marketings-stakes-feel-higher-this-year/873764/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-10T14:34:00.000Z",
+  "title": "Target vs. Walmart: Holiday marketing’s stakes feel higher this year",
+  "snippet": "Walmart’s brand platform focused on reappraisal and Target’s turnaround strategy are in the spotlight during a make-or-break moment for retail."
+ },
+ {
+  "id": "Circana::CBMixAFBVV95cUxNZDNFcmgtTjgwZjhOTE1uLXY4Zk5Cakd1YmgtS3NGZjJzcHc5ODVDS3ZNaHh1Y3NLa0FlOVg3T04wMVlETTNaSHkwd19Lb2VxZGdDcGM2anFxN2x3Q1BSQVhJYVV6bUxER2VOTkdzRnhwU1lLZXMtYm44Z2dyUmFjS1RmOEIzVnhwQVE1TlJNdmdaM1BFbk9ZeUQyNnhQWDhlMEFPX0pkOFZ2eUROcTEzdlBxWE5PRGFWdUo4R0VfU3NNQkpC",
+  "source": "Circana",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-09T20:57:05.000Z",
-  "title": "Meta Forms Sales Group to Sell AI to Small Businesses",
+  "publishedAt": "2026-11-10T14:03:12.000Z",
+  "title": "New Circana Research Reveals GLP-1 Consumers Are Resetting Spending Habits, Not Just Reducing Them",
   "snippet": ""
  },
  {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364014",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-09T20:06:03.000Z",
-  "title": "The Children’s Place bankruptcy filing sets bidding in December",
-  "snippet": "The Children’s Place Inc. filed for Chapter 11 bankruptcy protection in a series of documents dated Nov. 8. The children’s apparel retailer announced its plans that same day, outlining that it would pursue the sale of…"
+  "id": "TWICE::https://www.twice.com/?p=167006",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-10T14:01:22.000Z",
+  "title": "Gadhouse Launches Eric Portable CD Player",
+  "snippet": "New player combines Bluetooth connectivity, anti-skip technology and a wall-mountable design"
  },
  {
-  "id": "Retail TouchPoints::CBMitwFBVV95cUxQXzlsN25ndUJtV0ZjdzlpR2NoaDJQYThKOEwyejdiYjNuOVZjRXk3MGJsdW9QYUF6ZTd2aHdUTTRRRGFERUV4c21fbGNWOUR0b2s3Ykh1cmtfTHJvdHM1Yjg0UDF1cUJsMUlCWTdzNDMxczZVcmtfc3VJYUtRUi11SGl5UzdxUXNOMjFOTHc3Y095R2FMTnNCMTBoYXdjdzBPU0t1bHZFazdscUtHT2J6UnM4NXowdnM",
+  "id": "TWICE::https://www.twice.com/?p=166995",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-10T14:01:11.000Z",
+  "title": "CHEF iQ’s iQ MiniOven And iQ Sense Bring A New Level Of Intelligence To Countertop Cooking",
+  "snippet": "iQ MiniOven pairs with the iQ Sense Smart Wireless Meat Thermometer to make this combination particularly compelling"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=166963",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-10T14:00:51.000Z",
+  "title": "Waymo Co-CEO Tekedra Mawakana To Keynote At CES 2027",
+  "snippet": "Will discuss autonomous vehicle safety, fleet expansion and the future of mobility at the Las Vegas event"
+ },
+ {
+  "id": "Dell Press Releases::CBMi9gFBVV95cUxNa2hIb1BHdWJGSGM2YkhYNDNYS1p6eFBSZXdqTmV1c1l5UjllUy1RQ0IxT2hXU0x1aUlhemJHQUVKNFRTS0Y5cG5MN1FDcVlFZ1lCSUhYbDJwNzJSbEFBVnVXdTllRVF0czFPSktqX3BjcXprc3BpQ1FtMWN5Xy00Q1JHMW9xLUhleFNsSFFnTHBlNUd4YmpaZTNUV2tMYlplUDBoLWczOERWc2xfUmV5U3M4Q1I5YzV5eGRIWHFfNWx4RHNEOWZBeVpoYUtGRDRJdDFWTnluX0dxVVRKdUlPY1I3UlFnTDU2UEJTQUUzcjY4VDRIRUE",
+  "source": "Dell Press Releases",
+  "sourceType": "Competitor Newsroom",
+  "publishedAt": "2026-11-10T14:00:00.000Z",
+  "title": "Spectro Cloud Launches AMD Instinct™ Coder 355, Powered by Dell PowerEdge, for Local-First AI Coding at Scale",
+  "snippet": ""
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76493",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-10T12:33:02.000Z",
+  "title": "Singles Day spend set to top £2.2bn as UK shoppers embrace global retail event",
+  "snippet": "UK consumers are expected to spend more than £2.2bn during this year's Singles Day shopping festival, according to new forecasts from Parcelhero. The post Singles Day spend set to top £2.2bn as UK shoppers embrace…"
+ },
+ {
+  "id": "Retail TouchPoints::CBMiywFBVV95cUxOV0M2OUxtUkdIZUpQNjFVOGRUZERlbWtTSVBlXzNWSW9jQll6TWpXQ21sQ3VpX05SbENIQzNpT2FhWUVST1Q5QVFLYjk4VWlrNVQtRVV3U25KeFhQWUdOWWQ3Ny1LV01ZTkhrcFF3SDFuRXBoS1dka0pkYzBYNGRpYzdNeEZ2R1FCWlp0emFtQnRaVTgxSlZkWmpTREFCN2Ziek95MGFxVW5qQnJKYXpmb0RIUVNVLUxodFEyVUx3Y0s0NTBEWlF5QWhlaw",
   "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-09T20:04:45.000Z",
-  "title": "Maybelline New York Brings Real-Time Makeup Virtual Try-On To ChatGPT",
+  "publishedAt": "2026-11-10T12:03:50.000Z",
+  "title": "AWS’s David Dorf on Where Robots Deliver Value Today: The RetailTouchPoints.com Q&A",
   "snippet": ""
  },
  {
-  "id": "Global Marketplaces::CBMixAFBVV95cUxNLTUxZVQ4czNyRzFEVW1rcl85TkNOX3U4elBwWmpVR0lWMEFRRkI1Z190XzlMeW5UVXNMS0ZrMU83a3pCZlFWY0RUUTQtZkM2Ujlkc056eDJFbjhadDRmczZsd2FJdjJRcjgzVHIzN2FTUzRvOERxdzh6bDVDSVplVVU5SGZuR000SldCLWxjV2FjT3BHd2JyYWFSTDNhZVgwclR4aGxJMjFvVTVnbHBnZUhTZFltdldwQlhOU0xBSDNkM0hr",
-  "source": "Global Marketplaces",
+  "id": "Retail Dive::https://www.retaildive.com/news/why-retail-holiday-hiring-looks-different-2026/873988/",
+  "source": "Retail Dive",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-05T15:34:28.000Z",
-  "title": "Tapestry lifts outlook as young shoppers snap up Coach bags, shares jump",
+  "publishedAt": "2026-11-10T12:00:00.000Z",
+  "title": "Holiday hiring looks different this year. Here’s why.",
+  "snippet": "From retailers pulling back on large hiring announcements to the creation of more part-time roles, here’s why 2026 might be a tipping point for seasonal staffing."
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76489",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-10T11:19:12.000Z",
+  "title": "Asda turnaround under pressure as market share slips",
+  "snippet": "Fresh grocery market data shows Asda was the only major UK supermarket to record a sales decline in the latest 12-week period. The post Asda turnaround under pressure as market share slips appeared first on…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261110PD251/apple-genai-ipad-apple-intelligence-language.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-10T08:50:00.000Z",
+  "title": "Apple files China registration for Apple Intelligence on iPad, Mac",
+  "snippet": "Apple's generative AI (GenAI) service, Apple Intelligence, has completed regulatory filings for tablets and laptops in China after securing approval to launch on smartphones, advancing the company's AI strategy in the…"
+ },
+ {
+  "id": "NIQ::CBMiwgFBVV95cUxQblRIWWZiWF9WeGdEOXpROVJLaUFmNkdHdkZHYUMxaXVjTlNmMko2dTRmNUVIeE9SNkZQTDJfMVdQYWpOT3UzRE16UUxOVTFibVI1Z1VIbTZ1OWZPYV9mdUJ4YkJCcTZEeExVLUNMNU0zS3ZmdmdLbU8tbjRmZkJBVWE4ejJKdC13WlRGYmQzblNSdlEwQW1tcmlVRmdERzlsNlYtaG1yYUNXcGZGUDRnYlA3LTFWa2lsbEdmTXdielFFUQ",
+  "source": "NIQ",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-10T08:01:48.000Z",
+  "title": "​​​UK supermarket sales bounce back in October as extra spending lifts growth",
   "snippet": ""
  },
  {
-  "id": "Retail TouchPoints::CBMiyAFBVV95cUxPTGh2Tk95amVkX3RFTnVYTmVlU3hRcXlnVmFIZXJaQXRyb3Y3U1hNa2o2NkpIWWM0d3IzOWgzR3JOVlhMZWlnVTVUUTdvb1BnZ04tTWZyS0lmMUdiODVkb28xVzBSRktRQjdOZjlIcGZUM294S3lObFlBbThaTGN2YlRycFJ2TmMtVER3ajNkdE8wSHJxWDBwQ0NnOFhUVmw5eHBOdks5bTQ5YTVyOHBodmEyUGVocEVhQ1JZeXRfN2NBa01xQThNYw",
-  "source": "Retail TouchPoints",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261110PD243/revenue-acer-pc-business-chromebook.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-10T07:44:40.000Z",
+  "title": "Acer posts 13-year revenue high on commercial PCs, tablets",
+  "snippet": "Acer Inc. reported consolidated revenue of NT$26.391 billion in October, a five-year high for the month, up 24.3% year-over-year. Revenue for the first 10 months reached NT$275.940 billion, a 13-year high, rising 24.0%…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261110PD236/yageo-revenue-passive-component-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-10T07:04:54.000Z",
+  "title": "Yageo posts record October sales as China holiday weighs on Walsin's revenue",
+  "snippet": "Taiwanese passive component makers Yageo and Walsin Technology reported contrasting October results, with Yageo posting record monthly revenue on strong AI demand while Walsin's sales declined from September due to…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261110VL204/pcb-electronics-ccl-asia-nikkei.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-10T04:29:14.000Z",
+  "title": "AI server demand squeezes India's PCB supply as material costs surge",
+  "snippet": "India's electronics manufacturers are paying sharply more for printed circuit boards (PCBs) as material suppliers shift capacity to artificial intelligence servers, with industry groups warning of production cuts and…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD251/ennostar-revenue-growth-communications-2027.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-10T04:21:37.000Z",
+  "title": "Ennostar sees weak 4Q26, eyes micro LED, optical communications as growth drivers for 2027",
+  "snippet": "Ennostar Holdings posted NT$1.27 billion (US$38.7 million) in net profit for the third quarter of 2026, returning to the black from a loss in the same quarter a year earlier due to pre-stocking demand for the upcoming…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261110PD224/anthropic-claude-data-security-cybersecurity.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-10T04:01:17.000Z",
+  "title": "Anthropic breach exposes 100+ South Korean enterprise Claude accounts",
+  "snippet": "Anthropic’s generative AI service Claude suffered a data breach affecting more than 100 South Korean enterprise accounts, exposing customer names, email addresses, account IDs, organization IDs, subscription tiers, and…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/industry/indias-investment-outlook-strengthens-as-credit-exports-rebound-inflation-relief-likely-hsbc/135698097",
+  "source": "ETRetail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-04T18:19:18.000Z",
-  "title": "Retail Loss Is Bigger Than External Theft: IHL Group/Sensormatic Solutions Research",
+  "publishedAt": "2026-11-10T03:37:07.000Z",
+  "title": "India's investment outlook strengthens as credit, exports rebound; inflation relief likely: HSBC",
+  "snippet": "India's investment outlook is improving as credit growth and corporate revenue increase, pointing towards stronger private capital spending. The report from HSBC highlights that funds to the commercial sector have risen…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261110PD211/apple-sdc-2027-ipad-air-panel.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-10T03:28:54.000Z",
+  "title": "Apple's OLED iPad Air targets 2027, SDC leads panel supply",
+  "snippet": "Apple is reportedly set to launch an OLED iPad Air in the first half of 2027, expanding its OLED tablet lineup. The supply chain expects Samsung Display (SDC) to lead overall OLED iPad panel shipments, while LG Display…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261110VL203/nvidia-samsung-investigation-sk-hynix-ceo.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-10T03:20:55.000Z",
+  "title": "Nvidia probe fuels push for China chip curbs, raising risks for Samsung, SK Hynix",
+  "snippet": "Samsung Electronics and SK Hynix face uncertainty over demand for high-bandwidth memory (HBM) as US lawmakers press for tighter controls on AI chip exports to China following allegations involving Nvidia CEO Jensen…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261109PD258/phison-demand-nand-2027-ceo.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-10T03:12:26.000Z",
+  "title": "Phison locks in 70% of its 2027 NAND supply as AI demand surges",
+  "snippet": "Phison Electronics CEO Pua Khein-Seng expects AI demand to surge again after the Lunar New Year, tightening NAND Flash supplies and intensifying competition for high-capacity triple-level cell (TLC) and quad-level cell…"
+ },
+ {
+  "id": "Reuters::CBMiygFBVV95cUxNME91Z2xUT3FETFBYbjRzYU43eUZiUUFfeUtIdUJDUkxOTVFIa2FMWU4yYmZGb2ZYOE1jdDVLajBzY3RsYTNkOThIY1ZGMDVfT2hJdlRWYlRvc0JWN3FobGZHQlNWUTltaHFBeEdjNV9QMjVHSlNhN0pQSFN6ZElIdTd1WkdIRHJHTkRpemo0My1WMkhTVmh3emVTcFhJRG9ULWVMdXZBT3lqaVZoN0duRzdKQTZDV3dic0dGUGlXcER1Ym5COGJha3VR",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-10T00:04:00.000Z",
+  "title": "UK retail spending shows modest growth ahead Black Friday, survey show",
   "snippet": ""
  }
 ]
