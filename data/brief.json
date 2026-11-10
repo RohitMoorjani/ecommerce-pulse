@@ -1,45 +1,45 @@
 {
- "updatedAt": "2026-11-10T03:51:34.494Z",
- "title": "Win on AI assistants and own channels as memory costs squeeze PCs",
- "summary": "Amazon added 100+ Alexa for Shopping functions and merchant registration; Walmart upgraded Sparky; Visa found AI models fail 43% of shopping tests. Samsung sees memory shortage to 2028; Simplo saw soft laptop peak demand.",
+ "updatedAt": "2026-11-10T15:51:46.178Z",
+ "title": "Shoppers will start with AI agents, so our store must be agent-ready",
+ "summary": "Amazon let select US customers shop by texting Alexa for Shopping; Walmart added cart generation to Sparky; Cashfree launched agent checkout; Visa found AI models fail 43% of shopping tests. Memory shortage seen lasting through 2028; Acer revenue up 24.3% in October.",
  "points": [
   {
-   "headline": "Amazon turns Alexa into a full shopping agent, now via text",
-   "detail": "Alexa for Shopping gained 100+ functions, merchant registration and text-to-shop for select US users. We should check how our listings and feeds surface there.",
+   "headline": "Agent shopping is going mainstream on Amazon and Walmart, though still error-prone",
+   "detail": "Amazon opened text-to-shop via Alexa and a merchant workspace; Walmart's Sparky builds carts; Visa found a 43% failure rate. We should make our listings and checkout agent-readable and test them.",
    "segment": "agentic",
    "storyIds": [
-    "Retail Dive::https://www.retaildive.com/news/amazon-adds-alexa-ai-shopping-functions/873602/",
+    "Retail Dive::https://www.retaildive.com/news/amazon-text-to-shop-ai-agent/874085/",
     "PYMNTS::https://www.pymnts.com/?p=4368531",
-    "Retail Dive::https://www.retaildive.com/news/amazon-text-to-shop-ai-agent/874085/"
-   ]
-  },
-  {
-   "headline": "Agent checkout is scaling but still unreliable",
-   "detail": "Walmart added visual recognition and cart generation to Sparky, while Visa found AI models fail 43% of shopping test runs. We should test how agents handle our store.",
-   "segment": "agentic",
-   "storyIds": [
     "Retail Dive::https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/",
     "PYMNTS Data::CBMisgFBVV95cUxOOTMtUXlrTFg4Q2VEQXRuQ0hPa3NGYXdXay1kSG1EcThIN3NfaHNKWk1ESnRxcWdtVFVjV0gzYV9RUTBkUkhtbVhwbXFMR2xBZnZZNXJSOG5vam02eUZ5Sko2WTRyQ3R4YTQ2eHhTTm5XVDRkWVFqVUZuZm15QmxYZUxEbjFmUlJ4aUVvcUFTNTBFNE9SY0IzSm1YZnlGZm1FdVpSeENFSXJQNDFNRnc1b1ZB"
    ]
   },
   {
-   "headline": "Memory shortage and soft laptop demand squeeze PC pricing as Apple pushes volume",
-   "detail": "Samsung sees memory tightness to 2028; Simplo says laptop peak season disappointed; Apple told suppliers to plan 16M MacBook Neo in 2027. We should plan pricing and promos carefully.",
-   "segment": "pc",
+   "headline": "Payment and financing rails are being rebuilt for AI agents",
+   "detail": "Cashfree launched Checkout for Agents and Affirm's CEO expects agents to favor interest-free instalments. We should make sure our financing offers and checkout can be used by agent-initiated purchases.",
+   "segment": "agentic",
    "storyIds": [
-    "DigiTimes::https://www.digitimes.com/news/a20261105VL231/samsung-2028-2027-equipment-production.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261104PD226/apple-macbook-2027-shipments-forecast.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261103PD229/soc-shipments-infrastructure-2026-mobile.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261110PD205/simplo-profit-revenue-demand-2027.html"
+    "Inc42::https://inc42.com/?p=579467",
+    "PYMNTS Data::CBMisAFBVV95cUxOOFk4enIyR183MS1GSUhpWFloeEEzT1A3QUdodzdKWUxfdDJBckQtQVlfYk9JSUNHSnQ5eGFmcThJdlA2QXhWaGhvSlljMzVKU3RwbUVwdV9UOWdjX25uU3VaNVlUM0gtdFZHX0QxNTU2RWh2NlhkVGFWNGYzeDBlQXFvYllDeVlzSlJfUDVJblI1SEU2NmxjOU45ZVVUTkg4RFlodElvWW81SDh2V1VyMQ"
    ]
   },
   {
-   "headline": "Marketplace costs rise as TikTok Shop builds a new channel",
-   "detail": "Amazon seller fees and ads hit $66.1B in Q3, and TikTok launched a stand-alone Shop app. We should weigh Amazon margin against own-store growth and test TikTok for accessories.",
+   "headline": "Memory shortage and soft laptop demand squeeze PC pricing",
+   "detail": "Samsung sees the memory shortage lasting through 2028 and Simplo reports softer peak-season laptop demand, while Apple plans 16M MacBook Neo units in 2027. We should plan pricing and promotions cautiously.",
+   "segment": "pc",
+   "storyIds": [
+    "DigiTimes::https://www.digitimes.com/news/a20261105VL231/samsung-2028-2027-equipment-production.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261110PD205/simplo-profit-revenue-demand-2027.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261104PD226/apple-macbook-2027-shipments-forecast.html"
+   ]
+  },
+  {
+   "headline": "Amazon fees rise and TikTok Shop deepens loyalty, shifting channel economics",
+   "detail": "Amazon seller fees and ads reached $66.1B in Q3; TikTok Shop launched a paid Plus membership for top US shoppers. We should weigh marketplace margin against growing our own store.",
    "segment": "marketplaces",
    "storyIds": [
     "Marketplace Pulse::http://www.marketplacepulse.com/articles/amazons-fees-and-ads-near-its-retail-sales",
-    "TechCrunch::https://techcrunch.com/?p=3185426"
+    "Modern Retail::https://www.modernretail.co/?p=174893"
    ]
   }
  ]

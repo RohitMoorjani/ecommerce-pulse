@@ -7760,5 +7760,132 @@
  "Retail TouchPoints::CBMiyAFBVV95cUxPTGh2Tk95amVkX3RFTnVYTmVlU3hRcXlnVmFIZXJaQXRyb3Y3U1hNa2o2NkpIWWM0d3IzOWgzR3JOVlhMZWlnVTVUUTdvb1BnZ04tTWZyS0lmMUdiODVkb28xVzBSRktRQjdOZjlIcGZUM294S3lObFlBbThaTGN2YlRycFJ2TmMtVER3ajNkdE8wSHJxWDBwQ0NnOFhUVmw5eHBOdks5bTQ5YTVyOHBodmEyUGVocEVhQ1JZeXRfN2NBa01xQThNYw": {
   "keep": false,
   "publishedAt": "2026-11-04T18:19:18.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76493": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "UK shoppers set to spend over £2.2bn on Singles Day, Parcelhero forecasts",
+  "short_headline": "UK Singles Day spend forecast tops £2.2bn",
+  "takeaway": "Singles Day is becoming a real UK sales peak; we should plan offers and stock for it ahead of Black Friday.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-10T12:33:02.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261110PD243/revenue-acer-pc-business-chromebook.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Acer revenue up 24.3% in October on commercial PCs and tablets, a five-year monthly high",
+  "short_headline": "Acer October revenue up 24.3% on commercial PCs",
+  "takeaway": "Strong commercial PC demand at a rival suggests business buyers are active; we should check our own B2B offers and pricing.",
+  "importance": 4,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-10T07:44:40.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261110VL204/pcb-electronics-ccl-asia-nikkei.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "AI server demand squeezes India PCB supply and pushes up material costs",
+  "short_headline": "AI servers squeeze PCB supply, lifting costs",
+  "takeaway": "Component cost pressure from AI servers could raise PC costs and prices; we should watch margins and pricing in India.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-10T04:29:14.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261109PD258/phison-demand-nand-2027-ceo.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Phison locks in 70% of 2027 NAND supply as AI demand tightens storage",
+  "short_headline": "Phison secures 70% of 2027 NAND supply",
+  "takeaway": "Tighter NAND supply points to higher storage costs in 2027; we should expect pricing pressure on PCs and SSDs.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-10T03:12:26.000Z"
+ },
+ "Reuters::CBMiygFBVV95cUxNME91Z2xUT3FETFBYbjRzYU43eUZiUUFfeUtIdUJDUkxOTVFIa2FMWU4yYmZGb2ZYOE1jdDVLajBzY3RsYTNkOThIY1ZGMDVfT2hJdlRWYlRvc0JWN3FobGZHQlNWUTltaHFBeEdjNV9QMjVHSlNhN0pQSFN6ZElIdTd1WkdIRHJHTkRpemo0My1WMkhTVmh3emVTcFhJRG9ULWVMdXZBT3lqaVZoN0duRzdKQTZDV3dic0dGUGlXcER1Ym5COGJha3VR": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "UK retail spending shows modest growth ahead of Black Friday, survey shows",
+  "short_headline": "UK retail spending grows modestly before Black Friday",
+  "takeaway": "Modest UK demand heading into Black Friday means promotions will carry more weight for our store.",
+  "importance": 2,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-10T00:04:00.000Z"
+ },
+ "PYMNTS Data::CBMimgFBVV95cUxON244X1NnMEwzQlVXSWVuTEMyTmNVLUZUSXA2SjYzVDJCWld5VzBOdW8yQUctYXZ2YXhhZHRFNmZlNzFPUHlWdm5rY3IzTWY2REtnTWVSQ0tlaHJ6bjJWTHZhSi04OS0zRFVHYlFLWDlNWVZlX2FGOXludTdWSHRZdmJvZ0g4QkNLa1ViZUVkdnVERHAxalRHamJ3": {
+  "keep": false,
+  "publishedAt": "2026-11-10T14:36:04.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/target-vs-walmart-holiday-marketings-stakes-feel-higher-this-year/873764/": {
+  "keep": false,
+  "publishedAt": "2026-11-10T14:34:00.000Z"
+ },
+ "Circana::CBMixAFBVV95cUxNZDNFcmgtTjgwZjhOTE1uLXY4Zk5Cakd1YmgtS3NGZjJzcHc5ODVDS3ZNaHh1Y3NLa0FlOVg3T04wMVlETTNaSHkwd19Lb2VxZGdDcGM2anFxN2x3Q1BSQVhJYVV6bUxER2VOTkdzRnhwU1lLZXMtYm44Z2dyUmFjS1RmOEIzVnhwQVE1TlJNdmdaM1BFbk9ZeUQyNnhQWDhlMEFPX0pkOFZ2eUROcTEzdlBxWE5PRGFWdUo4R0VfU3NNQkpC": {
+  "keep": false,
+  "publishedAt": "2026-11-10T14:03:12.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=167006": {
+  "keep": false,
+  "publishedAt": "2026-11-10T14:01:22.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166995": {
+  "keep": false,
+  "publishedAt": "2026-11-10T14:01:11.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=166963": {
+  "keep": false,
+  "publishedAt": "2026-11-10T14:00:51.000Z"
+ },
+ "Dell Press Releases::CBMi9gFBVV95cUxNa2hIb1BHdWJGSGM2YkhYNDNYS1p6eFBSZXdqTmV1c1l5UjllUy1RQ0IxT2hXU0x1aUlhemJHQUVKNFRTS0Y5cG5MN1FDcVlFZ1lCSUhYbDJwNzJSbEFBVnVXdTllRVF0czFPSktqX3BjcXprc3BpQ1FtMWN5Xy00Q1JHMW9xLUhleFNsSFFnTHBlNUd4YmpaZTNUV2tMYlplUDBoLWczOERWc2xfUmV5U3M4Q1I5YzV5eGRIWHFfNWx4RHNEOWZBeVpoYUtGRDRJdDFWTnluX0dxVVRKdUlPY1I3UlFnTDU2UEJTQUUzcjY4VDRIRUE": {
+  "keep": false,
+  "publishedAt": "2026-11-10T14:00:00.000Z"
+ },
+ "Retail TouchPoints::CBMiywFBVV95cUxOV0M2OUxtUkdIZUpQNjFVOGRUZERlbWtTSVBlXzNWSW9jQll6TWpXQ21sQ3VpX05SbENIQzNpT2FhWUVST1Q5QVFLYjk4VWlrNVQtRVV3U25KeFhQWUdOWWQ3Ny1LV01ZTkhrcFF3SDFuRXBoS1dka0pkYzBYNGRpYzdNeEZ2R1FCWlp0emFtQnRaVTgxSlZkWmpTREFCN2Ziek95MGFxVW5qQnJKYXpmb0RIUVNVLUxodFEyVUx3Y0s0NTBEWlF5QWhlaw": {
+  "keep": false,
+  "publishedAt": "2026-11-10T12:03:50.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/why-retail-holiday-hiring-looks-different-2026/873988/": {
+  "keep": false,
+  "publishedAt": "2026-11-10T12:00:00.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76489": {
+  "keep": false,
+  "publishedAt": "2026-11-10T11:19:12.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261110PD251/apple-genai-ipad-apple-intelligence-language.html": {
+  "keep": false,
+  "publishedAt": "2026-11-10T08:50:00.000Z"
+ },
+ "NIQ::CBMiwgFBVV95cUxQblRIWWZiWF9WeGdEOXpROVJLaUFmNkdHdkZHYUMxaXVjTlNmMko2dTRmNUVIeE9SNkZQTDJfMVdQYWpOT3UzRE16UUxOVTFibVI1Z1VIbTZ1OWZPYV9mdUJ4YkJCcTZEeExVLUNMNU0zS3ZmdmdLbU8tbjRmZkJBVWE4ejJKdC13WlRGYmQzblNSdlEwQW1tcmlVRmdERzlsNlYtaG1yYUNXcGZGUDRnYlA3LTFWa2lsbEdmTXdielFFUQ": {
+  "keep": false,
+  "publishedAt": "2026-11-10T08:01:48.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261110PD236/yageo-revenue-passive-component-demand.html": {
+  "keep": false,
+  "publishedAt": "2026-11-10T07:04:54.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261109PD251/ennostar-revenue-growth-communications-2027.html": {
+  "keep": false,
+  "publishedAt": "2026-11-10T04:21:37.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261110PD224/anthropic-claude-data-security-cybersecurity.html": {
+  "keep": false,
+  "publishedAt": "2026-11-10T04:01:17.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/industry/indias-investment-outlook-strengthens-as-credit-exports-rebound-inflation-relief-likely-hsbc/135698097": {
+  "keep": false,
+  "publishedAt": "2026-11-10T03:37:07.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261110PD211/apple-sdc-2027-ipad-air-panel.html": {
+  "keep": false,
+  "publishedAt": "2026-11-10T03:28:54.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261110VL203/nvidia-samsung-investigation-sk-hynix-ceo.html": {
+  "keep": false,
+  "publishedAt": "2026-11-10T03:20:55.000Z"
  }
 }
