@@ -7822,5 +7822,116 @@
  "DigiTimes::https://www.digitimes.com/news/a20261110VL203/nvidia-samsung-investigation-sk-hynix-ceo.html": {
   "keep": false,
   "publishedAt": "2026-11-10T03:20:55.000Z"
+ },
+ "Retail TouchPoints::CBMirwFBVV95cUxQQl9Vc19QcW9pX3B3OVZSMU55UEpheW0ycnNDcXVhbG9kVUhGb09XalVVakhwTFVobE9tczEyUnUwV2xWN0dDVkZfcmMwUjlFV04ybGZkX19iT3J2Mld5dUNUbzQyQ3FCVXRaalFkU1VubHNLaWh3ZkJsTWRHUE1KMWxZMlVpVzlmdXJGbUxxQk4xN0hCLXJKazd1Vnp3MTI5ZzVIOUhsZzdLUkpGQXlj": {
+  "keep": false,
+  "publishedAt": "2026-11-10T20:04:14.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/cybersecurity-grocery-refrigeration-attacks/874270/": {
+  "keep": false,
+  "publishedAt": "2026-11-10T19:58:00.000Z"
+ },
+ "PYMNTS Data::CBMisgFBVV95cUxOcHBDZ0FET0VOLXJSTGFORy1SZzU3NDdSOXROTUdzUjNuVlV5ZmtrZlkyWlBrQzdPUFhRV2pIaUZzaG5UMTl0OGNMQ18yMmY4eDF3RFJTX05FSzh3czV0cnpUN0tRM2thd3A0Uk45NlVRQkdqamZ4SlJoamNfNGhjeHM5N1lsYWt2Y055MzliQm43S3M1aW1mZ2UxRVp1azBWUEJ1VkVLbm96Q01FeGJ5X2VR": {
+  "keep": false,
+  "publishedAt": "2026-11-10T18:47:05.000Z"
+ },
+ "PYMNTS Data::CBMijgFBVV95cUxPZ05XV2dxcDNTaWl2V3ZFaWYyR0k5Rnk2bFFKVkRVODFQUlNheEZuaXZPM2NiLU5Ca1pZdnV4UUZmejBLeGNfemxaOGZGMjJ4U0E3eXRLSGN5TkE4cVJaWFBjbjduaFZCaDZKTUlCaEV1VTR6Nk83c0p5djBoY1FsY2NpNks5LThMcUd5Qktn": {
+  "keep": false,
+  "publishedAt": "2026-11-10T18:31:25.000Z"
+ },
+ "PYMNTS Data::CBMiyAFBVV95cUxNOGJuTUYxNGx3VjRuOWNuRmhRRFIwODIyc2NfOEE3UjczbnZ4dEtrSEVvcldyYnFkWXRwQUlNTDZ4ZHhxS3NyMmhtOUdidFFFMmtvZ1VDV3dVbGhocjJ0R1NJcW10QjRQVjloRVdjSHdUYlNPZ1NPWnE0aHVhbllKbm05ekY5WjFvQnQ1Zk9YV2V4YjRxV0M4dnRRRFRKN0FzeVBxNXJEZGN0aVJPX0duWmRFZ2tIbmVNc1Z4eVpiaTMxRzRwcmhLXw": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "EU draft law ties AI shopping agents’ autonomy to commercial incentives",
+  "short_headline": "EU draft law targets AI shopping agent autonomy",
+  "takeaway": "Rules on agent autonomy and incentives could shape how AI agents list and recommend our products in Europe; we should track the draft.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-10T18:12:05.000Z"
+ },
+ "Reuters::CBMixgFBVV95cUxPeDdpWXlJb3hWWUhMQ3RPNnJ2MU9YeTFYYWVNdzBJZGoydVFxRDJOY2JPTkhaVWd5Y3ZmUzdVMWxZWGtOcmMyeGxDSndwQTJhMG9rLUgtZmdJQlFXdFd0dGppY05RTWZOMFplQlhUTFY1STNybWJjOW5rcWdkY2drWlRaRjI3NTRGdk5IbXlkeWUtSER5QVc4TnB2b3Vhand3cmY5MGJQZXBIaGhPOUVyU1M4VWZHcEZJVG83ZXM4Nml6aG5HeXc": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "OpenAI lets businesses claim ChatGPT profiles and adds agents for US e-commerce firms",
+  "short_headline": "OpenAI adds business profiles and e-commerce agents",
+  "takeaway": "Claimable ChatGPT profiles give us a way to control how our store and products appear in AI answers; we should evaluate claiming one.",
+  "importance": 4,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-11-10T18:03:43.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=175112": {
+  "keep": false,
+  "publishedAt": "2026-11-10T17:58:21.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364041": {
+  "keep": false,
+  "publishedAt": "2026-11-10T17:29:24.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/ethan-allen-ceo-out-after-four-decades/874228/": {
+  "keep": false,
+  "publishedAt": "2026-11-10T17:24:00.000Z"
+ },
+ "Salesforce Shopping Research::CBMingFBVV95cUxOSS1DaE5Vc2o3RDcxRGtOdkZsXzd6R0oxVEsxTjNRNDZfSERibU1VeG9jNTBEcTU1NHRnTDR6amZYVV9wTG9JYXR1R0o2NGpLdHRTemlKbDd0c0phVzRlSFRoQ2c5ZURzWktNbENhODRuVGNxRXBCS1BzU05JWEVqdlp1dXdqZEFJMG1lVlp5Q3pQRjM0NkZRZGF3MjZBQQ": {
+  "keep": false,
+  "publishedAt": "2026-11-10T17:07:31.000Z"
+ },
+ "Retail TouchPoints::CBMi_AFBVV95cUxPcWl6TWV5eGVPZXBrQzdWQkhQVGVfNmtKd04tam9QVDZjaW94dXJ2VFpNWkxOTm5IdmhsemplV3BDc0NPZDc1OVlUaW1nUkEtNVVvQnd4TWQ3Z0xSSVZ4SldNbEFyUTdPM3BfMXFJTzFFa05KMkdwMlYwNlVpM004eHUtX000dTJNSVI0bXRwcXpjZWo3OXhFUEZsdlR4Nnhfcm5USGRKeGw4elI0WWxuZW9SYUhWMXdZcHBWLWFaYk5WeFNYSTg4emlzRXFPTVd2R0xNMGxnUkdlSGVScXZCdEFXcTZWZjMzbFdHZDdaYjdDMEZfQS1nRmZTZjA": {
+  "keep": false,
+  "publishedAt": "2026-11-10T16:54:36.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/on-third-quarter-earnings-wholesale-growth/874245/": {
+  "keep": false,
+  "publishedAt": "2026-11-10T16:36:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/lululemon-fills-executive-roles-chief-brand-strategy-officer-heidi-oneill-turnaround-team/874204/": {
+  "keep": false,
+  "publishedAt": "2026-11-10T15:37:00.000Z"
+ },
+ "Inc42::https://inc42.com/?p=579803": {
+  "keep": false,
+  "publishedAt": "2026-11-10T15:31:45.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76496": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "47% of online shoppers mainly buy planned items at big sales; AI and social have limited pull",
+  "short_headline": "Most Black Friday buys are planned, AI has limited pull",
+  "takeaway": "Intent is set before the event, so early visibility and clear offers matter more for us than last-minute AI or social tactics.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-10T15:15:33.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=174868": {
+  "keep": false,
+  "publishedAt": "2026-11-10T15:00:00.000Z"
+ },
+ "TechCrunch::https://techcrunch.com/?p=3186487": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Reddit turns user conversations into AI product reviews covering 10,000 products",
+  "short_headline": "Reddit launches AI-powered product reviews",
+  "takeaway": "AI summaries of community opinion become a new product-research surface ahead of the holidays; we should check how our products read there.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-11-10T15:00:00.000Z"
+ },
+ "Apple Newsroom::https://www.apple.com/newsroom/2026/11/football-manager-and-other-hit-franchises-headline-apple-arcades-holiday-lineup/": {
+  "keep": false,
+  "publishedAt": "2026-11-10T14:59:45.256Z"
+ },
+ "Reuters::CBMivAFBVV95cUxQcWlVRHBuVk00YUFUa1ZfRHQ0ZGN2ekwxa2IyYU5pYjhVdjVfTnF1ekU3NjU5QlRYUUV0LUU2OFRvWC0tQjVOQ2t0N0xqMlg1UmxsX29aRHVNdmdXNlFSdUF2cXVEVUJIOUZGUmc2YXdlSnhhVzRuMGRjcnQ5dVVYQm1oQ29DaXhRdEN4NkVhU3hWSk5mTzZ1dEZtNjlHWWdJNWlnYTZNNTFFYkZ0UG9GZFBuWDdQYkpORlZ3Wg": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "UK aviation regulator clears Amazon for expanded drone delivery",
+  "short_headline": "UK clears Amazon for expanded drone delivery",
+  "takeaway": "Faster Amazon delivery in the UK raises the delivery-speed bar for electronics sold there; we should watch the effect on marketplace conversion.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-10T11:36:05.000Z"
  }
 }
