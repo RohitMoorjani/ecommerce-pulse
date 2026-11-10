@@ -7768,5 +7768,105 @@
   "content_type": "announcement",
   "competitors": [],
   "publishedAt": "2026-11-03T06:34:28.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364032": {
+  "keep": false,
+  "publishedAt": "2026-11-10T03:12:35.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261110PD215/chemical-materials-ai-server-brand-electronics-nvidia.html": {
+  "keep": false,
+  "publishedAt": "2026-11-10T02:14:45.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261110PD209/taiwan-2027-2026-exports-investment.html": {
+  "keep": false,
+  "publishedAt": "2026-11-10T02:02:03.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261109PD221/winbond-2028-chairman-funding-investment.html": {
+  "keep": false,
+  "publishedAt": "2026-11-10T01:22:08.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261109PD220/spansion-winbond-brand-infineon-flash.html": {
+  "keep": false,
+  "publishedAt": "2026-11-10T01:22:02.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261109PD210/phison-revenue-business-profit-growth.html": {
+  "keep": false,
+  "publishedAt": "2026-11-10T01:21:46.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261109PD207/intel-photonics-silicon-in-memory-computing-technology.html": {
+  "keep": false,
+  "publishedAt": "2026-11-10T01:21:36.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261109PD219/chairman-winbond-nuvoton-market-subsidiary.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Winbond chairman says memory prices and profits should not rise further",
+  "short_headline": "Winbond chair: memory rally should stop",
+  "takeaway": "Memory cost pressure may persist into pricing; we should watch component costs in our PC and laptop pricing.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-10T01:21:20.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261109PD238/infineon-server-rack-equipment-power-semiconductors-demand.html": {
+  "keep": false,
+  "publishedAt": "2026-11-10T01:20:32.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261109VL207/materials-electronics-production-investment-component.html": {
+  "keep": false,
+  "publishedAt": "2026-11-10T01:19:32.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261109VL225/huawei-harmonyos-supply-chain-desktop-2026.html": {
+  "keep": false,
+  "publishedAt": "2026-11-10T01:19:05.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261110PD205/simplo-profit-revenue-demand-2027.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Simplo: laptop demand softens in traditional peak season, Q3 profit falls 27.6%",
+  "short_headline": "Laptop peak season disappoints Simplo",
+  "takeaway": "Soft peak-season laptop demand suggests we should plan promotions and inventory cautiously for the holiday quarter.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-10T00:58:06.000Z"
+ },
+ "PYMNTS Data::CBMitgFBVV95cUxQSzZWYUZhcS1adl93empvMldpVVF4MHlMX05KZ0lhMnAxeUM3ZTQ3RGstY01feEFMY2VHUFlCQmtZQVpVY3liZ2MtMS04ejhCMy1NQUZtUHBmRVRSdEoxaVBIS240QmI0bGJZaS1sdGdlblpHNFE4bnhScGdrYjVxNERLd1JiX3FvUUZsY0ZyQnYtRHJwSjk4bWJzT3R0R08tREpaUUJvakJ2NGpKdzJGMnd5WWVBdw": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Consumers see a brighter economy but less room in the holiday budget",
+  "short_headline": "Holiday budgets tighten despite brighter outlook",
+  "takeaway": "Tighter holiday budgets point to price-sensitive buying, so we should emphasize value, financing and promotions.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-09T23:32:05.000Z"
+ },
+ "PYMNTS Data::CBMisAFBVV95cUxOWlVQMFNxS1k1OEZSc0puV0RTSVVSS0NYTGFaMmwwUDNRc1U1ZThKVEM5X04tS19kdFpLOGtCSlczT0drZnhhcHFuYW1JQlZMRXJGSFA1R1Y0ODQ4YkFYbEwybVdtenFRMGNMcWY3Wl9ySmxfM1FoYVpFSGZxZWQwd2tNVV9FNHpIb2JLSkxhWFg3TkZNdzBmUTRoN2w4Q1E5M1ZnalJxNzhucDk4dUc1UA": {
+  "keep": false,
+  "publishedAt": "2026-11-09T20:57:05.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364014": {
+  "keep": false,
+  "publishedAt": "2026-11-09T20:06:03.000Z"
+ },
+ "Retail TouchPoints::CBMitwFBVV95cUxQXzlsN25ndUJtV0ZjdzlpR2NoaDJQYThKOEwyejdiYjNuOVZjRXk3MGJsdW9QYUF6ZTd2aHdUTTRRRGFERUV4c21fbGNWOUR0b2s3Ykh1cmtfTHJvdHM1Yjg0UDF1cUJsMUlCWTdzNDMxczZVcmtfc3VJYUtRUi11SGl5UzdxUXNOMjFOTHc3Y095R2FMTnNCMTBoYXdjdzBPU0t1bHZFazdscUtHT2J6UnM4NXowdnM": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Maybelline brings real-time makeup virtual try-on to ChatGPT",
+  "short_headline": "Maybelline launches virtual try-on in ChatGPT",
+  "takeaway": "Brands are building product experiences inside ChatGPT; we could test interactive product selectors for our configurable PCs.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-11-09T20:04:45.000Z"
+ },
+ "Global Marketplaces::CBMixAFBVV95cUxNLTUxZVQ4czNyRzFEVW1rcl85TkNOX3U4elBwWmpVR0lWMEFRRkI1Z190XzlMeW5UVXNMS0ZrMU83a3pCZlFWY0RUUTQtZkM2Ujlkc056eDJFbjhadDRmczZsd2FJdjJRcjgzVHIzN2FTUzRvOERxdzh6bDVDSVplVVU5SGZuR000SldCLWxjV2FjT3BHd2JyYWFSTDNhZVgwclR4aGxJMjFvVTVnbHBnZUhTZFltdldwQlhOU0xBSDNkM0hr": {
+  "keep": false,
+  "publishedAt": "2026-11-05T15:34:28.000Z"
+ },
+ "Retail TouchPoints::CBMiyAFBVV95cUxPTGh2Tk95amVkX3RFTnVYTmVlU3hRcXlnVmFIZXJaQXRyb3Y3U1hNa2o2NkpIWWM0d3IzOWgzR3JOVlhMZWlnVTVUUTdvb1BnZ04tTWZyS0lmMUdiODVkb28xVzBSRktRQjdOZjlIcGZUM294S3lObFlBbThaTGN2YlRycFJ2TmMtVER3ajNkdE8wSHJxWDBwQ0NnOFhUVmw5eHBOdks5bTQ5YTVyOHBodmEyUGVocEVhQ1JZeXRfN2NBa01xQThNYw": {
+  "keep": false,
+  "publishedAt": "2026-11-04T18:19:18.000Z"
  }
 }

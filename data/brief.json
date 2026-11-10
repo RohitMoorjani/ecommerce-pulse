@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-09T21:51:07.143Z",
+ "updatedAt": "2026-11-10T03:51:34.494Z",
  "title": "Win on AI assistants and own channels as memory costs squeeze PCs",
- "summary": "Amazon added 100+ Alexa for Shopping functions, merchant registration and text shopping; Walmart upgraded Sparky; Visa found AI models fail 43% of shopping tests. Samsung sees memory shortage to 2028; Apple told suppliers 16M MacBook Neo for 2027.",
+ "summary": "Amazon added 100+ Alexa for Shopping functions and merchant registration; Walmart upgraded Sparky; Visa found AI models fail 43% of shopping tests. Samsung sees memory shortage to 2028; Simplo saw soft laptop peak demand.",
  "points": [
   {
    "headline": "Amazon turns Alexa into a full shopping agent, now via text",
@@ -23,13 +23,14 @@
    ]
   },
   {
-   "headline": "Memory shortage keeps PC costs high while Apple plans volume push",
-   "detail": "Samsung sees memory tightness lasting through 2028; Apple told suppliers to plan 16M MacBook Neo units in 2027. We should plan pricing and promos around component costs and entry-level competition.",
+   "headline": "Memory shortage and soft laptop demand squeeze PC pricing as Apple pushes volume",
+   "detail": "Samsung sees memory tightness to 2028; Simplo says laptop peak season disappointed; Apple told suppliers to plan 16M MacBook Neo in 2027. We should plan pricing and promos carefully.",
    "segment": "pc",
    "storyIds": [
     "DigiTimes::https://www.digitimes.com/news/a20261105VL231/samsung-2028-2027-equipment-production.html",
     "DigiTimes::https://www.digitimes.com/news/a20261104PD226/apple-macbook-2027-shipments-forecast.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261103PD229/soc-shipments-infrastructure-2026-mobile.html"
+    "DigiTimes::https://www.digitimes.com/news/a20261103PD229/soc-shipments-infrastructure-2026-mobile.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261110PD205/simplo-profit-revenue-demand-2027.html"
    ]
   },
   {
