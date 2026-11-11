@@ -1,122 +1,210 @@
 [
  {
-  "id": "Global Marketplaces::CBMiwgFBVV95cUxOd0ZRNDVrTEpZSnpqaDdwU01NX2c3SElnV09nZEsyQlpSSHlFR3FDQkt3Y1hYS0twOFJxMzk1Vm93aFZxTzZwUWlsRDJaZ1JtS0NJTE02VkdZaWpwMzFKYnRjV3BSYmxyTEtmYjhFRXZOZ1dnWEZfN0RCUVBsSUpkUGZQUUhCa3pSRW9IV1o5dkpacWxkVzVfcWthaXc2T0VwNG5ESVVFZW5tQ2dUcTYzM1RlWk1jaVBQMVhHNzdiY0UtQQ",
-  "source": "Global Marketplaces",
+  "id": "Retail TouchPoints::CBMixgFBVV95cUxPOU04REdzQ2g3UlZZZkpFTVF5bXZmNFhZMU5xNUt5bjBqX1V0Z1BwcUVSenhvWEJhTl9WSUdzazNoZ0g2ZlhLUEJ2RnFyUVVNYTVRNnNSUnQyRllZSHBuVjg0MTBDdHAyQkNyZERqNy1QQ0RHcndlVFRMaHdyUmt6RnNiN1p5djZUNVBQX0hwRFA1VGNRMDFTSlJ5UlVUREEwWFRtb3l5NEQ0eXFadDYtWjZTckxxQmx5RlpubTR3Yk81YzZPY2c",
+  "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-11T06:14:00.000Z",
-  "title": "China's Singles Day shopping festival puts AI selling power to the test",
+  "publishedAt": "2026-11-11T17:01:47.000Z",
+  "title": "Afresh joins Databricks Built-On Partner Program to Connect Data with Grocery AI",
   "snippet": ""
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261110PD247/altos-computing-revenue-acer-subsidiary-demand.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-11T04:49:34.000Z",
-  "title": "AI demand drives record revenue for Altos through October",
-  "snippet": "Acer subsidiary Altos reported October 2026 consolidated revenue of NT$155 million (US$4.72 million), up 44.1% year-over-year, while revenue for the first 10 months reached NT$2.41 billion, up 57.3%. Fueled by strong…"
+  "id": "Retail Dive::https://www.retaildive.com/news/capri-holdings-michael-kors-jimmy-choo-new-ceo-justin-boxford/874377/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-11T16:51:00.000Z",
+  "title": "Michael Kors, Jimmy Choo owner names new CEO",
+  "snippet": "Capri Holdings tapped Estée Lauder Companies veteran Justin Boxford as its next chief executive as John Idol is set to retire."
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261110PD246/ast-acer-subsidiary-demand-revenue.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-11T04:49:28.000Z",
-  "title": "Acer Synergy Tech rides semiconductor demand to record revenue",
-  "snippet": "Acer subsidiary Acer Synergy Tech benefited from sustained semiconductor industry growth, which drove demand for information technology (IT), operational technology (OT), and workforce service solutions. Its…"
+  "id": "Retail Dive::https://www.retaildive.com/news/amazon-black-friday-cyber-monday-holiday-deals/874359/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-11T16:23:00.000Z",
+  "title": "Amazon’s Black Friday, Cyber Monday deals boast record exclusives",
+  "snippet": "The company is also encouraging consumers to personalize their shopping journeys via artificial intelligence."
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD211/intel-ai-pc-processor-packaging-tsmc.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-11T04:36:24.000Z",
-  "title": "Intel expands 18A reach with Wildcat Lake AI PC chips",
-  "snippet": "Intel is expanding its computing platform strategy for agentic AI and enterprise workloads with the Intel Core Series 3 processor, codenamed Wildcat Lake, targeting mainstream consumer and commercial notebooks. The…"
+  "id": "Retail Dive::https://www.retaildive.com/news/bed-bath-beyond-parent-to-close-maryland-distribution-center/874363/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-11T15:20:00.000Z",
+  "title": "Bed Bath & Beyond parent to close Maryland distribution center",
+  "snippet": "Neighborhood Intelligence is aiming “to rip out big chunks of costs” by reworking its supply chain, CEO Marcus Lemonis said."
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD236/avc-liquid-cooling-ai-server-shipping-2027.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-11T04:20:27.000Z",
-  "title": "Cooling solutions provider AVC starts shipping double-sided cold plates for AI servers",
-  "snippet": "Asia Vital Components (AVC) expects all GPU- and ASIC-based AI servers to adopt liquid cooling by the end of 2027, with customers increasingly turning to double-sided cold plates to accommodate vertical power delivery…"
+  "id": "TWICE::https://www.twice.com/?p=167019",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-11T14:01:28.000Z",
+  "title": "Maono Launches PD500W Hybrid Microphone",
+  "snippet": "Dynamic microphone offers wireless, USB-C and XLR connectivity with onboard recording"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261111VL208/mems-ar-optics-200mm-production.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-11T03:55:00.000Z",
-  "title": "China's HISIGK takes a specialty route into lithography with MEMS, AR optics",
-  "snippet": "Jiangsu HISI Semiconductor (HISIGK) has prepared 14 automated lithography systems for delivery across 300mm, 200mm and 150mm wafer platforms, expanding its specialty semiconductor equipment business in markets ranging…"
+  "id": "TWICE::https://www.twice.com/?p=167025",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-11T14:01:08.000Z",
+  "title": "ProSource Adds ELAC To Vendor Partner Lineup",
+  "snippet": "Partnership expands members’ access to ELAC loudspeakers, turntables and audio electronics"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261111VL209/qualcomm-samsung-automotive-micron-revenue.html?chid=10",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-11T03:36:41.000Z",
-  "title": "Qualcomm names Samsung, Micron as memory suppliers in annual filing",
-  "snippet": "Qualcomm has identified Samsung Electronics and Micron Technology as its primary memory suppliers for certain products, including automotive applications, in its fiscal 2026 annual report. The disclosure was absent from…"
+  "id": "InternetRetailing::https://internetretailing.net/?p=76516",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-11T14:00:48.000Z",
+  "title": "Retail MediaX heads to New York as UK-born event brand makes US debut",
+  "snippet": "Tomorrow (12 November) RMX USA 2026 opens its doors in New York as Retail MediaX makes its first move into the US market. The post Retail MediaX heads to New York as UK-born event brand makes US debut appeared first on…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD213/2027-csp-2026-shipments-profit.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-11T02:18:57.000Z",
-  "title": "Sysgration targets doubled 2027 BBU orders from CSP upgrades",
-  "snippet": "Sysgration returned to profitability in the third quarter of 2026 as shipments of new rugged industrial PC (IPC) projects ramped up, while gross margin rose to 22.73% from 22.23% in the second quarter. The company…"
+  "id": "TWICE::https://www.twice.com/?p=167002",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-11T14:00:08.000Z",
+  "title": "Jessa Foor Named VP Of Marketing And Communications For CEDIA",
+  "snippet": "Association also promotes Kory Dickerson to chief financial officer"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD212/2027-industrial-revenue-shipments-profit.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-11T01:50:21.000Z",
-  "title": "Winmate sets profit record, starts drone shipments in 2027",
-  "snippet": "Winmate Inc. said third-quarter revenue and net income set records for the quarter, as warehouse and logistics demand and OEM and ODM shipments lifted revenue 40.4% year on year to NT$1.413 billion (US$43.10 million)…"
+  "id": "Retail TouchPoints::CBMilAFBVV95cUxNQ2l6Y0g0RHNzS09takVXM1dtM3dVNnMwXzR3aTVyZ2ZYcVZONTZFbmRiRWlWYVJ2SGVNdTkzakNXcGhONUdLb1M2MjE2TUtFNGJXR3E5VXVLT245cXRiXzRMMXc5RTkzS3BsSy1pLUc5bk5EeHRpYkRDdG5La1VVaTBMdFFjT3hXYUpSWnRtRzB0Y0hv",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-11T12:02:19.000Z",
+  "title": "AI’s Impact on the Retail Gift Card Industry",
+  "snippet": ""
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD210/taiwan-investment-infrastructure-exports-equipment.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-11T01:49:44.000Z",
-  "title": "Taiwan machinery exports rise for 21st month on AI demand, but US election adds uncertainty",
-  "snippet": "Taiwan's machinery exports grew for a 21st consecutive month in October, led by electronic equipment on strong AI and semiconductor demand, according to the Taiwan Association of Machinery Industry (TAMI). The…"
+  "id": "PYMNTS::https://www.pymnts.com/?p=4385250",
+  "source": "PYMNTS",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-11T12:00:03.000Z",
+  "title": "Kickstarter Brings Crowdfunding Orders Into Shopify With New App",
+  "snippet": "Kickstarter is connecting crowdfunding campaigns more directly to eCommerce fulfillment, launching an official app in the Shopify App Store that lets creators transfer finalized backer orders into their Shopify stores…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD241/nvidia-samsung-gpu-2026-materials.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-11T01:47:24.000Z",
-  "title": "Samsung and Nvidia demonstrate up to 3,800-fold speedup in chip simulation",
-  "snippet": "At Nvidia AI Day Seoul 2026, Samsung Electronics demonstrated a workflow that combined Nvidia's AI modeling tools and GPU computing with homogenization, cutting one semiconductor simulation from 18 hours to 17 seconds…"
+  "id": "InternetRetailing::https://internetretailing.net/?p=76505",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-11T11:19:05.000Z",
+  "title": "Aldi cuts roles as supermarket sector faces margin pressure",
+  "snippet": "Aldi is consulting on hundreds of UK head office job cuts as it restructures parts of the business to operate more efficiently amid rising costs. The post Aldi cuts roles as supermarket sector faces margin pressure…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD207/inventec-growth-2027-revenue-shipments.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-11T01:34:10.000Z",
-  "title": "Inventec sees high-double-digit server growth in 2027",
-  "snippet": "Inventec expects its server business to grow by a high-double-digit percentage in 2027, led by GPU and ASIC servers, while notebook shipments should stabilize and smart devices are expected to post single-digit growth…"
- },
- {
-  "id": "PYMNTS Data::CBMingFBVV95cUxNd3k3NEdoOVk1VG84eDhOYWt4bjhvdDdZNVlKazZkMEdQdm5nQWloUVVldjZGTjdZdDJsdDlwWUxBVGlvUHQta3lRLVJqYzBGRHNFSDEyS3dCZjJZVXVzbXZBVE5HVVd0TE1SZDFCWWpTdlBfM3ppYmZKeGl0V0FKeXVZTUxoTEd4RlJKbUpRcHJaenF4VEU2Uk9NNUdFUQ",
+  "id": "PYMNTS Data::CBMirgFBVV95cUxNd0RBZFpWaWEzSmxMWlN2SkxjS2IyOWxNRkNPMDEycENLWFFOXzRvcTh0ZEVTME43X2JwSndsQ1hicktkdk4xRi1kb3ZzRzU0NmkzbGU1WExOUUZYdGdxZU9WV2hMem1PWi10X3Z6SGc5M1UwRnFSLTk1My1oNUtudVBTa1oxLUNOa0hJdzJOd0EtazlWR2g3aUpuVms4QzJYZXVTbGdlQllVOHE4RHc",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-10T21:57:05.000Z",
-  "title": "KeyBank Upgrades Products as Consumers Struggle to Save",
+  "publishedAt": "2026-11-11T09:19:44.000Z",
+  "title": "Retailers Face a Spending Squeeze Beyond Struggling Households",
   "snippet": ""
  },
  {
-  "id": "Counterpoint Research::CBMivAFBVV95cUxOQ181d2owaWViT29vaHhiRjhncXNoNlp4RC1QdXBqd3NwcnRhREQtdzFORzFIc0g1VFE0Njd4a2pIbVFOSno3dzVVMVVPcjFTNHF6dEhRVUhCVDZodTVTczlVVDV5aXhydER5V1pNdVZlOG9PdEU3c1lrUS1yeTNwR1dKMGM1OFphaDQzbWRSNVM0eEtEY2t0NzVDbXpRLXpFc0VIeTR4X2hoYTJRbV85aWxJRVVOSFRxWlhHbA",
-  "source": "Counterpoint Research",
+  "id": "PYMNTS Data::CBMilAFBVV95cUxNNDVZZnQzWUdzbnNVZDRGamZyNjlFMXBuUl9lSko4d0JZdGZwWWxhMThqUDhENmdQb0Q1MlBmM1RzSjE4ZEpwdFU1dTJObS1DYXNnN2lMdHZWRURoRmQwMVJfTWh3eHBxMEVWbVhJeTZvb04ydmQ4YnZyS2d1dU1STGVVZS1uOXp6WG8tVjRua01tdzB3",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-11T09:02:56.000Z",
+  "title": "Giving AI Credit: How Far Consumers Will Let Agents Go",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261111VL219/samsung-silicon-photonics-2026-cpo.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-11T07:50:00.000Z",
+  "title": "Samsung reportedly buys four silicon photonics patents from Rockley",
+  "snippet": "Samsung Electronics acquired four US silicon photonics patents from UK-based Rockley Photonics in September 2026, South Korea's Shinailbo reported on November 11, citing US Patent and Trademark Office (USPTO) records…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261111VL210/samsung-3d-design-2027-technology.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-11T07:25:00.000Z",
+  "title": "Samsung targets early 2027 for first 3D Cube-H design kit",
+  "snippet": "Samsung Electronics aims to complete its first 3D Cube-H design kit, a hybrid copper bonding technology for vertically stacked logic chips, in early 2027, with prospective customer evaluations to follow, ZDNet Korea…"
+ },
+ {
+  "id": "TrendForce::CBMicEFVX3lxTE85R21CTXlzRklJblE4ZkJTTmNNS0w4dERLcDNIbTl2QTlaSlJ4OGJkTVlBYWxTOWNDaG1LUWczMjVNTFIzWGZZemZHclpkd19tUWNScXdfVm95Vy1ONC1wYXZuVEd5dWRVeEJ6ckswSzg",
+  "source": "TrendForce",
   "sourceType": "Analyst",
-  "publishedAt": "2026-11-04T08:12:59.000Z",
-  "title": "Apple Accelerates OLED Adoption with New iPad mini and Touch-Enabled MacBook Pro, Reinforcing Premium Display Strategy",
+  "publishedAt": "2026-11-11T07:20:31.000Z",
+  "title": "Mounting Finished-Goods Inventories Prompt Some PC OEMs to Adjust Memory Procurement Plans for 2027, Says TrendForce",
   "snippet": ""
  },
  {
-  "id": "PYMNTS Data::CBMimwFBVV95cUxQY2RsS05tUl9oQ3NfSzgxdVAxQ2RFNzRHd1haU01hcllkSXctWFlpeGRBcENfdEdxbFVTeEc5YW9hS04ya2M3V3A2TC1OYVNlZjhnT1haV3JTTFZuYzhfSS0tTlBBb3IwclFMV01sV2l6WHVPVGt1VWFLcC15SHJ1OXJ3X090QlBSekdpMDl1Z180eXpjbjJ5OWp4WQ",
+  "id": "Reuters::CBMiqAFBVV95cUxOQzM1dGUzNzlPWFJ6dTlBMGc4OHdjSWlRZ0d6Y3NERDNEcmpzUGF0LUFYM0hrUDJRZDFFOE01YVFrWGpPSEtEVV9OelI5NnNXbXcxUkhuR2ZvNzFseWlTRkNfcGFzRVNHNjBiX055akdLaEM4eTh3NTFNcUx4RHdmUmtjTm1NTGNoWjRGQWdnbk9kN1M3eFRvMjVBeDYxbzdHcGdYUkdWV2E",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-11T07:14:00.000Z",
+  "title": "Taiwan appoints Acer founder as APEC envoy, calls for written guarantees from China",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261110VL218/spot-market-electronics-hbm-chips-chairman.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-11T06:35:00.000Z",
+  "title": "SK Hynix locks in over half of 2027&ndash;28 capacity as smaller buyers turn to spot market",
+  "snippet": "Smaller electronics manufacturers are relying on the spot market for memory as major customers lock in future supply through long-term agreements, according to independent electronic components distributor Smith."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD244/ndb-price-electronics-ai-server-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-11T06:25:00.000Z",
+  "title": "AI's grip on capacitor supply leaves consumer electronics facing steeper price hikes",
+  "snippet": "Nichidenbo Corporation said successive AI server generations, designed for higher power consumption and voltages, are increasing demand for high-end capacitors offering high capacitance and resistance to heat and…"
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=175124",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-11T05:00:00.000Z",
+  "title": "Mattel brings Barbie, Hot Wheels to TikTok Shop",
+  "snippet": "Mattel is launching a branded storefront on TikTok Shop as it looks to get ahead in live commerce."
+ },
+ {
+  "id": "Gartner::CBMi5AFBVV95cUxOaDBrQTFCRkJkVmdhWlpDWmFzbHJmQ2d6cFJFdVBEeHNuMGJEZFA2ekFUeGttUG10V0Z1ZkxKSF9JWndyblRWOVJiSVA0dVRJZkRONVVJNTQ2UzF6QUtnUmZ4UE5wTHlsNmJUZGJaeFMxdndrMllyckd6WmlDSHk1dGZ6LVBzelpwNTNVeFJ0YkxRQ1VwX3JSeWtMT08zeUZlR21DcnZYdWJqNllLbkVzR0dxYU1yRWlvd2tqQ1dQYmdwZVpmVXczakh3ZlRVWU5YNjFKLTZqV0E3MDl5aXBUQkZIU0E",
+  "source": "Gartner",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-10T21:29:17.000Z",
+  "title": "Heading into holiday peak, how ready is your product data for AI shopping assistants that compare and recommend on a shopper's behalf?",
+  "snippet": ""
+ },
+ {
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364008",
+  "source": "Digital Commerce 360",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-09T16:15:53.000Z",
+  "title": "On Balancing Speed and Security for Smarter Payments",
+  "snippet": "Sponsor content is created on behalf of and in collaboration with Visa by DigitalCommerce360. Our editorial staff is not involved in the creation of the sponsored content. As merchants seek to create competitively…"
+ },
+ {
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364005",
+  "source": "Digital Commerce 360",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-09T15:58:49.000Z",
+  "title": "Card-Not-Present Fraud Is Evolving. Is Payment Security Keeping Up?",
+  "snippet": "Sponsor content is created on behalf of and in collaboration with Visa by DigitalCommerce360. Our editorial staff is not involved in the creation of the sponsored content. CNP fraud is evolving Card-Not-Present (CNP)…"
+ },
+ {
+  "id": "Reuters::CBMi0AFBVV95cUxQanptRUNhdmdrV2x6Y01qWFNCU3BlRTZTN1FyZ2hubTNralRKUE8yWWVpNUd0NERlVngtNS00dG1JYmd0bzVobkNjcDl4X0lXUFdKdnhwQU5ZbW1mMWh1dGZHS3N4Mmk5UGozTzdBdEpwZi1lNl9HUEJXUFYxaGtua2cyUWNVNC1EQjE4M2FJQURmQU4xUjhzR281UkpZa3V2VTVXRmhJOHNFRjJXS1VpUENObEpId0x6VFFSUjh6c01jdEFCUGhVM0xwaEZtM2NG",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-09T12:54:20.000Z",
+  "title": "Apple Intelligence AI service registers with Chinese regulator for use on tablets, laptops",
+  "snippet": ""
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=166500",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-06T14:01:11.000Z",
+  "title": "Call For Editorial Coverage In The Official CES Daily 2027",
+  "snippet": "CES 2027 is just around the corner, and TWICE will be publishing the Official CES Daily during CES 2027 once again. This is the only show daily published jointly with the Consumer Technology Association, and if you have…"
+ },
+ {
+  "id": "PYMNTS Data::CBMisgFBVV95cUxPSjctTHlwYzRULV9kel9fR0M4Zk1GQk1melhKTXpfX1JUZFlfY1Y5NDN4Wkw1bHNDckR6dHR6X1o3QUQ0eFlhMi1VVVdPN1RBYjJFeDV0OXAzM0hlUTFOYkZOTUw2dnAwcmJtN1FzSTdHZDBDQU5VdmJsYjBBYUNQcFc5UTdQcGtJRmdoY1RpWEdEUXNESnZra081ZmNMQTI1c1VKeHR6VWk1MmpKcFpDazdn",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-29T00:08:52.000Z",
-  "title": "Buy Now, Pay Later",
+  "publishedAt": "2026-10-23T17:13:15.000Z",
+  "title": "Buy Now, Pay Later: The Financial Self-Care Revolution Report",
   "snippet": ""
  }
 ]

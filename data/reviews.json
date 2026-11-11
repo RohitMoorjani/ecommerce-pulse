@@ -238,56 +238,6 @@
   "competitors": [],
   "publishedAt": "2026-10-07T17:44:45.000Z"
  },
- "Retail Dive::https://www.retaildive.com/news/neighborhood-intelligence-bed-bath-beyond-calls-off-fathom-acquisition/832373/": {
-  "keep": false,
-  "publishedAt": "2026-10-07T15:50:00.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/anta-sports-closes-deal-largest-puma-shareholder/832362/": {
-  "keep": false,
-  "publishedAt": "2026-10-07T15:23:00.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/tiktok-ai-powered-discovery-one-click-checkout/832326/": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "TikTok adds a conversational AI shopping agent and one-click checkout",
-  "short_headline": "TikTok adds AI shopping agent, 1-click checkout",
-  "takeaway": "Social discovery is turning into agent-led buying; worth a TikTok Shop test plan for accessories and gaming.",
-  "importance": 4,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-07T14:20:00.000Z"
- },
- "Counterpoint Research::CBMiwgFBVV95cUxQVUtCQnFrUU5OSS10VVBqUlVsa1B6WlFuYWtVS3NfVVRnWGluU0tXMWxZNUQtaTBudWpUeWN5U3FDZTZocGEzV1ZpZ3FnblFGc3JiSWRLdTM1VjZQR1JyWkhxT2lPcUJMSFpxcXI2MEM5dGF2M3pUV3c5RUJRZUVnenBIcnZpeXlGVFNjWl9TYmwzM2p2dnFqQTlhM2NabG1LOG9kMmVtY0xIckRqZXk1WFREZkJyek1HcWlnVEh1NDJPdw": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Counterpoint: India's festive season sets up Lenovo Yoga Slim 7x with Snapdragon X2 Plus",
-  "short_headline": "Counterpoint on Yoga Slim 7x for India's festive sales",
-  "takeaway": "Analysts see Arm laptops as a festive-season play in India, an early read on Arm PC demand in the region.",
-  "importance": 3,
-  "content_type": "analysis",
-  "competitors": [],
-  "publishedAt": "2026-10-07T13:30:47.000Z"
- },
- "Inc42::https://inc42.com/?p=575036": {
-  "keep": false,
-  "publishedAt": "2026-10-07T13:24:24.000Z"
- },
- "TWICE::https://www.twice.com/?p=166459": {
-  "keep": false,
-  "publishedAt": "2026-10-07T13:01:49.000Z"
- },
- "TWICE::https://www.twice.com/?p=166456": {
-  "keep": false,
-  "publishedAt": "2026-10-07T13:01:42.000Z"
- },
- "TWICE::https://www.twice.com/?p=166500": {
-  "keep": false,
-  "publishedAt": "2026-10-07T13:01:11.000Z"
- },
- "TWICE::https://www.twice.com/?p=166444": {
-  "keep": false,
-  "publishedAt": "2026-10-07T13:00:41.000Z"
- },
  "Retail Dive::https://www.retaildive.com/news/lululemon-heidi-oneill-executive-leadership-team/832505/": {
   "keep": false,
   "publishedAt": "2026-10-08T15:52:00.000Z"
@@ -451,108 +401,6 @@
   "content_type": "analysis",
   "competitors": [],
   "publishedAt": "2026-10-07T18:14:22.000Z"
- },
- "NFIB & QuickBooks Small Business::CBMiyAFBVV95cUxNZGlZNWQ1NndsLTNQMXFMa1lTa25ENXNsT3lGbFdycEdfU2ktYmFHTjY4RzFKS3J2bk9ZZk15UnQ2MUZvSGlJN3ZPV3NmUmN2ZzJSWmhKUXdIYTFTcnh1Z2xoLWlSUjl4U1lZcVZTdk5RU0h1dWpuVmNRY0lobjFPQjZIbVVGeEpUNjM5NHB2cG9TMFVYczVXNUd3NUVWODlNMnF4UTdpSXJaZnFHeHZ5ZjFpMi02ZXhoSW5OU0pZUk1GOUcwd1FGcA": {
-  "keep": false,
-  "publishedAt": "2026-10-07T16:46:45.000Z"
- },
- "NFIB & QuickBooks Small Business::CBMiugFBVV95cUxQY241UVYxWVU5YlVMREk4YmJLVFZaQVpfSGNTSTFBWS1YNllQT1pWYWlYNnRwcHpEYXp5MTUxaU90bXh4VlpaYURuLTFKSFdwakJzYmdKUmJhdGg1dG1uN0w1OEJoc0dmcjd0SW9iQVNmOU9saXlfeG5BcV9WcnBwOUZIcU9Mc1N0T1FnYTJWOUtJMXJHelNiSi1tbWdVQ3VHMTBlQWJ0WGd2OXg2ck4xUl9ra3JrUHZYMGc": {
-  "keep": false,
-  "publishedAt": "2026-10-07T15:35:18.000Z"
- },
- "Inc42::https://inc42.com/?p=575048": {
-  "keep": false,
-  "publishedAt": "2026-10-07T15:20:56.000Z"
- },
- "NFIB & QuickBooks Small Business::CBMiwwFBVV95cUxQRlBOUmxLN2Rlc3V0SjVmZVVnaXZsTnNSaS1ta183ajdpYTlsQ2dfcFNNMU1fNVZzdFBlY0RIYnI5dWVBQWFEdlNMTnNicllHZWJqSTVzZ0NwaUlWTmo5WnV1X3RIbWQyTkNiWmZzeHFEZVZFOHRDRWZqQndkSTVJVG9ZUEtfMTdzbVp1d0IxaV9paHVUMnc2UWhPUVNPZTRHbzVraTFUYUN2cUdjZEdQZ2gxNzRwdnBndlpnSzYwMHZ0T0U": {
-  "keep": false,
-  "publishedAt": "2026-10-07T14:17:11.000Z"
- },
- "Circana::CBMiuwFBVV95cUxOVjlIVzR6WjVxWUVXamJaMUEwQmtOS2k0U25qWnFKTTY3XzhmdldrZmEtdFZtYWMySVRaRTFnNHRDa0ZEcVBKYzdaNGZIR2FJLVk1a0hsMW94RW0wc2tVc3BKQnlDZ0RJUWxNVE84aUU2T2lQTUU0eFR1dHdkNWxDTDFqRC1VZFZoZHUwMHBtb0lEbEFvc1VOSWFBdjZSZjZSelMtRkxwVWNJZldoUkMteVJNbDNsX2lVeUs0": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Circana-Best Buy Ads study finds retail media's reach goes far beyond the click",
-  "short_headline": "Best Buy Ads: retail media works beyond the click",
-  "takeaway": "Judging Best Buy retail media by clicks alone may undervalue it; ask for in-store and halo measurement.",
-  "importance": 4,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-07T14:13:24.000Z"
- },
- "NFIB & QuickBooks Small Business::CBMi1gFBVV95cUxNY2VhdWlLMHVvQjY1UGV1dUhYelRReXBRRmRTWlk2b1JMWnVyc0VhS1Z1dmJ6UWNVZ1RCcUpEVWs4aGk0TURzNDBLQ3V4dnIxTU5VcHIyQ21wQkpUWkNlMWtBVFpSYTFPNEdmazdCNDRKbGxpQ0xUYW1DQW1WVkUwaXdKeHNfLXp3aXU3dmlTbjdGaUl6ckFoZFpUMzE2NFY3eHZpd2Jla0Via3gtNkszUDloLTU0S0s5UmVXSmNTOEVLRUctNUotb0hlNFRyZUpmNG5uNlJB": {
-  "keep": false,
-  "publishedAt": "2026-10-07T13:45:38.000Z"
- },
- "ETRetail::https://retail.economictimes.indiatimes.com/news/health-and-beauty/kiko-milano-expects-india-to-enter-top-3-5-markets-in-five-years-plans-to-double-store-network/134767288": {
-  "keep": false,
-  "publishedAt": "2026-10-07T13:21:20.000Z"
- },
- "NFIB & QuickBooks Small Business::CBMilgFBVV95cUxNMElCNlBWS2hvS0JJLVlUZS1pSFg1dFJ1dVNpQ3lMNnIwWnNvN2NqYXdPZFFhdzhCU1dRYzNpbTFHNUszT0xSUHU4UUxiMHVpYm9LZ2hwUTl2SVpQV1pzeG9vOVBTMkFUaFYzOUIzbElTWnU0bEFnOVBjdWRyNFZMNWxyRVJTRTNCZ1VNbEdJTjFPbFkxTVE": {
-  "keep": false,
-  "publishedAt": "2026-10-07T12:54:05.000Z"
- },
- "Inc42::https://inc42.com/?p=575026": {
-  "keep": false,
-  "publishedAt": "2026-10-07T12:19:33.000Z"
- },
- "Gartner::CBMilAJBVV95cUxPdEI3MmZCa2FBWVVoSC1ZNGh2OUhLSnhPRUl1eWgtMHd2T2dNVXRnRUhJUVh1WVhYMWl1Mm5RLXZzZzBPdzBQalVXYzlLNmlwLXhzSE8zU0RCcHpjTHhQSWxZazNrcUZraEl0Z1VnYlBULW1TOUI4eWVRYlZiNlFkSVJyT3FleGJHOFNnTU5jY0JEZVhaN1RkU2NhZC1UVjVoQTZjLTk2ckVmVktrdnQyeUZmRl8yeG8zZkQ1N3dCSFhmMjJNRXBPdGdYRW9lVlRpRzVndUN0ZjFGeF9xVF9sc1IyVm1ZY1o5b21jNE9mX0ZqNzY2UVYyY211aXg0eGFpelZGUGZ6ajQwRU9GX3FyNElCYUM": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "Gartner: 34% of US consumers would use GenAI for holiday gift ideas",
-  "short_headline": "34% of US shoppers open to GenAI gift ideas",
-  "takeaway": "A third of holiday shoppers may arrive via AI recommendations; our product content must work for AI tools.",
-  "importance": 4,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-07T12:05:03.000Z"
- },
- "NIQ::CBMixAFBVV95cUxPYXdBbVU5OF80dFA5RW1WaVV3R2dIck12Zk1BdHNJZ09Bb0tpeG1rbExzNEx2Nnk1Q1J5Qnp6X20tWUhWVUgxWFVMWFg5ZnVKcFRIWW5JakJtb1d4MkxSUjdST2lNenVsQmhYeWVmMUtlWklKUE5HZ24ySFgwenpTZWRtQ24zeUNhRklKWE9SeE9oRVRORXlLdHNaQ0hHSVhpbThPUlVhYThhWFlFaGx6SUhWQUhBOVE3R0QtMHlaMXpkeno0": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "NIQ: 55% of consumers now use AI during product discovery",
-  "short_headline": "55% of shoppers now use AI to discover products",
-  "takeaway": "AI is now a mainstream discovery channel; product data quality and AI visibility matter as much as SEO.",
-  "importance": 5,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-07T08:37:33.000Z"
- },
- "PYMNTS Data::CBMipwFBVV95cUxQYUJ0MnBxU1FiTHRMUkVrZDNyQWRSakMtR3hVRElLbVZtekJvbGtGOEdHSUE0RjRuM2s5VDhrRjJMazZZRjJaWGZwVW9abGtqVDlsbEVjMVhzcW96MHdYLXFOWjMzUEppYVl1TnhxUi1kVHZFQjBSZHA1LXNackRkalJmbWRqT2ZqQklqRFNkaVRZMEF1aGc2Vk1TTVllcFNZZGxsd2d3TQ": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "Missing payment options are sending shoppers to competitors",
-  "short_headline": "Missing payment options drive shoppers away",
-  "takeaway": "Audit our checkout payment mix by country; every gap loses sales.",
-  "importance": 3,
-  "content_type": "analysis",
-  "competitors": [],
-  "publishedAt": "2026-10-07T08:29:59.000Z"
- },
- "PYMNTS Data::CBMi3AFBVV95cUxQRk5ReklDWWw2aGZfNkVoUVl4czRFYno1ZU5NVVRsbC16U2x6c29CbDV3MDdNclZHSktGSk5BRFN1RFdPeXZ0NzlmOGZwcFRjcU9tREZuSVNGZy12amx1THVCdnJERnFnUjl2czlhajU1a2tQdW94UVRsbzJ2N3VTUjZ4MlFJdUJOMzFyRWZZakNxNm9hOEZUejhjbVJLUHFJU3g2NkFjbUtVM3ZTWmRWX01ia2NiLTJPWHhPS2J6QV9haDFXS05ILVlrakkxSGJTTXJfZ2hsMTlGd0t5": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "AI agents send shoppers, but merchants still have to close the sale",
-  "short_headline": "AI agents bring traffic; merchants must convert",
-  "takeaway": "Agent-referred visitors need fast, clear product pages and checkout to convert.",
-  "importance": 3,
-  "content_type": "analysis",
-  "competitors": [],
-  "publishedAt": "2026-10-07T06:30:04.000Z"
- },
- "PYMNTS Data::CBMi4AFBVV95cUxNaHhCQVR6RlRwWF9KVTVxc2pEbnI2b2QwNk1fYWxGeWhQTHF4V08xY2lZWE5QQ0F2bGFmLWhhMVZWZkJhZko3M0h1ZldHUFc4YWZHb0UxbVRQa2w1OVJmY1FWT1l4c3BjSllnQXN5X3R3OGF2T2FMYWFWY0diTEtIRHdMQlpDUm1LMWNYdi1FY19CR1BEZEExcWduV3NmS00yQUVvLVFWWW1oZmZ3MmNOZGF6NHJmTTd3a2dXbnVfaTdTVl9aWXZFRUxOT2I4MzVrdkFaTGxzNHFUS1FDaFZnQw": {
-  "keep": false,
-  "publishedAt": "2026-10-07T16:56:06.000Z"
- },
- "Reuters::CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Microsoft pushes more AI features onto PCs as it challenges Apple",
-  "short_headline": "Microsoft adds more AI to PCs, targets Apple",
-  "takeaway": "AI-PC competition is intensifying; we should watch how it shapes laptop demand and what we highlight on our store.",
-  "importance": 2,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-07T10:05:00.000Z"
  },
  "PYMNTS Data::CBMihgFBVV95cUxONUU5RHVXZnpCbmhBeUQ0TjBYUHBiUlhkVG5lSlg2Q0ZoOVplc3JURy11ck5RbTkxcHhaSk9rVUh6SDJya3l5NXRwQkJJRkNJTTl4MGhjNkY0bVhwUXlwV1Vpd1ZRR0lxY3REaDZ6ZVBUdGo0QVVYV2RvOXVTb1ZBNEJLaUQ2UQ": {
   "keep": false,
@@ -774,10 +622,6 @@
   ],
   "publishedAt": "2026-10-07T18:00:00.000Z"
  },
- "Reuters::CBMiyAFBVV95cUxOczZOOTk2b2wyX3RjWldGakx6UmE4SXlieHVKMGdnSWQyQzUycEZ5eFo1bWptaWdTc3V5M2gzUXItMG9wRUhwZTgwWXVhdE1UX0Z4ZUtwLWYtMlM3eHI0VF9ScVVhRmFpUmFOeS12bDlobG9KbERpSkpGX3YwcFhfeVZqYk05N3VVSzZwaG1idWtBSFBNcU1udVlFMVhzOVY1VXlReDUzZHZCZThXcmVnMzdRbjA0cTUtc1prb2x1UTF4TkZRVTNTeQ": {
-  "keep": false,
-  "publishedAt": "2026-10-07T15:13:43.000Z"
- },
  "Modern Retail::https://www.modernretail.co/?p=173055": {
   "keep": true,
   "segment": "marketplaces",
@@ -981,10 +825,6 @@
  "DigiTimes::https://www.digitimes.com/news/a20261008PD219/revenue-2028-sales-2026-growth.html": {
   "keep": false,
   "publishedAt": "2026-10-11T02:39:55.000Z"
- },
- "PYMNTS Data::CBMiyAFBVV95cUxOUnFRMURvR2Z3MldTRHd4YlJSZjZfMFZ6M3dTNVBndzc4MzVYQUFtbjZSaF9Sc1ZvMFotWnQ1UkJJWlpBTVlGWHIxVFNsOTVkVGFXV01lX2pIOWQ4OG54SkVmdk5EekZZM1dOUUNUbzRuT0Jia0gxTUZ4ZjJodGJpOTcxWUFoQTRNWGo5VDFKLVJCZV8tcHBHeWtTQTBRNk91Q3VDVGlhYzBPUkZyYU91YVJ3ekdrbll2TURya0hlQlNuUEcxRGM2Xw": {
-  "keep": false,
-  "publishedAt": "2026-10-07T06:30:04.000Z"
  },
  "Reuters::CBMiwwFBVV95cUxPVDRzbE1PT1FMZGh0NlpiRzJua3BiVUNoeFhoTG9GRmJ4aENiZ3BJY0lBVnVrdkRKOFVBTUF4NXRhdjJPc2VlZEpwaWlhSEd3NDJGbW1aa3d3ajM5SnNiNGRYdGhxcTNyaVMzdWZrSkdrRmxXUzZSc3BvMzE0ZkFsZmpRZGFpeHZTWU9XN3VOMjZPUkNDdHRMVVFSWmRGenc0VWRsLURGcXZEVW5LNW9rcHk2WVFmOWE1LXJMUWdLcEJybjA": {
   "keep": false,
@@ -2288,10 +2128,6 @@
  "IDC::CBMiYkFVX3lxTE1ob2xXTlV5N1JHdlZEeVVTQmhlbkVkdkYxSHV1RmNiR2tJcnFKRXFkRjhnMkdmZzZZcEE0amNnNFRqYlNleUJ5NFdRV2ZfUGt1QTVuOHFzNm80cnJJaHJfY1Bn": {
   "keep": false,
   "publishedAt": "2026-10-18T09:33:31.000Z"
- },
- "PYMNTS Data::CBMiswFBVV95cUxNVnpMWGpJYVcydnVSbXhtdWtCYkhUdXJHdlJiNmU2Y0ZkV1piYnRkaG1oMF8tbUdobmZyTk1QRmNOemNxR2poSGN3b204aFY4WFo2OGVrRmY0VklIbmozS2xzTWJKemlWa21iSkp2WFZGRUctTXlzWmRCRXFjLTVVR2pHcWJmSHVURnYtWHZZN3NObGRhQzBjVTJxMS1FM2hCVnFGYkIwdDBacE9mME04X3lRcw": {
-  "keep": false,
-  "publishedAt": "2026-10-07T07:00:00.000Z"
  },
  "PYMNTS Data::CBMisAFBVV95cUxPZVBzRFNDaXUxdGhVQ0wxcmotUXZRd0VGOEFMbk9jQURZZFVXRi1RM1FNNkU2SXcydUltZkM3SGk0OXNQaFdVZ1VLd0ZheU5uSFBUTzRZUjhvSUdmbGJhTFZvczdSZnlBSzExMzc0YjBVcTZsSV9TNDdXUDFoYk55VmpJWE9HVjN2dXppZnBkMGZTaEJWRVhvRVFPYjA5TXpwUUJEYjh4ajVGdVN1aGhocA": {
   "keep": false,
