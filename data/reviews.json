@@ -7891,5 +7891,95 @@
   "content_type": "news",
   "competitors": [],
   "publishedAt": "2026-11-10T11:36:05.000Z"
+ },
+ "Global Marketplaces::CBMiwgFBVV95cUxOd0ZRNDVrTEpZSnpqaDdwU01NX2c3SElnV09nZEsyQlpSSHlFR3FDQkt3Y1hYS0twOFJxMzk1Vm93aFZxTzZwUWlsRDJaZ1JtS0NJTE02VkdZaWpwMzFKYnRjV3BSYmxyTEtmYjhFRXZOZ1dnWEZfN0RCUVBsSUpkUGZQUUhCa3pSRW9IV1o5dkpacWxkVzVfcWthaXc2T0VwNG5ESVVFZW5tQ2dUcTYzM1RlWk1jaVBQMVhHNzdiY0UtQQ": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "China's Singles Day puts AI selling tools to the test",
+  "short_headline": "Singles Day tests AI selling in China",
+  "takeaway": "Singles Day is a live test of AI-assisted selling at scale; we should watch which AI features marketplaces push to shoppers.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-11T06:14:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261110PD247/altos-computing-revenue-acer-subsidiary-demand.html": {
+  "keep": false,
+  "publishedAt": "2026-11-11T04:49:34.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261110PD246/ast-acer-subsidiary-demand-revenue.html": {
+  "keep": false,
+  "publishedAt": "2026-11-11T04:49:28.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261111PD211/intel-ai-pc-processor-packaging-tsmc.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Intel brings 18A to mainstream notebooks with Core Series 3 Wildcat Lake",
+  "short_headline": "Intel Wildcat Lake targets mainstream AI PCs",
+  "takeaway": "New mainstream consumer and commercial chips will shape our next notebook lineup and how we market AI PCs online.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-11-11T04:36:24.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261111PD236/avc-liquid-cooling-ai-server-shipping-2027.html": {
+  "keep": false,
+  "publishedAt": "2026-11-11T04:20:27.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261111VL208/mems-ar-optics-200mm-production.html": {
+  "keep": false,
+  "publishedAt": "2026-11-11T03:55:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261111VL209/qualcomm-samsung-automotive-micron-revenue.html?chid=10": {
+  "keep": false,
+  "publishedAt": "2026-11-11T03:36:41.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261111PD213/2027-csp-2026-shipments-profit.html": {
+  "keep": false,
+  "publishedAt": "2026-11-11T02:18:57.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261111PD212/2027-industrial-revenue-shipments-profit.html": {
+  "keep": false,
+  "publishedAt": "2026-11-11T01:50:21.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261111PD210/taiwan-investment-infrastructure-exports-equipment.html": {
+  "keep": false,
+  "publishedAt": "2026-11-11T01:49:44.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261111PD241/nvidia-samsung-gpu-2026-materials.html": {
+  "keep": false,
+  "publishedAt": "2026-11-11T01:47:24.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261111PD207/inventec-growth-2027-revenue-shipments.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Inventec expects notebook shipments to stabilize as servers lead 2027 growth",
+  "short_headline": "Inventec: notebook shipments to stabilize",
+  "takeaway": "An ODM signalling flat notebook volume and server-led growth suggests tempered PC demand and a stronger server mix for us.",
+  "importance": 2,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-11T01:34:10.000Z"
+ },
+ "PYMNTS Data::CBMingFBVV95cUxNd3k3NEdoOVk1VG84eDhOYWt4bjhvdDdZNVlKazZkMEdQdm5nQWloUVVldjZGTjdZdDJsdDlwWUxBVGlvUHQta3lRLVJqYzBGRHNFSDEyS3dCZjJZVXVzbXZBVE5HVVd0TE1SZDFCWWpTdlBfM3ppYmZKeGl0V0FKeXVZTUxoTEd4RlJKbUpRcHJaenF4VEU2Uk9NNUdFUQ": {
+  "keep": false,
+  "publishedAt": "2026-11-10T21:57:05.000Z"
+ },
+ "Counterpoint Research::CBMivAFBVV95cUxOQ181d2owaWViT29vaHhiRjhncXNoNlp4RC1QdXBqd3NwcnRhREQtdzFORzFIc0g1VFE0Njd4a2pIbVFOSno3dzVVMVVPcjFTNHF6dEhRVUhCVDZodTVTczlVVDV5aXhydER5V1pNdVZlOG9PdEU3c1lrUS1yeTNwR1dKMGM1OFphaDQzbWRSNVM0eEtEY2t0NzVDbXpRLXpFc0VIeTR4X2hoYTJRbV85aWxJRVVOSFRxWlhHbA": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Apple adds OLED to new iPad mini and touch-enabled MacBook Pro",
+  "short_headline": "Apple moves iPad mini and MacBook Pro to OLED",
+  "takeaway": "Apple pushing OLED and touch into its premium range raises display expectations for our premium laptops and tablets online.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-11-04T08:12:59.000Z"
+ },
+ "PYMNTS Data::CBMimwFBVV95cUxQY2RsS05tUl9oQ3NfSzgxdVAxQ2RFNzRHd1haU01hcllkSXctWFlpeGRBcENfdEdxbFVTeEc5YW9hS04ya2M3V3A2TC1OYVNlZjhnT1haV3JTTFZuYzhfSS0tTlBBb3IwclFMV01sV2l6WHVPVGt1VWFLcC15SHJ1OXJ3X090QlBSekdpMDl1Z180eXpjbjJ5OWp4WQ": {
+  "keep": false,
+  "publishedAt": "2026-10-29T00:08:52.000Z"
  }
 }
