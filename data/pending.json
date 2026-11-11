@@ -1,154 +1,122 @@
 [
  {
-  "id": "Retail TouchPoints::CBMirwFBVV95cUxQQl9Vc19QcW9pX3B3OVZSMU55UEpheW0ycnNDcXVhbG9kVUhGb09XalVVakhwTFVobE9tczEyUnUwV2xWN0dDVkZfcmMwUjlFV04ybGZkX19iT3J2Mld5dUNUbzQyQ3FCVXRaalFkU1VubHNLaWh3ZkJsTWRHUE1KMWxZMlVpVzlmdXJGbUxxQk4xN0hCLXJKazd1Vnp3MTI5ZzVIOUhsZzdLUkpGQXlj",
-  "source": "Retail TouchPoints",
+  "id": "Global Marketplaces::CBMiwgFBVV95cUxOd0ZRNDVrTEpZSnpqaDdwU01NX2c3SElnV09nZEsyQlpSSHlFR3FDQkt3Y1hYS0twOFJxMzk1Vm93aFZxTzZwUWlsRDJaZ1JtS0NJTE02VkdZaWpwMzFKYnRjV3BSYmxyTEtmYjhFRXZOZ1dnWEZfN0RCUVBsSUpkUGZQUUhCa3pSRW9IV1o5dkpacWxkVzVfcWthaXc2T0VwNG5ESVVFZW5tQ2dUcTYzM1RlWk1jaVBQMVhHNzdiY0UtQQ",
+  "source": "Global Marketplaces",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-10T20:04:14.000Z",
-  "title": "One in Three Consumers Have Used AI Agents for Customer Service",
+  "publishedAt": "2026-11-11T06:14:00.000Z",
+  "title": "China's Singles Day shopping festival puts AI selling power to the test",
   "snippet": ""
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/cybersecurity-grocery-refrigeration-attacks/874270/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-10T19:58:00.000Z",
-  "title": "US government aims to prevent cyberattacks on refrigeration systems",
-  "snippet": "In response to cyberattacks targeting supermarkets in Europe, the U.S. is urging businesses to implement measures to protect internet-linked systems."
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261110PD247/altos-computing-revenue-acer-subsidiary-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-11T04:49:34.000Z",
+  "title": "AI demand drives record revenue for Altos through October",
+  "snippet": "Acer subsidiary Altos reported October 2026 consolidated revenue of NT$155 million (US$4.72 million), up 44.1% year-over-year, while revenue for the first 10 months reached NT$2.41 billion, up 57.3%. Fueled by strong…"
  },
  {
-  "id": "PYMNTS Data::CBMisgFBVV95cUxOcHBDZ0FET0VOLXJSTGFORy1SZzU3NDdSOXROTUdzUjNuVlV5ZmtrZlkyWlBrQzdPUFhRV2pIaUZzaG5UMTl0OGNMQ18yMmY4eDF3RFJTX05FSzh3czV0cnpUN0tRM2thd3A0Uk45NlVRQkdqamZ4SlJoamNfNGhjeHM5N1lsYWt2Y055MzliQm43S3M1aW1mZ2UxRVp1azBWUEJ1VkVLbm96Q01FeGJ5X2VR",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261110PD246/ast-acer-subsidiary-demand-revenue.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-11T04:49:28.000Z",
+  "title": "Acer Synergy Tech rides semiconductor demand to record revenue",
+  "snippet": "Acer subsidiary Acer Synergy Tech benefited from sustained semiconductor industry growth, which drove demand for information technology (IT), operational technology (OT), and workforce service solutions. Its…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD211/intel-ai-pc-processor-packaging-tsmc.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-11T04:36:24.000Z",
+  "title": "Intel expands 18A reach with Wildcat Lake AI PC chips",
+  "snippet": "Intel is expanding its computing platform strategy for agentic AI and enterprise workloads with the Intel Core Series 3 processor, codenamed Wildcat Lake, targeting mainstream consumer and commercial notebooks. The…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD236/avc-liquid-cooling-ai-server-shipping-2027.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-11T04:20:27.000Z",
+  "title": "Cooling solutions provider AVC starts shipping double-sided cold plates for AI servers",
+  "snippet": "Asia Vital Components (AVC) expects all GPU- and ASIC-based AI servers to adopt liquid cooling by the end of 2027, with customers increasingly turning to double-sided cold plates to accommodate vertical power delivery…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261111VL208/mems-ar-optics-200mm-production.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-11T03:55:00.000Z",
+  "title": "China's HISIGK takes a specialty route into lithography with MEMS, AR optics",
+  "snippet": "Jiangsu HISI Semiconductor (HISIGK) has prepared 14 automated lithography systems for delivery across 300mm, 200mm and 150mm wafer platforms, expanding its specialty semiconductor equipment business in markets ranging…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261111VL209/qualcomm-samsung-automotive-micron-revenue.html?chid=10",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-11T03:36:41.000Z",
+  "title": "Qualcomm names Samsung, Micron as memory suppliers in annual filing",
+  "snippet": "Qualcomm has identified Samsung Electronics and Micron Technology as its primary memory suppliers for certain products, including automotive applications, in its fiscal 2026 annual report. The disclosure was absent from…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD213/2027-csp-2026-shipments-profit.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-11T02:18:57.000Z",
+  "title": "Sysgration targets doubled 2027 BBU orders from CSP upgrades",
+  "snippet": "Sysgration returned to profitability in the third quarter of 2026 as shipments of new rugged industrial PC (IPC) projects ramped up, while gross margin rose to 22.73% from 22.23% in the second quarter. The company…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD212/2027-industrial-revenue-shipments-profit.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-11T01:50:21.000Z",
+  "title": "Winmate sets profit record, starts drone shipments in 2027",
+  "snippet": "Winmate Inc. said third-quarter revenue and net income set records for the quarter, as warehouse and logistics demand and OEM and ODM shipments lifted revenue 40.4% year on year to NT$1.413 billion (US$43.10 million)…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD210/taiwan-investment-infrastructure-exports-equipment.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-11T01:49:44.000Z",
+  "title": "Taiwan machinery exports rise for 21st month on AI demand, but US election adds uncertainty",
+  "snippet": "Taiwan's machinery exports grew for a 21st consecutive month in October, led by electronic equipment on strong AI and semiconductor demand, according to the Taiwan Association of Machinery Industry (TAMI). The…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD241/nvidia-samsung-gpu-2026-materials.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-11T01:47:24.000Z",
+  "title": "Samsung and Nvidia demonstrate up to 3,800-fold speedup in chip simulation",
+  "snippet": "At Nvidia AI Day Seoul 2026, Samsung Electronics demonstrated a workflow that combined Nvidia's AI modeling tools and GPU computing with homogenization, cutting one semiconductor simulation from 18 hours to 17 seconds…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD207/inventec-growth-2027-revenue-shipments.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-11T01:34:10.000Z",
+  "title": "Inventec sees high-double-digit server growth in 2027",
+  "snippet": "Inventec expects its server business to grow by a high-double-digit percentage in 2027, led by GPU and ASIC servers, while notebook shipments should stabilize and smart devices are expected to post single-digit growth…"
+ },
+ {
+  "id": "PYMNTS Data::CBMingFBVV95cUxNd3k3NEdoOVk1VG84eDhOYWt4bjhvdDdZNVlKazZkMEdQdm5nQWloUVVldjZGTjdZdDJsdDlwWUxBVGlvUHQta3lRLVJqYzBGRHNFSDEyS3dCZjJZVXVzbXZBVE5HVVd0TE1SZDFCWWpTdlBfM3ppYmZKeGl0V0FKeXVZTUxoTEd4RlJKbUpRcHJaenF4VEU2Uk9NNUdFUQ",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-10T18:47:05.000Z",
-  "title": "Fiserv’s Clover Adds AI Tools to Help Small Businesses Reach eCommerce Shoppers",
+  "publishedAt": "2026-11-10T21:57:05.000Z",
+  "title": "KeyBank Upgrades Products as Consumers Struggle to Save",
   "snippet": ""
  },
  {
-  "id": "PYMNTS Data::CBMijgFBVV95cUxPZ05XV2dxcDNTaWl2V3ZFaWYyR0k5Rnk2bFFKVkRVODFQUlNheEZuaXZPM2NiLU5Ca1pZdnV4UUZmejBLeGNfemxaOGZGMjJ4U0E3eXRLSGN5TkE4cVJaWFBjbjduaFZCaDZKTUlCaEV1VTR6Nk83c0p5djBoY1FsY2NpNks5LThMcUd5Qktn",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-10T18:31:25.000Z",
-  "title": "HSBC Turns to Stripe for Small Business Tap-to-Pay Offering",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMiyAFBVV95cUxNOGJuTUYxNGx3VjRuOWNuRmhRRFIwODIyc2NfOEE3UjczbnZ4dEtrSEVvcldyYnFkWXRwQUlNTDZ4ZHhxS3NyMmhtOUdidFFFMmtvZ1VDV3dVbGhocjJ0R1NJcW10QjRQVjloRVdjSHdUYlNPZ1NPWnE0aHVhbllKbm05ekY5WjFvQnQ1Zk9YV2V4YjRxV0M4dnRRRFRKN0FzeVBxNXJEZGN0aVJPX0duWmRFZ2tIbmVNc1Z4eVpiaTMxRzRwcmhLXw",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-10T18:12:05.000Z",
-  "title": "EU Draft Law Links AI Shopping Agents’ Autonomy to Commercial Incentives",
-  "snippet": ""
- },
- {
-  "id": "Reuters::CBMixgFBVV95cUxPeDdpWXlJb3hWWUhMQ3RPNnJ2MU9YeTFYYWVNdzBJZGoydVFxRDJOY2JPTkhaVWd5Y3ZmUzdVMWxZWGtOcmMyeGxDSndwQTJhMG9rLUgtZmdJQlFXdFd0dGppY05RTWZOMFplQlhUTFY1STNybWJjOW5rcWdkY2drWlRaRjI3NTRGdk5IbXlkeWUtSER5QVc4TnB2b3Vhand3cmY5MGJQZXBIaGhPOUVyU1M4VWZHcEZJVG83ZXM4Nml6aG5HeXc",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-10T18:03:43.000Z",
-  "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
-  "snippet": ""
- },
- {
-  "id": "Modern Retail::https://www.modernretail.co/?p=175112",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-10T17:58:21.000Z",
-  "title": "The Next Gen Store Awards: How Anthropologie, Diptyque and others are transforming the in-store experience",
-  "snippet": "The first-ever Next Gen Store Awards winners reflect a retail landscape in which the in-store experience is becoming increasingly important to how brands attract and engage customers. The winning concepts combined…"
- },
- {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364041",
-  "source": "Digital Commerce 360",
+  "id": "Counterpoint Research::CBMivAFBVV95cUxOQ181d2owaWViT29vaHhiRjhncXNoNlp4RC1QdXBqd3NwcnRhREQtdzFORzFIc0g1VFE0Njd4a2pIbVFOSno3dzVVMVVPcjFTNHF6dEhRVUhCVDZodTVTczlVVDV5aXhydER5V1pNdVZlOG9PdEU3c1lrUS1yeTNwR1dKMGM1OFphaDQzbWRSNVM0eEtEY2t0NzVDbXpRLXpFc0VIeTR4X2hoYTJRbV85aWxJRVVOSFRxWlhHbA",
+  "source": "Counterpoint Research",
   "sourceType": "Analyst",
-  "publishedAt": "2026-11-10T17:29:24.000Z",
-  "title": "e.l.f. Beauty Q2 sales grow 51% as it embraces digital platforms",
-  "snippet": "E.l.f. Beauty Inc. raised its full-year outlook for the second straight quarter after net sales increased 51% in its fiscal Q2 2027, helped by Rhode’s launch at Sephora in Europe and a rebound in unit sales for the core…"
+  "publishedAt": "2026-11-04T08:12:59.000Z",
+  "title": "Apple Accelerates OLED Adoption with New iPad mini and Touch-Enabled MacBook Pro, Reinforcing Premium Display Strategy",
+  "snippet": ""
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/ethan-allen-ceo-out-after-four-decades/874228/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-10T17:24:00.000Z",
-  "title": "Ethan Allen CEO out after four decades",
-  "snippet": "Former Neiman Marcus Group executive Stefanie Tsen Ward takes over for Farooq Kathwari in the interim as the struggling furniture retailer searches for his permanent replacement."
- },
- {
-  "id": "Salesforce Shopping Research::CBMingFBVV95cUxOSS1DaE5Vc2o3RDcxRGtOdkZsXzd6R0oxVEsxTjNRNDZfSERibU1VeG9jNTBEcTU1NHRnTDR6amZYVV9wTG9JYXR1R0o2NGpLdHRTemlKbDd0c0phVzRlSFRoQ2c5ZURzWktNbENhODRuVGNxRXBCS1BzU05JWEVqdlp1dXdqZEFJMG1lVlp5Q3pQRjM0NkZRZGF3MjZBQQ",
-  "source": "Salesforce Shopping Research",
+  "id": "PYMNTS Data::CBMimwFBVV95cUxQY2RsS05tUl9oQ3NfSzgxdVAxQ2RFNzRHd1haU01hcllkSXctWFlpeGRBcENfdEdxbFVTeEc5YW9hS04ya2M3V3A2TC1OYVNlZjhnT1haV3JTTFZuYzhfSS0tTlBBb3IwclFMV01sV2l6WHVPVGt1VWFLcC15SHJ1OXJ3X090QlBSekdpMDl1Z180eXpjbjJ5OWp4WQ",
+  "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-10T17:07:31.000Z",
-  "title": "Missionforce National Security Achieves ‘Awardable’ Status for Department of War Recruiting Capabilities in the CDAO's Tradewinds Solutions Marketplace",
-  "snippet": ""
- },
- {
-  "id": "Retail TouchPoints::CBMi_AFBVV95cUxPcWl6TWV5eGVPZXBrQzdWQkhQVGVfNmtKd04tam9QVDZjaW94dXJ2VFpNWkxOTm5IdmhsemplV3BDc0NPZDc1OVlUaW1nUkEtNVVvQnd4TWQ3Z0xSSVZ4SldNbEFyUTdPM3BfMXFJTzFFa05KMkdwMlYwNlVpM004eHUtX000dTJNSVI0bXRwcXpjZWo3OXhFUEZsdlR4Nnhfcm5USGRKeGw4elI0WWxuZW9SYUhWMXdZcHBWLWFaYk5WeFNYSTg4emlzRXFPTVd2R0xNMGxnUkdlSGVScXZCdEFXcTZWZjMzbFdHZDdaYjdDMEZfQS1nRmZTZjA",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-10T16:54:36.000Z",
-  "title": "Easing the Holiday Rush: Why the Frontline Employee Experience is Retail’s Most Critical Peak-Season Metric",
-  "snippet": ""
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/on-third-quarter-earnings-wholesale-growth/874245/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-10T16:36:00.000Z",
-  "title": "On surprises with wholesale growth",
-  "snippet": "The brand’s DTC gains in Q3 missed many analysts’ expectations, though wholesale results quelled some longstanding concerns."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/lululemon-fills-executive-roles-chief-brand-strategy-officer-heidi-oneill-turnaround-team/874204/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-10T15:37:00.000Z",
-  "title": "Lululemon fills 2 of 4 open roles with new brand, strategy chiefs",
-  "snippet": "The athletics retailer is still searching for technology and communications chiefs after those executives left their positions a few months ago."
- },
- {
-  "id": "Inc42::https://inc42.com/?p=579803",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-10T15:31:45.000Z",
-  "title": "Three Workers Die After Inhaling Toxic Gases At Tata’s TN iPhone Factory",
-  "snippet": "Three contract workers died after allegedly inhaling toxic gases during maintenance work at Tata Electronics’ iPhone manufacturing unit in Tamil…"
- },
- {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76496",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-10T15:15:33.000Z",
-  "title": "Almost half of shoppers plan Black Friday purchases in advance, with AI and social media having limited influence on buying behaviour",
-  "snippet": "New YouGov research commissioned by Paxon finds 47% of online shoppers mainly buy products they had already planned to purchase during major shopping events, highlighting the importance of anticipating existing demand…"
- },
- {
-  "id": "Modern Retail::https://www.modernretail.co/?p=174868",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-10T15:00:00.000Z",
-  "title": "Brands Briefing: Dr. Martens revamps stores to kickstart growth and ‘recontextualize the brand’",
-  "snippet": "Dr. Martens is updating its store fleet to appeal to the next generation of shoppers."
- },
- {
-  "id": "TechCrunch::https://techcrunch.com/?p=3186487",
-  "source": "TechCrunch",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-10T15:00:00.000Z",
-  "title": "Reddit is turning user conversations into AI-powered product reviews",
-  "snippet": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays."
- },
- {
-  "id": "Apple Newsroom::https://www.apple.com/newsroom/2026/11/football-manager-and-other-hit-franchises-headline-apple-arcades-holiday-lineup/",
-  "source": "Apple Newsroom",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-11-10T14:59:45.256Z",
-  "title": "Football Manager and other hit franchises headline Apple Arcade’s holiday lineup",
-  "snippet": "Today Apple Arcade welcomes Football Manager 27 Touch, plus four new games for every kind of player on December 3."
- },
- {
-  "id": "Reuters::CBMivAFBVV95cUxQcWlVRHBuVk00YUFUa1ZfRHQ0ZGN2ekwxa2IyYU5pYjhVdjVfTnF1ekU3NjU5QlRYUUV0LUU2OFRvWC0tQjVOQ2t0N0xqMlg1UmxsX29aRHVNdmdXNlFSdUF2cXVEVUJIOUZGUmc2YXdlSnhhVzRuMGRjcnQ5dVVYQm1oQ29DaXhRdEN4NkVhU3hWSk5mTzZ1dEZtNjlHWWdJNWlnYTZNNTFFYkZ0UG9GZFBuWDdQYkpORlZ3Wg",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-10T11:36:05.000Z",
-  "title": "UK aviation regulator clears Amazon for expanded drone delivery",
+  "publishedAt": "2026-10-29T00:08:52.000Z",
+  "title": "Buy Now, Pay Later",
   "snippet": ""
  }
 ]
