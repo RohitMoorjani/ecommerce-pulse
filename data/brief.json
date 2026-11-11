@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T06:51:55.907Z",
+ "updatedAt": "2026-11-11T18:57:00.569Z",
  "title": "AI assistants are becoming a shop front, and our store must be ready",
  "summary": "Amazon added 100+ Alexa for Shopping functions and text-to-shop; Walmart's Sparky builds carts; OpenAI lets businesses claim ChatGPT profiles; Visa found AI models fail 43% of shopping tests; Samsung sees memory shortage through 2028.",
  "points": [
@@ -32,12 +32,21 @@
    ]
   },
   {
-   "headline": "Memory shortage and Amazon fees squeeze PC margins",
-   "detail": "Samsung expects the memory shortage to last through 2028, and Amazon seller fees and ads hit $66.1B in Q3. We should review pricing and the balance between marketplaces and our store.",
+   "headline": "Memory squeeze persists while PC OEMs trim 2027 buys",
+   "detail": "Samsung sees the memory shortage lasting through 2028, while TrendForce says rising inventories lead some PC OEMs to adjust 2027 memory plans. We should watch pricing and secure supply.",
    "segment": "pc",
    "storyIds": [
     "DigiTimes::https://www.digitimes.com/news/a20261105VL231/samsung-2028-2027-equipment-production.html",
-    "Marketplace Pulse::http://www.marketplacepulse.com/articles/amazons-fees-and-ads-near-its-retail-sales"
+    "TrendForce::CBMicEFVX3lxTE85R21CTXlzRklJblE4ZkJTTmNNS0w4dERLcDNIbTl2QTlaSlJ4OGJkTVlBYWxTOWNDaG1LUWczMjVNTFIzWGZZemZHclpkd19tUWNScXdfVm95Vy1ONC1wYXZuVEd5dWRVeEJ6ckswSzg"
+   ]
+  },
+  {
+   "headline": "Amazon fees and Cyber 5 exclusives raise marketplace stakes",
+   "detail": "Amazon seller fees and ads hit $66.1B in Q3, and Amazon touts record Black Friday and Cyber Monday exclusives. We should weigh marketplace margin against our own store offers.",
+   "segment": "marketplaces",
+   "storyIds": [
+    "Marketplace Pulse::http://www.marketplacepulse.com/articles/amazons-fees-and-ads-near-its-retail-sales",
+    "Retail Dive::https://www.retaildive.com/news/amazon-black-friday-cyber-monday-holiday-deals/874359/"
    ]
   }
  ]
