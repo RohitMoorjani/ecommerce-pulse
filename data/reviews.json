@@ -167,77 +167,6 @@
   "competitors": [],
   "publishedAt": "2026-10-08T01:25:00.000Z"
  },
- "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363362": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Target makes its holiday catalog interactive, with digital wish lists for gifting",
-  "short_headline": "Target adds digital wish lists to holiday catalog",
-  "takeaway": "Wish lists capture gift intent early in the season; worth testing for PC and accessory gifting on our store.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-07T22:40:28.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/lululemon-ceo-heidi-oneill-overhauls-c-suite-first-move/832434/": {
-  "keep": false,
-  "publishedAt": "2026-10-07T20:42:00.000Z"
- },
- "Modern Retail::https://www.modernretail.co/?p=172827": {
-  "keep": false,
-  "publishedAt": "2026-10-07T19:51:17.000Z"
- },
- "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363322": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "Gap rolls out natural-language product discovery at Old Navy and Banana Republic",
-  "short_headline": "Gap adds natural-language product search",
-  "takeaway": "Shoppers are learning to search in plain language; test whether our site search handles 'laptop for video editing under $1,000'.",
-  "importance": 4,
-  "content_type": "announcement",
-  "competitors": [],
-  "publishedAt": "2026-10-07T19:12:43.000Z"
- },
- "Dell Newsroom::CBMilAJBVV95cUxQY2kyTnN0QVhyQV95dWtqa0RjNXktTldHcFI4VmlkQXZlVWszOWRLcnA3U3czcHVUanUzSXhZZ0dVTXBfTTkwbFRHQW1ubVJwUk5sT1MzcF95cW1ROHo5UnI4TUl6b29rNmwxVUNyd0tkMG50OGlFY2NXTmp2cTFyZ1BZS09CQlBtRWloZEJ4TXU1TVotcDRMNlk3czIyQnpnUnZCZGlHYlA4blI5eFNQbEpoNnpiNXpqcm9MZFlEd0o4NXBNbFFoUl9yZF9tblAySjZ5Q1RvQ0V5NnVSUGo3dFk5RzB1d2pjS2QzNjlYSk82WGxSWjRERk8xNjdtcXdYU3J1OWxpNWNMelhjVUphMTZfbGY": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Dell launches new AI Windows PCs and workstations",
-  "short_headline": "Dell launches new AI PCs and workstations",
-  "takeaway": "Check how Dell prices and presents the new lineup on Dell.com against our comparable models.",
-  "importance": 3,
-  "content_type": "announcement",
-  "competitors": [
-   "Dell"
-  ],
-  "publishedAt": "2026-10-07T19:08:36.000Z"
- },
- "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363329": {
-  "keep": false,
-  "publishedAt": "2026-10-07T18:38:22.000Z"
- },
- "HP Newsroom::CBMi6AFBVV95cUxOREVhRmdWRWdSSWRkSlIxR0JGdmMydUVJQm5SV3hEb3dORjBld1RRX1kxb2tfbnZ2SUhKa2huMHNsMEhBOXVweGR1bDFZMHRWUVgzU0tWMXdkVkItX2FaRmx1a0JpY2l5bDNiQWFHN2xMal9nMlpCX25zaWtOWmZBTFdyeU54akNvYUQydHJTb0dreDFaXzZ2QXRMWFVjenNleXQ3WXc5LUhfa0d0UEdmMjdHNnVQLTFxVDdnVFlCRjIwcHRhanBZNXdFQmlHQ0VaOURIZDV3WTFwNnFtaDNBaTRhWVFJelZr": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "HP expands its local-AI lineup, from GB300 workstations to RTX Spark Windows PCs",
-  "short_headline": "HP widens its local-AI PC lineup",
-  "takeaway": "HP, Dell and Microsoft all launched AI PCs this week; compare how each sells them online.",
-  "importance": 3,
-  "content_type": "announcement",
-  "competitors": [
-   "HP"
-  ],
-  "publishedAt": "2026-10-07T18:01:33.000Z"
- },
- "Retail TouchPoints::CBMikwFBVV95cUxPMWJfTDNKcXpLa2M0WDJobmZPX2s1UVN6LWtRc1V6dmFQekpfV0ZMc2k4MDNPNVlpOUs4Z2g2cEZPY3I5eV8xTFlmQjNES0JlTlJqLTFmbmVBaGQ4dXU3aTJvT1dPV05zTmJCRHFhSkl1Sk1oR2RROUdXZFZYM2pGTWVVbkdyMW9EeHlCMVdrcjMxaTQ": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Walmart and Wing expand their drone delivery network",
-  "short_headline": "Walmart widens drone delivery with Wing",
-  "takeaway": "Delivery speed keeps growing as a marketplace advantage over brand sites.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-07T17:44:45.000Z"
- },
  "Retail Dive::https://www.retaildive.com/news/lululemon-heidi-oneill-executive-leadership-team/832505/": {
   "keep": false,
   "publishedAt": "2026-10-08T15:52:00.000Z"
@@ -359,48 +288,6 @@
  "DigiTimes::https://www.digitimes.com/news/a20261008VL203/samsung-profit-operating-profit-hbm-market.html": {
   "keep": false,
   "publishedAt": "2026-10-08T01:15:00.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261007VL222/tokyo-electron-profit-chipmakers-operating-profit-2027.html": {
-  "keep": false,
-  "publishedAt": "2026-10-07T23:55:00.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261007PD239/ast-acer-subsidiary-revenue-2026.html": {
-  "keep": false,
-  "publishedAt": "2026-10-07T23:53:01.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261007PD238/acer-revenue-subsidiary-demand-business.html": {
-  "keep": false,
-  "publishedAt": "2026-10-07T23:52:10.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261007PD234/cxmt-samsung-sk-hynix-talent-poaching.html": {
-  "keep": false,
-  "publishedAt": "2026-10-07T23:51:01.000Z"
- },
- "Reuters::CBMiywFBVV95cUxQcGpPcWtGSUU1NVZlY1p6bnBmNnhqQ3owekVzTGpsMWxvSkM5c0trLVFVZUtySS1TcVRZZGFuWUpSR0JTaUgyWE5HNzJjbUNvd1Bma2RURkdMUFliaUw1Q3BPbHlMTm9aR05uUV9aZV9TV1k4T1Y3OW80Q0cteDFpM0Z0aVJwbFF6YUF1RExIdUlPRWtRb1YtQk1lWXIyZnBLT0lnSTRMTm1NejdSOEpTcGtCYy1HZWk2a3dMS0tka2FkdmE5b3Q4STcxSQ": {
-  "keep": false,
-  "publishedAt": "2026-10-07T22:10:19.000Z"
- },
- "PYMNTS Data::CBMiiAFBVV95cUxPYm1IX0tTUmY0SEhMQU8wejZsbUJyT1dLSHo0d0pfbU5pRksyUWNiYThqbTlSTFdlcnI4X3Z0Q3NERERGbkZBVU9ieGF0NS1YQ1p4cmtxU2lCOHFKZUI1MmI4Y1A2b3FsZjZoVkUtWVA0UnlMMFJkdHJZODZoRnZtYnhNTy1YcEZW": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "Consumers are getting choosier about which credit they use",
-  "short_headline": "Shoppers get choosier about credit",
-  "takeaway": "Financing choice matters at checkout; offer more than one way to pay over time for big tech buys.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-07T20:44:46.000Z"
- },
- "Circana::CBMisgFBVV95cUxQYV9DbWNDbWZDV201SnJxX25Ub09ZYTZlTFZUcElpYnpDWDNqZENld0ZqX0tMY2RRVGxpOFdsLXE4b3pMVmgtQzhDZjc5bm9HbGh4RHZsSTZXYjRRc3p6U1BlQ1ZSN1d2QTltcUVLdVp4bkZDUURJeUVxcTBjYjY4cFR0YmJkSDczYTZFdFhWUXFlMFVOMm9maHZ2QjhnRU5NTklUVUI5LUM5OWRvSFluSXhB": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "Circana: Holiday 2026 will be defined by meaning, with five consumer shifts",
-  "short_headline": "Circana's five consumer shifts for Holiday 2026",
-  "takeaway": "A research-backed read on holiday mindset; use it to frame our seasonal messaging beyond discounts.",
-  "importance": 4,
-  "content_type": "analysis",
-  "competitors": [],
-  "publishedAt": "2026-10-07T18:14:22.000Z"
  },
  "PYMNTS Data::CBMihgFBVV95cUxONUU5RHVXZnpCbmhBeUQ0TjBYUHBiUlhkVG5lSlg2Q0ZoOVplc3JURy11ck5RbTkxcHhaSk9rVUh6SDJya3l5NXRwQkJJRkNJTTl4MGhjNkY0bVhwUXlwV1Vpd1ZRR0lxY3REaDZ6ZVBUdGo0QVVYV2RvOXVTb1ZBNEJLaUQ2UQ": {
   "keep": false,
@@ -542,10 +429,6 @@
   "keep": false,
   "publishedAt": "2026-10-08T08:39:39.000Z"
  },
- "Global Marketplaces::CBMiywFBVV95cUxQcGpPcWtGSUU1NVZlY1p6bnBmNnhqQ3owekVzTGpsMWxvSkM5c0trLVFVZUtySS1TcVRZZGFuWUpSR0JTaUgyWE5HNzJjbUNvd1Bma2RURkdMUFliaUw1Q3BPbHlMTm9aR05uUV9aZV9TV1k4T1Y3OW80Q0cteDFpM0Z0aVJwbFF6YUF1RExIdUlPRWtRb1YtQk1lWXIyZnBLT0lnSTRMTm1NejdSOEpTcGtCYy1HZWk2a3dMS0tka2FkdmE5b3Q4STcxSQ": {
-  "keep": false,
-  "publishedAt": "2026-10-07T22:10:19.000Z"
- },
  "TWICE::https://www.twice.com/?p=166509": {
   "keep": false,
   "publishedAt": "2026-10-09T13:01:45.000Z"
@@ -608,19 +491,6 @@
  "Reuters::CBMirgFBVV95cUxOMXBaTUxRTVRaaEh2ajRtZWxDekFLVElmbi1oVEw1eFJyUDg4NG5TNGxTZGw1eUFSTWhTbHVERXU2R2p1YlBFRnZhcUFXSG9vQWhPcVFxN21jdDJaMFRLY0lSU0x0YUtBREl3UXBYaVFXZmNtNmdfVGhkUmt5bnZJOTg3eTBOdjlUdTNaRTlFSGQ5YTdLcjVwWnVkLUREN2dLSkhoaEhlMHQ0U2YwWWc": {
   "keep": false,
   "publishedAt": "2026-10-08T01:16:00.000Z"
- },
- "Dell Blog::https://www.dell.com/blog/dell-xps-16-creator-edition-where-nvidia-rtx-spark-meets-premium-design": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Dell launches XPS 16 Creator Edition built around NVIDIA RTX Spark",
-  "short_headline": "Dell XPS 16 Creator Edition adds NVIDIA RTX Spark",
-  "takeaway": "Dell is pushing a creator-focused premium laptop; compare its positioning against our own creator lineup online.",
-  "importance": 2,
-  "content_type": "announcement",
-  "competitors": [
-   "Dell"
-  ],
-  "publishedAt": "2026-10-07T18:00:00.000Z"
  },
  "Modern Retail::https://www.modernretail.co/?p=173055": {
   "keep": true,
