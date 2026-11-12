@@ -1,202 +1,178 @@
 [
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261112PD243/quanta-2027-capex-ai-server-revenue.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-12T08:56:09.000Z",
-  "title": "Quanta shifts 2027 capex toward power, the new battleground for AI server ODMs",
-  "snippet": "Quanta Computer posted strong revenue and earnings in the third quarter of 2026 and expects operations to continue accelerating in the fourth quarter, driven by AI servers. The company also forecasts another growth year…"
- },
- {
-  "id": "Gartner::CBMisgJBVV95cUxQb1dqLVVjajdUOThGNUtWdWxPY0FlMy1CaDAteTJyZUgtLVZDRmZoQVZULVVYeUJiNE4wM1M2NkhUUF9qSkU1LXA4QzhQTS1NQldhWXRXczYwOU9TWVI1azU5eDVmdTZYbHVJMnVEYXZDV2VvNkxuNUIxOUpUT2o1QjR4bV9BQVJjaS1CQ0c3aHQydFJLNXM1Sm5VUFFaYjRzSy1uVVBnb01XNnVZRXpoM09NUDJ6dHU0Y1ZWdm04WEtYd2RVTkdDZDhXemw3MjJ4aE90bUNPYjdkMEQ5X0l1ckR1azQySDBDOFVjSTdFampRXzA1d2hlZ2lpNy1NMEltTHdBWWhVSzkxdG9Zb2ZjR1BHZWJqZ3RpTm9aMTRaN0hpcVRmZkFHaUtxT2EwVGhRTlE",
-  "source": "Gartner",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-12T08:32:43.000Z",
-  "title": "Gartner Forecasts AI Infrastructure Spending to Represent 59% of Total Global AI Spending in 2027",
-  "snippet": ""
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261112VL213/fab-2026-expansion-production-iphone.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-12T07:48:50.000Z",
-  "title": "India's Tata Electronics reportedly seeks up to US$2 billion in loans",
-  "snippet": "Tata Electronics is lining up fresh debt at a moment when nearly every leg of its expansion has run into friction: a flagship chip fab whose production start has moved from the end of 2026 to mid-2028 and will launch on…"
- },
- {
-  "id": "Counterpoint Research::CBMiiAFBVV95cUxQZXpXT0R3WXV2ejlJVTJMVnlua2VLbExHOE9BaHJjNU5jcHptRGNSczhITFp0aDMtamFfbWttTkVOeW1yMlVKWHd3ODBNeVVRODFTcW5ELXB1X29HTWpqMGFKYll0NU1UZG9hUi1BRzZsY3ZUdTVsUlRHVXdwSWdDNDRSZlF5TG1j",
-  "source": "Counterpoint Research",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-12T07:05:18.000Z",
-  "title": "[Survey]: Amid Rising Smartphone Prices, Processor and Camera Remain the Top Two Parameters that Consumers Refuse to Compromise",
-  "snippet": ""
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261112PD219/samsung-demand-openai-sam-altman-ceo.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-12T06:45:03.000Z",
-  "title": "Sam Altman warns Samsung of short-term AI demand volatility",
-  "snippet": "OpenAI CEO Sam Altman warned Samsung Electronics executives that AI memory demand could fluctuate in the short term, with the market potentially counting the same demand more than once. He nevertheless expects long-term…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261112PD227/taiwan-expansion-electronics-manufacturing-industrial.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-12T06:37:05.000Z",
-  "title": "Taiwan's electronics industry targets four overseas tech parks under TEEMA's global expansion plan",
-  "snippet": "The Taiwan Electrical and Electronic Manufacturers' Association (TEEMA) released its first industry white paper in 78 years on November 11, proposing a \"Taiwan+N\" global expansion strategy centred on overseas technology…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261112PD230/china-ai-open-source-data-demand-2026.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-12T06:33:12.000Z",
-  "title": "Chinese models capture 89% of US corporate spending in open-source AI",
-  "snippet": "Chinese AI models have taken a dominant position as demand for open-source models grows among US businesses. According to the \"2026: The State of Enterprise AI\" report released in early November by US venture capital…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD271/toyota-vehicle-usa-sales-2027.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-12T06:15:08.000Z",
-  "title": "Toyota to assemble and sell Japanese light-duty trucks in the US, with sales starting in 2H27",
-  "snippet": "Japanese automaker Toyota has announced plans to revive the Scion brand, which was discontinued nearly a decade ago, with the launch of its first model, the KEI-01, in the second half of 2027. The light-duty truck (kei…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261112PD211/intel-china-renewable-energy-chipmakers-ai-inference-demand.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-12T05:58:38.000Z",
-  "title": "Intel China wants to turn untapped renewable energy into AI tokens with computing pods slated for 1H27",
-  "snippet": "As demand for AI computing expands across industries and applications, chipmakers are seeking opportunities beyond conventional data centers, extending into enterprise deployments and personal devices. At the ninth…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261112VL209/samsung-hbm-packaging-2028-plant.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-12T05:57:08.000Z",
-  "title": "Samsung moves up HBM packaging plant opening to June 2028",
-  "snippet": "Samsung Electronics said on November 12 it had moved up the planned opening of its new high-bandwidth memory (HBM) packaging plant in South Korea by one year to June 2028 to meet rising demand for AI server memory."
- },
- {
-  "id": "Modern Retail::https://www.modernretail.co/?p=173745",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-12T05:00:00.000Z",
-  "title": "Modern Retail+ Research 2026 Creator Marketing Index: A brand guide to effective social media campaigns",
-  "snippet": "To measure the impact creator content has on brand campaigns, Modern Retail+ Research analyzed the engagement levels on leading creators’ social media campaigns from January 2026 to September 2026."
- },
- {
-  "id": "Modern Retail::https://www.modernretail.co/?p=175182",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-12T05:00:00.000Z",
-  "title": "Hims & Hers expands benefits program for GLP-1 support with brands like Grüns and Tonal",
-  "snippet": "This month Hims & Hers adds Tonal, Grüns, Viome and Medjet perks to benefits for GLP-1 subscribers seeking fitness and nutrition support."
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261112PD214/2026-panel-supply-chain-power-semiconductors-data.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-12T04:24:37.000Z",
-  "title": "AI bottleneck shifts from compute to power; European supply chain sees power semiconductors as next shortage",
-  "snippet": "At the opening panel of electronica 2026 in Munich on November 10, industry leaders agreed that the primary bottleneck in artificial intelligence is shifting from computing power to energy delivery. Panelists warned…"
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/amul-mother-dairy-milk-prices-to-go-up-by-rs-2-4-per-litre-from-today/135754601",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-12T03:53:44.000Z",
-  "title": "Amul, Mother Dairy milk prices to go up by Rs 2-4 per litre from today",
-  "snippet": "Consumers will have to pay more for milk from Thursday as leading dairy brands Amul and Mother Dairy announced a price increase of Rs 2-4 per litre across their liquid milk variants, citing a rise in input and…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261112VL206/apple-samsung-foldable-2028-utg.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-12T03:34:52.000Z",
-  "title": "Apple, Samsung reportedly developing new foldable glass for 2028",
-  "snippet": "Apple and Samsung Electronics are working with suppliers on foldable phone glass that is thinner at the hinge and thicker elsewhere, a design they are considering for 2028 models, ZDNet Korea reported, citing industry…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261111VL222/revenue-taiwan-2025-growth-infrastructure.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-12T03:01:10.000Z",
-  "title": "AI server tracker: ODM/EMS giants scale up, but optical suppliers show who captures the next wave",
-  "snippet": "Taiwan's AI infrastructure expansion is producing different growth patterns across system manufacturers and optical suppliers. All six original design manufacturers and electronics manufacturing services providers…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD262/teco-infrastructure-data-center-cloud-cooling.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-12T02:51:38.000Z",
-  "title": "TECO pivots to AI infrastructure services with Japan project",
-  "snippet": "TECO Electric & Machinery is expanding into global AI computing infrastructure, announcing on the November 11 that it will partner with AI cloud service provider GMI Cloud and KSDI to build an modular AI data center in…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261112VL204/samsung-amd-testing-manufacturing-pcie.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-12T02:32:25.000Z",
-  "title": "Samsung, AMD team up to upgrade chip testing",
-  "snippet": "Samsung Electronics and AMD are teaming up to upgrade the Korean chipmaker's semiconductor manufacturing test infrastructure, combining AMD's new EPYC Embedded 9006 processors with Samsung memory and storage…"
- },
- {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76519",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-12T02:22:00.000Z",
-  "title": "Morrisons Media Group expands retail media network into convenience stores",
-  "snippet": "Morrisons Media Group (MMG) is extending its retail media offering into Morrisons’ convenience estate. The post Morrisons Media Group expands retail media network into convenience stores appeared first on…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261112PD201/ennoconn-kontron-taiwan-physical-ai-growth.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-12T01:50:24.000Z",
-  "title": "Ennoconn posts record third-quarter revenue, targets 20% ROE by 2030",
-  "snippet": "Taiwan industrial PC maker Ennoconn Technology reported record revenue and profit for the third quarter of 2026. It said it expects strong growth in both measures in 2027, supported by Physical AI applications and…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261112PD209/samsung-robot-testing-startup-development.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-12T01:37:48.000Z",
-  "title": "Samsung explores electronic skin for humanoid robot hands",
-  "snippet": "Samsung Electronics is testing electronic skin on the hands of its humanoid robots with South Korean startup Midas H&T, seeking to overcome a key commercialization barrier: combining powerful gripping with precise force…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD231/data-center-capacity-demand-policy-hardware.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-12T01:35:41.000Z",
-  "title": "US data center policy clouds AI capacity outlook, MetaAge says",
-  "snippet": "Global AI data center construction continues to drive demand for GPUs, memory, and other critical hardware, but tight computing capacity, rising material costs, and longer lead times are complicating large-scale AI…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD224/equipment-taiwan-academia-talent-technology.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-12T01:34:14.000Z",
-  "title": "Universities aren't factories: Can a hot-rodding spirit drive semiconductor innovation?",
-  "snippet": "The National Science and Technology Council's Department of Engineering and Technologies recently issued a call for proposals encouraging academia to modify expensive semiconductor equipment through design changes…"
- },
- {
-  "id": "PYMNTS Data::CBMi8gFBVV95cUxPb3pTSUV6YUlrdnpQWk1iMjdnUHJ5ZVljdEd4cW1wX0tVT004THpNLU1YX3ViaTJYTERXRHViRUJqTTFIUmxDMkJTYTJTTi0tRDR6Wjk0alhhM1FMbEFJZXRLN2ZWWHAtSG1mOFR3SGNodThJcUlvTHlkWEZ5ZVI2eDZ5RzVKSUlZVzVHSUxfbHNSTUtfaXlDcHUzYnVodjZ4RTBTQ29Nd3RtMnR3Y3A4WXl0WjAzNG9WZFAzRkFOc1JySmFySFpYdThQWmVpSW5pSWJDMk1DVENxbnBEV2pLRVpQTExlSnlDTVVoZVlQZm4tQQ",
+  "id": "PYMNTS Data::CBMisgFBVV95cUxQUVVleDNKS2Z0WHVUMUQxamZ0Y05kbW82aEFBWEJFZjZmOXhlOWpLWWN0OXVscElORTBxa2Nma2JHNWtHeTdYWDExbTFMM0hJeERMSHBaZDVVY2g0NDlGaFR3cTViT0ZQX1pfS3pOaFlFaHZlYmtUdkF6SWtKSmVsbUxQbTZXSDdOWVZScGFZOG55aVUyYmxlZFhkb0ZpcW93SURveVUyYjE5WjVabHRmOGF3",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-11T19:26:28.000Z",
-  "title": "Careful Consumers Want Control. SoFi Tech Solutions Says Banks Should Hand It Over",
+  "publishedAt": "2026-11-12T19:39:49.000Z",
+  "title": "Google and Samsung Target Holiday Shoppers With $395 AI Smart Glasses",
   "snippet": ""
  },
  {
-  "id": "Reuters::CBMixgFBVV95cUxPWWNsbHZIOFpSN0NER012RTNDdE9jRzFkWXRJZVY1X2hkVTlnUHhDcFNrVDU0Ul9yVXlvcHpfblFEYkYyNW9jRXA2OHNldXhuaEhQQTZYX3V0R1R5dFdVNkRNZFNrVWtWdHI3N0FrYVFFNEx1MlhBYkFJY1c0MEQ3Ym1RRzF0YWY2OWZWZmR0RlFYeU5YOWhlR0UycW9jODJDMjZob2VIR0JNcHd5dkFKSzZYYUpSYUJkcEtwMlRXZ3pPcHN2dWc",
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364098",
+  "source": "Digital Commerce 360",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-12T19:32:47.000Z",
+  "title": "J. Crew turns to Claude to create new Style Advisor tool",
+  "snippet": "J. Crew launched a new styling assistant on its website, bringing Anthropic’s Claude to provide the artificial intelligence (AI) powering the experience. The tool, called Style Advisor, is designed to give online…"
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/bnpl-bolsters-holiday-budgets/874425/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-12T17:36:02.000Z",
+  "title": "BNPL bolsters holiday budgets",
+  "snippet": "Younger shoppers favor buy now, pay later more than older generations, but BNPL companies draw consumers across income brackets, a survey finds."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/michaels-holiday-black-friday-cyber-monday/874500/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-12T17:12:00.000Z",
+  "title": "Michaels encourages a screen-free holiday season",
+  "snippet": "The retailer is promoting hands-on creativity with its “Countdown to Craftsmas” Advent calendar, alongside early Black Friday deals."
+ },
+ {
+  "id": "Retail TouchPoints::CBMivwFBVV95cUxOQjYzUUJwbUI0QmN6V0Y1VnhjaTBLU1lqM19YM0JyM290UDhfRC04b2Z4OFhkWWtVeUM0bWs2TEFJd29XTm9DZXhZVmVrQS1DVXlQd0VyS3poUzExcjRuSC1jdTctQTNRWmFMSmZMLVhxdlVTeGppLWVYRWloaWRwNm1pT011TUxxMm1CVkRzcDV6M09qd09wT2tyNWFaVmo4dUlpck1FdkFXWGV6WElYRmFfM05uWVl0TGszZGM0UQ",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-12T17:02:41.000Z",
+  "title": "Movado, Bynder Webinar Focuses on Where Peak Season Content Operations Stall",
+  "snippet": ""
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/walmart-more-than-doubles-planned-drone-delivery-sites-zipline/874378/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-12T16:46:00.000Z",
+  "title": "Walmart more than doubles planned drone delivery sites",
+  "snippet": "An expansion with drone operator Zipline will allow the retailer to make rapid air delivery available to customers nationwide over the next several years."
+ },
+ {
+  "id": "Global Marketplaces::CBMiygFBVV95cUxOWFBaanFxZDRLWkM3UWNHMHYwX181VlJINXBhMkFuZC01bzZScmgxUFdiZFV0V00tRlJiQk1LbFNfbE83TXFQUzBvZ1lqYmN4ZjBZRHpxQk5GUzc5bGhqM2tzdWdvR1RSVmd3eGQxLWR5TEZMcTRJVExDYkMtSUlDYWNMMkJ2WXlZa29EcmJ5QVo4STFsbTNvZTFDRUZGWGRWMjdLeUQySEhuLTFFYm1KTnJiLWotRDJYTUZ4Wl9GQ1dldjJkcldsZnN3",
+  "source": "Global Marketplaces",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-12T16:41:35.000Z",
+  "title": "JD.com seeks to lead Europe's online electronics retail with Ceconomy deal",
+  "snippet": ""
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/tiktok-shop-plus-paid-membership/874451/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-12T16:27:00.000Z",
+  "title": "TikTok Shop pilots paid membership",
+  "snippet": "The company recently rolled out a paid tier to 1 million shoppers. With membership, consumers get free shipping and exclusive discounts."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/calvin-klein-tommy-hilfiger-owner-to-cut-4-of-workforce/874492/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-12T16:16:00.000Z",
+  "title": "Calvin Klein, Tommy Hilfiger owner to cut 4% of workforce",
+  "snippet": "PVH Corp.'s enterprisewide initiative aims to improve productivity and long-term profitability, with a goal of achieving $100 million in cost savings during fiscal 2027."
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76540",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-12T15:09:00.000Z",
+  "title": "Poundland secures extra time to pursue rescue deal – but MP warns that jobs are still in jeopardy",
+  "snippet": "Poundland has secured another 10 days to try and find a rescue deal before the chain collapses into administration. The post Poundland secures extra time to pursue rescue deal – but MP warns that jobs are still in…"
+ },
+ {
+  "id": "Circana::CBMixwFBVV95cUxNamlWVkYtTEdwT0hsbVhGNVdCUlBBWlhCVkNYbFBtZXBqaXdRTEhJVHlZclMwSzJDRXk3YXpMdlE2Q25FTFV1M05fREdyLXBDQnl0S05aSy1SNTdUUGI4ZTBwalB6VUZiRFBSQ1BDNGg0UGxnTkJ2UmxiQ3VwczlIRlBNQ0dHNEJTVGxrYUt2VHB1bXFzeGxMVkd3dy1WV3M2VmhTOEV0VVhnbmEwTEdLakNlbGQ2UFczRDlhVEZVblp4ZGRJY1hN",
+  "source": "Circana",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-12T15:03:09.000Z",
+  "title": "Beauty Industry Maintains Momentum as U.S. Consumers Balance Self-Indulgence and Value Seeking Ahead of the Holiday Season",
+  "snippet": ""
+ },
+ {
+  "id": "Marketplace Pulse::http://www.marketplacepulse.com/articles/amazon-has-put-four-in-ten-sellers-on-haul",
+  "source": "Marketplace Pulse",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-12T15:00:00.000Z",
+  "title": "Amazon Has Put Four in Ten Sellers on Haul",
+  "snippet": "Amazon Haul products now appear in Amazon’s main search results, removing the last barrier between the low-price store and the rest of Amazon. According to Marketplace Pulse data, nearly 184,000 sellers now have…"
+ },
+ {
+  "id": "Dell Blog::https://www.dell.com/en-us/blog/dell-pro-essential-a-new-design-built-for-small-business",
+  "source": "Dell Blog",
+  "sourceType": "Competitor Newsroom",
+  "publishedAt": "2026-11-12T15:00:00.000Z",
+  "title": "Dell Pro Essential: A new design built for small business",
+  "snippet": ""
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=167046",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-12T14:01:50.000Z",
+  "title": "Yeasound Introduces Bluetooth-Enabled OTC CIC Hearing Aid",
+  "snippet": "The Robin CIC60 combines a discreet in-ear design, Bluetooth streaming and physical controls on its charging case"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=167058",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-12T14:01:32.000Z",
+  "title": "I’ve Seen Apple’s HomeView Smart Display In Action, And It Could Make The Echo Show Irrelevant",
+  "snippet": "This is the smart display I’ve been waiting for – and Amazon should be worried"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=167032",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-12T14:00:59.000Z",
+  "title": "Review: DREO Air Purifier 530S",
+  "snippet": "Clean air has never looked this cool"
+ },
+ {
+  "id": "Retail TouchPoints::CBMixAFBVV95cUxPSGx3V2V1V2NiNjItN0h1cVBpd3F6d0NpTGVpM0ROblgyZ2dCUkRNZlA3a0NwVXh6eGliQnZOa214dEJKSnU1VXFXQTJDVUtiZ2c4RnJuanZWQzVnV2dHYjFrUm5qVlFNY1JFQkdiWUJnV0phaWxLaWxqU0M2d0U4R0VhQ1Zhbi1sMmc3NW5IbUZLRmp4VTM2VGFXY0pIVXFfbl9paXE2UmNSTzZyR1Jnc2J6dWM2WFgwQ2lRc0Rnblh0TTZy",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-12T12:01:39.000Z",
+  "title": "Your Inventory Data May Cost Brands The Holiday’s Best Customers",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS Data::CBMi8wFBVV95cUxQX1lVMlRoR1dod0trQ3ZfOFdxQ1JWSHphU2tQcThKUmZDellFazJJYUdPZFVkcWwybzJvS19wbzJrc0xiU2c2T3Bzc1ZsNjEyUFBuaUl4ZlFaOEppWkhnYVR5SzVDSDZpd29Dby10VDlRbndjbFhBbWZnVEVHeW9nc3drUnZENXljQWd0bWQzYm5NdllheVVBNl9yUHJYb3R1WHkxbWlSeDhRWm4yaGFFMXluR3hHUkhtbjlPQ1d0ZkpuSVI0ZEZXMTNrRm5TQ2lIRm1HQlVHMWNLaDJXZEJFbWNnSUx4N05FM2dOaWczaXZVRDA",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-12T11:06:40.000Z",
+  "title": "Clip: Careful Consumers Want Control. SoFi Tech Solutions Says Banks Should Hand It Over",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS Data::CBMi2AFBVV95cUxOa0xheHdjcDRONGMtTEUtVTl1aGlvS1JaaHo5YnNmWkJHZFBvSm9qUkJZSjVtSFBSOU9URUV3cDhudWFfbmNCSEhVdVRTMDM3NzVINlJhLTFrdWJDNU9UNnN6TWlrYldLdGlJRFdsLTkxMUx3QzM0S3pUX2kxTDI5aDh0ZzRhdXdKN2JEQmFYaWNnUGx3TWNwVDJrWXByU0Uzdmh6MEotTzRTMzJPTGZmRjRYQ3dnOHpSUWxMeWZSUkVvSzZRU0x2c2tiQVMwWWhyclJwOENicjI",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-11T23:33:24.000Z",
+  "title": "AI Agents Bring Shoppers, but Merchants Must Close the Sale",
+  "snippet": ""
+ },
+ {
+  "id": "Reuters::CBMipAFBVV95cUxPNkUxMDd3Q0lDTkozUTF6eENfNXB2WmdXZUs5MElhZHVvZDNuMnJ0OV9Tc1RnVXluRWR2MWpHUjU0dFNTTDN2Rm1nNS1EMTdiRVQwNzcyc0lEUmNJQzBWWnBiaHRZS1VuN0Z2SUw1VTkwVUlyXzdsUFRIREZpeWxLT0RNU3NVVkNXeGY5U2hOd2o4S18xV0o1ejB0M2o4anRfejdUYg",
   "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-10T22:04:00.000Z",
-  "title": "Poland's Orlen ends long-term QatarEnergy LNG contract over delivery failure",
+  "publishedAt": "2026-11-11T06:16:00.000Z",
+  "title": "South Africa's Woolworths flags weak consumer spending",
+  "snippet": ""
+ },
+ {
+  "id": "Global Marketplaces::CBMivAFBVV95cUxQcWlVRHBuVk00YUFUa1ZfRHQ0ZGN2ekwxa2IyYU5pYjhVdjVfTnF1ekU3NjU5QlRYUUV0LUU2OFRvWC0tQjVOQ2t0N0xqMlg1UmxsX29aRHVNdmdXNlFSdUF2cXVEVUJIOUZGUmc2YXdlSnhhVzRuMGRjcnQ5dVVYQm1oQ29DaXhRdEN4NkVhU3hWSk5mTzZ1dEZtNjlHWWdJNWlnYTZNNTFFYkZ0UG9GZFBuWDdQYkpORlZ3Wg",
+  "source": "Global Marketplaces",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-10T11:36:05.000Z",
+  "title": "UK aviation regulator clears Amazon for expanded drone delivery",
+  "snippet": ""
+ },
+ {
+  "id": "Dell Blog::https://www.dell.com/en-us/blog/jonathan-de-almeida-s-journey-from-dreaming-of-a-dell-laptop-to-shaping-the-future-of-responsible-ai",
+  "source": "Dell Blog",
+  "sourceType": "Competitor Newsroom",
+  "publishedAt": "2026-11-09T14:00:00.000Z",
+  "title": "Jonathan De Almeida’s Journey: From Dreaming of a Dell Laptop to Shaping the Future of Responsible AI",
   "snippet": ""
  }
 ]

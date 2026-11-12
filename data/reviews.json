@@ -1,116 +1,4 @@
 {
- "HP Newsroom::CBMikAFBVV95cUxNMXhUTEZwVDZaMWlfNXFoM1BoN1ZzQzVHTGo0NjlUZjlWUm9mbXpxY1plbmxCZEpjbDA4eXdXWVJ0NWpNM1ZyNHZ4bnlVYlVRR2M3bDlfVS1TUE93OHJaYTZubHlUMGQwaE1NS3Q5VU41Z1FIOXZHZ0hGUzJlRFI0bzRMVnhid2Fyc1QzWmoteUw": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "HP launches Experience AI, an agentic web platform that adapts to customer intent",
-  "short_headline": "HP's agentic website adapts to shopper intent",
-  "takeaway": "A direct competitor is rebuilding its web store around AI-read intent; benchmark it against our own discovery and checkout.",
-  "importance": 5,
-  "content_type": "announcement",
-  "competitors": [
-   "HP"
-  ],
-  "publishedAt": "2026-10-08T14:45:22.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/walmart-one-hour-express-store-pickup-asl-service-holiday/832464/": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Walmart rolls out 1-hour express pickup nationwide ahead of the holidays",
-  "short_headline": "Walmart adds 1-hour pickup for the holidays",
-  "takeaway": "Holiday delivery-speed expectations rise again; brand sites compete with this on every gift purchase.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-08T14:29:00.000Z"
- },
- "InternetRetailing::https://internetretailing.net/?p=76210": {
-  "keep": false,
-  "publishedAt": "2026-10-08T14:22:47.000Z"
- },
- "CRN::https://www.crn.com/news/components-peripherals/2026/analysis-intel-ceo-s-hiring-strategy-reflects-big-bet-on-asics": {
-  "keep": false,
-  "publishedAt": "2026-10-08T14:00:00.000Z"
- },
- "InternetRetailing::https://internetretailing.net/?p=76207": {
-  "keep": false,
-  "publishedAt": "2026-10-08T13:59:34.000Z"
- },
- "Reuters::CBMizgFBVV95cUxOUE1oUFB5RzAyOTdPMGZlUEphcVlqMk01cnBHQzBTM0swSmFUMWNHVWhXdjgtczZqVndDVXF1YjZ2anlhRmdCVzBIRzJfQkRQUFBtUFdKOXlUdDJHQ09tT0toWUozR2N4dXNUMDB6R1NRWjZqUWdiZkdwdjd6dEN2REVmelczUjAxTWptM1NMZTUyd3dScVFGa2lnaXhmMnI0S3FIdW5YWTdDTWp2YkhRNlY3eEFjelhGajRSNGg1bXN1UFdkSjI5VUk5dDdvZw": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Amazon launches its first Android tablets at higher prices, with Alexa built in",
-  "short_headline": "Amazon's first Android tablets cost more",
-  "takeaway": "Amazon is both a key marketplace for PC brands and a tablet rival; watch how it ranks and promotes its own tablets.",
-  "importance": 4,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-08T13:03:22.000Z"
- },
- "TWICE::https://www.twice.com/?p=166467": {
-  "keep": false,
-  "publishedAt": "2026-10-08T13:01:47.000Z"
- },
- "TWICE::https://www.twice.com/?p=166471": {
-  "keep": false,
-  "publishedAt": "2026-10-08T13:01:19.000Z"
- },
- "TWICE::https://www.twice.com/?p=166481": {
-  "keep": false,
-  "publishedAt": "2026-10-08T13:00:04.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/thredup-ceo-ai-costs/831921/": {
-  "keep": false,
-  "publishedAt": "2026-10-08T13:00:00.000Z"
- },
- "Inc42::https://inc42.com/?p=575254": {
-  "keep": false,
-  "publishedAt": "2026-10-08T12:44:56.000Z"
- },
- "Retail TouchPoints::CBMitAFBVV95cUxPRk1qbENmZDFXMUpGWXpOZGNJNkdYVVEtdGNqZ0RLc0pMOVhxUF9wU3RiSjdCdnJEWjktZDZfcm5LVnlCSi1sSHpZLUdhdkc1N18wZktDZU9QN2hsTjNfZXhHbF9icjhlNjRhZXRqTkQ3Uld6cGw0VjFLYVJ6SG5mSE9DN3F0MTNhLWZrcVZLSFhvNVdHcmVzZkp0aUJ2TzZJcTNDUlc2NUMxbTdwUEl4dE5iV1o": {
-  "keep": false,
-  "publishedAt": "2026-10-08T12:02:57.000Z"
- },
- "InternetRetailing::https://internetretailing.net/?p=76203": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "Meta and OpenAI look to add payments inside their AI agents; experts say rails lag",
-  "short_headline": "Meta, OpenAI eye payments inside AI agents",
-  "takeaway": "If agents can pay natively, our store needs product data and checkout that agents can actually complete.",
-  "importance": 3,
-  "content_type": "analysis",
-  "competitors": [],
-  "publishedAt": "2026-10-08T11:58:36.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/lululemon-heidi-oneill-executive-leadership-team/832505/": {
-  "keep": false,
-  "publishedAt": "2026-10-08T15:52:00.000Z"
- },
- "PYMNTS Data::CBMimgFBVV95cUxNXzRZcFlCR3lRU1dlek8xMTBpb0ZQbElsT3JHckk2LXBDVHNES3VwTV9ZNFB1Y3YySmtkV2pQMFE2VTFtNmw4U2tNQXpjMDNzTmhSX3VMSjZiYjlRNmdjdklhclBQc0Z6dXhRaVd3aXRIcTdudXZXVFBBRWMtMzZHOXdHNVNWem96VjJTbnhQVi1xSlgtRVNqX3B3": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "Consumers expect to spend more as inflation anxiety rises",
-  "short_headline": "Shoppers expect to spend more as inflation bites",
-  "takeaway": "Rising price expectations favor clear value messaging and financing options on big-ticket tech.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-08T15:45:11.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/ai-walmart-sparky-CX-investment/832327/": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "Walmart says AI savings, led by Sparky, are funding customer-experience upgrades",
-  "short_headline": "Walmart reinvests Sparky AI savings into CX",
-  "takeaway": "A marketplace rival is turning AI efficiency into service gains; our CX investment case should count AI savings too.",
-  "importance": 4,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-08T15:28:00.000Z"
- },
- "NFIB & QuickBooks Small Business::CBMiuAFBVV95cUxQeDgxLVk0MWl3d0NibEE2SWRpY1o2TVhsc3dweWpXRVJZV043XzVXWlpwbkVwTEhBRjRIY2J0aDJ0NWFMTEFOS0E4VFJENVB4M3FfSUpfbk15dV9SX1dreVV2UC1IanhVR1NLcDRtNGJnSE9sUUJLZ2FURUR6elJfUFVVcThyUVdDMUk0YVplZ3JLVEJzZDQwTlV4OXNLMDJtSHEwdmVlVVVhMUZjMXBtSlQwcDZkVS1M": {
-  "keep": false,
-  "publishedAt": "2026-10-08T13:58:53.000Z"
- },
  "PYMNTS Data::CBMihgFBVV95cUxONUU5RHVXZnpCbmhBeUQ0TjBYUHBiUlhkVG5lSlg2Q0ZoOVplc3JURy11ck5RbTkxcHhaSk9rVUh6SDJya3l5NXRwQkJJRkNJTTl4MGhjNkY0bVhwUXlwV1Vpd1ZRR0lxY3REaDZ6ZVBUdGo0QVVYV2RvOXVTb1ZBNEJLaUQ2UQ": {
   "keep": false,
   "publishedAt": "2026-10-08T22:51:35.000Z"
@@ -147,45 +35,6 @@
   "content_type": "data",
   "competitors": [],
   "publishedAt": "2026-10-08T20:46:08.000Z"
- },
- "PYMNTS Data::CBMipAFBVV95cUxQcldKVExabGVtdWZSZThnelpIUlB6eDJXUmlFdWNJaWJONmE2U3gtY040RElfZkNDVkdNNmlWcUJyaGZicDdLS2hmR0ZWbGZ6OC1qMWFSdVRqVElYZmVoRkZ1a3JjYWxnMWdJMUVOdUVoajlEVWpYOEF1TEIxY2hxTzJQcm8wdW5nTjQ1MTE2WTZ4VlRGbm1WdkZmNmJkY29Fc2NYNw": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Walmart defends its pricing as Amazon kicks off holiday sales",
-  "short_headline": "Walmart defends pricing as Amazon starts holiday sales",
-  "takeaway": "Price competition between Walmart and Amazon is heating up early; we should review pricing on electronics at both.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-08T18:12:15.000Z"
- },
- "Modern Retail::https://www.modernretail.co/?p=172878": {
-  "keep": false,
-  "publishedAt": "2026-10-08T17:30:00.000Z"
- },
- "CRN::https://www.crn.com/news/cloud/2026/aws-marketplace-lowers-partner-fees-in-game-changer-channel-move": {
-  "keep": false,
-  "publishedAt": "2026-10-08T17:20:00.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/levis-q3-wholesale-tariff-refunds-deliver/832468/": {
-  "keep": false,
-  "publishedAt": "2026-10-08T16:23:00.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/arcteryx-concept-store-climbing-los-angeles/832474/": {
-  "keep": false,
-  "publishedAt": "2026-10-08T16:14:00.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/amazon-retail-stores-division-layoffs/832501/": {
-  "keep": false,
-  "publishedAt": "2026-10-08T16:08:00.000Z"
- },
- "Mastercard::CBMilwJBVV95cUxPeFlDWjNoNjZnMW1PNVpMZVZvSTNQUU05MXRtSDdZM3RTLVJhSVV6aUFJWlZrMWc0NHIxZ0FFQ1ZZd3pRX0E1N1F1VzBlMnNIdTM3aE9aX2JUVVZEdmZDVENjSDlvOFgwSzdoNF9UNE5CZVdpLTc2ZTM2RnprYnh0NThweGpuRE1QZjdhbHhwVTZnTU9PY0F2STd4a0s1WlNrOVNzRlhYOFZUTzFHLVhUWV93Sk1pSWVZczF5cVMwTFl0SXEySUZtYUJWOG5Ca3FMWk13c1N0X243VWlUWXV5RktGVWNucEg5ZnpGT2hYLVdyWTlsbWNjYW8zdFRmakR4b0VESUprT1pxanBxOTVuMlk4LUdxOFE": {
-  "keep": false,
-  "publishedAt": "2026-10-08T15:15:33.000Z"
- },
- "NIQ::CBMi0wFBVV95cUxNVmcxZFJxaURic0o0ZkhzcHhPekxlUzFVdGpXMHo5Q1BzdXAwUFFMVVpJcjVYNDF6SlJITVBJeUJiS0tUYmd3NkZsOTViR3ZPWVZrUjUxWG9KemRnZmprUktBeEJLUXFLZVRUOXk1LUJIeDEwZkV2bHotaHAtNU5JOWhoQ3pJZDZTaG0wTFVueV9jZGo1NFlKQ0pObndpNlNUS2N0WGpYOFNaTV9rNk04aEVvVHA0bzVFWVYtM0YyejY5OHcxUUsyNzVzeTlOOVRfbV84": {
-  "keep": false,
-  "publishedAt": "2026-10-08T13:03:00.000Z"
  },
  "Modern Retail::https://www.modernretail.co/?p=172820": {
   "keep": true,
@@ -231,21 +80,6 @@
   "content_type": "announcement",
   "competitors": [],
   "publishedAt": "2026-10-08T23:05:00.000Z"
- },
- "PYMNTS Data::CBMiqAFBVV95cUxPSy1pOWFqSFFPa3Iza19VUXZXT0hHY0xXcHdyTVdvaTNsSGxYZ0hzNkhXMUpqYmFQcGpxYld6cF8xNkpsXzlUcU5mLXlUZWFVREJoUThYeU5tNDFkMkJud2xSREJsR2l2Ri1xX0VibjN2bUozemw5eUxPcEJsMF9xeGhXZWpidmRfcEpDU3VfVEx5NzhnTlM1YW40dlRKTXdGX0tXUTlhMVI": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "Amazon unveils line of tablets powered by Alexa+",
-  "short_headline": "Amazon launches Alexa+ tablet line",
-  "takeaway": "Alexa+ on Amazon tablets could pull shopping discovery into a new device category that competes with our tablets.",
-  "importance": 3,
-  "content_type": "announcement",
-  "competitors": [],
-  "publishedAt": "2026-10-08T18:41:37.000Z"
- },
- "IDC::CBMid0FVX3lxTE9fSEZQR3RqemF4bkw2MVFzbk8zVDlRdDBZVUVYaGNLQWNPT1JZaWhXbW9hQWVXRmx4Y3IwTXZoSjE0d01pSzdLay1OcC1PYmZqeTA1U0RqM1NLTUozT05FQ1pFOWlFQmxHMUhBeS1MY1JMUkN4ZzVz": {
-  "keep": false,
-  "publishedAt": "2026-10-08T18:39:35.000Z"
  },
  "TWICE::https://www.twice.com/?p=166509": {
   "keep": false,
@@ -297,14 +131,6 @@
  "ETRetail::https://retail.economictimes.indiatimes.com/news/health-and-beauty/plush-targets-nearly-2x-revenue-scales-distribution-and-local-production/134807084": {
   "keep": false,
   "publishedAt": "2026-10-09T04:23:01.000Z"
- },
- "Dell Blog::https://www.dell.com/blog/post-quantum-ready-or-not-why-your-next-pc-refresh-is-a-cryptography-decision": {
-  "keep": false,
-  "publishedAt": "2026-10-08T17:00:00.000Z"
- },
- "Dell Blog::https://www.dell.com/blog/from-xps-to-runway-reimagining-mclaren-through-fashion": {
-  "keep": false,
-  "publishedAt": "2026-10-08T13:00:00.000Z"
  },
  "Modern Retail::https://www.modernretail.co/?p=173055": {
   "keep": true,
@@ -975,10 +801,6 @@
  "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/has-government-imposed-5-gst-on-e-commerce-delivery-services-ahead-of-diwali-income-tax-dept-says-this/134909178": {
   "keep": false,
   "publishedAt": "2026-10-13T05:32:43.000Z"
- },
- "NIQ::CBMi0wFBVV95cUxOcElzY0g4M09oM0NXY3FTMWtPUnMwRW9hV1ZzZFhXYVB0aEM5aVdoRDZ4eDNhcl9pOHBERUJxeVNTUUZIcmYwMmZWaE0xVmRDZlhUZmlKcnNiekxTSHFxekpyYlpRbWVmMjNqaVYyMVNiWlppSzMyZUJvLUpsN3pLX0xMVWZUMWxUa2o4eWk4TzdFb2s3eG9DRVRwZFp3bnh2RFV2eW5jcUgwaTdPSnJuUUgyYzJxMXpGaWxlU3NZREtBU200Qnl0ZkJiNEhEZUhUWEFB": {
-  "keep": false,
-  "publishedAt": "2026-10-08T13:20:47.000Z"
  },
  "PYMNTS Data::CBMiuwFBVV95cUxQaFIteVI0cEZ5TnZLNFJEMEx3WkJNUF94NkZoNmRLQU1NUkJQd0pWRWxwRklYOVpyUWZneUFPSkVqaWxmZXMxY096clM3ZE9FTjNFdlBpX3gxV0lCRGp1MzlFdElZeG5LazR5U096cGp2ZjdjT25fX3lxWk85N05NUkYyaUFOM3dXRHljcVNpNnJncG5MZ3EyYmlBSlR4SFNWSU1FZXhzYnU5SDBfWk1sZ0Q2enhSQ0NaaGFV": {
   "keep": true,
