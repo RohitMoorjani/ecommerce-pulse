@@ -1,50 +1,202 @@
 [
  {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364069",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-11T22:14:11.000Z",
-  "title": "Lowe’s partners with Bilt to expand loyalty rewards, AI-powered commerce",
-  "snippet": "Lowe’s Companies Inc. has partnered with housing rewards platform Bilt to expand its loyalty reach. The partnership lets Bilt members earn points on Lowe’s purchases and use those rewards toward a home maintenance…"
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261112PD243/quanta-2027-capex-ai-server-revenue.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-12T08:56:09.000Z",
+  "title": "Quanta shifts 2027 capex toward power, the new battleground for AI server ODMs",
+  "snippet": "Quanta Computer posted strong revenue and earnings in the third quarter of 2026 and expects operations to continue accelerating in the fourth quarter, driven by AI servers. The company also forecasts another growth year…"
  },
  {
-  "id": "Retail TouchPoints::CBMilgFBVV95cUxPTF8ySFdrelREZFpHQmlWWEtDZ0RpTS02MWlmQnl3RkJxbUtheXZ2OFVvdWZwX2ZRUHVJQ1N1NC12WlR3aG1rOUN0UVpfSEFmSzA0a24wUW5lNWVWR2ZxN3ZvWEpZMGd6RWthVHlTZjJtNnU0eElKd0JaQTBLTHMweGVZUzNSWG9JV2RuYnExcS0tVlhvQnc",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-11T20:02:09.000Z",
-  "title": "OptimizeGEO Unveils Integrated Demand Engine",
+  "id": "Gartner::CBMisgJBVV95cUxQb1dqLVVjajdUOThGNUtWdWxPY0FlMy1CaDAteTJyZUgtLVZDRmZoQVZULVVYeUJiNE4wM1M2NkhUUF9qSkU1LXA4QzhQTS1NQldhWXRXczYwOU9TWVI1azU5eDVmdTZYbHVJMnVEYXZDV2VvNkxuNUIxOUpUT2o1QjR4bV9BQVJjaS1CQ0c3aHQydFJLNXM1Sm5VUFFaYjRzSy1uVVBnb01XNnVZRXpoM09NUDJ6dHU0Y1ZWdm04WEtYd2RVTkdDZDhXemw3MjJ4aE90bUNPYjdkMEQ5X0l1ckR1azQySDBDOFVjSTdFampRXzA1d2hlZ2lpNy1NMEltTHdBWWhVSzkxdG9Zb2ZjR1BHZWJqZ3RpTm9aMTRaN0hpcVRmZkFHaUtxT2EwVGhRTlE",
+  "source": "Gartner",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-12T08:32:43.000Z",
+  "title": "Gartner Forecasts AI Infrastructure Spending to Represent 59% of Total Global AI Spending in 2027",
   "snippet": ""
  },
  {
-  "id": "NIQ::CBMitwFBVV95cUxOVkVpRXdZWXE1ZWo4eWE4cldkZnk5RDNvWml5SmtLM1ZwN1pkLXlHM0pVeTBqcFYxbGZSLTZQNkRLdnpOVzB6ZlFTdlVrUGdHSkw5dG5ONjEwYmRhOF9RbFNtRWVZREszV3FjUVNyNGVPTUpIMjJMZFlCRHUwVjUtWjh3X0tNcGhiYWRBaVl5Q3VZNG4yeGJvMjdKUk5JT3lHaERRLXJiRkFYTmtyLUNxMkRhMFdKUVU",
-  "source": "NIQ",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-11T18:12:12.000Z",
-  "title": "Podcast | Seen. Chosen. Proven: How Brands Win the Agentic Commerce Decision",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261112VL213/fab-2026-expansion-production-iphone.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-12T07:48:50.000Z",
+  "title": "India's Tata Electronics reportedly seeks up to US$2 billion in loans",
+  "snippet": "Tata Electronics is lining up fresh debt at a moment when nearly every leg of its expansion has run into friction: a flagship chip fab whose production start has moved from the end of 2026 to mid-2028 and will launch on…"
+ },
+ {
+  "id": "Counterpoint Research::CBMiiAFBVV95cUxQZXpXT0R3WXV2ejlJVTJMVnlua2VLbExHOE9BaHJjNU5jcHptRGNSczhITFp0aDMtamFfbWttTkVOeW1yMlVKWHd3ODBNeVVRODFTcW5ELXB1X29HTWpqMGFKYll0NU1UZG9hUi1BRzZsY3ZUdTVsUlRHVXdwSWdDNDRSZlF5TG1j",
+  "source": "Counterpoint Research",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-12T07:05:18.000Z",
+  "title": "[Survey]: Amid Rising Smartphone Prices, Processor and Camera Remain the Top Two Parameters that Consumers Refuse to Compromise",
   "snippet": ""
  },
  {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364059",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-11T17:30:11.000Z",
-  "title": "eBay adds visual identification to listing generation options",
-  "snippet": "Ebay has been building out features for its seller-focused “magical listing tool” for years, and the latest options to debut include a workflow that takes a user directly from their own photo to an artificial…"
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261112PD219/samsung-demand-openai-sam-altman-ceo.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-12T06:45:03.000Z",
+  "title": "Sam Altman warns Samsung of short-term AI demand volatility",
+  "snippet": "OpenAI CEO Sam Altman warned Samsung Electronics executives that AI memory demand could fluctuate in the short term, with the market potentially counting the same demand more than once. He nevertheless expects long-term…"
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/dicks-sporting-goods-foot-locker-signs-caitlin-clark/874141/",
-  "source": "Retail Dive",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261112PD227/taiwan-expansion-electronics-manufacturing-industrial.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-12T06:37:05.000Z",
+  "title": "Taiwan's electronics industry targets four overseas tech parks under TEEMA's global expansion plan",
+  "snippet": "The Taiwan Electrical and Electronic Manufacturers' Association (TEEMA) released its first industry white paper in 78 years on November 11, proposing a \"Taiwan+N\" global expansion strategy centred on overseas technology…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261112PD230/china-ai-open-source-data-demand-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-12T06:33:12.000Z",
+  "title": "Chinese models capture 89% of US corporate spending in open-source AI",
+  "snippet": "Chinese AI models have taken a dominant position as demand for open-source models grows among US businesses. According to the \"2026: The State of Enterprise AI\" report released in early November by US venture capital…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD271/toyota-vehicle-usa-sales-2027.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-12T06:15:08.000Z",
+  "title": "Toyota to assemble and sell Japanese light-duty trucks in the US, with sales starting in 2H27",
+  "snippet": "Japanese automaker Toyota has announced plans to revive the Scion brand, which was discontinued nearly a decade ago, with the launch of its first model, the KEI-01, in the second half of 2027. The light-duty truck (kei…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261112PD211/intel-china-renewable-energy-chipmakers-ai-inference-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-12T05:58:38.000Z",
+  "title": "Intel China wants to turn untapped renewable energy into AI tokens with computing pods slated for 1H27",
+  "snippet": "As demand for AI computing expands across industries and applications, chipmakers are seeking opportunities beyond conventional data centers, extending into enterprise deployments and personal devices. At the ninth…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261112VL209/samsung-hbm-packaging-2028-plant.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-12T05:57:08.000Z",
+  "title": "Samsung moves up HBM packaging plant opening to June 2028",
+  "snippet": "Samsung Electronics said on November 12 it had moved up the planned opening of its new high-bandwidth memory (HBM) packaging plant in South Korea by one year to June 2028 to meet rising demand for AI server memory."
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=173745",
+  "source": "Modern Retail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-11T17:20:00.000Z",
-  "title": "Dick’s Sporting Goods signs Caitlin Clark",
-  "snippet": "The exclusive deal includes both Dick’s and Foot Locker, and is the first time either company has signed an athlete as a brand partner."
+  "publishedAt": "2026-11-12T05:00:00.000Z",
+  "title": "Modern Retail+ Research 2026 Creator Marketing Index: A brand guide to effective social media campaigns",
+  "snippet": "To measure the impact creator content has on brand campaigns, Modern Retail+ Research analyzed the engagement levels on leading creators’ social media campaigns from January 2026 to September 2026."
  },
  {
-  "id": "PYMNTS Data::CBMisgFBVV95cUxPTFhxci1pNVJPSXJTR2I5V1YyN0RmU256emd6NVh3bWRFcG9mX01hR3ZON3Vpd1J3ZFNoVHBqQnJldV95MGF1bmN6YTVSMmoxdUNxZVdTYTk2c2x0dmhCNFd0TzRETVEzbnBkaF94QlZSc3pwTXd5amt0NUVOUkZtS3JESHV1bWN0UmV0VUN3YlFGVjN2TE1CVFR5clhyMnU1WXlQR01IVTlhUkRwZmJSdWdn",
+  "id": "Modern Retail::https://www.modernretail.co/?p=175182",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-12T05:00:00.000Z",
+  "title": "Hims & Hers expands benefits program for GLP-1 support with brands like Grüns and Tonal",
+  "snippet": "This month Hims & Hers adds Tonal, Grüns, Viome and Medjet perks to benefits for GLP-1 subscribers seeking fitness and nutrition support."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261112PD214/2026-panel-supply-chain-power-semiconductors-data.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-12T04:24:37.000Z",
+  "title": "AI bottleneck shifts from compute to power; European supply chain sees power semiconductors as next shortage",
+  "snippet": "At the opening panel of electronica 2026 in Munich on November 10, industry leaders agreed that the primary bottleneck in artificial intelligence is shifting from computing power to energy delivery. Panelists warned…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/amul-mother-dairy-milk-prices-to-go-up-by-rs-2-4-per-litre-from-today/135754601",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-12T03:53:44.000Z",
+  "title": "Amul, Mother Dairy milk prices to go up by Rs 2-4 per litre from today",
+  "snippet": "Consumers will have to pay more for milk from Thursday as leading dairy brands Amul and Mother Dairy announced a price increase of Rs 2-4 per litre across their liquid milk variants, citing a rise in input and…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261112VL206/apple-samsung-foldable-2028-utg.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-12T03:34:52.000Z",
+  "title": "Apple, Samsung reportedly developing new foldable glass for 2028",
+  "snippet": "Apple and Samsung Electronics are working with suppliers on foldable phone glass that is thinner at the hinge and thicker elsewhere, a design they are considering for 2028 models, ZDNet Korea reported, citing industry…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261111VL222/revenue-taiwan-2025-growth-infrastructure.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-12T03:01:10.000Z",
+  "title": "AI server tracker: ODM/EMS giants scale up, but optical suppliers show who captures the next wave",
+  "snippet": "Taiwan's AI infrastructure expansion is producing different growth patterns across system manufacturers and optical suppliers. All six original design manufacturers and electronics manufacturing services providers…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD262/teco-infrastructure-data-center-cloud-cooling.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-12T02:51:38.000Z",
+  "title": "TECO pivots to AI infrastructure services with Japan project",
+  "snippet": "TECO Electric & Machinery is expanding into global AI computing infrastructure, announcing on the November 11 that it will partner with AI cloud service provider GMI Cloud and KSDI to build an modular AI data center in…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261112VL204/samsung-amd-testing-manufacturing-pcie.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-12T02:32:25.000Z",
+  "title": "Samsung, AMD team up to upgrade chip testing",
+  "snippet": "Samsung Electronics and AMD are teaming up to upgrade the Korean chipmaker's semiconductor manufacturing test infrastructure, combining AMD's new EPYC Embedded 9006 processors with Samsung memory and storage…"
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76519",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-12T02:22:00.000Z",
+  "title": "Morrisons Media Group expands retail media network into convenience stores",
+  "snippet": "Morrisons Media Group (MMG) is extending its retail media offering into Morrisons’ convenience estate. The post Morrisons Media Group expands retail media network into convenience stores appeared first on…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261112PD201/ennoconn-kontron-taiwan-physical-ai-growth.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-12T01:50:24.000Z",
+  "title": "Ennoconn posts record third-quarter revenue, targets 20% ROE by 2030",
+  "snippet": "Taiwan industrial PC maker Ennoconn Technology reported record revenue and profit for the third quarter of 2026. It said it expects strong growth in both measures in 2027, supported by Physical AI applications and…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261112PD209/samsung-robot-testing-startup-development.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-12T01:37:48.000Z",
+  "title": "Samsung explores electronic skin for humanoid robot hands",
+  "snippet": "Samsung Electronics is testing electronic skin on the hands of its humanoid robots with South Korean startup Midas H&T, seeking to overcome a key commercialization barrier: combining powerful gripping with precise force…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD231/data-center-capacity-demand-policy-hardware.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-12T01:35:41.000Z",
+  "title": "US data center policy clouds AI capacity outlook, MetaAge says",
+  "snippet": "Global AI data center construction continues to drive demand for GPUs, memory, and other critical hardware, but tight computing capacity, rising material costs, and longer lead times are complicating large-scale AI…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261111PD224/equipment-taiwan-academia-talent-technology.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-12T01:34:14.000Z",
+  "title": "Universities aren't factories: Can a hot-rodding spirit drive semiconductor innovation?",
+  "snippet": "The National Science and Technology Council's Department of Engineering and Technologies recently issued a call for proposals encouraging academia to modify expensive semiconductor equipment through design changes…"
+ },
+ {
+  "id": "PYMNTS Data::CBMi8gFBVV95cUxPb3pTSUV6YUlrdnpQWk1iMjdnUHJ5ZVljdEd4cW1wX0tVT004THpNLU1YX3ViaTJYTERXRHViRUJqTTFIUmxDMkJTYTJTTi0tRDR6Wjk0alhhM1FMbEFJZXRLN2ZWWHAtSG1mOFR3SGNodThJcUlvTHlkWEZ5ZVI2eDZ5RzVKSUlZVzVHSUxfbHNSTUtfaXlDcHUzYnVodjZ4RTBTQ29Nd3RtMnR3Y3A4WXl0WjAzNG9WZFAzRkFOc1JySmFySFpYdThQWmVpSW5pSWJDMk1DVENxbnBEV2pLRVpQTExlSnlDTVVoZVlQZm4tQQ",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-11T12:09:44.000Z",
-  "title": "Kickstarter Brings Crowdfunding Orders Into Shopify With New App",
+  "publishedAt": "2026-11-11T19:26:28.000Z",
+  "title": "Careful Consumers Want Control. SoFi Tech Solutions Says Banks Should Hand It Over",
+  "snippet": ""
+ },
+ {
+  "id": "Reuters::CBMixgFBVV95cUxPWWNsbHZIOFpSN0NER012RTNDdE9jRzFkWXRJZVY1X2hkVTlnUHhDcFNrVDU0Ul9yVXlvcHpfblFEYkYyNW9jRXA2OHNldXhuaEhQQTZYX3V0R1R5dFdVNkRNZFNrVWtWdHI3N0FrYVFFNEx1MlhBYkFJY1c0MEQ3Ym1RRzF0YWY2OWZWZmR0RlFYeU5YOWhlR0UycW9jODJDMjZob2VIR0JNcHd5dkFKSzZYYUpSYUJkcEtwMlRXZ3pPcHN2dWc",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-10T22:04:00.000Z",
+  "title": "Poland's Orlen ends long-term QatarEnergy LNG contract over delivery failure",
   "snippet": ""
  }
 ]

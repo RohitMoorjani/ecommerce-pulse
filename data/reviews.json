@@ -81,92 +81,6 @@
   "competitors": [],
   "publishedAt": "2026-10-08T11:58:36.000Z"
  },
- "InternetRetailing::https://internetretailing.net/?p=76197": {
-  "keep": false,
-  "publishedAt": "2026-10-08T11:07:43.000Z"
- },
- "Retail TouchPoints::CBMirAFBVV95cUxPZmp3ZnFNUHVPYWdxeWllVFZrVGJhQ29OQlc4TlNhUEVjRlZrUXhPYTR2OUFLd0RtOElYRXJzVDB1STE1WEF6RHMzajA4NGFiaTh1MjJ6elhFZUY3V2J4Z0xuYUl2ZWhRMHJDRHFxSUs2clE0T1RUYnVnZUxNWGd6UE1aTjkwaG85ODRMd1lyakNRX0YzdDZ0LU1DZTdKLU9ya2pvZHl1X1lDaXdZ": {
-  "keep": false,
-  "publishedAt": "2026-10-08T11:04:46.000Z"
- },
- "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/amazon-makes-fresh-job-cuts-mainly-in-retail-division/134781446": {
-  "keep": false,
-  "publishedAt": "2026-10-08T05:56:36.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261008VL216/microsoft-demand-dram-pc-revenue.html": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "AI PCs face a memory squeeze as suppliers prioritize server DRAM",
-  "short_headline": "AI PCs squeezed as DRAM goes to servers",
-  "takeaway": "Memory constraints could lift AI PC prices and limit configs; plan pricing and stock messaging on our store.",
-  "importance": 4,
-  "content_type": "analysis",
-  "competitors": [],
-  "publishedAt": "2026-10-08T05:54:36.000Z"
- },
- "Modern Retail::https://www.modernretail.co/?p=172676": {
-  "keep": false,
-  "publishedAt": "2026-10-08T04:00:00.000Z"
- },
- "Modern Retail::https://www.modernretail.co/?p=172829": {
-  "keep": false,
-  "publishedAt": "2026-10-08T04:00:00.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261008VL213/windows-arm-nvidia-x86-pc.html": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Nvidia's Arm-based RTX Spark gives Windows on Arm a shot at high-end PCs",
-  "short_headline": "RTX Spark tests Windows on Arm at the high end",
-  "takeaway": "A premium Arm PC tier is forming; decide how we explain Arm vs x86 to buyers online.",
-  "importance": 3,
-  "content_type": "analysis",
-  "competitors": [],
-  "publishedAt": "2026-10-08T03:38:29.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261008VL207/pc-shipments-forecast-nvidia-microsoft.html": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Memory costs threaten PC shipments as pricey local-AI machines arrive",
-  "short_headline": "Memory costs threaten PC shipments",
-  "takeaway": "Expect higher-priced AI tiers from Nvidia, Apple and AMD partners while overall shipment forecasts fall.",
-  "importance": 4,
-  "content_type": "analysis",
-  "competitors": [],
-  "publishedAt": "2026-10-08T02:35:32.000Z"
- },
- "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/amazon-sees-35-40-pc-festive-demand-spike-adds-50-pc-capacity-with-rs-2800-crore-investment/134777774": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Amazon India sees 35-40% festive demand spike, adds 50% capacity",
-  "short_headline": "Amazon India festive demand up 35-40%",
-  "takeaway": "India's festive season is running hot on Amazon; check our stock, delivery promises and deal placement there.",
-  "importance": 4,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-08T02:07:44.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261008VL200/nvidia-rtx-windows-apple-cuda.html": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Windows laptops with Nvidia RTX Spark open for pre-order, aimed at Apple's Macs",
-  "short_headline": "RTX Spark laptops take aim at Macs",
-  "takeaway": "A new premium AI-laptop tier is now orderable; watch how OEMs merchandise it online against Macs.",
-  "importance": 4,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-08T01:35:00.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261008VL201/microsoft-windows-rtx-nvidia-pc.html": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Microsoft prices Surface Laptop Ultra at $2,599, pitching on-device AI agents",
-  "short_headline": "Surface Laptop Ultra launches at $2,599",
-  "takeaway": "Sets a price anchor for premium on-device AI laptops sold direct, a benchmark for our top-end AI PCs.",
-  "importance": 4,
-  "content_type": "announcement",
-  "competitors": [],
-  "publishedAt": "2026-10-08T01:25:00.000Z"
- },
  "Retail Dive::https://www.retaildive.com/news/lululemon-heidi-oneill-executive-leadership-team/832505/": {
   "keep": false,
   "publishedAt": "2026-10-08T15:52:00.000Z"
@@ -196,98 +110,6 @@
  "NFIB & QuickBooks Small Business::CBMiuAFBVV95cUxQeDgxLVk0MWl3d0NibEE2SWRpY1o2TVhsc3dweWpXRVJZV043XzVXWlpwbkVwTEhBRjRIY2J0aDJ0NWFMTEFOS0E4VFJENVB4M3FfSUpfbk15dV9SX1dreVV2UC1IanhVR1NLcDRtNGJnSE9sUUJLZ2FURUR6elJfUFVVcThyUVdDMUk0YVplZ3JLVEJzZDQwTlV4OXNLMDJtSHEwdmVlVVVhMUZjMXBtSlQwcDZkVS1M": {
   "keep": false,
   "publishedAt": "2026-10-08T13:58:53.000Z"
- },
- "TrendForce::CBMi4gFBVV95cUxQRzZlOVpqVEJLSDVmcUJGYjlEZVJxX3ZRaHRPMUFJb2RWTmgxODJveXlQUzRxM3FCV3pPWEpiOEJvTllaZVZSdHlQeWVVbW9NblYyUk52UnpUNTVReDRPWnRtRjdQb2Y3dWxDdWxyckJlMVdaczhmQnVLWEVHYlgxRVFJYkZNWUg0c0hHb2Q0SnYtbkZ0MjZ5aTdkUTd2Z04tTy1yQ0I0SjBicXNldy1DcllDSDJaMGtUT0ctUk52eURiSVcySFBZMl9GYTRNZHFHY0JndS10VDlDN0RZMUNYMS1n": {
-  "keep": false,
-  "publishedAt": "2026-10-08T08:09:33.000Z"
- },
- "PYMNTS Data::CBMixAFBVV95cUxNekNsUTdnY21WdnFSWDJ2Qmd4dmU4dUhVTW4tNkktbTEwWXVta2tjT0tDSjc1Zi1zaENQVTc1dldhMnRuaUlBYXc3ejRXZ3MzRzBkX3dqVFdGN1N5MDNEVXRCRVQ4am1DaktiTTBUbnd6ZkJlSFhzVUxQVEM5N2pRTnFtRlVTenpVWUtlbjlrWktwT1dUUnZsQU5pZVBmelpsbmk0UkV0VW1oZlhvcjJYdml3dWRXVVZwNjFWMWJjUV9IVmVv": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "Mastercard bets shoppers will build trust in AI agents one purchase at a time",
-  "short_headline": "Mastercard: trust in AI agents builds per purchase",
-  "takeaway": "Agent checkout trust will grow gradually; low-risk repeat buys like accessories are the likely starting point.",
-  "importance": 3,
-  "content_type": "analysis",
-  "competitors": [],
-  "publishedAt": "2026-10-08T08:04:53.000Z"
- },
- "PYMNTS Data::CBMiowFBVV95cUxNdjJ2dWRiaGdZanBLX3NXNklxc3A2SlhZdHc4YjJwcXp1VDExTDZpLUtRNVVfTlFfVFU5MmhlcUxGbXN6Y1pGaTBQbndkZ2NnWXFmTHhCcTAySHVxSXFHUXVuRGRTMnFsNzlrcFloMG8xS1B1Q3lJXy1ZcW9KNFB3ckFtS0E2dWhSM1ZsQXhVRndiNDFQN1pkV2oxWkdQclMtT3Vr": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "Higher prices are splitting consumers into three distinct camps",
-  "short_headline": "Higher prices split shoppers into three camps",
-  "takeaway": "Price responses are diverging; segment offers instead of running one promotion for everyone.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-08T08:04:53.000Z"
- },
- "PYMNTS Data::CBMimgFBVV95cUxPRWdrM0t5WFlCSlFPaWktdGJWczZaMURwYUVNX3lBZUpNTEU4QlJUQ1IwOGJSNUd5TVhVNWhZaG84U1hPY1ZrZ0VuUy1GOG5WQ2RIcGRKNlZuVWR4UmFKWEJEdE40VFZGQ092OVdpa0JwYUNTVTdZVUJGOGk1cEQ4NEZYSThnTU1ERjJkZHVSWTh3dlZDU3M2SnNB": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "Gen X is at peak earnings, but its high earners feel squeezed",
-  "short_headline": "Gen X high earners feel the squeeze",
-  "takeaway": "Peak-earning Gen X still watches spending; premium PCs may need financing or trade-in to close.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-08T08:04:46.000Z"
- },
- "Omdia::CBMi2wFBVV95cUxNMDZKZ2lZbGRQREpSUUd0eEVOZW9LRXN6ZDhqY043RjNxNHI3djNNdDhPRjJEOW5VTDFIX1ZIdHBQSXFFUnNkeV94ZDNWZ2pTd082Nmo2VDBWTXJXOVJvd3dsQ20wQkcwb2RJWWp5b1pFVFBVYkhOTGNDcnBrUWVNOHh0cnBKbHJVWmR1dEd0NFV3U1RtelVTdVVPVjhkaHBxQlg3WUdUMzgyOGdwVjRHNzc2cE1ZSGQzNlNwX05tdy02eUFZQVR2T3NHcS1sejhLcE82QUMwdWNmU0k": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "OLED monitor shipments set to grow 79% in 2026, with ASUS leading",
-  "short_headline": "OLED monitors up 79% in 2026, ASUS leads",
-  "takeaway": "OLED monitors are a fast-growing attach category; check our assortment and bundles.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-08T07:37:22.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261008PD240/lg-commercial-launch-cubesat-lges.html": {
-  "keep": false,
-  "publishedAt": "2026-10-08T06:58:50.000Z"
- },
- "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/delivery-partners-in-hyderabad-protest-at-online-grocery-store-alleging-supply-of-expired-items/134781019": {
-  "keep": false,
-  "publishedAt": "2026-10-08T06:38:40.000Z"
- },
- "PYMNTS Data::CBMi2AFBVV95cUxNWkJlNDRfSk1ZSEVZb0xqeTlnM2NfcDBxYVNMVUVGUHA2TmxNUGs1TTRUbzFJemFRRWdPVlNhbEVGekp6RHpySEZVdUhIQzN3WlpIOGNlRUJSQ0MxSXNjRVJLYkMxc3djUVhwck5TZ21PLXhVV29xYUFGM0FybDYyNnJqZlZZemk5ekNJUC1VbDJTNDhrTk1pVDhKSEc0UF9GTmc2elU1SklPazVfWjczVUJvWjVQMDNtZjgzcnZWLXAxS3pFaUlsNFlBTXJyX3JUNzUtd3M4RGg": {
-  "keep": false,
-  "publishedAt": "2026-10-08T04:28:17.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261007PD249/samsung-lsi-automotive-ap-exynos.html": {
-  "keep": false,
-  "publishedAt": "2026-10-08T03:55:00.000Z"
- },
- "IDC::CBMiYkFVX3lxTE5yT0pHT3lON0lvM2pfYkRJWklRNXI4dGhrQTZHSS1mSEg4RDR4cDljenB6U2R5aThJNzZ3VEVsSFNVNFljaG81d0ZJeTBUSWh2c1Jfa25pcTFPUklHM2xnTjdR": {
-  "keep": false,
-  "publishedAt": "2026-10-08T03:35:40.000Z"
- },
- "IDC::CBMiZEFVX3lxTE5DbmVCZ0twdXp3RF9UaXVGTFJ2M0JwMkZfbV9EV0VKLU1UNjNiX2FaOHVoZjc4eEFZaGR1cm5KQVk1Mm54ZTJIVjRJY0lnNFNpMnBEZXZINl9sNUM3SE90bzlDWGU": {
-  "keep": false,
-  "publishedAt": "2026-10-08T03:35:40.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261008PD214/cwtc-revenue-demand-electronics-growth.html": {
-  "keep": false,
-  "publishedAt": "2026-10-08T02:45:00.000Z"
- },
- "IDC::CBMiYkFVX3lxTE5OVlU4T0w2RThiUEl0a2Mzb2dmbWhUSzMzTmZoSDMwOXlCdGZiSU04MHV1ekYyaXlvY0FPanMyZ3ZjS0ZmVnVmZlVJWUN0NkpiSk5vYXRCSjl3MWgyMDRvNDJ3": {
-  "keep": false,
-  "publishedAt": "2026-10-08T02:10:49.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261007VL221/samsung-testing-nand-dram-production.html": {
-  "keep": false,
-  "publishedAt": "2026-10-08T01:55:00.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261008PD202/fed-inflation-government-taiwan-financing.html?chid=10": {
-  "keep": false,
-  "publishedAt": "2026-10-08T01:41:19.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261008VL203/samsung-profit-operating-profit-hbm-market.html": {
-  "keep": false,
-  "publishedAt": "2026-10-08T01:15:00.000Z"
  },
  "PYMNTS Data::CBMihgFBVV95cUxONUU5RHVXZnpCbmhBeUQ0TjBYUHBiUlhkVG5lSlg2Q0ZoOVplc3JURy11ck5RbTkxcHhaSk9rVUh6SDJya3l5NXRwQkJJRkNJTTl4MGhjNkY0bVhwUXlwV1Vpd1ZRR0lxY3REaDZ6ZVBUdGo0QVVYV2RvOXVTb1ZBNEJLaUQ2UQ": {
   "keep": false,
@@ -425,10 +247,6 @@
   "keep": false,
   "publishedAt": "2026-10-08T18:39:35.000Z"
  },
- "IDC::CBMidEFVX3lxTE5yeGNwajUyWDB5UVlmSEhhMm5JVEU1T2g1bllPWlRuR2lEYXhkSkNsV3FmeDJtdnY0ZGdIRGMyRzYxWnUyWkhLMXVzOUpMOWdPbEtjejMzbWtad0dLb3oyZUFkTUt5aUNpaWlFcEdYMk05SjNY": {
-  "keep": false,
-  "publishedAt": "2026-10-08T08:39:39.000Z"
- },
  "TWICE::https://www.twice.com/?p=166509": {
   "keep": false,
   "publishedAt": "2026-10-09T13:01:45.000Z"
@@ -487,10 +305,6 @@
  "Dell Blog::https://www.dell.com/blog/from-xps-to-runway-reimagining-mclaren-through-fashion": {
   "keep": false,
   "publishedAt": "2026-10-08T13:00:00.000Z"
- },
- "Reuters::CBMirgFBVV95cUxOMXBaTUxRTVRaaEh2ajRtZWxDekFLVElmbi1oVEw1eFJyUDg4NG5TNGxTZGw1eUFSTWhTbHVERXU2R2p1YlBFRnZhcUFXSG9vQWhPcVFxN21jdDJaMFRLY0lSU0x0YUtBREl3UXBYaVFXZmNtNmdfVGhkUmt5bnZJOTg3eTBOdjlUdTNaRTlFSGQ5YTdLcjVwWnVkLUREN2dLSkhoaEhlMHQ0U2YwWWc": {
-  "keep": false,
-  "publishedAt": "2026-10-08T01:16:00.000Z"
  },
  "Modern Retail::https://www.modernretail.co/?p=173055": {
   "keep": true,
@@ -595,10 +409,6 @@
   "keep": false,
   "publishedAt": "2026-10-09T03:28:00.000Z"
  },
- "Retail TouchPoints::CBMiY0FVX3lxTE9FbnM3MF8xTkR2emdaU3p5VjNnM0FQbjhWWHRWUkp1NmsyMi1VV1FEOHQ0LWhGRDdOaWt6RWVxNkRkQjRwVm1tcW9QNGIxVGIzX0dpWHJpMTRaUERmVi05R2JySQ": {
-  "keep": false,
-  "publishedAt": "2026-10-08T07:00:00.000Z"
- },
  "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363427": {
   "keep": true,
   "segment": "marketplaces",
@@ -621,10 +431,6 @@
  "Circana::CBMigAFBVV95cUxPT2Y0cElJZDZEcVlqQTBFd3NUcjhFSERVcEEwdlFiSVFQREcwV3hpMWstVFNleUJRNXJJLVFWdFJCMi1YQ0xUVzJYUkZhZ3dHOGF6UDMzWXdLOVRiY1ZiNUxoM1pUemZYWUYzcXdVSlVCVll1MExPZHAzNkhzNF9WYQ": {
   "keep": false,
   "publishedAt": "2026-10-09T19:04:28.000Z"
- },
- "IDC::CBMigAFBVV95cUxNOHA5eWk4OTBaUmVXSWlmOHF6RGV5WGNYYUhRb2IxWlk2bXFKbU9XeUlqMGhoQTdyMmRldExhU09PMzZ0eGpCcjhxc0xOcWhFeXdwdUZGQjJzY3Via3gzOTExcWlrUk9hbmNUeVVJS0ZDcExUbC13NEtGNklqV2Etbg": {
-  "keep": false,
-  "publishedAt": "2026-10-08T03:35:40.000Z"
  },
  "Retail TouchPoints::CBMixgFBVV95cUxNRUt5WWV2YVFjZU5OT3FleHRNUFl3bjBJbVpjTm03cVlRQXYwUElTam9UNjFfZFUzQU5qbjdFa2tfRlRqS1NvSlNfMlVLcFVRRzBMOTgxemZHNWJVMXo5dk0teWRsZEVnWFV2ZnhNUFAyX2x4ZHpXRDJMNW9RdnU0Rm1ZeEZoRl85SWkyNnNleEo2Z205NFR5Tlc0UWxTS0tZZHJYRDhvOWJlcEtsOU5INnVMT3Z5WWxacV9iRE9RRjNSUS1WbEE": {
   "keep": false,
@@ -679,10 +485,6 @@
  "PYMNTS Data::CBMizAFBVV95cUxPTVhKandTdHR0dDBwNmxiaTBDQ3JiSlVseEpwYktjd2FabkRTcVlSTVdycERBZGljVldudzVwWG15Ym1GY2xRTUFCd2dya3A4YlNCUEtDWG5SSldIWXZwZEVCZG83ZkZYUXJva1BkV1l2U3VCbWFQNnpucTJaUEc2bGdYRjUxbzlfRWQxTWR0SjlXMzcwMXRuakNMbFdpV3FXcU9ZYXJJcGwwaDg4RDRZYTUzQ0hudWxHUUxDXzBtdVlzQ2pCUlNTUTdqdlc": {
   "keep": false,
   "publishedAt": "2026-10-09T22:29:55.000Z"
- },
- "Retail TouchPoints::CBMiWkFVX3lxTFBiYnpYYU1mNTBnTXVRNjB3ZS1ZV2dHd3hTMm45RUYxMGsxazN4LWFwR1plX2x1ZlNmc25SRDVjYS1pelRZbVVlcEhkYkUzQ3V5Y1ozZFVDQ0g3UQ": {
-  "keep": false,
-  "publishedAt": "2026-10-08T07:00:00.000Z"
  },
  "DigiTimes::https://www.digitimes.com/news/a20261008PD238/production-manufacturing-pc-ipc-california.html": {
   "keep": false,
@@ -1990,10 +1792,6 @@
  "Gartner::CBMi5wFBVV95cUxPYk03VXplS0s1NmhJVUlxV1paV19kenNMVy1XNFZnY185NmNucmFHSjd5YmQxend5azF3RnR0cnlrYW4xZEZfT0NJSjY5Ymtra3VPTUFFVV82ZHZDemdlWXh4S1hDbzhVVzM2UTVZNnhacXZYSUFfcXM5SlFxMTFxUDFRbW1GZGE3TkE0ano0SjA1YjN5RWhVcHVsQllvaFhpTnYtRk5YQ2szZXNNN0U2VHVKSUVpeWtJYVhndnlsS3RUNmkxY1R0MG9UVm1PeWM2QkRWcWZRbU1RcEE1aUhFejVzckxReVU": {
   "keep": false,
   "publishedAt": "2026-10-17T22:11:26.000Z"
- },
- "Capital One Shopping Research::CBMidkFVX3lxTE1JRTNNUzZyRHZIYkM5YXZxUGNiZTBxcTFhdnQ5S0RCSkhUSGdScWFrZUpTTUgwMHF3NlJxSmVjUkVGT2hVS25zUkJPaHo2R2JnTV9HV0g3Zmh0aGdVb29EM1FnM3p1YURJQlVOb0xWTEpEY19ZdXc": {
-  "keep": false,
-  "publishedAt": "2026-10-08T07:00:00.000Z"
  },
  "IDC::CBMiYkFVX3lxTE1ob2xXTlV5N1JHdlZEeVVTQmhlbkVkdkYxSHV1RmNiR2tJcnFKRXFkRjhnMkdmZzZZcEE0amNnNFRqYlNleUJ5NFdRV2ZfUGt1QTVuOHFzNm80cnJJaHJfY1Bn": {
   "keep": false,
