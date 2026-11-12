@@ -7600,5 +7600,151 @@
  "Reuters::CBMixgFBVV95cUxPWWNsbHZIOFpSN0NER012RTNDdE9jRzFkWXRJZVY1X2hkVTlnUHhDcFNrVDU0Ul9yVXlvcHpfblFEYkYyNW9jRXA2OHNldXhuaEhQQTZYX3V0R1R5dFdVNkRNZFNrVWtWdHI3N0FrYVFFNEx1MlhBYkFJY1c0MEQ3Ym1RRzF0YWY2OWZWZmR0RlFYeU5YOWhlR0UycW9jODJDMjZob2VIR0JNcHd5dkFKSzZYYUpSYUJkcEtwMlRXZ3pPcHN2dWc": {
   "keep": false,
   "publishedAt": "2026-11-10T22:04:00.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364098": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "J. Crew launches Claude-powered Style Advisor shopping assistant on its site",
+  "short_headline": "J. Crew adds Claude-powered Style Advisor",
+  "takeaway": "Retailers are putting branded AI advisors on their own sites; we should test one to guide PC and laptop choices in our store.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-12T19:32:47.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/bnpl-bolsters-holiday-budgets/874425/": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Survey: BNPL draws shoppers across income brackets, led by younger buyers this holiday",
+  "short_headline": "BNPL appeals across incomes, led by the young",
+  "takeaway": "BNPL appeal beyond young shoppers suggests we should keep instalment options prominent on high-ticket PC pages this season.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-12T17:36:02.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/walmart-more-than-doubles-planned-drone-delivery-sites-zipline/874378/": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Walmart more than doubles planned drone delivery sites with Zipline",
+  "short_headline": "Walmart doubles planned Zipline drone sites",
+  "takeaway": "Faster Walmart delivery raises customer expectations for speed on electronics; we should check our delivery promise against it.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-12T16:46:00.000Z"
+ },
+ "Global Marketplaces::CBMiygFBVV95cUxOWFBaanFxZDRLWkM3UWNHMHYwX181VlJINXBhMkFuZC01bzZScmgxUFdiZFV0V00tRlJiQk1LbFNfbE83TXFQUzBvZ1lqYmN4ZjBZRHpxQk5GUzc5bGhqM2tzdWdvR1RSVmd3eGQxLWR5TEZMcTRJVExDYkMtSUlDYWNMMkJ2WXlZa29EcmJ5QVo4STFsbTNvZTFDRUZGWGRWMjdLeUQySEhuLTFFYm1KTnJiLWotRDJYTUZ4Wl9GQ1dldjJkcldsZnN3": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "JD.com seeks to lead Europe's online electronics retail with Ceconomy deal",
+  "short_headline": "JD.com targets Europe electronics via Ceconomy",
+  "takeaway": "A JD.com-owned MediaMarkt would reshape a key European electronics channel for us; we should watch for changes in terms and pricing.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-12T16:41:35.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/tiktok-shop-plus-paid-membership/874451/": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "TikTok Shop pilots paid membership with free shipping and discounts for 1M shoppers",
+  "short_headline": "TikTok Shop tests paid membership tier",
+  "takeaway": "Paid membership on TikTok Shop signals a push for loyalty in social commerce; we should watch if electronics get member deals.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-12T16:27:00.000Z"
+ },
+ "Marketplace Pulse::http://www.marketplacepulse.com/articles/amazon-has-put-four-in-ten-sellers-on-haul": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Amazon Haul now appears in main search; nearly 184,000 sellers are on it",
+  "short_headline": "Amazon Haul enters main search, 184K sellers",
+  "takeaway": "Low-price Haul listings now compete in Amazon search, which may add price pressure on accessories we sell there.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-12T15:00:00.000Z"
+ },
+ "Dell Blog::https://www.dell.com/en-us/blog/dell-pro-essential-a-new-design-built-for-small-business": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Dell introduces Pro Essential, a new design built for small business",
+  "short_headline": "Dell launches Pro Essential for small business",
+  "takeaway": "Dell is targeting small-business buyers with a dedicated line; we should review how our store presents SMB offerings.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [
+   "Dell"
+  ],
+  "publishedAt": "2026-11-12T15:00:00.000Z"
+ },
+ "PYMNTS Data::CBMi2AFBVV95cUxOa0xheHdjcDRONGMtTEUtVTl1aGlvS1JaaHo5YnNmWkJHZFBvSm9qUkJZSjVtSFBSOU9URUV3cDhudWFfbmNCSEhVdVRTMDM3NzVINlJhLTFrdWJDNU9UNnN6TWlrYldLdGlJRFdsLTkxMUx3QzM0S3pUX2kxTDI5aDh0ZzRhdXdKN2JEQmFYaWNnUGx3TWNwVDJrWXByU0Uzdmh6MEotTzRTMzJPTGZmRjRYQ3dnOHpSUWxMeWZSUkVvSzZRU0x2c2tiQVMwWWhyclJwOENicjI": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "AI agents are bringing shoppers to merchants, who must still close the sale",
+  "short_headline": "AI agents send shoppers; merchants must convert",
+  "takeaway": "If AI agents send us shoppers, our store must be ready to convert them at checkout; we should review agent-readiness.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-11-11T23:33:24.000Z"
+ },
+ "PYMNTS Data::CBMisgFBVV95cUxQUVVleDNKS2Z0WHVUMUQxamZ0Y05kbW82aEFBWEJFZjZmOXhlOWpLWWN0OXVscElORTBxa2Nma2JHNWtHeTdYWDExbTFMM0hJeERMSHBaZDVVY2g0NDlGaFR3cTViT0ZQX1pfS3pOaFlFaHZlYmtUdkF6SWtKSmVsbUxQbTZXSDdOWVZScGFZOG55aVUyYmxlZFhkb0ZpcW93SURveVUyYjE5WjVabHRmOGF3": {
+  "keep": false,
+  "publishedAt": "2026-11-12T19:39:49.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/michaels-holiday-black-friday-cyber-monday/874500/": {
+  "keep": false,
+  "publishedAt": "2026-11-12T17:12:00.000Z"
+ },
+ "Retail TouchPoints::CBMivwFBVV95cUxOQjYzUUJwbUI0QmN6V0Y1VnhjaTBLU1lqM19YM0JyM290UDhfRC04b2Z4OFhkWWtVeUM0bWs2TEFJd29XTm9DZXhZVmVrQS1DVXlQd0VyS3poUzExcjRuSC1jdTctQTNRWmFMSmZMLVhxdlVTeGppLWVYRWloaWRwNm1pT011TUxxMm1CVkRzcDV6M09qd09wT2tyNWFaVmo4dUlpck1FdkFXWGV6WElYRmFfM05uWVl0TGszZGM0UQ": {
+  "keep": false,
+  "publishedAt": "2026-11-12T17:02:41.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/calvin-klein-tommy-hilfiger-owner-to-cut-4-of-workforce/874492/": {
+  "keep": false,
+  "publishedAt": "2026-11-12T16:16:00.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76540": {
+  "keep": false,
+  "publishedAt": "2026-11-12T15:09:00.000Z"
+ },
+ "Circana::CBMixwFBVV95cUxNamlWVkYtTEdwT0hsbVhGNVdCUlBBWlhCVkNYbFBtZXBqaXdRTEhJVHlZclMwSzJDRXk3YXpMdlE2Q25FTFV1M05fREdyLXBDQnl0S05aSy1SNTdUUGI4ZTBwalB6VUZiRFBSQ1BDNGg0UGxnTkJ2UmxiQ3VwczlIRlBNQ0dHNEJTVGxrYUt2VHB1bXFzeGxMVkd3dy1WV3M2VmhTOEV0VVhnbmEwTEdLakNlbGQ2UFczRDlhVEZVblp4ZGRJY1hN": {
+  "keep": false,
+  "publishedAt": "2026-11-12T15:03:09.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=167046": {
+  "keep": false,
+  "publishedAt": "2026-11-12T14:01:50.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=167058": {
+  "keep": false,
+  "publishedAt": "2026-11-12T14:01:32.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=167032": {
+  "keep": false,
+  "publishedAt": "2026-11-12T14:00:59.000Z"
+ },
+ "Retail TouchPoints::CBMixAFBVV95cUxPSGx3V2V1V2NiNjItN0h1cVBpd3F6d0NpTGVpM0ROblgyZ2dCUkRNZlA3a0NwVXh6eGliQnZOa214dEJKSnU1VXFXQTJDVUtiZ2c4RnJuanZWQzVnV2dHYjFrUm5qVlFNY1JFQkdiWUJnV0phaWxLaWxqU0M2d0U4R0VhQ1Zhbi1sMmc3NW5IbUZLRmp4VTM2VGFXY0pIVXFfbl9paXE2UmNSTzZyR1Jnc2J6dWM2WFgwQ2lRc0Rnblh0TTZy": {
+  "keep": false,
+  "publishedAt": "2026-11-12T12:01:39.000Z"
+ },
+ "PYMNTS Data::CBMi8wFBVV95cUxQX1lVMlRoR1dod0trQ3ZfOFdxQ1JWSHphU2tQcThKUmZDellFazJJYUdPZFVkcWwybzJvS19wbzJrc0xiU2c2T3Bzc1ZsNjEyUFBuaUl4ZlFaOEppWkhnYVR5SzVDSDZpd29Dby10VDlRbndjbFhBbWZnVEVHeW9nc3drUnZENXljQWd0bWQzYm5NdllheVVBNl9yUHJYb3R1WHkxbWlSeDhRWm4yaGFFMXluR3hHUkhtbjlPQ1d0ZkpuSVI0ZEZXMTNrRm5TQ2lIRm1HQlVHMWNLaDJXZEJFbWNnSUx4N05FM2dOaWczaXZVRDA": {
+  "keep": false,
+  "publishedAt": "2026-11-12T11:06:40.000Z"
+ },
+ "Reuters::CBMipAFBVV95cUxPNkUxMDd3Q0lDTkozUTF6eENfNXB2WmdXZUs5MElhZHVvZDNuMnJ0OV9Tc1RnVXluRWR2MWpHUjU0dFNTTDN2Rm1nNS1EMTdiRVQwNzcyc0lEUmNJQzBWWnBiaHRZS1VuN0Z2SUw1VTkwVUlyXzdsUFRIREZpeWxLT0RNU3NVVkNXeGY5U2hOd2o4S18xV0o1ejB0M2o4anRfejdUYg": {
+  "keep": false,
+  "publishedAt": "2026-11-11T06:16:00.000Z"
+ },
+ "Global Marketplaces::CBMivAFBVV95cUxQcWlVRHBuVk00YUFUa1ZfRHQ0ZGN2ekwxa2IyYU5pYjhVdjVfTnF1ekU3NjU5QlRYUUV0LUU2OFRvWC0tQjVOQ2t0N0xqMlg1UmxsX29aRHVNdmdXNlFSdUF2cXVEVUJIOUZGUmc2YXdlSnhhVzRuMGRjcnQ5dVVYQm1oQ29DaXhRdEN4NkVhU3hWSk5mTzZ1dEZtNjlHWWdJNWlnYTZNNTFFYkZ0UG9GZFBuWDdQYkpORlZ3Wg": {
+  "keep": false,
+  "publishedAt": "2026-11-10T11:36:05.000Z"
+ },
+ "Dell Blog::https://www.dell.com/en-us/blog/jonathan-de-almeida-s-journey-from-dreaming-of-a-dell-laptop-to-shaping-the-future-of-responsible-ai": {
+  "keep": false,
+  "publishedAt": "2026-11-09T14:00:00.000Z"
  }
 }

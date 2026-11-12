@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T12:52:38.637Z",
+ "updatedAt": "2026-11-12T21:51:07.514Z",
  "title": "AI assistants are becoming a shop front, and our store must be ready",
  "summary": "Amazon added 100+ Alexa for Shopping functions and text-to-shop; Walmart's Sparky builds carts; OpenAI lets businesses claim ChatGPT profiles; Visa found AI models fail 43% of shopping tests; Samsung sees memory shortage through 2028.",
  "points": [
@@ -41,12 +41,14 @@
    ]
   },
   {
-   "headline": "Amazon fees and Cyber 5 exclusives raise marketplace stakes",
-   "detail": "Amazon seller fees and ads hit $66.1B in Q3, and Amazon touts record Black Friday and Cyber Monday exclusives. We should weigh marketplace margin against our own store offers.",
+   "headline": "Marketplace rivals reshape channels: Amazon fees, Haul, JD.com in Europe",
+   "detail": "Amazon fees and ads hit $66.1B in Q3; Haul now sits in main search with ~184,000 sellers; JD.com seeks Ceconomy. We should weigh channel margin against our store offers.",
    "segment": "marketplaces",
    "storyIds": [
     "Marketplace Pulse::http://www.marketplacepulse.com/articles/amazons-fees-and-ads-near-its-retail-sales",
-    "Retail Dive::https://www.retaildive.com/news/amazon-black-friday-cyber-monday-holiday-deals/874359/"
+    "Retail Dive::https://www.retaildive.com/news/amazon-black-friday-cyber-monday-holiday-deals/874359/",
+    "Marketplace Pulse::http://www.marketplacepulse.com/articles/amazon-has-put-four-in-ten-sellers-on-haul",
+    "Global Marketplaces::CBMiygFBVV95cUxOWFBaanFxZDRLWkM3UWNHMHYwX181VlJINXBhMkFuZC01bzZScmgxUFdiZFV0V00tRlJiQk1LbFNfbE83TXFQUzBvZ1lqYmN4ZjBZRHpxQk5GUzc5bGhqM2tzdWdvR1RSVmd3eGQxLWR5TEZMcTRJVExDYkMtSUlDYWNMMkJ2WXlZa29EcmJ5QVo4STFsbTNvZTFDRUZGWGRWMjdLeUQySEhuLTFFYm1KTnJiLWotRDJYTUZ4Wl9GQ1dldjJkcldsZnN3"
    ]
   }
  ]
