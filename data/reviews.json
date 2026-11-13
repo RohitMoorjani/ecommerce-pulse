@@ -7690,5 +7690,32 @@
  "Dell Blog::https://www.dell.com/en-us/blog/jonathan-de-almeida-s-journey-from-dreaming-of-a-dell-laptop-to-shaping-the-future-of-responsible-ai": {
   "keep": false,
   "publishedAt": "2026-11-09T14:00:00.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76512": {
+  "keep": false,
+  "publishedAt": "2026-11-13T01:39:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261112VL214/samsung-production-umc-manufacturing-outsourcing.html": {
+  "keep": false,
+  "publishedAt": "2026-11-12T21:46:08.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261112PD241/pegatron-revenue-operating-profit-shipments-electronics.html": {
+  "keep": false,
+  "publishedAt": "2026-11-12T21:45:00.000Z"
+ },
+ "Retail TouchPoints::CBMivgFBVV95cUxNZWlvZWNMdkxwLUZ5YU5GVVh0R2dZamY4WlJkYVMzUUV4NDRyX0JxV2ZxcW4yWjdVSjNPY0h3X2U0UDctbGpvTFhEYXZTMmk5N3BfanFONnA0N0FvQ0xCcS1Rd3lSeFowaDVSRGxlN2o3a3BNWHlJMW5FRzFPNnkzRG4tNXc5ZXZ4eENVZzBfRWJ1Zlp5M0RhM2R3R0JRZDB1VFRqTENUaDhoSzZRRHVxUk1vMHdjOVdLZUZiOVNB": {
+  "keep": false,
+  "publishedAt": "2026-11-12T20:03:52.000Z"
+ },
+ "Salesforce Shopping Research::CBMiaEFVX3lxTE5WSFRSajFJdkh0RWRIbDdFZGUxaGM3NmZlODk1ZnpxQW50YUxzQzhITy1GdE5UZHlaVzN5QmdEWUlUTWwtVXpHRWFEMTk1RDBGTzJJRFFrWk5wQ1NvQ3B2VW1fOFZPWi1s": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "New Salesforce data: holiday shoppers will rely on AI agents, retailers must be ready",
+  "short_headline": "Holiday shoppers to lean on AI agents",
+  "takeaway": "If agents shape holiday discovery, our store needs product data and checkout that AI shopping agents can read and use.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-12T19:08:32.000Z"
  }
 }

@@ -1,14 +1,14 @@
 {
- "updatedAt": "2026-11-12T21:51:07.514Z",
+ "updatedAt": "2026-11-13T03:50:58.028Z",
  "title": "AI assistants are becoming a shop front, and our store must be ready",
  "summary": "Amazon added 100+ Alexa for Shopping functions and text-to-shop; Walmart's Sparky builds carts; OpenAI lets businesses claim ChatGPT profiles; Visa found AI models fail 43% of shopping tests; Samsung sees memory shortage through 2028.",
  "points": [
   {
    "headline": "Amazon and Walmart turn AI assistants into full shopping channels",
-   "detail": "Alexa for Shopping gained 100+ functions, merchant onboarding and text-based shopping; Walmart's Sparky now builds carts. We should check how our products and feeds surface in these assistants.",
+   "detail": "Alexa for Shopping gained 100+ functions and text-to-shop; Walmart's Sparky builds carts; Salesforce data says holiday shoppers will rely on agents. We should check how our products surface in them.",
    "segment": "agentic",
    "storyIds": [
-    "PYMNTS::https://www.pymnts.com/?p=4368531",
+    "Salesforce Shopping Research::CBMiaEFVX3lxTE5WSFRSajFJdkh0RWRIbDdFZGUxaGM3NmZlODk1ZnpxQW50YUxzQzhITy1GdE5UZHlaVzN5QmdEWUlUTWwtVXpHRWFEMTk1RDBGTzJJRFFrWk5wQ1NvQ3B2VW1fOFZPWi1s",
     "Retail Dive::https://www.retaildive.com/news/amazon-adds-alexa-ai-shopping-functions/873602/",
     "Retail Dive::https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/",
     "Retail Dive::https://www.retaildive.com/news/amazon-text-to-shop-ai-agent/874085/"
