@@ -1,102 +1,4 @@
 {
- "TWICE::https://www.twice.com/?p=166509": {
-  "keep": false,
-  "publishedAt": "2026-10-09T13:01:45.000Z"
- },
- "TWICE::https://www.twice.com/?p=166476": {
-  "keep": false,
-  "publishedAt": "2026-10-09T13:01:35.000Z"
- },
- "TWICE::https://www.twice.com/?p=166486": {
-  "keep": false,
-  "publishedAt": "2026-10-09T13:00:22.000Z"
- },
- "Modern Retail::https://www.modernretail.co/?p=173055": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Amazon's fall Prime event: brands report bundle and essentials demand",
-  "short_headline": "Amazon fall Prime event: how sellers fared",
-  "takeaway": "Shoppers chased discounts and bundles early; we should test bundle offers on Amazon and our store ahead of holiday.",
-  "importance": 3,
-  "content_type": "analysis",
-  "competitors": [],
-  "publishedAt": "2026-10-09T19:30:33.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/amazon-prime-big-deal-days-online-spend-nears-ten-billion/832604/": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Amazon Prime Big Deal Days drive nearly $10B US online spend, lifting Walmart too",
-  "short_headline": "Prime Big Deal Days near $10B in US online spend",
-  "takeaway": "Rival events lift all big retailers, so we should match our promotions and channel inventory to competitor sale windows.",
-  "importance": 4,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-09T15:08:00.000Z"
- },
- "CRN::https://www.crn.com/news/ai/2026/microsoft-s-ai-powered-windows-strategy-5-things-to-know": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Microsoft's Windows event: AI agent security, hybrid AI and Nvidia Copilot+ PCs",
-  "short_headline": "Microsoft pushes Nvidia-powered Copilot+ PCs",
-  "takeaway": "Nvidia-powered Copilot+ PCs may reshape AI PC positioning; we should check our range and messaging against it.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-09T16:25:00.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/virtual-try-on-launch-chatgpt/832244/": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "ChatGPT adds selfie-based virtual try-on for clothing and accessories",
-  "short_headline": "ChatGPT launches virtual try-on",
-  "takeaway": "ChatGPT is adding visual pre-purchase tools; we should watch whether similar product visualization reaches tech and accessories.",
-  "importance": 3,
-  "content_type": "announcement",
-  "competitors": [],
-  "publishedAt": "2026-10-09T16:21:00.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/shoppers-worried-affording-holidays-icsc/832615/": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "Nearly half of shoppers worry about affording holiday gifts, ICSC finds",
-  "short_headline": "Half of shoppers fear holiday gift costs (ICSC)",
-  "takeaway": "Job-market and debt worries will cap holiday spending, so we should prepare value offers and financing options.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-09T15:51:00.000Z"
- },
- "Marketplace Pulse::http://www.marketplacepulse.com/articles/what-45-million-products-say-about-tiktok-shop": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "TikTok Shop report on 4.5M products: it sells and rewards differently than Amazon",
-  "short_headline": "TikTok Shop differs from Amazon, 4.5M products show",
-  "takeaway": "TikTok Shop needs its own assortment and approach; we should not simply copy our Amazon playbook there.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-09T13:45:00.000Z"
- },
- "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363388": {
-  "keep": false,
-  "publishedAt": "2026-10-09T17:33:22.000Z"
- },
- "InternetRetailing::https://internetretailing.net/?p=76236": {
-  "keep": false,
-  "publishedAt": "2026-10-09T15:49:41.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/elf-brands-fragrance-athleta-ceo-lululemon-crocs-bark/832592/": {
-  "keep": false,
-  "publishedAt": "2026-10-09T15:42:00.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/bloomingdales-merchant-bluemercury/832597/": {
-  "keep": false,
-  "publishedAt": "2026-10-09T15:33:00.000Z"
- },
- "Inc42::https://inc42.com/?p=575396": {
-  "keep": false,
-  "publishedAt": "2026-10-09T14:07:52.000Z"
- },
  "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363427": {
   "keep": true,
   "segment": "marketplaces",
@@ -115,10 +17,6 @@
  "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363415": {
   "keep": false,
   "publishedAt": "2026-10-09T20:38:21.000Z"
- },
- "Circana::CBMigAFBVV95cUxPT2Y0cElJZDZEcVlqQTBFd3NUcjhFSERVcEEwdlFiSVFQREcwV3hpMWstVFNleUJRNXJJLVFWdFJCMi1YQ0xUVzJYUkZhZ3dHOGF6UDMzWXdLOVRiY1ZiNUxoM1pUemZYWUYzcXdVSlVCVll1MExPZHAzNkhzNF9WYQ": {
-  "keep": false,
-  "publishedAt": "2026-10-09T19:04:28.000Z"
  },
  "Retail TouchPoints::CBMixgFBVV95cUxNRUt5WWV2YVFjZU5OT3FleHRNUFl3bjBJbVpjTm03cVlRQXYwUElTam9UNjFfZFUzQU5qbjdFa2tfRlRqS1NvSlNfMlVLcFVRRzBMOTgxemZHNWJVMXo5dk0teWRsZEVnWFV2ZnhNUFAyX2x4ZHpXRDJMNW9RdnU0Rm1ZeEZoRl85SWkyNnNleEo2Z205NFR5Tlc0UWxTS0tZZHJYRDhvOWJlcEtsOU5INnVMT3Z5WWxacV9iRE9RRjNSUS1WbEE": {
   "keep": false,
