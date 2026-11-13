@@ -1,41 +1,4 @@
 {
- "PYMNTS Data::CBMihgFBVV95cUxONUU5RHVXZnpCbmhBeUQ0TjBYUHBiUlhkVG5lSlg2Q0ZoOVplc3JURy11ck5RbTkxcHhaSk9rVUh6SDJya3l5NXRwQkJJRkNJTTl4MGhjNkY0bVhwUXlwV1Vpd1ZRR0lxY3REaDZ6ZVBUdGo0QVVYV2RvOXVTb1ZBNEJLaUQ2UQ": {
-  "keep": false,
-  "publishedAt": "2026-10-08T22:51:35.000Z"
- },
- "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363383": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Prime Big Deal Days: $9.86B US online sales, +8.5% YoY; electronics up 85%",
-  "short_headline": "Prime days: $9.86B, +8.5% YoY, electronics +85%",
-  "takeaway": "Electronics led the spike (+85% vs September daily average), so we should line up PC promotions and inventory for early-season events.",
-  "importance": 5,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-08T21:52:12.000Z"
- },
- "PYMNTS Data::CBMisAFBVV95cUxQLWJ3VUpiY0pLaDdUOHRfS1Q1OGJRN3E5a2NWYWJlUkJEdTU0ekVfbjA0OEU4LWxPaERvZjNrZE16bXB1clBtUFd3eUd4OGpOV1VvZEpXWDVJdTF0cEtMQzZTQl9jcDBXbmF3dVdVbEprYmlGOTc2SEg5M01JVUdpVDg3VlpNQklpWXZOckJMdXgzUXl3UFN5dnJyY0NkZHUxVnAyZnBtc0FnZGd5cXFBYQ": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Walmart adds 1-hour express pickup in its connected shopping push",
-  "short_headline": "Walmart launches 1-hour express pickup",
-  "takeaway": "Faster pickup raises delivery expectations at a key electronics retailer; we should watch how it shapes our Walmart channel.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-08T20:47:35.000Z"
- },
- "Circana::CBMisgFBVV95cUxPeUVjSkFJNVI5eXdDRTRXMHVLcllLLTlqVFcxZmNfNFFJZnlZWG1vcEpGbV9MT1YwZ192N1UtcEFOZXQtbXg3enU2N0xjV3BucDc5VTZHa05JQXpLclNHamN3VExrcl8wd2Zja0JtWDQ3cGJETllJWlZ5U1prX2xJT2dNZzd1RWhjZDU4R3Q4ei1rdGt3NGpyeWxKWW41THkyVExTQUhpUkhpbjJBSDRPd3ZB": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "Circana holiday study: consumers spending selectively, not stepping away",
-  "short_headline": "Circana: holiday shoppers spend selectively",
-  "takeaway": "Selective spending means promotions and clear value matter for our holiday offers across store and retail channels.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-08T20:46:08.000Z"
- },
  "Modern Retail::https://www.modernretail.co/?p=172820": {
   "keep": true,
   "segment": "agentic",
@@ -61,25 +24,6 @@
  "ETRetail::https://retail.economictimes.indiatimes.com/news/health-and-beauty/fssai-issues-notices-to-dr-reddys-nestle-health-science-amazon-flipkart-over-misleading-protein-claims/134805197": {
   "keep": false,
   "publishedAt": "2026-10-09T03:18:16.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261008PD231/samsung-hbm-production-data-data-center.html": {
-  "keep": false,
-  "publishedAt": "2026-10-09T01:46:25.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261007PD247/revenue-demand-2026-sales-shipments.html": {
-  "keep": false,
-  "publishedAt": "2026-10-09T01:39:27.000Z"
- },
- "CRN::https://www.crn.com/news/ai/2026/microsoft-touts-hybrid-intelligence-agent-security-push-and-new-ai-pcs": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Microsoft pushes AI Windows strategy with new Nvidia-powered Copilot+ PCs",
-  "short_headline": "Microsoft adds Nvidia-powered Copilot+ PCs",
-  "takeaway": "New Nvidia-based Copilot+ PCs could shape AI PC messaging and range planning for us.",
-  "importance": 2,
-  "content_type": "announcement",
-  "competitors": [],
-  "publishedAt": "2026-10-08T23:05:00.000Z"
  },
  "TWICE::https://www.twice.com/?p=166509": {
   "keep": false,

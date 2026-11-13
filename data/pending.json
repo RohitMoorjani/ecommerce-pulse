@@ -1,178 +1,42 @@
 [
  {
-  "id": "PYMNTS Data::CBMisgFBVV95cUxQUVVleDNKS2Z0WHVUMUQxamZ0Y05kbW82aEFBWEJFZjZmOXhlOWpLWWN0OXVscElORTBxa2Nma2JHNWtHeTdYWDExbTFMM0hJeERMSHBaZDVVY2g0NDlGaFR3cTViT0ZQX1pfS3pOaFlFaHZlYmtUdkF6SWtKSmVsbUxQbTZXSDdOWVZScGFZOG55aVUyYmxlZFhkb0ZpcW93SURveVUyYjE5WjVabHRmOGF3",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-12T19:39:49.000Z",
-  "title": "Google and Samsung Target Holiday Shoppers With $395 AI Smart Glasses",
-  "snippet": ""
- },
- {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364098",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-12T19:32:47.000Z",
-  "title": "J. Crew turns to Claude to create new Style Advisor tool",
-  "snippet": "J. Crew launched a new styling assistant on its website, bringing Anthropic’s Claude to provide the artificial intelligence (AI) powering the experience. The tool, called Style Advisor, is designed to give online…"
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/bnpl-bolsters-holiday-budgets/874425/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-12T17:36:02.000Z",
-  "title": "BNPL bolsters holiday budgets",
-  "snippet": "Younger shoppers favor buy now, pay later more than older generations, but BNPL companies draw consumers across income brackets, a survey finds."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/michaels-holiday-black-friday-cyber-monday/874500/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-12T17:12:00.000Z",
-  "title": "Michaels encourages a screen-free holiday season",
-  "snippet": "The retailer is promoting hands-on creativity with its “Countdown to Craftsmas” Advent calendar, alongside early Black Friday deals."
- },
- {
-  "id": "Retail TouchPoints::CBMivwFBVV95cUxOQjYzUUJwbUI0QmN6V0Y1VnhjaTBLU1lqM19YM0JyM290UDhfRC04b2Z4OFhkWWtVeUM0bWs2TEFJd29XTm9DZXhZVmVrQS1DVXlQd0VyS3poUzExcjRuSC1jdTctQTNRWmFMSmZMLVhxdlVTeGppLWVYRWloaWRwNm1pT011TUxxMm1CVkRzcDV6M09qd09wT2tyNWFaVmo4dUlpck1FdkFXWGV6WElYRmFfM05uWVl0TGszZGM0UQ",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-12T17:02:41.000Z",
-  "title": "Movado, Bynder Webinar Focuses on Where Peak Season Content Operations Stall",
-  "snippet": ""
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/walmart-more-than-doubles-planned-drone-delivery-sites-zipline/874378/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-12T16:46:00.000Z",
-  "title": "Walmart more than doubles planned drone delivery sites",
-  "snippet": "An expansion with drone operator Zipline will allow the retailer to make rapid air delivery available to customers nationwide over the next several years."
- },
- {
-  "id": "Global Marketplaces::CBMiygFBVV95cUxOWFBaanFxZDRLWkM3UWNHMHYwX181VlJINXBhMkFuZC01bzZScmgxUFdiZFV0V00tRlJiQk1LbFNfbE83TXFQUzBvZ1lqYmN4ZjBZRHpxQk5GUzc5bGhqM2tzdWdvR1RSVmd3eGQxLWR5TEZMcTRJVExDYkMtSUlDYWNMMkJ2WXlZa29EcmJ5QVo4STFsbTNvZTFDRUZGWGRWMjdLeUQySEhuLTFFYm1KTnJiLWotRDJYTUZ4Wl9GQ1dldjJkcldsZnN3",
-  "source": "Global Marketplaces",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-12T16:41:35.000Z",
-  "title": "JD.com seeks to lead Europe's online electronics retail with Ceconomy deal",
-  "snippet": ""
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/tiktok-shop-plus-paid-membership/874451/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-12T16:27:00.000Z",
-  "title": "TikTok Shop pilots paid membership",
-  "snippet": "The company recently rolled out a paid tier to 1 million shoppers. With membership, consumers get free shipping and exclusive discounts."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/calvin-klein-tommy-hilfiger-owner-to-cut-4-of-workforce/874492/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-12T16:16:00.000Z",
-  "title": "Calvin Klein, Tommy Hilfiger owner to cut 4% of workforce",
-  "snippet": "PVH Corp.'s enterprisewide initiative aims to improve productivity and long-term profitability, with a goal of achieving $100 million in cost savings during fiscal 2027."
- },
- {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76540",
+  "id": "InternetRetailing::https://internetretailing.net/?p=76512",
   "source": "InternetRetailing",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-12T15:09:00.000Z",
-  "title": "Poundland secures extra time to pursue rescue deal – but MP warns that jobs are still in jeopardy",
-  "snippet": "Poundland has secured another 10 days to try and find a rescue deal before the chain collapses into administration. The post Poundland secures extra time to pursue rescue deal – but MP warns that jobs are still in…"
+  "publishedAt": "2026-11-13T01:39:00.000Z",
+  "title": "GUEST COMMENT Retailers have work to do earning customer trust in AI",
+  "snippet": "Robert Gerstmann, co-founder of Sinch, asks the question: how willing are customers to let AI spend their money - really? The post GUEST COMMENT Retailers have work to do earning customer trust in AI appeared first on…"
  },
  {
-  "id": "Circana::CBMixwFBVV95cUxNamlWVkYtTEdwT0hsbVhGNVdCUlBBWlhCVkNYbFBtZXBqaXdRTEhJVHlZclMwSzJDRXk3YXpMdlE2Q25FTFV1M05fREdyLXBDQnl0S05aSy1SNTdUUGI4ZTBwalB6VUZiRFBSQ1BDNGg0UGxnTkJ2UmxiQ3VwczlIRlBNQ0dHNEJTVGxrYUt2VHB1bXFzeGxMVkd3dy1WV3M2VmhTOEV0VVhnbmEwTEdLakNlbGQ2UFczRDlhVEZVblp4ZGRJY1hN",
-  "source": "Circana",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-12T15:03:09.000Z",
-  "title": "Beauty Industry Maintains Momentum as U.S. Consumers Balance Self-Indulgence and Value Seeking Ahead of the Holiday Season",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261112VL214/samsung-production-umc-manufacturing-outsourcing.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-12T21:46:08.000Z",
+  "title": "Samsung reportedly moves up 8-inch foundry exit to 2029, outsources some production to UMC",
+  "snippet": "Samsung Electronics is targeting an exit from its 8-inch foundry business by the end of 2029, a year earlier than previously reported, and has been outsourcing some production to Taiwan's United Microelectronics…"
  },
  {
-  "id": "Marketplace Pulse::http://www.marketplacepulse.com/articles/amazon-has-put-four-in-ten-sellers-on-haul",
-  "source": "Marketplace Pulse",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-12T15:00:00.000Z",
-  "title": "Amazon Has Put Four in Ten Sellers on Haul",
-  "snippet": "Amazon Haul products now appear in Amazon’s main search results, removing the last barrier between the low-price store and the rest of Amazon. According to Marketplace Pulse data, nearly 184,000 sellers now have…"
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261112PD241/pegatron-revenue-operating-profit-shipments-electronics.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-12T21:45:00.000Z",
+  "title": "Pegatron 3Q26 operating profit jumps 150% on strong server, smartphone shipments",
+  "snippet": "Pegatron's third-quarter operating profit jumped 149.7% from a year earlier to NT$8.04 billion (approx. US$244 million), as stronger server and smartphone shipments lifted revenue by more than 50%, the Taiwanese…"
  },
  {
-  "id": "Dell Blog::https://www.dell.com/en-us/blog/dell-pro-essential-a-new-design-built-for-small-business",
-  "source": "Dell Blog",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-11-12T15:00:00.000Z",
-  "title": "Dell Pro Essential: A new design built for small business",
-  "snippet": ""
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=167046",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-12T14:01:50.000Z",
-  "title": "Yeasound Introduces Bluetooth-Enabled OTC CIC Hearing Aid",
-  "snippet": "The Robin CIC60 combines a discreet in-ear design, Bluetooth streaming and physical controls on its charging case"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=167058",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-12T14:01:32.000Z",
-  "title": "I’ve Seen Apple’s HomeView Smart Display In Action, And It Could Make The Echo Show Irrelevant",
-  "snippet": "This is the smart display I’ve been waiting for – and Amazon should be worried"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=167032",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-12T14:00:59.000Z",
-  "title": "Review: DREO Air Purifier 530S",
-  "snippet": "Clean air has never looked this cool"
- },
- {
-  "id": "Retail TouchPoints::CBMixAFBVV95cUxPSGx3V2V1V2NiNjItN0h1cVBpd3F6d0NpTGVpM0ROblgyZ2dCUkRNZlA3a0NwVXh6eGliQnZOa214dEJKSnU1VXFXQTJDVUtiZ2c4RnJuanZWQzVnV2dHYjFrUm5qVlFNY1JFQkdiWUJnV0phaWxLaWxqU0M2d0U4R0VhQ1Zhbi1sMmc3NW5IbUZLRmp4VTM2VGFXY0pIVXFfbl9paXE2UmNSTzZyR1Jnc2J6dWM2WFgwQ2lRc0Rnblh0TTZy",
+  "id": "Retail TouchPoints::CBMivgFBVV95cUxNZWlvZWNMdkxwLUZ5YU5GVVh0R2dZamY4WlJkYVMzUUV4NDRyX0JxV2ZxcW4yWjdVSjNPY0h3X2U0UDctbGpvTFhEYXZTMmk5N3BfanFONnA0N0FvQ0xCcS1Rd3lSeFowaDVSRGxlN2o3a3BNWHlJMW5FRzFPNnkzRG4tNXc5ZXZ4eENVZzBfRWJ1Zlp5M0RhM2R3R0JRZDB1VFRqTENUaDhoSzZRRHVxUk1vMHdjOVdLZUZiOVNB",
   "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-12T12:01:39.000Z",
-  "title": "Your Inventory Data May Cost Brands The Holiday’s Best Customers",
+  "publishedAt": "2026-11-12T20:03:52.000Z",
+  "title": "The Psychology of Holiday Spending in an Uncertain Economy",
   "snippet": ""
  },
  {
-  "id": "PYMNTS Data::CBMi8wFBVV95cUxQX1lVMlRoR1dod0trQ3ZfOFdxQ1JWSHphU2tQcThKUmZDellFazJJYUdPZFVkcWwybzJvS19wbzJrc0xiU2c2T3Bzc1ZsNjEyUFBuaUl4ZlFaOEppWkhnYVR5SzVDSDZpd29Dby10VDlRbndjbFhBbWZnVEVHeW9nc3drUnZENXljQWd0bWQzYm5NdllheVVBNl9yUHJYb3R1WHkxbWlSeDhRWm4yaGFFMXluR3hHUkhtbjlPQ1d0ZkpuSVI0ZEZXMTNrRm5TQ2lIRm1HQlVHMWNLaDJXZEJFbWNnSUx4N05FM2dOaWczaXZVRDA",
-  "source": "PYMNTS Data",
+  "id": "Salesforce Shopping Research::CBMiaEFVX3lxTE5WSFRSajFJdkh0RWRIbDdFZGUxaGM3NmZlODk1ZnpxQW50YUxzQzhITy1GdE5UZHlaVzN5QmdEWUlUTWwtVXpHRWFEMTk1RDBGTzJJRFFrWk5wQ1NvQ3B2VW1fOFZPWi1s",
+  "source": "Salesforce Shopping Research",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-12T11:06:40.000Z",
-  "title": "Clip: Careful Consumers Want Control. SoFi Tech Solutions Says Banks Should Hand It Over",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMi2AFBVV95cUxOa0xheHdjcDRONGMtTEUtVTl1aGlvS1JaaHo5YnNmWkJHZFBvSm9qUkJZSjVtSFBSOU9URUV3cDhudWFfbmNCSEhVdVRTMDM3NzVINlJhLTFrdWJDNU9UNnN6TWlrYldLdGlJRFdsLTkxMUx3QzM0S3pUX2kxTDI5aDh0ZzRhdXdKN2JEQmFYaWNnUGx3TWNwVDJrWXByU0Uzdmh6MEotTzRTMzJPTGZmRjRYQ3dnOHpSUWxMeWZSUkVvSzZRU0x2c2tiQVMwWWhyclJwOENicjI",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-11T23:33:24.000Z",
-  "title": "AI Agents Bring Shoppers, but Merchants Must Close the Sale",
-  "snippet": ""
- },
- {
-  "id": "Reuters::CBMipAFBVV95cUxPNkUxMDd3Q0lDTkozUTF6eENfNXB2WmdXZUs5MElhZHVvZDNuMnJ0OV9Tc1RnVXluRWR2MWpHUjU0dFNTTDN2Rm1nNS1EMTdiRVQwNzcyc0lEUmNJQzBWWnBiaHRZS1VuN0Z2SUw1VTkwVUlyXzdsUFRIREZpeWxLT0RNU3NVVkNXeGY5U2hOd2o4S18xV0o1ejB0M2o4anRfejdUYg",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-11T06:16:00.000Z",
-  "title": "South Africa's Woolworths flags weak consumer spending",
-  "snippet": ""
- },
- {
-  "id": "Global Marketplaces::CBMivAFBVV95cUxQcWlVRHBuVk00YUFUa1ZfRHQ0ZGN2ekwxa2IyYU5pYjhVdjVfTnF1ekU3NjU5QlRYUUV0LUU2OFRvWC0tQjVOQ2t0N0xqMlg1UmxsX29aRHVNdmdXNlFSdUF2cXVEVUJIOUZGUmc2YXdlSnhhVzRuMGRjcnQ5dVVYQm1oQ29DaXhRdEN4NkVhU3hWSk5mTzZ1dEZtNjlHWWdJNWlnYTZNNTFFYkZ0UG9GZFBuWDdQYkpORlZ3Wg",
-  "source": "Global Marketplaces",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-10T11:36:05.000Z",
-  "title": "UK aviation regulator clears Amazon for expanded drone delivery",
-  "snippet": ""
- },
- {
-  "id": "Dell Blog::https://www.dell.com/en-us/blog/jonathan-de-almeida-s-journey-from-dreaming-of-a-dell-laptop-to-shaping-the-future-of-responsible-ai",
-  "source": "Dell Blog",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-11-09T14:00:00.000Z",
-  "title": "Jonathan De Almeida’s Journey: From Dreaming of a Dell Laptop to Shaping the Future of Responsible AI",
+  "publishedAt": "2026-11-12T19:08:32.000Z",
+  "title": "New Data: Holiday Shoppers Will Rely on Agents. Retailers Must Be Ready.",
   "snippet": ""
  }
 ]
