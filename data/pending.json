@@ -1,42 +1,194 @@
 [
  {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76512",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-13T01:39:00.000Z",
-  "title": "GUEST COMMENT Retailers have work to do earning customer trust in AI",
-  "snippet": "Robert Gerstmann, co-founder of Sinch, asks the question: how willing are customers to let AI spend their money - really? The post GUEST COMMENT Retailers have work to do earning customer trust in AI appeared first on…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261112VL214/samsung-production-umc-manufacturing-outsourcing.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-12T21:46:08.000Z",
-  "title": "Samsung reportedly moves up 8-inch foundry exit to 2029, outsources some production to UMC",
-  "snippet": "Samsung Electronics is targeting an exit from its 8-inch foundry business by the end of 2029, a year earlier than previously reported, and has been outsourcing some production to Taiwan's United Microelectronics…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261112PD241/pegatron-revenue-operating-profit-shipments-electronics.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-12T21:45:00.000Z",
-  "title": "Pegatron 3Q26 operating profit jumps 150% on strong server, smartphone shipments",
-  "snippet": "Pegatron's third-quarter operating profit jumped 149.7% from a year earlier to NT$8.04 billion (approx. US$244 million), as stronger server and smartphone shipments lifted revenue by more than 50%, the Taiwanese…"
- },
- {
-  "id": "Retail TouchPoints::CBMivgFBVV95cUxNZWlvZWNMdkxwLUZ5YU5GVVh0R2dZamY4WlJkYVMzUUV4NDRyX0JxV2ZxcW4yWjdVSjNPY0h3X2U0UDctbGpvTFhEYXZTMmk5N3BfanFONnA0N0FvQ0xCcS1Rd3lSeFowaDVSRGxlN2o3a3BNWHlJMW5FRzFPNnkzRG4tNXc5ZXZ4eENVZzBfRWJ1Zlp5M0RhM2R3R0JRZDB1VFRqTENUaDhoSzZRRHVxUk1vMHdjOVdLZUZiOVNB",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-12T20:03:52.000Z",
-  "title": "The Psychology of Holiday Spending in an Uncertain Economy",
+  "id": "PYMNTS Data::CBMivAFBVV95cUxPN0VQQllGYkUzdmxKc3pKRTN0Y1JXbkVoVHZUZ3FRZDZuOU9qbTBMdTRpM3FNTVJVREZvOHBhenFYaC1sLUdwT1IxanVDeUdiUF8tZlpWcGYtT0xmbC1BUHVPY0dCWVhlTXFKZ0ZSSkZab29LYkNERHM3OWhucjE5MnZvRXdGcllLRE5WTldvY0xuT2ZGNDc4RUFLc2o3MW83ZkNsYXNlU1VFa1VndWJnSktrV2RINF9HV3BJZA",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-13T09:05:05.000Z",
+  "title": "60% of Small Business AI Users Do More Without Adding Staff",
   "snippet": ""
  },
  {
-  "id": "Salesforce Shopping Research::CBMiaEFVX3lxTE5WSFRSajFJdkh0RWRIbDdFZGUxaGM3NmZlODk1ZnpxQW50YUxzQzhITy1GdE5UZHlaVzN5QmdEWUlUTWwtVXpHRWFEMTk1RDBGTzJJRFFrWk5wQ1NvQ3B2VW1fOFZPWi1s",
-  "source": "Salesforce Shopping Research",
+  "id": "PYMNTS Data::CBMipwFBVV95cUxPaW1TS2lvQVh6RFZJQjVGXzlYRHVJbkNTTkp1NVF0RndwamVlS004NnVMbDMxeXFnTWlwUUZhZnB0WFlXSUgwaHlQRWw4aHRZSTR5aUZSUkpwMmVINFF5NS10WTZ2QzdoYktSNTVVcmFiM0xoekJ1WnZvLTBrLVdHX0VvYVZySzNpR1VxcS1FbkFuUTFIMk40SzhNWDE4MWFHOVNMUERNNA",
+  "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-12T19:08:32.000Z",
-  "title": "New Data: Holiday Shoppers Will Rely on Agents. Retailers Must Be Ready.",
+  "publishedAt": "2026-11-13T09:05:05.000Z",
+  "title": "Gen Z Gives Payment Perks More Weight at Grocery Checkout",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS Data::CBMipwFBVV95cUxNU01MUVg3UUZOSWIyeHFFaTZmQ3R4NDRPSUE4UnhVdkhlT2lEYWR1VTNGNzlRQnhlVGZFS2VsM0VYcDdWTEJ3VUJiR0o1UDVhVlNmQ19QemhKTjVobF81ZXJKbFdfVmx2MGFmZ3RMVkNsSWtvTjJBd1ZBOWo2TkN3MzdSd0tOVjFpNFNaazFFR3pXaGVXQXBWNEYtSC1jS0xxcmFsMkMzSQ",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-13T09:01:19.000Z",
+  "title": "Cover the Cost, Carry the Debt: How Consumers Handle Financial Shocks",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261113VL232/ai-chip-samsung-2nm-production-processor.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-13T08:35:00.000Z",
+  "title": "DEEPX tapes out AI chip on Samsung's 2nm process",
+  "snippet": "South Korean AI chip developer DEEPX has completed the tape-out of its next-generation DX-M2 processor using Samsung Electronics' second-generation 2nm process, advancing plans to bring generative AI to robots and…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261113VL233/samsung-mobile-development-revenue-business.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-13T07:55:00.000Z",
+  "title": "Samsung weighs separating memory and mobile leadership",
+  "snippet": "Samsung Electronics may appoint separate heads of its memory and mobile businesses in an upcoming executive reshuffle, as record semiconductor profits contrast with losses in its consumer electronics division."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261113VL230/samsung-data-center-cooling-acquisition-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-13T07:20:51.000Z",
+  "title": "Samsung reportedly in talks to acquire data center cooling firm Modine",
+  "snippet": "Samsung Electronics is in talks to acquire US data center cooling equipment maker Modine Manufacturing, Bloomberg reported on November 12, as the South Korean company expands its heating, ventilation and air…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261113VL225/samsung-sk-hynix-ssd-data-center-infrastructure-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-13T07:08:47.000Z",
+  "title": "China's eSSD order opens up US market opportunity for Samsung, SK Hynix",
+  "snippet": "Samsung Electronics and SK Hynix are redirecting some enterprise solid-state drive (eSSD) supplies originally intended for Chinese customers to US cloud service providers (CSPs), following order reductions by major…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261113VL229/samsung-ai-chip-manufacturing-2028-2nm.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-13T06:44:47.000Z",
+  "title": "Samsung reportedly wins more AI chip orders from US cloud firms",
+  "snippet": "Samsung Electronics has reportedly secured new AI chip manufacturing orders from major US cloud service providers for a second consecutive quarter, with commercial shipments expected to begin in 2028 as tight capacity…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261113VL228/dram-cxmt-market-ai-server-automotive.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-13T06:43:49.000Z",
+  "title": "CXMT targets higher-value DRAM market with AI server memory, LPDDR6 breakthroughs",
+  "snippet": "Chinese DRAM maker ChangXin Memory Technologies (CXMT) is expanding into higher-value memory markets, introducing DDR5 server modules, mass-produced LPDDR6 chips, and automotive DRAM at IC China 2026, which opened on…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261113PD238/acer-education-management-taiwan-business.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-13T06:30:00.000Z",
+  "title": "Acer targets education market with AI teaching assistants and agents",
+  "snippet": "Acer is expanding its smart-campus business with the unveiling of a classroom-of-the-future platform at the 2026 IT Month and EdTech Taiwan trade show, spanning AI teaching assistants, AI agents and a smart-campus…"
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=175315",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-13T05:00:00.000Z",
+  "title": "Why Quince is bringing on more third-party brands",
+  "snippet": "Quince continues to expand beyond private label with curated brands in beauty, wellness, home and lifestyle."
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=175335",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-13T05:00:00.000Z",
+  "title": "Why brands like Anthropologie are commissioning creator-created shows instead of posts",
+  "snippet": "Inside brands' move from booking creators to green-lighting shows."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261113VL201/robot-taiwan-chips-manufacturing-electronics.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-13T03:57:05.000Z",
+  "title": "Exclusive: Made in Britain, enabled by Taiwan &mdash; the hidden dependencies behind critical chips",
+  "snippet": "Imagine a maintenance robot operating inside a fusion reactor, exposed to temperatures reaching 600 degrees Celsius and intense radiation, with an expected service life of 25 years. Developing electronics capable of…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261113VL219/samsung-hbm-packaging-production-capacity.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-13T03:46:11.000Z",
+  "title": "Samsung expands HBM packaging at Onyang as Cheonan runs short of space",
+  "snippet": "Samsung Electronics is expanding its high-bandwidth memory (HBM) packaging operations in South Korea as its Cheonan campus runs short of space, prompting the company to develop nearby Onyang into another major…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261113PD234/samsung-google-smart-glasses-2026-camera.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-13T03:43:20.000Z",
+  "title": "Samsung launches 30 AI glasses with Google and eyewear brands",
+  "snippet": "Samsung Electronics has unveiled 30 AI smart-glasses models developed with Google, Gentle Monster and Warby Parker, marking its entry into the AI smart-glasses market. The Intelligent Eyewear lineup is set to launch in…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261113VL200/industrial-business-silicon-manufacturing-region.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-13T03:22:26.000Z",
+  "title": "Analysis: Beyond silicon, North East England's semiconductor revival confronts an old industrial dilemma",
+  "snippet": "In a business incubator at County Durham's NETPark, the future of Britain's semiconductor industry was being discussed by people whose technologies rarely feature in global chipmaking headlines. Some develop radiation…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261113PD224/apple-iphone-duo-foldable-smartphone-huawei.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-13T03:16:39.000Z",
+  "title": "Apple's iPhone Duo stumbles in China over app glitches and falling resale prices as Huawei dominates",
+  "snippet": "Apple's first foldable smartphone, the iPhone Duo, is struggling to gain traction in China, the world's largest foldable phone market. Quality concerns, falling resale prices and compatibility problems with major…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261113PD235/nvidia-ceo-jensen-huang-policy-business.html?chid=10",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-13T02:54:41.000Z",
+  "title": "Former Nvidia CEO Jensen Huang agrees to testify before Congress",
+  "snippet": "Nvidia founder and former CEO Jensen Huang has agreed to appear before the US House of Representatives ahead of the holiday break, addressing export controls and related controversies. Several senior lawmakers had…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261113VL217/sk-hynix-hbm4-production-packaging-samsung.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-13T02:18:28.000Z",
+  "title": "SK Hynix's HBM4 yield tops 70% as Samsung expands chip packaging capacity",
+  "snippet": "SK Hynix's sixth-generation high-bandwidth memory (HBM4) production yield has reportedly surpassed 70%, Chosun Biz reported on November 12, citing semiconductor industry sources, as rival Samsung Electronics moves ahead…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261113PD204/asus-market-pc-2027-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-13T02:12:39.000Z",
+  "title": "Asus expects the 2027 PC market to shrink 10&ndash;15% as memory costs bite",
+  "snippet": "Asus has turned cautious on the 2027 PC market, forecasting a 10–15% full-year decline as memory prices surge, end-user demand cools, and global regulation of data-center construction tightens. The company expects the…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261113PD202/compal-sales-subsidiary-business-cloud.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-13T01:54:59.000Z",
+  "title": "Compal splits server R&D and sales into subsidiary",
+  "snippet": "Compal Electronics will transfer the research and development and sales operations of its server-related Infrastructure Solutions Business Group (ISBG) to its wholly owned subsidiary Fusionite Corporation, while…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/itc-foods-right-shift-clocks-300-pc-growth-plans-quarterly-format-launches-to-expand-40-plus-nutrition-portfolio/135760667",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-13T01:40:00.000Z",
+  "title": "ITC Foods’ Right Shift clocks 300 pc growth, plans quarterly format launches to expand 40-plus nutrition portfolio",
+  "snippet": "The launch of Right Shift by ITC Foods marks a significant step toward catering to health-conscious consumers aged 40 and above. With reported growth nearing 300% since its inception, the brand is positioned to…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/amazon-bazaar-emerges-as-key-player-in-indias-value-commerce-market-meesho-and-shopsy-compete-report/135763122",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-12T09:24:02.000Z",
+  "title": "Amazon Bazaar emerges as key player in India's value-commerce market, Meesho and Shopsy compete: Report",
+  "snippet": "Amazon Bazaar offers products priced below Rs 500, with a majority listed below Rs 300. The platform has more than 30,000 sellers and over 3 crore listed products, with more than 65 per cent of orders coming from Tier-2…"
+ },
+ {
+  "id": "PYMNTS Data::CBMizAFBVV95cUxNc1dFcGN3emo0bnJ6dDlZN3RLUWh5dVUwaDZ4blI2ajVzYnFFUVF0Rko1b2RjNnY2blh2RC1Bek1wNWF3RXhaWmZuQjF1YXQ4RUpmNFl3d1VMWnltTDBKYnctajAxbnF5N1JVdTh3NjNRX1dEN3EycVN2Ul95WHpMX0pieENyNEVBRC1tRkh1UzhMUFRBLXpPZGZfd3BRZzRUSGlkMFdQUnNBREUwQjZYNjRjT0RQZ25sTnVfQ2cyN3ZQbi1fSUQxaF9YR3Q",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-12T09:04:47.000Z",
+  "title": "CFOs Can Cut Growth Spending in 90 Days. What Gets Them Investing Again?",
   "snippet": ""
  }
 ]
