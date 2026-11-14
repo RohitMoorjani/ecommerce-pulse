@@ -7715,5 +7715,40 @@
  "DigiTimes::https://www.digitimes.com/news/a20261113PD245/taiwan-nvidia-jensen-huang-ceo-acer.html": {
   "keep": false,
   "publishedAt": "2026-11-14T03:40:57.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261112PD247/launch-plant-electricity-demand-management.html?chid=10": {
+  "keep": false,
+  "publishedAt": "2026-11-14T17:59:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261112PD242/packaging-ai-applications-foxconn-automotive-training.html": {
+  "keep": false,
+  "publishedAt": "2026-11-14T17:59:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261112VL210/hoya-euv-photomask-samsung-2027.html": {
+  "keep": false,
+  "publishedAt": "2026-11-14T17:57:00.000Z"
+ },
+ "Inc42::https://inc42.com/?p=580315": {
+  "keep": false,
+  "publishedAt": "2026-11-14T14:09:47.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261112PD220/demand-pc-shipments-market-revenue.html": {
+  "keep": false,
+  "publishedAt": "2026-11-14T13:01:26.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261112PD249/pegatron-electronics-growth-2027-recovery.html": {
+  "keep": false,
+  "publishedAt": "2026-11-14T12:58:53.000Z"
+ },
+ "PYMNTS Data::CBMixwFBVV95cUxQTjJ0QjVpelBlWS1pRGMxZk1RVGRUb2ZLRlpSMXZVVnVDLVJDeUF5aEJuWTBCS0hxclNueW9TTlFCeS1zcWt6cFpJVTQ2V0FQS1B6QlE4M3Y4RTBkUFhwTEdrMG1QYWplRVNuUUFfd3pwQ3Jab2tXVUY0RTN6bk5LRGxDYktXakhqU0lpVXJWTmdoTU9kV2NxTnZFakdiaFRHT1QzcjlqUEF2X21JWE5lNHZQa3JIWVNiaUwtZ0I0VkI4dTVDLXp3": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Amazon takes Alexa for Shopping to 15 countries and opens it to text-based shopping",
+  "short_headline": "Amazon rolls Alexa shopping out to 15 countries",
+  "takeaway": "Amazon is scaling AI shopping assistance globally; we should check how our listings and content surface in Alexa answers.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-14T01:15:06.000Z"
  }
 }
