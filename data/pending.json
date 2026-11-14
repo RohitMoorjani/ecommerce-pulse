@@ -1,34 +1,18 @@
 [
  {
-  "id": "Inc42::https://inc42.com/?p=580218",
-  "source": "Inc42",
+  "id": "Modern Retail::https://www.modernretail.co/?p=175319",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-14T05:00:00.000Z",
+  "title": "The in-store shopping experience is broken. Can we fix it?",
+  "snippet": "Stores still drive retail sales, but self-checkout, locked items and inventory gaps frustrate shoppers. The Modern Retail Podcast breaks down how retailers are attempting to fix these issues."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261113PD245/taiwan-nvidia-jensen-huang-ceo-acer.html",
+  "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-13T22:09:36.000Z",
-  "title": "SoftBank Offloads Meesho Shares Worth ₹1,855 Cr",
-  "snippet": "Japanese tech investor SoftBank yesterday offloaded 7.6 Cr shares of listed ecommerce giant Meesho in a block deal worth ₹1,885.2…"
- },
- {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364096",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-13T21:03:08.000Z",
-  "title": "Asics uses AI-powered drones to recover misplaced inventory 60% faster",
-  "snippet": "Asics America Corp. is using autonomous drones to find misplaced merchandise at its primary North American distribution center, a move the company says is helping it curb the risk of unfulfilled orders. The technology…"
- },
- {
-  "id": "PYMNTS Data::CBMitwFBVV95cUxOLVkyZ3dqNUtiRGVSenZyc29oTjFBNEpKeTJiVi1uLUxlMXhxNkNMZVg1Z3pOMWlNdGhBLUV6VDRiM0VwOTFjd1ZoNFIzaG5zRjVWWkx4Z3RJWUJXRTF4R0dKd3VIaVNELTlfOWJzaHp1SFpWTVpwQ2dlR0VTdl9FY1JISUp5eHh0TnFoVlRKdlBxdXBmS0VhSVFaSUJBU095R25ZMTFNOHd3ZkpnNGNhN0xDeEZhSVU",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-13T20:35:05.000Z",
-  "title": "Amazon Targets Google and Walmart With Plan to Catalog Every Product Online",
-  "snippet": ""
- },
- {
-  "id": "NRF::CBMihgFBVV95cUxNb0N6cFpCT214NWFKV2pNbDRpMVM0UUhKWUFzWUQzZDVIRVFRc3ZtNW5ILTF6ei1mYktaeVdMdWF5SU13WVNMOE1hSXhma21ILTlhaU5uWDVNMTJ5NnNfRHBvQ2FpRXdEZ0FTeGFrQ2oyYWo1TVFCYkxCeDlHdmhOVU9nSERfZw",
-  "source": "NRF",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-12T08:00:00.000Z",
-  "title": "Unwrapping the impacts of weather on Holiday 2026 shopping",
-  "snippet": ""
+  "publishedAt": "2026-11-14T03:40:57.000Z",
+  "title": "Huang's resignation unlikely to disrupt Taiwan's AI industry, Acer founder says",
+  "snippet": "Jensen Huang's resignation as Nvidia's CEO is unlikely to disrupt Taiwan's technology industry or the broader development of artificial intelligence, Acer founder Stan Shih said. His comments signal that Taiwan's chip…"
  }
 ]
