@@ -1,23 +1,4 @@
 {
- "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363427": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Walmart opens fifth automated fulfillment center, 900,000 sq ft, in Stockton, California",
-  "short_headline": "Walmart opens automated Stockton fulfillment center",
-  "takeaway": "Walmart is adding storage and fulfillment capacity, which may help it make faster delivery promises on electronics that compete with our store.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-09T22:42:17.000Z"
- },
- "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363424": {
-  "keep": false,
-  "publishedAt": "2026-10-09T21:15:15.000Z"
- },
- "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363415": {
-  "keep": false,
-  "publishedAt": "2026-10-09T20:38:21.000Z"
- },
  "Retail TouchPoints::CBMixgFBVV95cUxNRUt5WWV2YVFjZU5OT3FleHRNUFl3bjBJbVpjTm03cVlRQXYwUElTam9UNjFfZFUzQU5qbjdFa2tfRlRqS1NvSlNfMlVLcFVRRzBMOTgxemZHNWJVMXo5dk0teWRsZEVnWFV2ZnhNUFAyX2x4ZHpXRDJMNW9RdnU0Rm1ZeEZoRl85SWkyNnNleEo2Z205NFR5Tlc0UWxTS0tZZHJYRDhvOWJlcEtsOU5INnVMT3Z5WWxacV9iRE9RRjNSUS1WbEE": {
   "keep": false,
   "publishedAt": "2026-10-10T08:35:13.000Z"
@@ -63,10 +44,6 @@
  "Inc42::https://inc42.com/?p=575466": {
   "keep": false,
   "publishedAt": "2026-10-10T10:31:17.000Z"
- },
- "PYMNTS Data::CBMizAFBVV95cUxPTVhKandTdHR0dDBwNmxiaTBDQ3JiSlVseEpwYktjd2FabkRTcVlSTVdycERBZGljVldudzVwWG15Ym1GY2xRTUFCd2dya3A4YlNCUEtDWG5SSldIWXZwZEVCZG83ZkZYUXJva1BkV1l2U3VCbWFQNnpucTJaUEc2bGdYRjUxbzlfRWQxTWR0SjlXMzcwMXRuakNMbFdpV3FXcU9ZYXJJcGwwaDg4RDRZYTUzQ0hudWxHUUxDXzBtdVlzQ2pCUlNTUTdqdlc": {
-  "keep": false,
-  "publishedAt": "2026-10-09T22:29:55.000Z"
  },
  "DigiTimes::https://www.digitimes.com/news/a20261008PD238/production-manufacturing-pc-ipc-california.html": {
   "keep": false,
@@ -272,17 +249,6 @@
  "ETRetail::https://retail.economictimes.indiatimes.com/news/industry/indias-office-hubs-turn-into-retail-hotspots-as-developers-tap-captive-shoppers/134888271": {
   "keep": false,
   "publishedAt": "2026-10-12T09:22:04.000Z"
- },
- "Reuters::CBMiwwFBVV95cUxNTnZqam92b2tEcU5LcTM5WG5mYWFuUDgzdm1aY0R6azEtNlhWM0dGVkFIcGt4aWdiMmxBREhHdzRkT2JRN0E4X0QzeUF5NmxLSDlBXzJlMEdvWDBkWWZHYmRrVjdvdlkyYnM3MWV6dXdHTEJvalNpYVkyOFl6UG40Q09Oc1RRLW9PSjVkZTllcUtCbVlVZHAxS3dIQTd5XzRxZXhBbFh1bldrYXlKZFo3UklraUd4WWx1NWNMaHhuNUd3a2c": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "Amazon shuffles Alexa leadership following high-end tablet release",
-  "short_headline": "Amazon reshuffles Alexa leadership after tablet launch",
-  "takeaway": "Changes in Alexa leadership may shift Amazon’s assistant and device strategy; we should watch how it affects shopping on Amazon.",
-  "importance": 2,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-09T21:38:16.000Z"
  },
  "InternetRetailing::https://internetretailing.net/?p=76240": {
   "keep": false,
