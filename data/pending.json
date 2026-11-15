@@ -1,34 +1,18 @@
 [
  {
-  "id": "PYMNTS Data::CBMiowFBVV95cUxOc1E4b1RPSXFtb1hqaEhXc2d0RG9NUVN6bFNuLXJNU1Z1dGlJbGpMU21IcDBaei1iU2EzX3hfeVRMZUQzOXhuZFZKQ2V2QXg0NGlwZGFyNUpYUHBQUG5JMWJlSDJHbEhydVQyRzktZ3ZEUm5wMG1zS3prTVdoUDVtOHlTdFRrekgyZHRuVll5c1VzRXhTSFl6T1l6RDNjSHdhMmRV",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-15T14:52:53.000Z",
-  "title": "CPI | Consumers Seek to Break Up Paramount-Warner Bros. Merger in New Suit",
+  "id": "Gartner::CBMiV0FVX3lxTE1fbFdVSV9oY1p0blBGR1J2SmVROTJFdVZVeFNGVnZOaExOV2VnZEIyVDZtejY3ck5oZndVQVZkanBSczJkTmJsc3J6Z1YwQlJHaDBqby1vYw",
+  "source": "Gartner",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-12T08:00:00.000Z",
+  "title": "Identify Service Delivery Models That Optimize Pricing Structures for AI-Native Tech Services Using Gartner’s TRACE Framework",
   "snippet": ""
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261112PD247/launch-plant-electricity-demand-management.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-14T17:59:00.000Z",
-  "title": "Hengs, Unitech launch 5.04MW/10.03MWh energy storage project",
-  "snippet": "Sustainable energy company Hengs Technology has partnered with printed circuit board (PCB) maker Unitech Printed Circuit Board to launch a large behind-the-meter energy storage project at Unitech's Yilan plant in…"
- },
- {
-  "id": "PYMNTS Data::CBMirwFBVV95cUxPZzhzSUJTWGkyd0ktTi03ME5ITlQydldZakpwdVNpT2lWZ3VXRXlTUUZoLXVkTFBSdjRXQVVRRzNVajJDNERrVTJxTTZBYzRhRHoxUjgyc2g1TVpTOHg1VXhhX0ZncmVUYXRNaDFpYkZURGxQQWd1MWpWejl3eVJ2WTZ0Z1FDUGVfY0FfOE9QR09aOHpONzRXLWlzblFSOVZaNnNvNWRVTk1vRG1XZ08w",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-12T17:01:03.000Z",
-  "title": "Making Loyalty Work For Small Businesses",
-  "snippet": ""
- },
- {
-  "id": "Capital One Shopping Research::CBMiUkFVX3lxTE14LVZwV3ExMXhBajJVdTNEdlpraTgwWkU1MWJVNTFWWE8xc0lXM2I1ZWZuVFBhWllGTE5Pa1N3Rk51akRqRFVQZ2xURG91WTFxZkE",
-  "source": "Capital One Shopping Research",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-02T08:00:00.000Z",
-  "title": "Capital One Shopping Research: Retail Data & Analysis",
+  "id": "Reuters::CBMiswFBVV95cUxNUVZoWU1fQUd2Y1M2Qnl1T2JaMTkwaXBkaDIwWjVHejZoQmdDUnVzUVlSWDVsWW1pVDRVcXQ2ZTdrRTRiMDdMNWJDS3Atem91bUpDMnFLUkZ6NjhjaTliYWV1ODRLMnk0Slh3Wk5wNGtHTDhvaEZpTFIyUlVpQ2tNdTUyb2ZLbEZGOHlTZWRJNzVScUpIS3V5a1FacGwzby00RURBa2htZFFqZmw3Z2pRS2NDWQ",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-11T10:43:00.000Z",
+  "title": "Stocks end higher as CoreWeave results ease AI spending worries",
   "snippet": ""
  }
 ]
