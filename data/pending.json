@@ -1,18 +1,130 @@
 [
  {
-  "id": "Gartner::CBMiV0FVX3lxTE1fbFdVSV9oY1p0blBGR1J2SmVROTJFdVZVeFNGVnZOaExOV2VnZEIyVDZtejY3ck5oZndVQVZkanBSczJkTmJsc3J6Z1YwQlJHaDBqby1vYw",
-  "source": "Gartner",
+  "id": "Counterpoint Research::CBMi1AFBVV95cUxQMFlIMFdBcGpFTXNYX1BNVnJkZFU0WUZDaUxxTklKdUV0UjRPal9IdEFzVEZIalgyQkRaMmdaUzBrUk1ydkpGUDNqVWY0T0dzdUItRExuX0dUUl9xSDBFcURiVENldFV2dG9UOWN6SWhTRDk5N1dlUGZ2WTgyTHp4THlKN1l2OEVPbkZhaXNNblkydmRORjYzZFZnUkxtczlDRWNiWFNobHhidU5WbGFpc1JMcjFiZUx5WVM0UzNBclMtajYtWDVMN1dFVXNsR1Z6MHZINg",
+  "source": "Counterpoint Research",
   "sourceType": "Analyst",
-  "publishedAt": "2026-11-12T08:00:00.000Z",
-  "title": "Identify Service Delivery Models That Optimize Pricing Structures for AI-Native Tech Services Using Gartner’s TRACE Framework",
+  "publishedAt": "2026-11-16T06:12:27.000Z",
+  "title": "Survey: India’s Laptop Buyers Prioritize Performance as AI Capabilities and Snapdragon Gain Traction",
   "snippet": ""
  },
  {
-  "id": "Reuters::CBMiswFBVV95cUxNUVZoWU1fQUd2Y1M2Qnl1T2JaMTkwaXBkaDIwWjVHejZoQmdDUnVzUVlSWDVsWW1pVDRVcXQ2ZTdrRTRiMDdMNWJDS3Atem91bUpDMnFLUkZ6NjhjaTliYWV1ODRLMnk0Slh3Wk5wNGtHTDhvaEZpTFIyUlVpQ2tNdTUyb2ZLbEZGOHlTZWRJNzVScUpIS3V5a1FacGwzby00RURBa2htZFFqZmw3Z2pRS2NDWQ",
-  "source": "Reuters",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261116PD217/flytech-revenue-2026-pc-profit.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-16T05:41:36.000Z",
+  "title": "Industrial PC maker Flytech's payment integration orders surpass 2026 revenue",
+  "snippet": "Industrial PC maker Flytech said its payment integration orders on hand have already surpassed the company's full-year 2026 payment product revenue, boosting chairman Tai-Seng Lam's confidence in continued revenue and…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261116VL209/india-cnc-equipment-electronics-manufacturing.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-16T05:36:51.000Z",
+  "title": "India touts homegrown 2-micron 5-axis CNC machines as it seeks local semiconductor equipment",
+  "snippet": "India's electronics and IT minister Ashwini Vaishnaw said on November 14 that the country has developed indigenous five-axis precision CNC machines with 2-micron accuracy, and called for India to build its own machinery…"
+ },
+ {
+  "id": "Circana::CBMitAFBVV95cUxNUU5VUFpGekZUblBRMV92by1KbVVNQnZzQ1BGajFsVy01cEZKa2doUWpMU0lsZnlNd2hCUjZHWkJ3Z0Jsc2JzamxfU3J2aDdrTmtxUEM5dVZleHRzZmthZ1ZqbEdfS2VILWdrOGdBTURPYzNFNERRaG1LNmJLYkNuR0ZvaTVzUlRLQjNfT2Q0dF8ydnJpZnM1aUtqWDdoUmtrVGdLZzMwNjNodEs3ZHVlUG9DZUM",
+  "source": "Circana",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-16T05:00:19.000Z",
+  "title": "Australia’s toy sales jump 11% as Christmas shopping season gets underway, says Circana",
+  "snippet": ""
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=174981",
+  "source": "Modern Retail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-11T10:43:00.000Z",
-  "title": "Stocks end higher as CoreWeave results ease AI spending worries",
+  "publishedAt": "2026-11-16T05:00:00.000Z",
+  "title": "How Celsius doubled down on sports marketing campaigns in 2026",
+  "snippet": "Celsius expands 2026 sports marketing with ESPN College GameDay, F1, marathons and fitness events as the brand positions itself as a functional energy drink."
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=175222",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-16T05:00:00.000Z",
+  "title": "Saucony sees Europe as a ‘key growth engine’ as it opens more international stores",
+  "snippet": "American athletic brand Saucony is working to own the European running market through flagships, run clubs and races."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261116PD204/samsung-sk-hynix-labor-plant-wafer.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-16T04:19:26.000Z",
+  "title": "Samsung, SK Hynix face labor crunch threatening chip plant timelines",
+  "snippet": "Samsung Electronics and SK Hynix are advancing semiconductor investments in Pyeongtaek, Yongin, and Gwangju, but securing skilled construction workers on schedule has emerged as a key variable for their expansion plans…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261116PD210/dram-samsung-euv-winbond-sk-hynix.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-16T04:05:21.000Z",
+  "title": "Taiwan's Nanya and Winbond adopt EUV, challenging South Korean DRAM dominance",
+  "snippet": "Samsung Electronics, SK Hynix, and Micron are shifting capacity toward high-bandwidth memory (HBM) and server DRAM, tightening supplies of conventional DRAM while driving orders and profits higher for Nanya Technology…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261116VL210/kaynes-technology-profit-packaging-component-manufacturing.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-16T03:35:00.000Z",
+  "title": "India's Kaynes signs chip packaging JV with US-based Vishay as quarterly profit falls 66%",
+  "snippet": "Kaynes Technology India is pulling a US component maker into its semiconductor back-end business. The deal came two days before the Indian electronics manufacturer reported a September quarter in which revenue barely…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/consumer-spending-on-itc-acquired-brands-savlon-nimyle-to-double-in-medium-term/135870616",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-16T02:47:20.000Z",
+  "title": "Consumer spending on ITC-acquired brands Savlon, Nimyle to double in medium term",
+  "snippet": "ITC Ltd believes that spending on its recently bought health brands, Savlon and Nimyle, will top Rs 2,000 crore. Both brands have really taken off since the acquisition, with Savlon even branching out into new products."
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261116PD211/nvidia-technology-samsung-roadmap-ceo.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-16T02:22:05.000Z",
+  "title": "Post-Jensen Nvidia sparks South Korean chip, battery rethink",
+  "snippet": "With Nvidia entering the post-Jensen Huang era, changes to its existing strategy and roadmap could force South Korea's semiconductor and battery industries to reassess their plans. Potential impacts include bottlenecks…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261116VL205/tcl-csot-glass-substrate-panel-packaging.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-16T02:17:13.000Z",
+  "title": "TCL CSOT unveils glass-core substrate prototypes as Chinese panel makers push into chip packaging",
+  "snippet": "TCL CSOT displayed three glass-core substrate prototypes for semiconductor packaging at its annual DTC 2026 event in Wuhan on November 13, joining BOE and other Chinese panel makers testing whether their…"
+ },
+ {
+  "id": "PYMNTS Data::CBMimAFBVV95cUxQMk5IN0ZvWjcxX2hDMFJQTHhpVzZPQlZ4T1NIdzZVWlFSMzQwNzB1TC13R3VFUUZONDR1ay1zNERJTG1rYUlYZERMZEYwTmt4TC1fNU1lNEZ3dEtJbDhSMkdvTDJjLVctN0JodWpRZDRjclVQTUdqM3J3S01YWDlGUGliZ091R3lWX193YzlyeFhhWHl1TlRfWg",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-16T01:53:16.000Z",
+  "title": "Amex Projects 14-Year High for Small Business Holiday Spend",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261113VL215/india-roundup-capacity-electronics-plant-production-testing.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-15T23:21:09.000Z",
+  "title": "India roundup: India's tech ambitions accelerate as semiconductor bottlenecks and supply-chain risks mount",
+  "snippet": "India is accelerating semiconductor, electronics, and AI investments, but testing bottlenecks, rising costs, workforce cuts, factory safety concerns, and project delays expose growing challenges to its manufacturing…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261113VL213/manufacturing-industrial-materials-production-region.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-15T23:20:51.000Z",
+  "title": "Analysis: South Wales built a semiconductor powerhouse&mdash;but the rules of manufacturing are changing",
+  "snippet": "South Wales has spent decades building one of Britain's most distinctive semiconductor manufacturing ecosystems. Rooted in a long history of metals processing and industrial production, the region now supplies…"
+ },
+ {
+  "id": "NIQ::CBMioAFBVV95cUxQRUF4eVcwc0JvUFVfQlR3UGR3RDFQODNKNnZuZWdrVlNxSWVEc3RjM3RSSDVCTW1PVVc4ZXF5LXF3cTBwenFZTnM0czVENTluVTI4Nmxlbk53T0UtMkdsdVYxM3haTldRLTFzX2NBM2xIMDBDYW1oWjZ6czJZcVdBcGJnMW8tbHB3SnFkajg1TUR1UGFOVWtkcS0zVmpMbTlx",
+  "source": "NIQ",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-11T05:11:41.000Z",
+  "title": "Europe Edition 2026/2027: Navigate Europe’s markets with the latest purchasing power and digital maps",
   "snippet": ""
  }
 ]
