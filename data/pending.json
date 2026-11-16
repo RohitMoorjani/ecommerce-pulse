@@ -1,130 +1,210 @@
 [
  {
-  "id": "Counterpoint Research::CBMi1AFBVV95cUxQMFlIMFdBcGpFTXNYX1BNVnJkZFU0WUZDaUxxTklKdUV0UjRPal9IdEFzVEZIalgyQkRaMmdaUzBrUk1ydkpGUDNqVWY0T0dzdUItRExuX0dUUl9xSDBFcURiVENldFV2dG9UOWN6SWhTRDk5N1dlUGZ2WTgyTHp4THlKN1l2OEVPbkZhaXNNblkydmRORjYzZFZnUkxtczlDRWNiWFNobHhidU5WbGFpc1JMcjFiZUx5WVM0UzNBclMtajYtWDVMN1dFVXNsR1Z6MHZINg",
-  "source": "Counterpoint Research",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-16T06:12:27.000Z",
-  "title": "Survey: India’s Laptop Buyers Prioritize Performance as AI Capabilities and Snapdragon Gain Traction",
-  "snippet": ""
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261116PD217/flytech-revenue-2026-pc-profit.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-16T05:41:36.000Z",
-  "title": "Industrial PC maker Flytech's payment integration orders surpass 2026 revenue",
-  "snippet": "Industrial PC maker Flytech said its payment integration orders on hand have already surpassed the company's full-year 2026 payment product revenue, boosting chairman Tai-Seng Lam's confidence in continued revenue and…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261116VL209/india-cnc-equipment-electronics-manufacturing.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-16T05:36:51.000Z",
-  "title": "India touts homegrown 2-micron 5-axis CNC machines as it seeks local semiconductor equipment",
-  "snippet": "India's electronics and IT minister Ashwini Vaishnaw said on November 14 that the country has developed indigenous five-axis precision CNC machines with 2-micron accuracy, and called for India to build its own machinery…"
- },
- {
-  "id": "Circana::CBMitAFBVV95cUxNUU5VUFpGekZUblBRMV92by1KbVVNQnZzQ1BGajFsVy01cEZKa2doUWpMU0lsZnlNd2hCUjZHWkJ3Z0Jsc2JzamxfU3J2aDdrTmtxUEM5dVZleHRzZmthZ1ZqbEdfS2VILWdrOGdBTURPYzNFNERRaG1LNmJLYkNuR0ZvaTVzUlRLQjNfT2Q0dF8ydnJpZnM1aUtqWDdoUmtrVGdLZzMwNjNodEs3ZHVlUG9DZUM",
-  "source": "Circana",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-16T05:00:19.000Z",
-  "title": "Australia’s toy sales jump 11% as Christmas shopping season gets underway, says Circana",
-  "snippet": ""
- },
- {
-  "id": "Modern Retail::https://www.modernretail.co/?p=174981",
-  "source": "Modern Retail",
+  "id": "Retail Dive::https://www.retaildive.com/news/nike-turnaround-fatigue-sportswear-footwear-innovation-pipeline/874762/",
+  "source": "Retail Dive",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-16T05:00:00.000Z",
-  "title": "How Celsius doubled down on sports marketing campaigns in 2026",
-  "snippet": "Celsius expands 2026 sports marketing with ESPN College GameDay, F1, marathons and fitness events as the brand positions itself as a functional energy drink."
+  "publishedAt": "2026-11-16T17:32:00.000Z",
+  "title": "Battling turnaround fatigue, Nike teases innovation pipeline",
+  "snippet": "A slate of upcoming products includes a revamp of the activewear giant’s training category and a new manufacturing process for its Air franchise."
  },
  {
-  "id": "Modern Retail::https://www.modernretail.co/?p=175222",
-  "source": "Modern Retail",
+  "id": "Retail Dive::https://www.retaildive.com/news/dillards-grabs-market-share-weak-sales-growth/874735/",
+  "source": "Retail Dive",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-16T05:00:00.000Z",
-  "title": "Saucony sees Europe as a ‘key growth engine’ as it opens more international stores",
-  "snippet": "American athletic brand Saucony is working to own the European running market through flagships, run clubs and races."
+  "publishedAt": "2026-11-16T17:29:00.000Z",
+  "title": "Dillard’s grabs some market share again despite weak sales growth",
+  "snippet": "In Q3 the department store eked out 1% increases in retail sales and comps compared to last year, but that beat expectations."
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261116PD204/samsung-sk-hynix-labor-plant-wafer.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-16T04:19:26.000Z",
-  "title": "Samsung, SK Hynix face labor crunch threatening chip plant timelines",
-  "snippet": "Samsung Electronics and SK Hynix are advancing semiconductor investments in Pyeongtaek, Yongin, and Gwangju, but securing skilled construction workers on schedule has emerged as a key variable for their expansion plans…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261116PD210/dram-samsung-euv-winbond-sk-hynix.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-16T04:05:21.000Z",
-  "title": "Taiwan's Nanya and Winbond adopt EUV, challenging South Korean DRAM dominance",
-  "snippet": "Samsung Electronics, SK Hynix, and Micron are shifting capacity toward high-bandwidth memory (HBM) and server DRAM, tightening supplies of conventional DRAM while driving orders and profits higher for Nanya Technology…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261116VL210/kaynes-technology-profit-packaging-component-manufacturing.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-16T03:35:00.000Z",
-  "title": "India's Kaynes signs chip packaging JV with US-based Vishay as quarterly profit falls 66%",
-  "snippet": "Kaynes Technology India is pulling a US component maker into its semiconductor back-end business. The deal came two days before the Indian electronics manufacturer reported a September quarter in which revenue barely…"
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/consumer-spending-on-itc-acquired-brands-savlon-nimyle-to-double-in-medium-term/135870616",
-  "source": "ETRetail",
+  "id": "Retail Dive::https://www.retaildive.com/news/j-crew-introduces-ai-style-advisor/874596/",
+  "source": "Retail Dive",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-16T02:47:20.000Z",
-  "title": "Consumer spending on ITC-acquired brands Savlon, Nimyle to double in medium term",
-  "snippet": "ITC Ltd believes that spending on its recently bought health brands, Savlon and Nimyle, will top Rs 2,000 crore. Both brands have really taken off since the acquisition, with Savlon even branching out into new products."
+  "publishedAt": "2026-11-16T17:09:00.000Z",
+  "title": "J. Crew introduces AI-powered Style Advisor",
+  "snippet": "The desktop digital assistant, developed in partnership with Anthropic, goes beyond individual product searches to deliver a styling experience."
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261116PD211/nvidia-technology-samsung-roadmap-ceo.html",
-  "source": "DigiTimes",
+  "id": "Retail Dive::https://www.retaildive.com/news/toy-sales-growth-adults-circana/874706/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-16T17:05:00.000Z",
+  "title": "Toy sales aren’t just about kids anymore",
+  "snippet": "U.S. dollar sales for the industry segment grew 20% in the first nine months of the year, driven by collectibles and fandom purchases."
+ },
+ {
+  "id": "Inc42::https://inc42.com/?p=580543",
+  "source": "Inc42",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-16T02:22:05.000Z",
-  "title": "Post-Jensen Nvidia sparks South Korean chip, battery rethink",
-  "snippet": "With Nvidia entering the post-Jensen Huang era, changes to its existing strategy and roadmap could force South Korea's semiconductor and battery industries to reassess their plans. Potential impacts include bottlenecks…"
+  "publishedAt": "2026-11-16T16:20:51.000Z",
+  "title": "Oil Cools, But D2C Brands See No Way Out Of Price Hikes",
+  "snippet": "Direct-to-consumer (D2C) startups have been facing mounting cost pressures since the US-Iran conflict drove up global crude prices, making it…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261116VL205/tcl-csot-glass-substrate-panel-packaging.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-16T02:17:13.000Z",
-  "title": "TCL CSOT unveils glass-core substrate prototypes as Chinese panel makers push into chip packaging",
-  "snippet": "TCL CSOT displayed three glass-core substrate prototypes for semiconductor packaging at its annual DTC 2026 event in Wuhan on November 13, joining BOE and other Chinese panel makers testing whether their…"
- },
- {
-  "id": "PYMNTS Data::CBMimAFBVV95cUxQMk5IN0ZvWjcxX2hDMFJQTHhpVzZPQlZ4T1NIdzZVWlFSMzQwNzB1TC13R3VFUUZONDR1ay1zNERJTG1rYUlYZERMZEYwTmt4TC1fNU1lNEZ3dEtJbDhSMkdvTDJjLVctN0JodWpRZDRjclVQTUdqM3J3S01YWDlGUGliZ091R3lWX193YzlyeFhhWHl1TlRfWg",
+  "id": "PYMNTS Data::CBMivwFBVV95cUxQc0NnYlM4ekd1OEZWOVBrRWhoXzkyVFViZlhONzBpbEJmV3pCc2UtVGUyRWVUUkZydFdReFhBRXdkNWN4S0JtNno1RFQ4R0J5WHgyVFctai1nWFAyN1RZbzZOWTlCTGlxaTh2OC0yNHdiOUpmOGxDMEVRYUViYlR3TTZLQW1Bc2RYMFlfZGZ4OWxsWXQ3elFGNlJyTko5TXFnd0NIVy1fN0Y0U0xMckhTSU9ocy0wdlNWYV9ZOERabw",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-16T01:53:16.000Z",
-  "title": "Amex Projects 14-Year High for Small Business Holiday Spend",
+  "publishedAt": "2026-11-16T15:32:40.000Z",
+  "title": "Apple and OpenEvidence Seek 200,000 Consumers for Health AI Study",
   "snippet": ""
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261113VL215/india-roundup-capacity-electronics-plant-production-testing.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-15T23:21:09.000Z",
-  "title": "India roundup: India's tech ambitions accelerate as semiconductor bottlenecks and supply-chain risks mount",
-  "snippet": "India is accelerating semiconductor, electronics, and AI investments, but testing bottlenecks, rising costs, workforce cuts, factory safety concerns, and project delays expose growing challenges to its manufacturing…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261113VL213/manufacturing-industrial-materials-production-region.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-15T23:20:51.000Z",
-  "title": "Analysis: South Wales built a semiconductor powerhouse&mdash;but the rules of manufacturing are changing",
-  "snippet": "South Wales has spent decades building one of Britain's most distinctive semiconductor manufacturing ecosystems. Rooted in a long history of metals processing and industrial production, the region now supplies…"
- },
- {
-  "id": "NIQ::CBMioAFBVV95cUxQRUF4eVcwc0JvUFVfQlR3UGR3RDFQODNKNnZuZWdrVlNxSWVEc3RjM3RSSDVCTW1PVVc4ZXF5LXF3cTBwenFZTnM0czVENTluVTI4Nmxlbk53T0UtMkdsdVYxM3haTldRLTFzX2NBM2xIMDBDYW1oWjZ6czJZcVdBcGJnMW8tbHB3SnFkajg1TUR1UGFOVWtkcS0zVmpMbTlx",
-  "source": "NIQ",
+  "id": "Circana::CBMiogFBVV95cUxNX3luWFRrTFNGVzdhSndCRWpnaU5KZ2xFTFJHZWlpOGQ2ZTl6TUFubGlCX2ZCTDkzeFRCZm5CQkV6NDNvMUhEODU5cDlXSGhKOF90QjFoSlg0WHNNYUZ2MEdLUlJESUlKN0RFZzlsTnhxdHZxYVVlbE5tMld5NnNtcGJ1WEdWWWdfUWxRcEloQUNLNTRfUVE2RWo4cjk1ZTZwS1E",
+  "source": "Circana",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-11T05:11:41.000Z",
-  "title": "Europe Edition 2026/2027: Navigate Europe’s markets with the latest purchasing power and digital maps",
+  "publishedAt": "2026-11-16T15:26:59.000Z",
+  "title": "October 2026 Retail Sales +1.1%: Shoppers Choose Moments",
+  "snippet": ""
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=175360",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-16T15:00:00.000Z",
+  "title": "‘Diversify your markets’: Learnings from a Canadian brand rebuilding its US business",
+  "snippet": "In mid-August, Fairechild, a 9-year-old rainwear company based in Dartmouth, Nova Scotia, paused U.S. shipping due to trade tensions. It reopened its U.S. business last week, which has brought new challenges the company…"
+ },
+ {
+  "id": "Circana::CBMitwFBVV95cUxOa2ZORDRjSlRybzhOck1OMmdVeEtQMGZGODhLdVVfZkRLZ2FBVl8xOXl0TzJmUk1xWDRLLVEtQkdmREZTdHdVdTJYM2pwYWU3bGxIWVlXdDhoemVTN3VkZFplQ1N5NFlJS1dENW1kQ19yVHJRZW5odGtqV1dOZWZ2OF9Bcm9jNnk1aEJEYXBlMC1TbmlzN0U2d3dOU1NBaHBwbWpGMFBrZklMa1pNVmF0SmdrQVUxdWs",
+  "source": "Circana",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-16T14:27:09.000Z",
+  "title": "Best Buy Gateway: Clearer Supplier Performance Insights",
+  "snippet": ""
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=167010",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-16T14:01:37.000Z",
+  "title": "BMX SolidSafe Duo 5K Review: A Smart Spin On Portable Power",
+  "snippet": "A natural companion for users who want additional power without adding unnecessary bulk"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=167017",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-16T14:01:30.000Z",
+  "title": "Trade-In Interest Outpaces Retailer Offers Among U.S. Shoppers",
+  "snippet": "Alchemy research finds 78% of consumers consider trade-in options, but only half were offered one during their most recent purchase"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=167051",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-16T14:00:57.000Z",
+  "title": "Research: Global Tablet Shipments Fall 23% In Q3",
+  "snippet": "Omdia reports 32 million units shipped, the market’s lowest quarterly total in nearly three years, as supply constraints weigh on vendors"
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/asics-boosts-inventory-management-using-warehouse-drones/874481/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-16T14:00:00.000Z",
+  "title": "Asics boosts inventory management using warehouse drones",
+  "snippet": "By using the technology, the footwear brand improved misplaced inventory recovery while slashing manual labor hours and increasing counting frequency."
+ },
+ {
+  "id": "Dell Blog::https://www.dell.com/en-us/blog/one-view-of-your-infrastructure-from-server-to-rack",
+  "source": "Dell Blog",
+  "sourceType": "Competitor Newsroom",
+  "publishedAt": "2026-11-16T13:45:00.000Z",
+  "title": "One View of Your Infrastructure, from Server to Rack",
+  "snippet": ""
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76557",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-16T11:42:01.000Z",
+  "title": "Amazon’s Black Friday crown looks secure, but Boots could be this year’s breakout success",
+  "snippet": "With Black Friday less than two weeks away (27 November), data suggests that Amazon and Boots are likely to emerge as two of the big winners. The post Amazon’s Black Friday crown looks secure, but Boots could be this…"
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/spons/how-much-warehouse-automation-do-you-really-need-and-should-you-build-or-o/874469/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-16T10:00:00.000Z",
+  "title": "How much warehouse automation do you really need, and should you build or outsource?",
+  "snippet": "Discover how to right-size warehouse automation — and decide whether to build or outsource."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/spons/the-shrinking-store-how-retailers-and-restaurants-are-doing-more-with-less/874147/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-16T10:00:00.000Z",
+  "title": "The shrinking store: How retailers and restaurants are doing more with less square footage",
+  "snippet": "The box is getting smaller. The revenue target isn’t. Here’s how brands are closing the gap."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/spons/the-mall-advantage-how-shopping-centers-fuel-retail-growth/873797/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-16T10:00:00.000Z",
+  "title": "The mall advantage: how shopping centers fuel retail growth",
+  "snippet": "Physical stores drive brand discovery, digital demand and operating efficiencies well beyond the register."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/spons/holiday-retails-ai-test-from-skeptical-shoppers-to-agents-they-trust-afte/874054/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-16T10:00:00.000Z",
+  "title": "Holiday retail’s AI test: From skeptical shoppers to agents they trust after checkout",
+  "snippet": "63% of retailers run AI in customer communications. Only 26% of shoppers think it helps. Here’s why."
+ },
+ {
+  "id": "Inc42::https://inc42.com/?p=580491",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-16T09:15:12.000Z",
+  "title": "Eternal Rethinks 2030 Deadline For Fully Electric Delivery Fleet",
+  "snippet": "Zomato and Blinkit parent Eternal is reconsidering its target of switching to a fully electric delivery fleet by 2030, citing…"
+ },
+ {
+  "id": "PYMNTS Data::CBMiogFBVV95cUxONmp6b2oyXzZLV3QzNnJFZmM0emhEbDBtNkxiTmtvQjFlOWZLRDRiU1NnSXpSdjgwQ2Jka1puQzJJdWhKa05mcE9ldmhaaFA3VjQ1LU51NlkzdWkxT0lqd29TSWdxd0FsMV9fMVpwTkhlZV8xWW1ZcWh2TU9hcng5S212TkZ2U1oteXVnV1VDMGREMk9QUUU5aXJaQVZ6cDZCS1E",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-16T09:07:40.000Z",
+  "title": "Nuvei Says Merchants Need Their Own AI Shopping Agents",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS Data::CBMirAFBVV95cUxOZ2JUNHlsODNFM2pNLTdaVHd1U2ZpTmFScWdtdVlJYlNCbllhNVFFZ0xCS3BmblZSeVoxc2lTcjA3Y0VldHdWVmxIRnhrdzZWdThZYTNIcVdGRWlBc2stT05vSXRoV3NGekMwUmVrM1RZU2hLaWUwSFlDWXVmYndJc19HQXBwazR5R3dxNl9lMXlmRHV1MWVmbTFBTnlJOUVuSzR5b2h3ZGpMMTdJ",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-16T09:07:26.000Z",
+  "title": "Google and Nvidia Bring Banks to AI’s Checkout Test",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS Data::CBMinwFBVV95cUxQX2UyWkU5OVhUYU9Cbkhhdi1RQlFYV256ZzRMeTVVTXdvR01RYmVsaGFidlhRc09TTHlQNm5ROUFiT0lZdXZ0WXdMNHN0UXJqLTVQZm9HZjQ0Nk1zMVJPMGI5YlVMeG16ZHp0TlRsMDNwTE1WS2JFd0N0eklJbFB6SS1kbE0xRVU4RVlNb1YtdjV0NnhScDZaTERRekpOUWc",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-16T09:02:26.000Z",
+  "title": "Gen Z Turns to AI to Navigate Homebuying",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261116PD207/getac-2027-growth-disruption-business.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-16T03:08:05.000Z",
+  "title": "Getac sees limited US election impact on defense orders, forecasts 2027 growth",
+  "snippet": "Getac Holdings expects limited disruption to its US defense-related business from the Democratic Party's midterm election victory, citing an approved multiyear defense plan. The rugged-computer maker also forecasts…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/consumer-electronics/air-purifier-sales-surge-as-delhi-ncr-aqi-continues-to-deteriorate/135870425",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-16T02:39:36.000Z",
+  "title": "Air purifier sales surge as Delhi-NCR AQI continues to deteriorate",
+  "snippet": "Air purifier sales in India have surged due to worsening pollution levels across various regions in Delhi-NCR. Consumers are increasingly adopting air purifiers as essential household items rather than seasonal…"
+ },
+ {
+  "id": "Reuters::CBMiygFBVV95cUxOWFBaanFxZDRLWkM3UWNHMHYwX181VlJINXBhMkFuZC01bzZScmgxUFdiZFV0V00tRlJiQk1LbFNfbE83TXFQUzBvZ1lqYmN4ZjBZRHpxQk5GUzc5bGhqM2tzdWdvR1RSVmd3eGQxLWR5TEZMcTRJVExDYkMtSUlDYWNMMkJ2WXlZa29EcmJ5QVo4STFsbTNvZTFDRUZGWGRWMjdLeUQySEhuLTFFYm1KTnJiLWotRDJYTUZ4Wl9GQ1dldjJkcldsZnN3",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-12T16:41:35.000Z",
+  "title": "JD.com seeks to lead Europe's online electronics retail with Ceconomy deal",
   "snippet": ""
  }
 ]
