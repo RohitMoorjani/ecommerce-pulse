@@ -1,58 +1,43 @@
 {
- "updatedAt": "2026-11-15T18:51:18.931Z",
- "title": "Pricier PCs and AI-led buying: we must win on value and visibility",
- "summary": "Asus sees the 2027 PC market shrinking 10-15% on memory costs; Phison has 70% of 2027 NAND committed. Amazon took Alexa for Shopping to 15 countries, OpenAI let brands claim ChatGPT profiles, JD.com bid for Ceconomy.",
+ "updatedAt": "2026-11-16T06:52:34.033Z",
+ "title": "Win AI discovery and plan for a smaller, costlier PC market",
+ "summary": "Asus sees the 2027 PC market shrinking 10-15% on memory prices; some OEMs trim 2027 memory buys (TrendForce). Amazon took Alexa for Shopping to 15 countries; OpenAI added agents for US e-commerce firms. Amex sees 14-year-high SMB holiday spend.",
  "points": [
   {
-   "headline": "Memory and NAND squeeze sets up a smaller, pricier 2027 PC market",
-   "detail": "Asus forecasts a 10-15% PC market decline in 2027 as memory prices surge; SK Hynix has locked over half of 2027-28 capacity and Phison 70% of 2027 NAND, while some OEMs trim memory orders. We should secure supply and plan pricing now.",
+   "headline": "Memory costs point to a smaller 2027 PC market and sharper promotions",
+   "detail": "Asus expects the 2027 PC market to shrink 10-15% on memory prices, while rising inventories lead some OEMs to trim memory purchases. We should plan promo depth, mix and financing.",
    "segment": "pc",
    "storyIds": [
     "DigiTimes::https://www.digitimes.com/news/a20261113PD204/asus-market-pc-2027-demand.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261110VL218/spot-market-electronics-hbm-chips-chairman.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261109PD258/phison-demand-nand-2027-ceo.html",
     "TrendForce::CBMicEFVX3lxTE85R21CTXlzRklJblE4ZkJTTmNNS0w4dERLcDNIbTl2QTlaSlJ4OGJkTVlBYWxTOWNDaG1LUWczMjVNTFIzWGZZemZHclpkd19tUWNScXdfVm95Vy1ONC1wYXZuVEd5dWRVeEJ6ckswSzg"
    ]
   },
   {
-   "headline": "AI assistants are becoming a buying channel, now with rules attached",
-   "detail": "Amazon opened text-to-shop via Alexa and expanded Alexa for Shopping to 15 countries; OpenAI lets businesses claim ChatGPT profiles; an EU draft ties agent autonomy to incentives. We should claim and test our presence there.",
+   "headline": "AI shopping assistants are scaling, so product visibility there matters",
+   "detail": "Amazon took Alexa for Shopping to 15 countries with text shopping, and OpenAI lets businesses claim ChatGPT profiles. We should check how our products and store appear in AI answers.",
    "segment": "agentic",
    "storyIds": [
-    "Retail Dive::https://www.retaildive.com/news/amazon-text-to-shop-ai-agent/874085/",
     "PYMNTS Data::CBMixwFBVV95cUxQTjJ0QjVpelBlWS1pRGMxZk1RVGRUb2ZLRlpSMXZVVnVDLVJDeUF5aEJuWTBCS0hxclNueW9TTlFCeS1zcWt6cFpJVTQ2V0FQS1B6QlE4M3Y4RTBkUFhwTEdrMG1QYWplRVNuUUFfd3pwQ3Jab2tXVUY0RTN6bk5LRGxDYktXakhqU0lpVXJWTmdoTU9kV2NxTnZFakdiaFRHT1QzcjlqUEF2X21JWE5lNHZQa3JIWVNiaUwtZ0I0VkI4dTVDLXp3",
     "Reuters::CBMixgFBVV95cUxPeDdpWXlJb3hWWUhMQ3RPNnJ2MU9YeTFYYWVNdzBJZGoydVFxRDJOY2JPTkhaVWd5Y3ZmUzdVMWxZWGtOcmMyeGxDSndwQTJhMG9rLUgtZmdJQlFXdFd0dGppY05RTWZOMFplQlhUTFY1STNybWJjOW5rcWdkY2drWlRaRjI3NTRGdk5IbXlkeWUtSER5QVc4TnB2b3Vhand3cmY5MGJQZXBIaGhPOUVyU1M4VWZHcEZJVG83ZXM4Nml6aG5HeXc",
-    "PYMNTS Data::CBMiyAFBVV95cUxNOGJuTUYxNGx3VjRuOWNuRmhRRFIwODIyc2NfOEE3UjczbnZ4dEtrSEVvcldyYnFkWXRwQUlNTDZ4ZHhxS3NyMmhtOUdidFFFMmtvZ1VDV3dVbGhocjJ0R1NJcW10QjRQVjloRVdjSHdUYlNPZ1NPWnE0aHVhbllKbm05ekY5WjFvQnQ1Zk9YV2V4YjRxV0M4dnRRRFRKN0FzeVBxNXJEZGN0aVJPX0duWmRFZ2tIbmVNc1Z4eVpiaTMxRzRwcmhLXw"
+    "Retail Dive::https://www.retaildive.com/news/amazon-text-to-shop-ai-agent/874085/"
    ]
   },
   {
-   "headline": "Electronics channels reshape around ownership, memberships and value tiers",
-   "detail": "JD.com bids for Ceconomy; Amazon pushes Cyber 5 exclusives with AI personalization and plans a catalog of every product; TikTok Shop pilots paid membership. We should revisit channel terms and placement.",
-   "segment": "marketplaces",
-   "storyIds": [
-    "Global Marketplaces::CBMiygFBVV95cUxOWFBaanFxZDRLWkM3UWNHMHYwX181VlJINXBhMkFuZC01bzZScmgxUFdiZFV0V00tRlJiQk1LbFNfbE83TXFQUzBvZ1lqYmN4ZjBZRHpxQk5GUzc5bGhqM2tzdWdvR1RSVmd3eGQxLWR5TEZMcTRJVExDYkMtSUlDYWNMMkJ2WXlZa29EcmJ5QVo4STFsbTNvZTFDRUZGWGRWMjdLeUQySEhuLTFFYm1KTnJiLWotRDJYTUZ4Wl9GQ1dldjJkcldsZnN3",
-    "Retail Dive::https://www.retaildive.com/news/amazon-black-friday-cyber-monday-holiday-deals/874359/",
-    "Marketplace Pulse::http://www.marketplacepulse.com/articles/amazon-has-put-four-in-ten-sellers-on-haul",
-    "PYMNTS Data::CBMitwFBVV95cUxOLVkyZ3dqNUtiRGVSenZyc29oTjFBNEpKeTJiVi1uLUxlMXhxNkNMZVg1Z3pOMWlNdGhBLUV6VDRiM0VwOTFjd1ZoNFIzaG5zRjVWWkx4Z3RJWUJXRTF4R0dKd3VIaVNELTlfOWJzaHp1SFpWTVpwQ2dlR0VTdl9FY1JISUp5eHh0TnFoVlRKdlBxdXBmS0VhSVFaSUJBU095R25ZMTFNOHd3ZkpnNGNhN0xDeEZhSVU"
-   ]
-  },
-  {
-   "headline": "Holiday demand holds up, but shoppers plan purchases and lean on credit",
-   "detail": "Visa forecasts US holiday spending up 4.5% and UK Black Friday up 3%, yet 47% of online shoppers mainly buy planned items at big sales and BNPL use spans income brackets. We should pair clear value with instalment options.",
+   "headline": "Small-business buyers are spending more this holiday season",
+   "detail": "Amex projects a 14-year high in small business holiday spend, and Acer reported a five-year monthly revenue high on commercial PCs. We should push business bundles, financing and bulk offers.",
    "segment": "trends",
    "storyIds": [
-    "Retail TouchPoints::CBMijAFBVV95cUxNZ2h3R1JtRDlFN2JlV2RLM3RBdGk3czBvd3BEUW9oZ3dxMzJtNms4VG1lU1pJbnR4c3ZnTTlRYS0xWE0tODdFLWcyQ2tuRUZ2aDNxeWp5NUNjaXZOWjNaLXZTREFWZUV3d3pWNlBVdWFxOXZoWnlEbkdNallzcnFvUkRDd2Y1UnMxYlQtcw",
-    "InternetRetailing::https://internetretailing.net/?p=76496",
-    "Retail Dive::https://www.retaildive.com/news/bnpl-bolsters-holiday-budgets/874425/"
+    "PYMNTS Data::CBMimAFBVV95cUxQMk5IN0ZvWjcxX2hDMFJQTHhpVzZPQlZ4T1NIdzZVWlFSMzQwNzB1TC13R3VFUUZONDR1ay1zNERJTG1rYUlYZERMZEYwTmt4TC1fNU1lNEZ3dEtJbDhSMkdvTDJjLVctN0JodWpRZDRjclVQTUdqM3J3S01YWDlGUGliZ091R3lWX193YzlyeFhhWHl1TlRfWg",
+    "DigiTimes::https://www.digitimes.com/news/a20261110PD243/revenue-acer-pc-business-chromebook.html"
    ]
   },
   {
-   "headline": "Small-business buyers are the contested front for AI-ready hardware",
-   "detail": "Dell introduced Pro Essential, a design built for small business, as data shows 60% of small-business AI users get more done without adding staff. We should sharpen SMB bundles, AI-ready specs and financing on our business storefront.",
-   "segment": "pc",
+   "headline": "Marketplaces are tightening their grip on electronics sales",
+   "detail": "Amazon is pushing Cyber 5 exclusives and AI personalization, and JD.com is seeking to lead European electronics retail via Ceconomy. We should review our listings, offers and channel terms.",
+   "segment": "marketplaces",
    "storyIds": [
-    "Dell Blog::https://www.dell.com/en-us/blog/dell-pro-essential-a-new-design-built-for-small-business",
-    "PYMNTS Data::CBMivAFBVV95cUxPN0VQQllGYkUzdmxKc3pKRTN0Y1JXbkVoVHZUZ3FRZDZuOU9qbTBMdTRpM3FNTVJVREZvOHBhenFYaC1sLUdwT1IxanVDeUdiUF8tZlpWcGYtT0xmbC1BUHVPY0dCWVhlTXFKZ0ZSSkZab29LYkNERHM3OWhucjE5MnZvRXdGcllLRE5WTldvY0xuT2ZGNDc4RUFLc2o3MW83ZkNsYXNlU1VFa1VndWJnSktrV2RINF9HV3BJZA"
+    "Retail Dive::https://www.retaildive.com/news/amazon-black-friday-cyber-monday-holiday-deals/874359/",
+    "Global Marketplaces::CBMiygFBVV95cUxOWFBaanFxZDRLWkM3UWNHMHYwX181VlJINXBhMkFuZC01bzZScmgxUFdiZFV0V00tRlJiQk1LbFNfbE83TXFQUzBvZ1lqYmN4ZjBZRHpxQk5GUzc5bGhqM2tzdWdvR1RSVmd3eGQxLWR5TEZMcTRJVExDYkMtSUlDYWNMMkJ2WXlZa29EcmJ5QVo4STFsbTNvZTFDRUZGWGRWMjdLeUQySEhuLTFFYm1KTnJiLWotRDJYTUZ4Wl9GQ1dldjJkcldsZnN3"
    ]
   }
  ]
