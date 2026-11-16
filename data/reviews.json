@@ -7662,5 +7662,165 @@
  "NIQ::CBMioAFBVV95cUxQRUF4eVcwc0JvUFVfQlR3UGR3RDFQODNKNnZuZWdrVlNxSWVEc3RjM3RSSDVCTW1PVVc4ZXF5LXF3cTBwenFZTnM0czVENTluVTI4Nmxlbk53T0UtMkdsdVYxM3haTldRLTFzX2NBM2xIMDBDYW1oWjZ6czJZcVdBcGJnMW8tbHB3SnFkajg1TUR1UGFOVWtkcS0zVmpMbTlx": {
   "keep": false,
   "publishedAt": "2026-11-11T05:11:41.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/nike-turnaround-fatigue-sportswear-footwear-innovation-pipeline/874762/": {
+  "keep": false,
+  "publishedAt": "2026-11-16T17:32:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/dillards-grabs-market-share-weak-sales-growth/874735/": {
+  "keep": false,
+  "publishedAt": "2026-11-16T17:29:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/j-crew-introduces-ai-style-advisor/874596/": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "J. Crew launches AI Style Advisor built with Anthropic for desktop shoppers",
+  "short_headline": "J. Crew launches AI Style Advisor",
+  "takeaway": "Guided AI advisors that go beyond product search are reaching retail sites; we should test one for configuring PCs.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-11-16T17:09:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/toy-sales-growth-adults-circana/874706/": {
+  "keep": false,
+  "publishedAt": "2026-11-16T17:05:00.000Z"
+ },
+ "Inc42::https://inc42.com/?p=580543": {
+  "keep": false,
+  "publishedAt": "2026-11-16T16:20:51.000Z"
+ },
+ "PYMNTS Data::CBMivwFBVV95cUxQc0NnYlM4ekd1OEZWOVBrRWhoXzkyVFViZlhONzBpbEJmV3pCc2UtVGUyRWVUUkZydFdReFhBRXdkNWN4S0JtNno1RFQ4R0J5WHgyVFctai1nWFAyN1RZbzZOWTlCTGlxaTh2OC0yNHdiOUpmOGxDMEVRYUViYlR3TTZLQW1Bc2RYMFlfZGZ4OWxsWXQ3elFGNlJyTko5TXFnd0NIVy1fN0Y0U0xMckhTSU9ocy0wdlNWYV9ZOERabw": {
+  "keep": false,
+  "publishedAt": "2026-11-16T15:32:40.000Z"
+ },
+ "Circana::CBMiogFBVV95cUxNX3luWFRrTFNGVzdhSndCRWpnaU5KZ2xFTFJHZWlpOGQ2ZTl6TUFubGlCX2ZCTDkzeFRCZm5CQkV6NDNvMUhEODU5cDlXSGhKOF90QjFoSlg0WHNNYUZ2MEdLUlJESUlKN0RFZzlsTnhxdHZxYVVlbE5tMld5NnNtcGJ1WEdWWWdfUWxRcEloQUNLNTRfUVE2RWo4cjk1ZTZwS1E": {
+  "keep": false,
+  "publishedAt": "2026-11-16T15:26:59.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=175360": {
+  "keep": false,
+  "publishedAt": "2026-11-16T15:00:00.000Z"
+ },
+ "Circana::CBMitwFBVV95cUxOa2ZORDRjSlRybzhOck1OMmdVeEtQMGZGODhLdVVfZkRLZ2FBVl8xOXl0TzJmUk1xWDRLLVEtQkdmREZTdHdVdTJYM2pwYWU3bGxIWVlXdDhoemVTN3VkZFplQ1N5NFlJS1dENW1kQ19yVHJRZW5odGtqV1dOZWZ2OF9Bcm9jNnk1aEJEYXBlMC1TbmlzN0U2d3dOU1NBaHBwbWpGMFBrZklMa1pNVmF0SmdrQVUxdWs": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Best Buy Gateway gives suppliers clearer performance insights",
+  "short_headline": "Best Buy Gateway adds supplier insights",
+  "takeaway": "Better supplier analytics at Best Buy could help us tune our assortment and performance on that channel.",
+  "importance": 2,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-11-16T14:27:09.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=167010": {
+  "keep": false,
+  "publishedAt": "2026-11-16T14:01:37.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=167017": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "78% of US shoppers consider trade-in, but only half were offered one at last purchase",
+  "short_headline": "Trade-in demand outpaces retailer offers",
+  "takeaway": "A gap between trade-in interest and offers suggests our store could win by making trade-in visible at checkout.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-16T14:01:30.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=167051": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Global tablet shipments fall 23% in Q3 to 32 million, a near three-year low (Omdia)",
+  "short_headline": "Tablet shipments fall 23% in Q3",
+  "takeaway": "Supply constraints are choking tablet volume; we should expect tighter stock and firmer pricing in this category.",
+  "importance": 4,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-16T14:00:57.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/asics-boosts-inventory-management-using-warehouse-drones/874481/": {
+  "keep": false,
+  "publishedAt": "2026-11-16T14:00:00.000Z"
+ },
+ "Dell Blog::https://www.dell.com/en-us/blog/one-view-of-your-infrastructure-from-server-to-rack": {
+  "keep": false,
+  "publishedAt": "2026-11-16T13:45:00.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76557": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Amazon’s Black Friday lead looks secure as Boots emerges as a likely breakout winner",
+  "short_headline": "Amazon seen leading Black Friday again",
+  "takeaway": "Amazon is expected to dominate Black Friday demand again, so we should plan promotions and listings accordingly.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-11-16T11:42:01.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/spons/how-much-warehouse-automation-do-you-really-need-and-should-you-build-or-o/874469/": {
+  "keep": false,
+  "publishedAt": "2026-11-16T10:00:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/spons/the-shrinking-store-how-retailers-and-restaurants-are-doing-more-with-less/874147/": {
+  "keep": false,
+  "publishedAt": "2026-11-16T10:00:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/spons/the-mall-advantage-how-shopping-centers-fuel-retail-growth/873797/": {
+  "keep": false,
+  "publishedAt": "2026-11-16T10:00:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/spons/holiday-retails-ai-test-from-skeptical-shoppers-to-agents-they-trust-afte/874054/": {
+  "keep": false,
+  "publishedAt": "2026-11-16T10:00:00.000Z"
+ },
+ "Inc42::https://inc42.com/?p=580491": {
+  "keep": false,
+  "publishedAt": "2026-11-16T09:15:12.000Z"
+ },
+ "PYMNTS Data::CBMiogFBVV95cUxONmp6b2oyXzZLV3QzNnJFZmM0emhEbDBtNkxiTmtvQjFlOWZLRDRiU1NnSXpSdjgwQ2Jka1puQzJJdWhKa05mcE9ldmhaaFA3VjQ1LU51NlkzdWkxT0lqd29TSWdxd0FsMV9fMVpwTkhlZV8xWW1ZcWh2TU9hcng5S212TkZ2U1oteXVnV1VDMGREMk9QUUU5aXJaQVZ6cDZCS1E": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Nuvei says merchants need their own AI shopping agents",
+  "short_headline": "Nuvei: merchants need their own AI agents",
+  "takeaway": "Payments providers are pushing merchant-side agents; we should consider an agent on our store to meet shopper agents.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-16T09:07:40.000Z"
+ },
+ "PYMNTS Data::CBMirAFBVV95cUxOZ2JUNHlsODNFM2pNLTdaVHd1U2ZpTmFScWdtdVlJYlNCbllhNVFFZ0xCS3BmblZSeVoxc2lTcjA3Y0VldHdWVmxIRnhrdzZWdThZYTNIcVdGRWlBc2stT05vSXRoV3NGekMwUmVrM1RZU2hLaWUwSFlDWXVmYndJc19HQXBwazR5R3dxNl9lMXlmRHV1MWVmbTFBTnlJOUVuSzR5b2h3ZGpMMTdJ": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Google and Nvidia bring banks into AI checkout testing",
+  "short_headline": "Google and Nvidia bring banks to AI checkout",
+  "takeaway": "Banks joining agent checkout tests signals payments rails for agent purchases are maturing; we should track readiness.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-16T09:07:26.000Z"
+ },
+ "PYMNTS Data::CBMinwFBVV95cUxQX2UyWkU5OVhUYU9Cbkhhdi1RQlFYV256ZzRMeTVVTXdvR01RYmVsaGFidlhRc09TTHlQNm5ROUFiT0lZdXZ0WXdMNHN0UXJqLTVQZm9HZjQ0Nk1zMVJPMGI5YlVMeG16ZHp0TlRsMDNwTE1WS2JFd0N0eklJbFB6SS1kbE0xRVU4RVlNb1YtdjV0NnhScDZaTERRekpOUWc": {
+  "keep": false,
+  "publishedAt": "2026-11-16T09:02:26.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261116PD207/getac-2027-growth-disruption-business.html": {
+  "keep": false,
+  "publishedAt": "2026-11-16T03:08:05.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/consumer-electronics/air-purifier-sales-surge-as-delhi-ncr-aqi-continues-to-deteriorate/135870425": {
+  "keep": false,
+  "publishedAt": "2026-11-16T02:39:36.000Z"
+ },
+ "Reuters::CBMiygFBVV95cUxOWFBaanFxZDRLWkM3UWNHMHYwX181VlJINXBhMkFuZC01bzZScmgxUFdiZFV0V00tRlJiQk1LbFNfbE83TXFQUzBvZ1lqYmN4ZjBZRHpxQk5GUzc5bGhqM2tzdWdvR1RSVmd3eGQxLWR5TEZMcTRJVExDYkMtSUlDYWNMMkJ2WXlZa29EcmJ5QVo4STFsbTNvZTFDRUZGWGRWMjdLeUQySEhuLTFFYm1KTnJiLWotRDJYTUZ4Wl9GQ1dldjJkcldsZnN3": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "JD.com seeks to lead Europe’s online electronics retail with Ceconomy deal",
+  "short_headline": "JD.com pursues Ceconomy deal in Europe",
+  "takeaway": "A Chinese giant moving into MediaMarkt’s owner could reshape European electronics retail, a key channel for us.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-12T16:41:35.000Z"
  }
 }
