@@ -1,11 +1,20 @@
 {
- "updatedAt": "2026-11-16T21:51:12.994Z",
- "title": "Shoppers and agents now set the terms, so our store must be agent-ready",
- "summary": "Asus sees the 2027 PC market shrinking 10-15%; tablet shipments fell 23% in Q3 (Omdia). Amazon took Alexa for Shopping to 15 countries; OpenAI added agents for US e-commerce firms. Amex sees 14-year-high SMB holiday spend.",
+ "updatedAt": "2026-11-17T06:52:05.119Z",
+ "title": "AI agents and memory costs will decide our online share; prepare for both",
+ "summary": "Asus sees the 2027 PC market shrinking 10-15% on memory prices; tablet shipments fell 23% (Omdia). OpenAI launched ChatGPT Wallet; Amazon took Alexa for Shopping to 15 countries; Amex projects a 14-year high in small business holiday spend.",
  "points": [
   {
-   "headline": "Memory costs and supply squeeze point to a smaller, pricier device market",
-   "detail": "Asus expects the 2027 PC market to shrink 10-15% and tablet shipments fell 23% in Q3. We should plan promo depth, mix and financing for tighter supply.",
+   "headline": "AI shopping agents are gaining checkout, payments and reach",
+   "detail": "OpenAI launched ChatGPT Wallet for agent payments at retailer checkouts and Amazon took Alexa for Shopping to 15 countries. We should make our checkout, listings and product data agent-ready.",
+   "segment": "agentic",
+   "storyIds": [
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364135",
+    "PYMNTS Data::CBMixwFBVV95cUxQTjJ0QjVpelBlWS1pRGMxZk1RVGRUb2ZLRlpSMXZVVnVDLVJDeUF5aEJuWTBCS0hxclNueW9TTlFCeS1zcWt6cFpJVTQ2V0FQS1B6QlE4M3Y4RTBkUFhwTEdrMG1QYWplRVNuUUFfd3pwQ3Jab2tXVUY0RTN6bk5LRGxDYktXakhqU0lpVXJWTmdoTU9kV2NxTnZFakdiaFRHT1QzcjlqUEF2X21JWE5lNHZQa3JIWVNiaUwtZ0I0VkI4dTVDLXp3"
+   ]
+  },
+  {
+   "headline": "Memory prices put 2027 PC demand and tablet supply under pressure",
+   "detail": "Asus expects the 2027 PC market to shrink 10-15%, and tablet shipments fell 23% in Q3. We should plan promo depth, mix and financing for a smaller, tighter-supplied market.",
    "segment": "pc",
    "storyIds": [
     "DigiTimes::https://www.digitimes.com/news/a20261113PD204/asus-market-pc-2027-demand.html",
@@ -13,26 +22,17 @@
    ]
   },
   {
-   "headline": "AI shopping assistants are scaling, so visibility in them matters",
-   "detail": "Amazon took Alexa for Shopping to 15 countries and OpenAI lets businesses claim ChatGPT profiles. We should check how our products appear in AI answers.",
-   "segment": "agentic",
-   "storyIds": [
-    "PYMNTS Data::CBMixwFBVV95cUxQTjJ0QjVpelBlWS1pRGMxZk1RVGRUb2ZLRlpSMXZVVnVDLVJDeUF5aEJuWTBCS0hxclNueW9TTlFCeS1zcWt6cFpJVTQ2V0FQS1B6QlE4M3Y4RTBkUFhwTEdrMG1QYWplRVNuUUFfd3pwQ3Jab2tXVUY0RTN6bk5LRGxDYktXakhqU0lpVXJWTmdoTU9kV2NxTnZFakdiaFRHT1QzcjlqUEF2X21JWE5lNHZQa3JIWVNiaUwtZ0I0VkI4dTVDLXp3",
-    "Reuters::CBMixgFBVV95cUxPeDdpWXlJb3hWWUhMQ3RPNnJ2MU9YeTFYYWVNdzBJZGoydVFxRDJOY2JPTkhaVWd5Y3ZmUzdVMWxZWGtOcmMyeGxDSndwQTJhMG9rLUgtZmdJQlFXdFd0dGppY05RTWZOMFplQlhUTFY1STNybWJjOW5rcWdkY2drWlRaRjI3NTRGdk5IbXlkeWUtSER5QVc4TnB2b3Vhand3cmY5MGJQZXBIaGhPOUVyU1M4VWZHcEZJVG83ZXM4Nml6aG5HeXc"
-   ]
-  },
-  {
-   "headline": "Marketplaces are consolidating and leaning on exclusives ahead of Cyber 5",
-   "detail": "JD.com is pursuing Ceconomy to lead European electronics retail, and Amazon pushes record Black Friday exclusives. We should review our offers and listings on key channels.",
+   "headline": "Amazon and JD.com are reshaping product discovery and electronics channels",
+   "detail": "Amazon plans a catalog of every product online, and JD.com is pursuing Ceconomy (MediaMarkt). We should keep our listings accurate on Amazon and watch European channel terms.",
    "segment": "marketplaces",
    "storyIds": [
-    "Retail Dive::https://www.retaildive.com/news/amazon-black-friday-cyber-monday-holiday-deals/874359/",
+    "PYMNTS::https://www.pymnts.com/?p=4394634",
     "Reuters::CBMiygFBVV95cUxOWFBaanFxZDRLWkM3UWNHMHYwX181VlJINXBhMkFuZC01bzZScmgxUFdiZFV0V00tRlJiQk1LbFNfbE83TXFQUzBvZ1lqYmN4ZjBZRHpxQk5GUzc5bGhqM2tzdWdvR1RSVmd3eGQxLWR5TEZMcTRJVExDYkMtSUlDYWNMMkJ2WXlZa29EcmJ5QVo4STFsbTNvZTFDRUZGWGRWMjdLeUQySEhuLTFFYm1KTnJiLWotRDJYTUZ4Wl9GQ1dldjJkcldsZnN3"
    ]
   },
   {
-   "headline": "Small-business spending is strong, so business bundles and financing fit now",
-   "detail": "Amex projects a 14-year high in small business holiday spending. We should push business bundles, financing and bulk offers on our store.",
+   "headline": "Small business buyers are a strong holiday opening",
+   "detail": "Amex projects a 14-year high in small business holiday spending. We should push business bundles, financing and bulk offers during this window.",
    "segment": "trends",
    "storyIds": [
     "PYMNTS Data::CBMimAFBVV95cUxQMk5IN0ZvWjcxX2hDMFJQTHhpVzZPQlZ4T1NIdzZVWlFSMzQwNzB1TC13R3VFUUZONDR1ay1zNERJTG1rYUlYZERMZEYwTmt4TC1fNU1lNEZ3dEtJbDhSMkdvTDJjLVctN0JodWpRZDRjclVQTUdqM3J3S01YWDlGUGliZ091R3lWX193YzlyeFhhWHl1TlRfWg"

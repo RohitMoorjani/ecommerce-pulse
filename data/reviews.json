@@ -7734,5 +7734,113 @@
   "content_type": "news",
   "competitors": [],
   "publishedAt": "2026-11-12T16:41:35.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/home-and-decor/furniture-and-decor/geeken-targets-rs-3000-crore-revenue-by-2030-plans-rs-350-crore-manufacturing-investment-and-200-stores/135908323": {
+  "keep": false,
+  "publishedAt": "2026-11-17T02:57:43.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/pepsico-india-nearly-doubles-electric-truck-fleet-to-15-expands-freight-operations-to-three-plants/135908236": {
+  "keep": false,
+  "publishedAt": "2026-11-17T02:54:03.000Z"
+ },
+ "Inc42::https://inc42.com/?p=580574": {
+  "keep": false,
+  "publishedAt": "2026-11-17T02:30:42.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261116VL219/taiwan-uk-manufacturing-production-commercial.html": {
+  "keep": false,
+  "publishedAt": "2026-11-17T02:15:30.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261117VL202/samsung-db-hitek-8-inch-wafer-foundry-expansion-capacity.html": {
+  "keep": false,
+  "publishedAt": "2026-11-17T02:00:57.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76559": {
+  "keep": false,
+  "publishedAt": "2026-11-17T00:28:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261116VL218/amazon-data-online-meta-e-commerce.html": {
+  "keep": false,
+  "publishedAt": "2026-11-16T23:54:09.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261116PD236/powerlogic-gaming-supply-chain-loss-pc.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Powerlogic posts 9M26 revenue down 40% as PC supply chain shipments enter a downturn",
+  "short_headline": "PC supply chain shipments enter a downturn",
+  "takeaway": "Weakening gaming and PC component demand may signal softer sell-through; we should watch gaming hardware demand and promotions.",
+  "importance": 2,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-16T23:53:13.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261116PD231/acer-subsidiary-brand-gaming-taiwan.html": {
+  "keep": false,
+  "publishedAt": "2026-11-16T23:52:38.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261116PD230/apple-launch-2027-siri-iphone.html": {
+  "keep": false,
+  "publishedAt": "2026-11-16T23:52:03.000Z"
+ },
+ "Inc42::https://inc42.com/?p=580569": {
+  "keep": false,
+  "publishedAt": "2026-11-16T20:24:08.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364135": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "OpenAI launches ChatGPT Wallet so AI shopping agents can pay at retailer checkouts",
+  "short_headline": "ChatGPT Wallet lets AI agents pay at checkout",
+  "takeaway": "Agent payments via retailer checkouts are arriving; we should check our store checkout is ready for agent-initiated orders.",
+  "importance": 4,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-11-16T20:20:22.000Z"
+ },
+ "Retail TouchPoints::CBMiugFBVV95cUxPUV9vUnN5ZTg1U0hvVW5PUDYxWXhYRjhYeUQ5bGQ2RzFtZG1lVUhXY1o0NGY4SHhpdV9feDFHdEZmNHc3TVp3WXd1LVYtbFk3TzZzMGZZb1dNT0cyX005MjZMdjB2OFBuSXY4YzZvRHJZb3k1NFBWaUZmUDZNV1hSdGhGWVN1bWZLQUQ5bDdJTDZEWkNmNWtFMnVDbkdGc0xNalFxVTZHUzBWaUhzNjVUZ2pwM09ySXBCRlE": {
+  "keep": false,
+  "publishedAt": "2026-11-16T20:03:50.000Z"
+ },
+ "Retail TouchPoints::CBMijgFBVV95cUxQaG9KUDlqZ2FaRmxoRDRQWGJmc0NYVDV6U1F3R2M4VDdhd0pkZFEwRW5uVFBxZFgxVnVlMjBfR191UU9BeWc3MklIT1hzcXM3bVFUZk95U3lOc2JObzZiaThfdTNvVVV3REhBdXRVQ3QyVUpTTUJaZFFiX3A5VUdPR2Y2TGRQczNCY3FIN3JB": {
+  "keep": false,
+  "publishedAt": "2026-11-16T17:03:14.000Z"
+ },
+ "Retail TouchPoints::CBMixAFBVV95cUxOR0dSRXhtTTAxU2lMMDVFN0V0VUVBYkN0ZU9LM3N4UU5OQVN4WllVX2Zpd0hia3Nfd0Y3cUpLc3NGWWFLd3NKd2l3TXZ1bVQzTUZXblN6QUpzeHg1cGZ0Ulpoc3Q4eENRMFhkSUZkSE04ajFoWTd4SGFYNW9uQTRXYnJRYy1QQ2tOUDA4QkUxM3dldGlkbEluS2x4TkJuS3phRkw4VFd0OEl2aXZHYXBpNUpOSkIydXJTbmdkVEFDSTVNY3Bz": {
+  "keep": false,
+  "publishedAt": "2026-11-16T15:31:38.000Z"
+ },
+ "Retail TouchPoints::CBMilwFBVV95cUxOaWRzMFFSVTBNUUNBRElNV0RvMWFjel9CTWZkbVlJQ1M4cWplbGhoY2I1SlNkRFBYNGl3UFJfdm1tVGlWbWxOWVBrOEh5aGFUejFob1luNzhsdjJweFdqMWU3ZGxMN0NPeUJuWTdCaHNTakgtb1dRaU1zem9rbnYwRDVEQ0szQlJFLWdfUTBlY3U4Rlh0a3FJ": {
+  "keep": false,
+  "publishedAt": "2026-11-16T15:03:42.000Z"
+ },
+ "Retail TouchPoints::CBMi1gFBVV95cUxQLXBaZFdSRkJUNXZFWHRWaUN2Z052aDRHTUwzZ3Q1dTRXWWJpUGdDdUNlUVpYdnJ4VGRxSGlIdlVrZzFYMW5pNW5ILWxVcGNGXzBXSzFITjN4UUVna0NOVGVycGRVX3J3c0lldHREU0RFNXlseHFMOEV1MmFlczJlZWIwYlRYd2Rvd0hFeEQtVWVwcmYycWV6T0ROYlEydmVKNVJ3dG94bWtCRnYzZ0gxMElLOVRtQmJGT3JBajFNUjNHTTJtWU12TnpJVzIxWTRsZWdZcVZB": {
+  "keep": false,
+  "publishedAt": "2026-11-16T12:02:10.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/diwali-2026-online-retail-sales-rise-2-pc-home-dcor-apparel-and-gifting-see-higher-demand-report/135888193": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Diwali 2026 online retail sales rise 2%, led by home décor, apparel and gifting",
+  "short_headline": "Diwali 2026 online sales rise 2%",
+  "takeaway": "Modest festive growth in India favours gifting and décor over tech; we should plan Diwali offers around gifting-led demand.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-16T11:59:04.000Z"
+ },
+ "PYMNTS::https://www.pymnts.com/?p=4394634": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Amazon plans to catalog every product online, even items it does not stock",
+  "short_headline": "Amazon plans a catalog of every product online",
+  "takeaway": "Amazon aims to be the starting point for all product discovery; we need our listings and data to show up accurately there.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-13T20:34:43.000Z"
+ },
+ "McKinsey::CBMisAFBVV95cUxQWjQ2XzZfNUFUUUxvbzE4OUZmR3pLN2lqX21VS2xmT19LSmdfZjl4a0d0ZndiOW1KTHByS1VFZW1mbW9XeW5kZWxDUlVkVGI2eVBYRlIyV0VmZ2ZrRlhXcjNucjAyQVI0U2g3UDhqalVzbHAzSEZQZU5Ec1k0MFZjRGVrNmVUWTlncTB2cUV3cWFYakNfSjlsTlF6RF9pS2sxYjhpUGkzVUMxUUh5eEVLag": {
+  "keep": false,
+  "publishedAt": "2026-11-12T00:00:00.000Z"
  }
 }
