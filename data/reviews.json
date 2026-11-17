@@ -1,8 +1,4 @@
 {
- "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363069": {
-  "keep": false,
-  "publishedAt": "2026-10-12T20:36:39.000Z"
- },
  "InternetRetailing::https://internetretailing.net/?p=76240": {
   "keep": false,
   "publishedAt": "2026-10-13T06:34:00.000Z"
@@ -22,82 +18,6 @@
  "Modern Retail::https://www.modernretail.co/?p=172749": {
   "keep": false,
   "publishedAt": "2026-10-13T04:00:00.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261013VL214/pcb-ccl-ic-substrate-laminate-revenue-taiwan.html": {
-  "keep": false,
-  "publishedAt": "2026-10-13T03:47:03.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261013PD229/pc-shipments-inventory-market-demand.html": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Global PC shipments plunge more than 20% year over year in Q3 2026",
-  "short_headline": "Global PC shipments fall 20%+ in Q3",
-  "takeaway": "Inventory pressure and weak demand mean we should expect tougher promotion pressure and plan stock and pricing carefully for the holidays.",
-  "importance": 5,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-13T03:42:37.000Z"
- },
- "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/fssai-may-amend-laws-to-make-online-players-more-accountable/134906753": {
-  "keep": false,
-  "publishedAt": "2026-10-13T03:12:54.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261012PD249/wistron-taiwan-plant-investment-capacity.html": {
-  "keep": false,
-  "publishedAt": "2026-10-13T03:07:43.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261013VL201/semicon-plant-packaging-materials-electronics.html": {
-  "keep": false,
-  "publishedAt": "2026-10-13T02:36:50.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261013PD204/automotive-cis-robot-sensor-growth.html": {
-  "keep": false,
-  "publishedAt": "2026-10-13T02:00:35.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261013PD213/applied-materials-development-equipment-california-materials.html": {
-  "keep": false,
-  "publishedAt": "2026-10-13T01:48:12.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261013PD206/microsoft-asic-2027-2nm-cloud-ai.html": {
-  "keep": false,
-  "publishedAt": "2026-10-13T01:43:49.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261012VL227/nand-samsung-sk-hynix-demand-ssd.html": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Samsung and SK Hynix NAND profits seen surging as enterprise SSD demand lifts prices",
-  "short_headline": "Enterprise SSD demand lifts NAND prices, profits",
-  "takeaway": "Rising memory prices could push up storage costs in our PCs, so we should watch pricing and configuration margins.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-13T00:08:27.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261012VL230/samsung-operating-profit-earnings-2027-2026.html": {
-  "keep": false,
-  "publishedAt": "2026-10-13T00:06:09.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261012VL231/lg-display-rtx-sdc-nvidia-shipments.html": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Samsung and LG Display reportedly supply OLED panels for seven Nvidia RTX Spark laptops",
-  "short_headline": "OLED panels tapped for seven RTX Spark laptops",
-  "takeaway": "Premium OLED laptops on the Nvidia platform may arrive despite falling shipments; we should plan how to range and merchandise them.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-13T00:05:19.000Z"
- },
- "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363450": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "Newegg integrates Google UCP checkout, expanding its agentic commerce channels",
-  "short_headline": "Newegg adds Google UCP agentic checkout",
-  "takeaway": "A direct tech retailer is going live on Google agent checkout; we should assess our own readiness for UCP-style purchases.",
-  "importance": 4,
-  "content_type": "announcement",
-  "competitors": [],
-  "publishedAt": "2026-10-12T22:15:02.000Z"
  },
  "Retail TouchPoints::CBMirAFBVV95cUxPdTd3eTdCcVhJS3ZGVzJPY21LUk9PN1ZOcnVtU1dWcU5yLVgxRV9zNE12anB1a1RjUnprWUozdVVaOTl2YlZnT3VRMG5INHdWbm1mZUtFSlJHdXY1U3hTVjdCQVZMcWNjeHJFM2xSUGQ1MmpxZkhxaDFrc2UzZ2doLUwtd3N3LXdvRTVySDhPRC1QeTViMl81dXktMEVXT1JyUng1WGU4c25WMUdJ": {
   "keep": true,
@@ -383,10 +303,6 @@
   "keep": false,
   "publishedAt": "2026-10-14T00:23:53.000Z"
  },
- "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/gold-price-surge-boosts-diamond-jewellery-sales-15-20-per-cent/134906716": {
-  "keep": false,
-  "publishedAt": "2026-10-13T03:11:38.000Z"
- },
  "Inc42::https://inc42.com/?p=576263": {
   "keep": false,
   "publishedAt": "2026-10-14T11:16:24.000Z"
@@ -527,10 +443,6 @@
  "TWICE::https://www.twice.com/?p=166549": {
   "keep": false,
   "publishedAt": "2026-10-14T13:00:55.000Z"
- },
- "Global Marketplaces::CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU": {
-  "keep": false,
-  "publishedAt": "2026-10-13T01:41:00.000Z"
  },
  "PYMNTS Data::CBMisAFBVV95cUxOdmRZenR3ZXlpeUJ4VmttSjZXT3ZKeU51Uk1lOFBXVkY3THlaV0pGdGZfM01IRDN0XzFMd1FqNzk5TDZSQmF2SG9vSVloT2oxYlBpajZ2RHdTeHo2U0RIck5uUkFUc0J5MkFtQlgtd0NPNm84N2gySXpVN2ItZVZaaEtwRFN5VzE2dEN5cmNsNUUxR2tadnFFb0J1MWhvdWY5MTg2NkdQcEh5YjhUVDU2TQ": {
   "keep": false,
