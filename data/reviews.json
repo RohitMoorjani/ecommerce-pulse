@@ -7659,5 +7659,99 @@
  "McKinsey::CBMisAFBVV95cUxQWjQ2XzZfNUFUUUxvbzE4OUZmR3pLN2lqX21VS2xmT19LSmdfZjl4a0d0ZndiOW1KTHByS1VFZW1mbW9XeW5kZWxDUlVkVGI2eVBYRlIyV0VmZ2ZrRlhXcjNucjAyQVI0U2g3UDhqalVzbHAzSEZQZU5Ec1k0MFZjRGVrNmVUWTlncTB2cUV3cWFYakNfSjlsTlF6RF9pS2sxYjhpUGkzVUMxUUh5eEVLag": {
   "keep": false,
   "publishedAt": "2026-11-12T00:00:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=175368": {
+  "keep": false,
+  "publishedAt": "2026-11-17T15:00:00.000Z"
+ },
+ "Dell Blog::https://www.dell.com/en-us/blog/dell-pro-essential-or-pro-3-which-fits-smbs-": {
+  "keep": false,
+  "publishedAt": "2026-11-17T15:00:00.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=167161": {
+  "keep": false,
+  "publishedAt": "2026-11-17T14:01:41.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=167130": {
+  "keep": false,
+  "publishedAt": "2026-11-17T14:01:02.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=167110": {
+  "keep": false,
+  "publishedAt": "2026-11-17T14:00:27.000Z"
+ },
+ "Inc42::https://inc42.com/?p=580661": {
+  "keep": false,
+  "publishedAt": "2026-11-17T13:39:28.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76574": {
+  "keep": false,
+  "publishedAt": "2026-11-17T12:46:10.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/black-friday-2026-preview-ai-resale-stores/874163/": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Holiday shoppers start deal-hunting early but still plan to shop on Black Friday itself",
+  "short_headline": "Shoppers start holiday deals early, still plan Black Friday",
+  "takeaway": "Our store should run deals across the whole season while keeping Black Friday itself as the main moment for offers.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-17T12:00:00.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76567": {
+  "keep": false,
+  "publishedAt": "2026-11-17T10:56:48.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/industry/what-the-next-decade-holds-for-organised-retail-premiumisation-and-consumer-demand-in-india/135921311": {
+  "keep": false,
+  "publishedAt": "2026-11-17T10:37:17.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261117PD208/samsung-nand-packaging-plant-hbm.html": {
+  "keep": false,
+  "publishedAt": "2026-11-17T09:14:58.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/indias-electronics-market-to-hit-rs-10-trillion-by-2030-non-metros-emerge-as-growth-drivers-report/135915447": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "India electronics market seen growing from Rs 7 trillion to Rs 10 trillion by 2030",
+  "short_headline": "India electronics market to hit Rs 10 trillion by 2030",
+  "takeaway": "Premiumisation and smaller-city demand point to where we could focus growth and assortment in India.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-17T07:26:11.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261117PD236/medical-iei-integration-pc-ipc-2026.html": {
+  "keep": false,
+  "publishedAt": "2026-11-17T06:56:28.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261117PD239/nvidia-samsung-hbm-market-amd.html": {
+  "keep": false,
+  "publishedAt": "2026-11-17T06:46:13.000Z"
+ },
+ "Inc42::https://inc42.com/?p=580591": {
+  "keep": false,
+  "publishedAt": "2026-11-17T05:31:40.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=175406": {
+  "keep": false,
+  "publishedAt": "2026-11-17T05:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261117PD229/market-infrastructure-rubin-nvidia-investment.html": {
+  "keep": false,
+  "publishedAt": "2026-11-17T04:29:01.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261117PD220/samsung-foundry-ai-chip-samsung-chips-manufacturing.html": {
+  "keep": false,
+  "publishedAt": "2026-11-17T04:21:33.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261117PD225/samsung-hbm-meta-2nm-nvidia.html": {
+  "keep": false,
+  "publishedAt": "2026-11-17T03:45:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261117PD207/samsung-launch-meta-google-market.html": {
+  "keep": false,
+  "publishedAt": "2026-11-17T03:13:56.000Z"
  }
 }
