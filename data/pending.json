@@ -1,202 +1,162 @@
 [
  {
-  "id": "Inc42::https://inc42.com/?p=580708",
-  "source": "Inc42",
+  "id": "PYMNTS Data::CBMitAFBVV95cUxNU2JaWFVWN3BBbmp1UDZSZF9FUHh4eUpLNXlQemUtMkpuS3Y0alAzbTZpajhKeXJ3ekRla2ZRV3ltc0RaYTRxNVVwVFFUZnhqSFUwaXlfa3lhR3BGR0NjMnpvV1pNYmI0XzBBd3FqZEVfT3VzRmZhaEpzUE0yYlJvYVJMbkRKTW1HMFZuLUY2SWRfcTZDbldiRkpOVVJZVW52TjJJcnZOMmNMMnZPVkNTSHFmMVA",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-18T09:04:07.000Z",
+  "title": "For Gen Z Bill Payers, the Bigger Gap Is Paying the Way They Want To",
+  "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261118VL222/samsung-ces-2027-manufacturing-design.html",
+  "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-17T22:13:15.000Z",
-  "title": "Amazon To Invest $7 Bn In Indian Green Energy Projects By 2030",
-  "snippet": "Ecommerce giant Amazon has announced plans to invest $7 Bn in renewable energy projects across India by 2030. The company…"
+  "publishedAt": "2026-11-18T08:55:00.000Z",
+  "title": "Samsung reportedly plans two humanoid robots for CES 2027",
+  "snippet": "Samsung Electronics reportedly plans to unveil two humanoid robots at CES 2027 in Las Vegas in January, as it expands its robotics business and develops robots for manufacturing and other applications."
  },
  {
-  "id": "PYMNTS Data::CBMisgFBVV95cUxQMXpFZXl5RVdtVVlmTnUxWEdFUXZ3OHBvX2lZOV9vZUNsbWdLWHgxV2RNdTBJeTBxTDhFbHF5eUtRNV8ycHF5QXVCSlVQR19iNEZORnE3M3owN2Y1dzJKMXNDN3lyZUttTEZrbjdHaWRWamMxdE5Ccm9zTlRUVHBLcy1pQ1huZk1XMVBDRHlUejZJTURZU0NCOWtLeUtLTzNlTDAzUG5uUVFmMkFFRktwRWdR",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-17T21:24:07.000Z",
-  "title": "Qonto Wins European Banking License and Targets Small Business Lending",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMitwFBVV95cUxQZjY3QUpzNldQOWN4ZU9wTDR5Q2s3TDZIVFNicE02T25TemluXzFha21XZlpBNVVLRmFETkFUdGZqUDR1al9KNEZPVXN0cVE5R3RROUE3cGxBTlhKSG1zSlBwSWtrUHhrelh5N0VWTG5aVHk0dFhwYVpRWW9ILU9fVmZmd3dDMlJocms3Y0V4QW5RNmlWOHMyVGRoMHpwajRWeW9mQlhUcmVrWUdjcnk5anpHeGxQUnc",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-17T21:04:07.000Z",
-  "title": "Google Acquires AI Assistant Howie to Automate Small Business Operations",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMiggFBVV95cUxOM0l5c09TSHk5YmQwcDdnZDBMcGtSX19sMTRyLUNOeUhzM3U2UlFqYnloMTlLYmx6TGcwWEJ0TGFKVktPcVZrTnA3WEdsMklLYnJXRVJjOFNCaC1fT3dBbUtSTmktemN1akZPZThqQ1o0cTd2WTU5OHc2ckRIWThzWjJB",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-17T21:04:07.000Z",
-  "title": "Splitit Launches BNPL Partnership With FIS",
-  "snippet": ""
- },
- {
-  "id": "Retail TouchPoints::CBMiowFBVV95cUxONFdYcDBpMlBSc1Q5NE5vWmV4cUEyR2R6a0wxbk4xemZMUnBNc2p2bEhGc2FJdk01VUFxZTk0cTlaUUh5bEI1MDBxVGc2dURXZGtWVFZ6Vkc5TWNCaHlHTXNCWlk0OWNLcjI5aVBzdTR5N1dCUkhGUUdhSEwyUEsxVWNuenFHREthNGViaVM0UWw0UXlLWkEtMHViNDlfMzROWEI0",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-17T20:04:52.000Z",
-  "title": "Americans Turning to AI for Holiday Shopping Help: Visa",
-  "snippet": ""
- },
- {
-  "id": "Modern Retail::https://www.modernretail.co/?p=175480",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-17T19:30:26.000Z",
-  "title": "KERV.ai, Macmillan Publishers and Chomps are among this year’s Work/Life Awards finalists",
-  "snippet": "This year’s Work/Life Awards finalists reflect a landscape where companies are rethinking workplace culture as a driver of business performance, employee engagement and innovation. Across industries, organizations are…"
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/brands-welcome-ai-users-onto-sites-holiday-season/874725/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-17T18:03:00.000Z",
-  "title": "How brands can welcome AI users onto their sites this holiday season",
-  "snippet": "Customers are experimenting with AI, but the experience needs to feel easy and encourage customers to complete their purchase."
- },
- {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364155",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-17T18:00:04.000Z",
-  "title": "Tractor Supply joins Uber Marketplace, adding delivery options for rural customers",
-  "snippet": "Tractor Supply Co. is adding Uber as a delivery partner, making its products available through the Uber, Uber Eats and Postmates apps. The companies announced the nationwide partnership Nov. 12. Customers can order pet…"
- },
- {
-  "id": "Retail TouchPoints::CBMixwFBVV95cUxOQjZUY2pzM0hQZk1TWlBjaHBlbUtxd3NVUWptaE9OOEhpZHB0NndvajYtS3VpWklITC1zTURHbE5UclVTN2R5NzZpVWxIX2w1aDRuaHhOUlZ6OHJiM2NvaVlvX08xNXZMZm9KSGF4R2p5RHltYzFKc0ZFelNFS3BmbWVUY2ltLTUwX0c4ZlUwWFRjck5Pa0hReXozbkxodk83dHNQZ2VaTkNwUHFjUzFXY0lyWXBfWjNlbEpoQkdoeVh3MWFrWGtF",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-17T17:44:57.000Z",
-  "title": "Retail Media’s NASCAR Problem Is Costing Retailers Holiday Revenue",
-  "snippet": ""
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/nike-return-sales-growth-three-years-strategic-turnaround-plan-full-stride-ahead/874901/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-17T17:36:00.000Z",
-  "title": "Nike won’t return to growth for 3 more years",
-  "snippet": "The activewear giant outlined a plan to grow revenue by $5 billion between fiscal 2027 and fiscal 2031, but it starts with two more years of declines."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/home-depot-ceo-richard-mcphail-coo-cfo/874893/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-17T17:28:00.000Z",
-  "title": "Home Depot names longtime company vet as CEO",
-  "snippet": "CFO Richard McPhail, who started at the retailer in 2005, will take the chief executive role, and 40-plus-year vet Ann-Marie Campbell will be COO."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/targets-black-friday-sale-gift-card-giveaway/874891/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-17T17:13:00.000Z",
-  "title": "Target’s Black Friday sale includes in-store gift card giveaway",
-  "snippet": "The mass retailer is aiming to provide value to budget-conscious shoppers and will give early deal access to paid membership customers."
- },
- {
-  "id": "TechCrunch::https://techcrunch.com/?p=3189498",
-  "source": "TechCrunch",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261118VL223/samsung-capex-2026-2025-revenue.html",
+  "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-17T16:32:55.000Z",
-  "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-  "snippet": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases."
+  "publishedAt": "2026-11-18T08:24:17.000Z",
+  "title": "Samsung chip unit accounts for 93% of capex as R&D hits record",
+  "snippet": "Samsung Electronics' semiconductor division accounted for nearly 93% of the company's capital spending in the first nine months of 2026, as both capex and research and development spending surpassed their full-year 2025…"
  },
  {
-  "id": "Global Marketplaces::CBMiwwFBVV95cUxOQjJVbXRCSlhyNzhmcUliV2JTRWdPZDBrRDNxM0VGNHZzd2lSWjdocmNaZmtraU1Qa3NNV2JfNGpVU0R0cVhWM1Q4LUJORGlPc3l5ZTRrdnRsbEh5WXNCTDI1LTRhdDVHTDVyN1hzcFFYUmgtN1lMaTBwVHZRV2pUS0xxa0tsR1JTMWhPNUZwZVlRU1BmZjRVSlJGZktEcFlQeUZ0dUY1TWJQbGJwamRCalZtRGJYeHI4dEppNi0yMGhFbVk",
-  "source": "Global Marketplaces",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-17T16:05:35.000Z",
-  "title": "China's JD.com shares fall as investors shrug off in-line third-quarter results",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261118VL214/samsung-dram-roadmap-wafer.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-18T06:50:46.000Z",
+  "title": "Samsung reportedly plans three-track DRAM roadmap for HBM5",
+  "snippet": "Samsung Electronics has reportedly decided to pursue three separate technologies for its next-generation DRAM, adopting wafer bonding for HBM5 while retaining a conventional design for mobile memory and continuing…"
  },
  {
-  "id": "Dell Press Releases::CBMihAJBVV95cUxOb0ZQWHcyMzhkSEQ5cUdxWE5XR2tzZ2ZKSTBZRFRwTEpuNXdENUU2VzB5SVVxZUdhM0JkcFpqN3I0NW9YWWlUMVhlN3ZMYkdFeldUWGptX3VkMnotbnd6OTlXdU9Nc0ZDRGJxY1htbnZqcXpDVEowWkNvY3FCejcxSm9NUkFjNzF2UFp5YXRPbGo0YmVCOWV5cmRyeGgwdGlPV24xekpYY3ZlTHpKNmdMdy0xVy12X0xhc0ZZQVRLeFg5UGFfVUVYTnVCM3lKVWNMdFhzbWhQMVY3QWpEcTktOGdXNUZtcGFjbEEwZzR3VTVYSWl3dUFMaHJmc29UUV9QeGh4Mw",
-  "source": "Dell Press Releases",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-11-17T14:00:00.000Z",
-  "title": "Nexalus and RENDA Partner to Launch the RENDA Nova8, a Drop-In Ready, Liquid-Cooled AI Server for Data Center Retrofits",
-  "snippet": ""
- },
- {
-  "id": "Retail TouchPoints::CBMi-gFBVV95cUxNV0JkdzhxaVBLUDlXLUt5Z0s0WVF3c2dyUmhjZzhMOVZVeFdnWDdNeXJNckJpSVhjUVpQQjlMb3Y5WEoybV90SlltcUJaZnh1ZlBxU1VGaUU4OGphNGpuUHNPLXhEQ1QteUpGUm5KNWxUVHM2ejdzZjAzOS1UWEFLNEhoalBtcDFwZzBhaW5fOUNUWUtGRnowMVVqdWVzRUZpdVJfd2NMQWJ6akpUT3RBd3EzWkphc0szMm1KUUhFQ3hxbnBmTElRWVl5dkFDSGVFcXgwNlpXTmNNQ3BaeGQyUmJhNG4yUlN0d1VtRUM3clRIUWdtUkNIYUdR",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-17T12:04:18.000Z",
-  "title": "Ping Identity’s Cayla Curtis on Retailers Building Consumer Trust in AI Shopping Agents: The RetailTouchPoints.com Q&A",
-  "snippet": ""
- },
- {
-  "id": "Reuters::CBMirgFBVV95cUxOLUxlLVUxMklSVU9TdEJTVWFUelMyNjNxTXo2TklSaHdqSDFfeFpBREtzN0czTWxYeHpzdm8tQ0hoRGlXRzFzakNaaVNlcm02NEw5STRncUpuUTZPUWNhWWdGTlMzUV9Kek16VTRsM1FCYU9hWmpiUjc1V0tkbmI4NXQzallheU4welFkSjd4clhFMFUtRDNCZWlTR0xxRnNkVDdzVjAtWkdMYW5zTVE",
+  "id": "Reuters::CBMixAFBVV95cUxOSHJQeVBOcE1TbzVOSHQza2hPQzZiUTBwX2dKVFo2U1lKeDZDQ2p2RGtDbjRUMHJaMXJkZlRKaGdhOTY4SnVOVkRfQVdfU2N3c0ZUSnVxSmsxR0lXQzBGMml5Q2U2bmo3UmVYbzBIMFQwcEVlM1BZZ182OWRlSThXTVU5QmlfdHdia2VLMDNLZjlLMnlnN2ZySngyalA5WGhNdFJkTUptOHF2WFVIbW40dmhtS01ieFRSaXBpRlVXWnJHZWZD",
   "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-17T11:28:03.000Z",
-  "title": "IKEA thinks outside the 'big blue box' as shopping habits shift",
+  "publishedAt": "2026-11-18T06:06:00.000Z",
+  "title": "South Korea's chip boom bypasses retail investors as stock rout hits spending",
   "snippet": ""
  },
  {
-  "id": "Retail TouchPoints::CBMiwAFBVV95cUxNV0NSWC1wRldOdWp4RmJUM3ZMY1NwQnM4WVZvQ2pGeVFES0RPZVh0R2toS2NEbXpqTk5kV1BYc2hsOFpqZTVZZ19NTWFhRW82dEZKMHdOMHNSa2h6ZnIwYmtlcS1NX0ZYdl9OMHRzSmpJMlIyVlF3UUVhMHFwejNsQkhkQ041d2F4ZjVWN1c2YjZfeVBITjNPSWNpazh2S18xa1lEOXgyai1nTEdCLXVzNlA0VnNmMXBsYUNfTng0REU",
-  "source": "Retail TouchPoints",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261118VL213/apple-dram-samsung-price-2027.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-18T05:41:37.000Z",
+  "title": "Apple reportedly nears long-term DRAM deal with Samsung",
+  "snippet": "Apple is nearing a long-term DRAM supply agreement with Samsung Electronics as rising memory prices and tighter chip supplies prompt the iPhone maker to rethink its traditional purchasing practices."
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=175466",
+  "source": "Modern Retail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-17T11:04:14.000Z",
-  "title": "Today at 2 p.m.: Movado Group, Bynder Webinar Details Faster Peak Season Campaign Launches",
-  "snippet": ""
+  "publishedAt": "2026-11-18T05:00:00.000Z",
+  "title": "ThredUp launches TikTok Shop livestreams as part of its social commerce push",
+  "snippet": "ThredUp is selling sweaters and dresses in TikTok Shop livestreams filmed inside its Atlanta and Dallas distribution centers."
  },
  {
-  "id": "NIQ::CBMizwFBVV95cUxPTnZ1TFZZMU1QMldwOHBkTFNBRGpZWk5KTFRjbnVjZDNIM1FsVHhDZ3VaUjhQZ2l5WVJxdlpwWDl6ZmZiYjcwVmRvUzl6SV9SX0k1WGx0SFhVQ3hJTGtGaVJpanBMM3lVU2Z3dmV0XzRvdUVXTm1GVHJ5YW4yVGhMNEcwSzRWa2dqeHZPcGZncFlPT0I0TmZjNHhnUkx1akg4VV9TV3lqV2h0V1JmS2VLM3h4dFZ6QlNvVG9qVnVTWkgtbTNsa1Itdjd2aEtCdWM",
-  "source": "NIQ",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-17T10:44:40.000Z",
-  "title": "Vietnam Tet holiday 2027: The hidden shift behind Vietnam’s biggest selling season",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261118VL207/apple-iphone-duo-production-component-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-18T03:23:25.000Z",
+  "title": "Apple reportedly keeps iPhone Duo shipment target unchanged despite screen issues",
+  "snippet": "Apple is reportedly maintaining its 2026 shipment target for the iPhone Duo despite complaints about cracked screens, with key component orders unchanged and delivery times shortening in the US and South Korea."
  },
  {
-  "id": "PYMNTS Data::CBMipgFBVV95cUxQNTA2NWY2TktUVTZJYTgtLVlPR3pEdmdhOUE1czQtWFNaY2w5MjQ2MEptS3Q3N3pwd2QwN0dOTU9TU0pJTVduYVBneWdoSllmSnZYWE1lei1jMmJRTU1MeWpRbnJndUE4OEJQMkxsQWdWdzEwZEJHdzZxMzBmQThsVGxzR0ExN3BNRGh2Z2R1b3JyREt6dmpVSDlGRzR2czdYcFd0UVh3",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261118PD215/pc-shipments-2027-2026-market.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-18T03:20:36.000Z",
+  "title": "Notebook PC slump expected to drag on into mid-2027 as Huang exit adds uncertainty",
+  "snippet": "Notebook PC shipments are expected to stay weak through the second quarter of 2027, after a lackluster third-quarter peak season and further softness in the fourth quarter of 2026, according to supply-chain sources…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261118PD228/nand-nand-flash-2026-pc-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-18T02:53:32.000Z",
+  "title": "Why NAND spot prices fell 20% despite the AI storage boom",
+  "snippet": "NAND flash spot prices have fallen about 20% since mid-to-late October 2026, even as AI demand continues to lift memory prices. Weak smartphone and PC sales, capacity expansion in China, and continued output from older…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261118PD223/foxconn-sony-camera-automakers-automotive.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-18T02:51:29.000Z",
+  "title": "Foxconn plans to buy Sony's automotive camera unit with Japanese automakers in sight",
+  "snippet": "Foxconn has agreed to buy Sony Semiconductor Solutions Corporation's (SSS) automotive camera module business for JPY7.24 billion (approx. US$45.4 million) in cash, expanding its automotive electronics operations…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/apparel/underneat-targets-rs-2000-crore-revenue-by-2032-eyes-1020-stores-next-year/135945872",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-18T02:39:41.000Z",
+  "title": "Underneat targets Rs 2,000 crore revenue by 2032; eyes 10–20 stores next year",
+  "snippet": "Underneat is ambitiously working to expand its omnichannel capabilities, aiming for an impressive Rs 2,000 crore in revenue in the coming years. After reaching Rs 250 crore in annual recurring revenue in just its second…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261118PD221/nvidia-data-center-infrastructure-capacity-policy.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-18T02:26:12.000Z",
+  "title": "AI infrastructure boom faces funding and policy pressure",
+  "snippet": "The US midterm election results are forcing technology giants that are spending hundreds of billions of dollars on data centers and stockpiling chips and memory to reconsider the pace of expansion. Backlash from local…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261118VL206/smic-samsung-revenue-market-2025.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-18T02:08:55.000Z",
+  "title": "Commentary: SMIC closes in on Samsung with a different kind of scale",
+  "snippet": "Semiconductor Manufacturing International Corp. (SMIC) is closing in on Samsung Electronics for second place in the global foundry market. TrendForce put SMIC's share at 5.4% in the second quarter of 2026, just 0.5%…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261117PD247/hbm-samsung-dram-nvidia-testing.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-18T01:59:27.000Z",
+  "title": "Who designs HBM? Nvidia's NVHBM architecture makes the question far more complex",
+  "snippet": "Samsung Electronics manufactures high-bandwidth memory (HBM) through a closed-loop, vertically integrated model: handling everything in-house from DRAM core dies and logic base dies to packaging and testing. Its HBM4…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261117PD245/tlvr-asic-design-growth-ai-server.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-18T01:49:49.000Z",
+  "title": "Tai-Tech TLVR inductors ride AI server growth as ASIC orders visibility reaches 3Q27",
+  "snippet": "Rising thermal design power (TDP) in next-generation GPUs and custom application-specific integrated circuits (ASICs) is driving up overall power consumption in AI servers, fueling sustained growth in passive component…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261117PD235/bellwether-data-technology.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-18T00:34:58.000Z",
+  "title": "Bellwether Electronic shifts from copper to optical connectivity",
+  "snippet": "Connector and cable maker Bellwether Electronic is expanding from high-current power delivery into 800V direct-current systems and expanded beam optics (EBO) optical connectivity to meet the upgrade needs of…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261117PD224/capacitor-ai-server-gpu-performance-transmission.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-18T00:18:45.000Z",
+  "title": "DIGITIMES Insight: AI servers' shift to 800V power reshapes capacitor market",
+  "snippet": "AI server computing performance and GPU power consumption continue to rise, accelerating the shift in data center power architectures from conventional 12V and 48V/54V systems toward 800V high-voltage direct current…"
+ },
+ {
+  "id": "PYMNTS Data::CBMimgFBVV95cUxOM05kZXdUeE9yS1F5ZFRxdVc4dkZEUG01eVMybVVvS1BCb2VlUGpQbzlyMURhMnpuMHlHSGNLZ1BnYUJHSW5ZRHU1Z0lNRHBOdXJOT3dDa01kN1dWeXNCRDZVZDVqcEdnSWxXdlkxWDg0SWNzWnpUV3BHLUVwVkJEZFhlV29pcmtCblA0YXRvT002OElzcGJXTzFB",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-17T09:09:01.000Z",
-  "title": "Why Some Paycheck-to-Paycheck Shoppers Plan Bigger Holiday Budgets",
+  "publishedAt": "2026-11-16T21:29:44.000Z",
+  "title": "Google Intros Maps Updates to Help With Holiday Travel",
   "snippet": ""
  },
  {
-  "id": "Gartner::CBMiwgFBVV95cUxNc3ByWElnVXdqRUJpWTQwVldnS3Q2T2ZVMHp2UElJSzJyNjJGeWRwcUhUNTdNLThUMUNJSDlXQS0yZTJJX1dOZXNDaUF4US0wWXRkeGxCM1dxR05IM1RJUjNaemtrclI4OVpmTU1hX0RTcmZRMklqX0c3aU1yZmlWUU81N2ZpOEdfVy1DckF4bzA2WGNzS01NVG9HT2ZudDZFeVdqd1ZFZTB4OW8yV0dkSDYyUnk5T1h2NGRxc3g1Vm9wdw",
-  "source": "Gartner",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-17T07:13:07.000Z",
-  "title": "Gartner Forecasts India IT Spending to Grow 10.6% in 2027",
-  "snippet": ""
- },
- {
-  "id": "Dell Blog::https://www.dell.com/en-us/blog/dell-technologies-and-amd-offer-more-ways-to-deploy-ai-from-first-node-to-full-rack",
-  "source": "Dell Blog",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-11-16T14:00:00.000Z",
-  "title": "Dell Technologies and AMD Offer More Ways to Deploy AI, From First Node to Full Rack",
-  "snippet": "See what Dell announced at SC26 to expand the Dell AI Factory with AMD, from a new PowerEdge server to modular platform configs and rack-scale options."
- },
- {
-  "id": "Dell Blog::https://www.dell.com/en-us/blog/how-to-restart-a-computer-with-the-keyboard",
-  "source": "Dell Blog",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-11-13T17:00:00.000Z",
-  "title": "How to Restart a Computer with the Keyboard",
-  "snippet": "Learn how to restart a computer with the keyboard on Windows, Mac or Linux, recover a frozen PC and fix shortcuts that don't respond."
- },
- {
-  "id": "Global Marketplaces::CBMimAFBVV95cUxNcWtZTE1HcjQ3dmptT2ZPRzlZQUYxUkVIWDRqbVJGOTVCYllMVVZoN1ptMk5EcEoxTWVLZEVDQUdwUlVwZWwxYlk5UzA2blVKNHNSQVdnOS1Uck5wSjhxN2xGZXpNaGR3WXRDUF9IbzlOVkEyOHZkY0hFdUNjQ1d5ZGJFUHRHamV1c0ZaOURIU0hpVjVqSktsTQ",
-  "source": "Global Marketplaces",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-13T15:46:37.000Z",
-  "title": "How AI has become a utility bill for Gen Z",
-  "snippet": ""
- },
- {
-  "id": "NIQ::CBMirgFBVV95cUxOcmcwcXRXTGxoM3BGb1BCcFdwTVRkWUhaWlc5Zzg5N05HLVN5aGZIZWYyUFJZRjZJTWFNaEdhbHlkQWJCT1pnenp6VUtQQjh6RFgtMGRGTDZ1TXhQTmNSSXFSXzlzbVZIUGZSWFVkaUIwS2wzaUJfWnl6T29waDFCa1N4Z05xZHB2ekt5Vlg1cEJoYzhvY2Q1NU9aZUUySkkxVzFHbDFXd1ZvZ2NXREE",
-  "source": "NIQ",
+  "id": "PYMNTS Data::CBMijgFBVV95cUxQS3NNNjhNaGNrYzNRQTZSSUpJa3prYVlDRDZMVlpCU2dLeXhUQ1pUSVZudVZRQktoTUZJNVc3ODQzWXhzRTdfaEZKT2Jjckx5TlVmbWVSNHJFLVhtTF9WN1B3S3NLZ2thMjRTU3hhZ2dTX19hcXN2MlhqdTV3Q3pXNTlXVUU5b0N1Q2lIdGJR",
+  "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-12T12:33:21.000Z",
-  "title": "Why Consumers Need a Better Reason to Upgrade in 2027",
+  "publishedAt": "2026-11-12T17:29:49.000Z",
+  "title": "Small Business Lending Shifts to Fewer, Bigger Loans",
   "snippet": ""
  }
 ]
