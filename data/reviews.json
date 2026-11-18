@@ -1,70 +1,7 @@
 {
- "Retail Dive::https://www.retaildive.com/news/target-upgrades-store-operations-app-employees/832989/": {
-  "keep": false,
-  "publishedAt": "2026-10-14T16:35:00.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/toy-prices-jump-holiday-season-inflation/832955/": {
-  "keep": false,
-  "publishedAt": "2026-10-14T16:13:00.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/saks-fifth-avenue-holiday-campaign-main-character-energy-post-bankruptcy/832961/": {
-  "keep": false,
-  "publishedAt": "2026-10-14T16:11:00.000Z"
- },
- "PYMNTS Data::CBMitgFBVV95cUxQMUhqWWIzSzZqdmk1RjVNTURjbUhMcEFEclJYMmRqRnZiYWJxWnI1VDJZMnpJeWVVOHFjWmVXODBCcm43eEl0ck1XMkdLc0hPVkV6TlRPYVRRWThSc09YdHNWMHFYcTdkbXJEcTFEQWVacGJFdTNzMUVLSlZJTTZ6Z0VUdFowUER6QklidFJDOGJtQWgyMXkxTFhIZHYwcjJFZVJlcXdYRGQySzdFU01LVkhjdjU5Zw": {
-  "keep": false,
-  "publishedAt": "2026-10-14T15:48:38.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/moodys-retail-apparel-outlook-boosted-tariff-refunds/832964/": {
-  "keep": false,
-  "publishedAt": "2026-10-14T15:27:00.000Z"
- },
- "InternetRetailing::https://internetretailing.net/?p=76270": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "Poor product data could make retailers invisible to AI shopping agents",
-  "short_headline": "Weak product data hides retailers from AI agents",
-  "takeaway": "Agents choose products from structured data, so we should audit our catalog attributes and feeds for machine readability.",
-  "importance": 3,
-  "content_type": "analysis",
-  "competitors": [],
-  "publishedAt": "2026-10-14T15:20:28.000Z"
- },
- "Mastercard::CBMi6gFBVV95cUxNaldCNEpiYy1XZW9KeUxQandkNUVZU3U1aFRrQk5FODVGZjVfamtPX3ZwYXdKY3JhR2ZtcEt1YXh5cU1GOXUwT0lDX3IxQnV3NkQweEsyQ2Jxd3FYa1lIUWRZSWxGV2doeXFPX2RnbUJESUJNYWNEandWb0dHY0I0aTZ0UUJrN2tmNDg3NzVvNXpCNi01VTA3TDRLVmMwQjctbVBsN1o3Y2J6ZUVqb2MtdnpMRzQxbEtXNUtQM2h6Q0FMWk9oaDFwREc2NTBEM3BUYktTZXhuZXlsX0NrRzZJc2ljNjhPaFF0V3c": {
-  "keep": false,
-  "publishedAt": "2026-10-14T14:03:45.000Z"
- },
- "Dell Blog::https://www.dell.com/blog/the-best-workstations-for-running-agentic-ai-workflows-locally-in-2026": {
-  "keep": false,
-  "publishedAt": "2026-10-14T14:00:00.000Z"
- },
- "TWICE::https://www.twice.com/?p=166554": {
-  "keep": false,
-  "publishedAt": "2026-10-14T13:01:29.000Z"
- },
- "TWICE::https://www.twice.com/?p=166565": {
-  "keep": false,
-  "publishedAt": "2026-10-14T13:01:27.000Z"
- },
- "TWICE::https://www.twice.com/?p=166549": {
-  "keep": false,
-  "publishedAt": "2026-10-14T13:00:55.000Z"
- },
  "PYMNTS Data::CBMisAFBVV95cUxOdmRZenR3ZXlpeUJ4VmttSjZXT3ZKeU51Uk1lOFBXVkY3THlaV0pGdGZfM01IRDN0XzFMd1FqNzk5TDZSQmF2SG9vSVloT2oxYlBpajZ2RHdTeHo2U0RIck5uUkFUc0J5MkFtQlgtd0NPNm84N2gySXpVN2ItZVZaaEtwRFN5VzE2dEN5cmNsNUUxR2tadnFFb0J1MWhvdWY5MTg2NkdQcEh5YjhUVDU2TQ": {
   "keep": false,
   "publishedAt": "2026-10-14T21:29:38.000Z"
- },
- "PYMNTS Data::CBMikwFBVV95cUxPT3FreGpQQk12SjU3MkZodEU5LWEtbGd2NzV3YVVoQThrMGtKWDRLUnY2TXYtU1lzSkExOEZuYXlKYk9hWmZJbXV4d3NNZXVIUmRYLTNZX2tFYnhBbko0QW9oUTdlOWdLMG1GV2FFeEhGamhiN2twSVlNVWpPcFg1ZU93M2lheElZSWZmU3U2eVNxMDg": {
-  "keep": false,
-  "publishedAt": "2026-10-14T20:14:15.000Z"
- },
- "PYMNTS Data::CBMinAFBVV95cUxQWXRzaUdxSkNrUk82Tkc3eUc3MzNuYUpfRlhVdW54aXdfaDJOMjdZWFQ5azZsVnlqWl92OV9OVFpvanhrekpxYU1vOWZrOXF4N3N1WnM3V0xYVm4wTnB3U2w0NHhGcFhIeFJ1MTFoYUY4WlRrb1RBT1ZhMjRLcTBaR1dkUjBlTDZaRExOUjJOcGQyRkhkV0N3MFcydHc": {
-  "keep": false,
-  "publishedAt": "2026-10-14T18:13:38.000Z"
- },
- "Apple Newsroom::https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/": {
-  "keep": false,
-  "publishedAt": "2026-10-14T17:39:29.065Z"
  },
  "Modern Retail::https://www.modernretail.co/?p=173104": {
   "keep": false,
@@ -2121,10 +2058,6 @@
  "Gartner::CBMiV0FVX3lxTFBtd29WbUZ6ejFPZlNOMXZSeVBwM3lrYmZuQTVMc2FDdW9pMFpBODBoVWg5cVpVYkd5SnZ1dmlMSnR1bDZFeE5Yd1FIZTZtNklBeXk1dkFjMA": {
   "keep": false,
   "publishedAt": "2026-10-21T07:00:00.000Z"
- },
- "PYMNTS Data::CBMi-AFBVV95cUxNU21ZV2x4SGJVaDJGWUZaT1hZN0pkeUlVdG9kWkhFd1o0SXkxd09sREJtTVVVYzBsc0lXb29POGgzYndmMGhocG81N0dKSW5BeWNOc25GUXdrNjFKU3dSdnNwdkpXQUFONUQtMTZOczRydEUydksycTNrdTZweGZOR0piNEFHRGZJenY3UDBCcHhzalNXUVJSb1NIMzJaNGYzYlRGeTl3VGMtM0lfLWkxTHBXQS1KVjFBUVp3TkxrWUFTalZDRjNvWmlZX0RrZjR5eVVpM3BxVWtuS2FOaUtMcFVZT0VmYzZXMmN0N2JSd3hYZjludWJ0Sw": {
-  "keep": false,
-  "publishedAt": "2026-10-14T13:32:45.000Z"
  },
  "DigiTimes::https://www.digitimes.com/news/a20261023PD220/meta-financing-infrastructure-investment-capex.html": {
   "keep": false,
