@@ -7696,5 +7696,156 @@
  "DigiTimes::https://www.digitimes.com/news/a20261117PD207/samsung-launch-meta-google-market.html": {
   "keep": false,
   "publishedAt": "2026-11-17T03:13:56.000Z"
+ },
+ "Inc42::https://inc42.com/?p=580708": {
+  "keep": false,
+  "publishedAt": "2026-11-17T22:13:15.000Z"
+ },
+ "PYMNTS Data::CBMisgFBVV95cUxQMXpFZXl5RVdtVVlmTnUxWEdFUXZ3OHBvX2lZOV9vZUNsbWdLWHgxV2RNdTBJeTBxTDhFbHF5eUtRNV8ycHF5QXVCSlVQR19iNEZORnE3M3owN2Y1dzJKMXNDN3lyZUttTEZrbjdHaWRWamMxdE5Ccm9zTlRUVHBLcy1pQ1huZk1XMVBDRHlUejZJTURZU0NCOWtLeUtLTzNlTDAzUG5uUVFmMkFFRktwRWdR": {
+  "keep": false,
+  "publishedAt": "2026-11-17T21:24:07.000Z"
+ },
+ "PYMNTS Data::CBMitwFBVV95cUxQZjY3QUpzNldQOWN4ZU9wTDR5Q2s3TDZIVFNicE02T25TemluXzFha21XZlpBNVVLRmFETkFUdGZqUDR1al9KNEZPVXN0cVE5R3RROUE3cGxBTlhKSG1zSlBwSWtrUHhrelh5N0VWTG5aVHk0dFhwYVpRWW9ILU9fVmZmd3dDMlJocms3Y0V4QW5RNmlWOHMyVGRoMHpwajRWeW9mQlhUcmVrWUdjcnk5anpHeGxQUnc": {
+  "keep": false,
+  "publishedAt": "2026-11-17T21:04:07.000Z"
+ },
+ "PYMNTS Data::CBMiggFBVV95cUxOM0l5c09TSHk5YmQwcDdnZDBMcGtSX19sMTRyLUNOeUhzM3U2UlFqYnloMTlLYmx6TGcwWEJ0TGFKVktPcVZrTnA3WEdsMklLYnJXRVJjOFNCaC1fT3dBbUtSTmktemN1akZPZThqQ1o0cTd2WTU5OHc2ckRIWThzWjJB": {
+  "keep": false,
+  "publishedAt": "2026-11-17T21:04:07.000Z"
+ },
+ "Retail TouchPoints::CBMiowFBVV95cUxONFdYcDBpMlBSc1Q5NE5vWmV4cUEyR2R6a0wxbk4xemZMUnBNc2p2bEhGc2FJdk01VUFxZTk0cTlaUUh5bEI1MDBxVGc2dURXZGtWVFZ6Vkc5TWNCaHlHTXNCWlk0OWNLcjI5aVBzdTR5N1dCUkhGUUdhSEwyUEsxVWNuenFHREthNGViaVM0UWw0UXlLWkEtMHViNDlfMzROWEI0": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Visa: Americans are turning to AI for help with holiday shopping",
+  "short_headline": "Visa: shoppers turn to AI for holiday help",
+  "takeaway": "AI-assisted holiday research is mainstream; we should check how our products and offers surface in AI answers.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-17T20:04:52.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=175480": {
+  "keep": false,
+  "publishedAt": "2026-11-17T19:30:26.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/brands-welcome-ai-users-onto-sites-holiday-season/874725/": {
+  "keep": false,
+  "publishedAt": "2026-11-17T18:03:00.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364155": {
+  "keep": false,
+  "publishedAt": "2026-11-17T18:00:04.000Z"
+ },
+ "Retail TouchPoints::CBMixwFBVV95cUxOQjZUY2pzM0hQZk1TWlBjaHBlbUtxd3NVUWptaE9OOEhpZHB0NndvajYtS3VpWklITC1zTURHbE5UclVTN2R5NzZpVWxIX2w1aDRuaHhOUlZ6OHJiM2NvaVlvX08xNXZMZm9KSGF4R2p5RHltYzFKc0ZFelNFS3BmbWVUY2ltLTUwX0c4ZlUwWFRjck5Pa0hReXozbkxodk83dHNQZ2VaTkNwUHFjUzFXY0lyWXBfWjNlbEpoQkdoeVh3MWFrWGtF": {
+  "keep": false,
+  "publishedAt": "2026-11-17T17:44:57.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/nike-return-sales-growth-three-years-strategic-turnaround-plan-full-stride-ahead/874901/": {
+  "keep": false,
+  "publishedAt": "2026-11-17T17:36:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/home-depot-ceo-richard-mcphail-coo-cfo/874893/": {
+  "keep": false,
+  "publishedAt": "2026-11-17T17:28:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/targets-black-friday-sale-gift-card-giveaway/874891/": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Target's Black Friday sale adds in-store gift card giveaway and early member access",
+  "short_headline": "Target adds gift cards, member early access",
+  "takeaway": "Target is courting budget-conscious shoppers with member perks; we should compare our own Black Friday value and loyalty offers.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-17T17:13:00.000Z"
+ },
+ "TechCrunch::https://techcrunch.com/?p=3189498": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Daydream launches AI agent that styles outfits, tracks sales and buys for you",
+  "short_headline": "Daydream AI agent shops and buys for you",
+  "takeaway": "Agents that remember preferences and complete purchases raise the bar; our store should be ready to be shopped by agents.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-17T16:32:55.000Z"
+ },
+ "Global Marketplaces::CBMiwwFBVV95cUxOQjJVbXRCSlhyNzhmcUliV2JTRWdPZDBrRDNxM0VGNHZzd2lSWjdocmNaZmtraU1Qa3NNV2JfNGpVU0R0cVhWM1Q4LUJORGlPc3l5ZTRrdnRsbEh5WXNCTDI1LTRhdDVHTDVyN1hzcFFYUmgtN1lMaTBwVHZRV2pUS0xxa0tsR1JTMWhPNUZwZVlRU1BmZjRVSlJGZktEcFlQeUZ0dUY1TWJQbGJwamRCalZtRGJYeHI4dEppNi0yMGhFbVk": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "JD.com shares fall as investors shrug off in-line Q3 results",
+  "short_headline": "JD.com shares fall after in-line Q3",
+  "takeaway": "Muted investor reaction suggests no big shift at JD.com; we keep watching its electronics channel.",
+  "importance": 2,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-17T16:05:35.000Z"
+ },
+ "Dell Press Releases::CBMihAJBVV95cUxOb0ZQWHcyMzhkSEQ5cUdxWE5XR2tzZ2ZKSTBZRFRwTEpuNXdENUU2VzB5SVVxZUdhM0JkcFpqN3I0NW9YWWlUMVhlN3ZMYkdFeldUWGptX3VkMnotbnd6OTlXdU9Nc0ZDRGJxY1htbnZqcXpDVEowWkNvY3FCejcxSm9NUkFjNzF2UFp5YXRPbGo0YmVCOWV5cmRyeGgwdGlPV24xekpYY3ZlTHpKNmdMdy0xVy12X0xhc0ZZQVRLeFg5UGFfVUVYTnVCM3lKVWNMdFhzbWhQMVY3QWpEcTktOGdXNUZtcGFjbEEwZzR3VTVYSWl3dUFMaHJmc29UUV9QeGh4Mw": {
+  "keep": false,
+  "publishedAt": "2026-11-17T14:00:00.000Z"
+ },
+ "Retail TouchPoints::CBMi-gFBVV95cUxNV0JkdzhxaVBLUDlXLUt5Z0s0WVF3c2dyUmhjZzhMOVZVeFdnWDdNeXJNckJpSVhjUVpQQjlMb3Y5WEoybV90SlltcUJaZnh1ZlBxU1VGaUU4OGphNGpuUHNPLXhEQ1QteUpGUm5KNWxUVHM2ejdzZjAzOS1UWEFLNEhoalBtcDFwZzBhaW5fOUNUWUtGRnowMVVqdWVzRUZpdVJfd2NMQWJ6akpUT3RBd3EzWkphc0szMm1KUUhFQ3hxbnBmTElRWVl5dkFDSGVFcXgwNlpXTmNNQ3BaeGQyUmJhNG4yUlN0d1VtRUM3clRIUWdtUkNIYUdR": {
+  "keep": false,
+  "publishedAt": "2026-11-17T12:04:18.000Z"
+ },
+ "Reuters::CBMirgFBVV95cUxOLUxlLVUxMklSVU9TdEJTVWFUelMyNjNxTXo2TklSaHdqSDFfeFpBREtzN0czTWxYeHpzdm8tQ0hoRGlXRzFzakNaaVNlcm02NEw5STRncUpuUTZPUWNhWWdGTlMzUV9Kek16VTRsM1FCYU9hWmpiUjc1V0tkbmI4NXQzallheU4welFkSjd4clhFMFUtRDNCZWlTR0xxRnNkVDdzVjAtWkdMYW5zTVE": {
+  "keep": false,
+  "publishedAt": "2026-11-17T11:28:03.000Z"
+ },
+ "Retail TouchPoints::CBMiwAFBVV95cUxNV0NSWC1wRldOdWp4RmJUM3ZMY1NwQnM4WVZvQ2pGeVFES0RPZVh0R2toS2NEbXpqTk5kV1BYc2hsOFpqZTVZZ19NTWFhRW82dEZKMHdOMHNSa2h6ZnIwYmtlcS1NX0ZYdl9OMHRzSmpJMlIyVlF3UUVhMHFwejNsQkhkQ041d2F4ZjVWN1c2YjZfeVBITjNPSWNpazh2S18xa1lEOXgyai1nTEdCLXVzNlA0VnNmMXBsYUNfTng0REU": {
+  "keep": false,
+  "publishedAt": "2026-11-17T11:04:14.000Z"
+ },
+ "NIQ::CBMizwFBVV95cUxPTnZ1TFZZMU1QMldwOHBkTFNBRGpZWk5KTFRjbnVjZDNIM1FsVHhDZ3VaUjhQZ2l5WVJxdlpwWDl6ZmZiYjcwVmRvUzl6SV9SX0k1WGx0SFhVQ3hJTGtGaVJpanBMM3lVU2Z3dmV0XzRvdUVXTm1GVHJ5YW4yVGhMNEcwSzRWa2dqeHZPcGZncFlPT0I0TmZjNHhnUkx1akg4VV9TV3lqV2h0V1JmS2VLM3h4dFZ6QlNvVG9qVnVTWkgtbTNsa1Itdjd2aEtCdWM": {
+  "keep": false,
+  "publishedAt": "2026-11-17T10:44:40.000Z"
+ },
+ "PYMNTS Data::CBMipgFBVV95cUxQNTA2NWY2TktUVTZJYTgtLVlPR3pEdmdhOUE1czQtWFNaY2w5MjQ2MEptS3Q3N3pwd2QwN0dOTU9TU0pJTVduYVBneWdoSllmSnZYWE1lei1jMmJRTU1MeWpRbnJndUE4OEJQMkxsQWdWdzEwZEJHdzZxMzBmQThsVGxzR0ExN3BNRGh2Z2R1b3JyREt6dmpVSDlGRzR2czdYcFd0UVh3": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Some paycheck-to-paycheck shoppers plan bigger holiday budgets",
+  "short_headline": "Budget-stretched shoppers plan bigger holiday spend",
+  "takeaway": "Even stretched households plan to spend more; financing and instalment options could help us capture it.",
+  "importance": 2,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-17T09:09:01.000Z"
+ },
+ "Gartner::CBMiwgFBVV95cUxNc3ByWElnVXdqRUJpWTQwVldnS3Q2T2ZVMHp2UElJSzJyNjJGeWRwcUhUNTdNLThUMUNJSDlXQS0yZTJJX1dOZXNDaUF4US0wWXRkeGxCM1dxR05IM1RJUjNaemtrclI4OVpmTU1hX0RTcmZRMklqX0c3aU1yZmlWUU81N2ZpOEdfVy1DckF4bzA2WGNzS01NVG9HT2ZudDZFeVdqd1ZFZTB4OW8yV0dkSDYyUnk5T1h2NGRxc3g1Vm9wdw": {
+  "keep": false,
+  "publishedAt": "2026-11-17T07:13:07.000Z"
+ },
+ "Dell Blog::https://www.dell.com/en-us/blog/dell-technologies-and-amd-offer-more-ways-to-deploy-ai-from-first-node-to-full-rack": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Dell expands AI Factory with AMD: new PowerEdge server and rack-scale options",
+  "short_headline": "Dell widens AI Factory with AMD servers",
+  "takeaway": "Dell is pushing AMD-based AI server configurations, a competitor move in our server business to track.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [
+   "Dell"
+  ],
+  "publishedAt": "2026-11-16T14:00:00.000Z"
+ },
+ "Dell Blog::https://www.dell.com/en-us/blog/how-to-restart-a-computer-with-the-keyboard": {
+  "keep": false,
+  "publishedAt": "2026-11-13T17:00:00.000Z"
+ },
+ "Global Marketplaces::CBMimAFBVV95cUxNcWtZTE1HcjQ3dmptT2ZPRzlZQUYxUkVIWDRqbVJGOTVCYllMVVZoN1ptMk5EcEoxTWVLZEVDQUdwUlVwZWwxYlk5UzA2blVKNHNSQVdnOS1Uck5wSjhxN2xGZXpNaGR3WXRDUF9IbzlOVkEyOHZkY0hFdUNjQ1d5ZGJFUHRHamV1c0ZaOURIU0hpVjVqSktsTQ": {
+  "keep": false,
+  "publishedAt": "2026-11-13T15:46:37.000Z"
+ },
+ "NIQ::CBMirgFBVV95cUxOcmcwcXRXTGxoM3BGb1BCcFdwTVRkWUhaWlc5Zzg5N05HLVN5aGZIZWYyUFJZRjZJTWFNaEdhbHlkQWJCT1pnenp6VUtQQjh6RFgtMGRGTDZ1TXhQTmNSSXFSXzlzbVZIUGZSWFVkaUIwS2wzaUJfWnl6T29waDFCa1N4Z05xZHB2ekt5Vlg1cEJoYzhvY2Q1NU9aZUUySkkxVzFHbDFXd1ZvZ2NXREE": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "NIQ: consumers need a better reason to upgrade in 2027",
+  "short_headline": "NIQ: shoppers need a reason to upgrade",
+  "takeaway": "Weak upgrade motivation may slow replacement demand; our store should lead with clear upgrade benefits.",
+  "importance": 2,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-11-12T12:33:21.000Z"
  }
 }
