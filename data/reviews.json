@@ -1,30 +1,4 @@
 {
- "Retail TouchPoints::CBMirAFBVV95cUxPdTd3eTdCcVhJS3ZGVzJPY21LUk9PN1ZOcnVtU1dWcU5yLVgxRV9zNE12anB1a1RjUnprWUozdVVaOTl2YlZnT3VRMG5INHdWbm1mZUtFSlJHdXY1U3hTVjdCQVZMcWNjeHJFM2xSUGQ1MmpxZkhxaDFrc2UzZ2doLUwtd3N3LXdvRTVySDhPRC1QeTViMl81dXktMEVXT1JyUng1WGU4c25WMUdJ": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "Holiday shoppers started earlier and plan to spend more, Yahoo finds",
-  "short_headline": "Holiday shoppers start earlier, plan to spend more",
-  "takeaway": "Earlier, bigger holiday spend suggests pulling our holiday promotions and tech-gift merchandising forward.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-13T16:03:22.000Z"
- },
- "PYMNTS Data::CBMiuwFBVV95cUxQaFIteVI0cEZ5TnZLNFJEMEx3WkJNUF94NkZoNmRLQU1NUkJQd0pWRWxwRklYOVpyUWZneUFPSkVqaWxmZXMxY096clM3ZE9FTjNFdlBpX3gxV0lCRGp1MzlFdElZeG5LazR5U096cGp2ZjdjT25fX3lxWk85N05NUkYyaUFOM3dXRHljcVNpNnJncG5MZ3EyYmlBSlR4SFNWSU1FZXhzYnU5SDBfWk1sZ0Q2enhSQ0NaaGFV": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "61 million shoppers now start product searches with AI assistance",
-  "short_headline": "61M shoppers start their search with AI",
-  "takeaway": "AI-led discovery is now mainstream, so our store and listings must be findable and well described for AI assistants.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-13T19:18:40.000Z"
- },
- "PYMNTS Data::CBMirgFBVV95cUxOWHB0NGZ5UkktWXhQRmhpMUpIbFNYZEc3akpINHFURlhFV0NYMU1LUE5yMnFzZC1jZm5hU2JsOHJKM2stNjZiWmhSR0I2MHhDdWJROFU1WHdiYnhISk5WeTRLY2lCNXZoX3NqRkNnd0p3dGpYeE9IR2dkUnZoOWNuSkJWeVFpbHpJUmtnVVFJQk1Edk9EY3lDLTFMRjdWR21RV3Eza2pzS3VVbVlOTGc": {
-  "keep": false,
-  "publishedAt": "2026-10-13T18:08:41.000Z"
- },
  "Modern Retail::https://www.modernretail.co/?p=173125": {
   "keep": false,
   "publishedAt": "2026-10-14T04:00:00.000Z"
@@ -96,33 +70,6 @@
  "DigiTimes::https://www.digitimes.com/news/a20261014VL202/applied-materials-2030-forecast-equipment-revenue.html": {
   "keep": false,
   "publishedAt": "2026-10-14T00:58:17.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261013PD245/foxconn-rubin-fit-infrastructure-liquid-cooling.html": {
-  "keep": false,
-  "publishedAt": "2026-10-14T00:55:34.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261012PD225/revenue-pc-pmic-management-ic.html": {
-  "keep": false,
-  "publishedAt": "2026-10-14T00:45:43.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261012PD237/smartphone-sales-2026-vivo-flagship.html": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Memory prices up 4-5x hit smartphone sales as brands diverge on passing on costs",
-  "short_headline": "Memory costs hurt device sales as brands diverge",
-  "takeaway": "The memory squeeze that is hurting phone demand could hit PC pricing too, so we should plan pricing and promotions around component costs.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-14T00:42:38.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261012PD244/2028-revenue-automotive-electronics-cooling-hpc.html": {
-  "keep": false,
-  "publishedAt": "2026-10-14T00:41:30.000Z"
- },
- "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363484": {
-  "keep": false,
-  "publishedAt": "2026-10-14T00:23:53.000Z"
  },
  "Inc42::https://inc42.com/?p=576263": {
   "keep": false,
@@ -365,10 +312,6 @@
  "IDC::CBMid0FVX3lxTE5rQ0x1OGNvX0pUdVNHYnoya3hvemplcXJCbEdOU2FQYURnbDhaeGV6VTg4ZHZrNktGNk1jUEJpMEE5Y2sxdVZOaEdZWEdQaWJvT05sMUtWdWpGcDYyRUg5OTVtYTFFODFIZHowNmtwdGpwemdLRC0w": {
   "keep": false,
   "publishedAt": "2026-10-14T09:15:37.000Z"
- },
- "PYMNTS Data::CBMinAFBVV95cUxNb3pUWUlFUHphMlgxMXFVXzlUY0NISXBpY0VZUHAybktueVVLYmxSTW9peHprY0dkcW1UME1mdTFCTlNsMUtOM2Q1VHNiS0haMVZQQkhpbFJKRUhpUV9hT2c0b1hGbndESzRhWTNUai1nbUw5ZF90TnJSaDhvM0FDNEJYeGREUTRQejhjYlBpZHk3dkFEQ0xyV2xCZ3c": {
-  "keep": false,
-  "publishedAt": "2026-10-13T16:03:36.000Z"
  },
  "Inc42::https://inc42.com/?p=576395": {
   "keep": false,
