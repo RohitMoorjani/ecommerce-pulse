@@ -7677,5 +7677,115 @@
   "content_type": "analysis",
   "competitors": [],
   "publishedAt": "2026-11-12T12:33:21.000Z"
+ },
+ "PYMNTS Data::CBMitAFBVV95cUxNU2JaWFVWN3BBbmp1UDZSZF9FUHh4eUpLNXlQemUtMkpuS3Y0alAzbTZpajhKeXJ3ekRla2ZRV3ltc0RaYTRxNVVwVFFUZnhqSFUwaXlfa3lhR3BGR0NjMnpvV1pNYmI0XzBBd3FqZEVfT3VzRmZhaEpzUE0yYlJvYVJMbkRKTW1HMFZuLUY2SWRfcTZDbldiRkpOVVJZVW52TjJJcnZOMmNMMnZPVkNTSHFmMVA": {
+  "keep": false,
+  "publishedAt": "2026-11-18T09:04:07.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261118VL222/samsung-ces-2027-manufacturing-design.html": {
+  "keep": false,
+  "publishedAt": "2026-11-18T08:55:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261118VL223/samsung-capex-2026-2025-revenue.html": {
+  "keep": false,
+  "publishedAt": "2026-11-18T08:24:17.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261118VL214/samsung-dram-roadmap-wafer.html": {
+  "keep": false,
+  "publishedAt": "2026-11-18T06:50:46.000Z"
+ },
+ "Reuters::CBMixAFBVV95cUxOSHJQeVBOcE1TbzVOSHQza2hPQzZiUTBwX2dKVFo2U1lKeDZDQ2p2RGtDbjRUMHJaMXJkZlRKaGdhOTY4SnVOVkRfQVdfU2N3c0ZUSnVxSmsxR0lXQzBGMml5Q2U2bmo3UmVYbzBIMFQwcEVlM1BZZ182OWRlSThXTVU5QmlfdHdia2VLMDNLZjlLMnlnN2ZySngyalA5WGhNdFJkTUptOHF2WFVIbW40dmhtS01ieFRSaXBpRlVXWnJHZWZD": {
+  "keep": false,
+  "publishedAt": "2026-11-18T06:06:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261118VL213/apple-dram-samsung-price-2027.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Apple nears long-term DRAM supply deal with Samsung as memory prices rise",
+  "short_headline": "Apple nears long-term Samsung DRAM deal",
+  "takeaway": "Apple locking in memory supply may tighten availability and raise costs for other PC makers, including us.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [
+   "Apple"
+  ],
+  "publishedAt": "2026-11-18T05:41:37.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=175466": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "ThredUp sells via TikTok Shop livestreams filmed in its distribution centers",
+  "short_headline": "ThredUp runs TikTok Shop livestreams from warehouses",
+  "takeaway": "Warehouse-based livestreams are a low-cost TikTok Shop format we could test for refurbished or accessory inventory.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-18T05:00:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261118VL207/apple-iphone-duo-production-component-2026.html": {
+  "keep": false,
+  "publishedAt": "2026-11-18T03:23:25.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261118PD215/pc-shipments-2027-2026-market.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Notebook shipments seen staying weak through Q2 2027 after soft peak season",
+  "short_headline": "Notebook slump seen lasting into mid-2027",
+  "takeaway": "We should plan inventory and promotions for weak notebook demand into mid-2027 and expect price-led competition.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-18T03:20:36.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261118PD228/nand-nand-flash-2026-pc-demand.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "NAND spot prices down about 20% since October despite AI storage demand",
+  "short_headline": "NAND spot prices fall 20% since October",
+  "takeaway": "Easing NAND prices could relieve storage costs for PCs, but weak PC demand means we should watch pricing before committing.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-18T02:53:32.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261118PD223/foxconn-sony-camera-automakers-automotive.html": {
+  "keep": false,
+  "publishedAt": "2026-11-18T02:51:29.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/apparel/underneat-targets-rs-2000-crore-revenue-by-2032-eyes-1020-stores-next-year/135945872": {
+  "keep": false,
+  "publishedAt": "2026-11-18T02:39:41.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261118PD221/nvidia-data-center-infrastructure-capacity-policy.html": {
+  "keep": false,
+  "publishedAt": "2026-11-18T02:26:12.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261118VL206/smic-samsung-revenue-market-2025.html": {
+  "keep": false,
+  "publishedAt": "2026-11-18T02:08:55.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261117PD247/hbm-samsung-dram-nvidia-testing.html": {
+  "keep": false,
+  "publishedAt": "2026-11-18T01:59:27.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261117PD245/tlvr-asic-design-growth-ai-server.html": {
+  "keep": false,
+  "publishedAt": "2026-11-18T01:49:49.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261117PD235/bellwether-data-technology.html": {
+  "keep": false,
+  "publishedAt": "2026-11-18T00:34:58.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261117PD224/capacitor-ai-server-gpu-performance-transmission.html": {
+  "keep": false,
+  "publishedAt": "2026-11-18T00:18:45.000Z"
+ },
+ "PYMNTS Data::CBMimgFBVV95cUxOM05kZXdUeE9yS1F5ZFRxdVc4dkZEUG01eVMybVVvS1BCb2VlUGpQbzlyMURhMnpuMHlHSGNLZ1BnYUJHSW5ZRHU1Z0lNRHBOdXJOT3dDa01kN1dWeXNCRDZVZDVqcEdnSWxXdlkxWDg0SWNzWnpUV3BHLUVwVkJEZFhlV29pcmtCblA0YXRvT002OElzcGJXTzFB": {
+  "keep": false,
+  "publishedAt": "2026-11-16T21:29:44.000Z"
+ },
+ "PYMNTS Data::CBMijgFBVV95cUxQS3NNNjhNaGNrYzNRQTZSSUpJa3prYVlDRDZMVlpCU2dLeXhUQ1pUSVZudVZRQktoTUZJNVc3ODQzWXhzRTdfaEZKT2Jjckx5TlVmbWVSNHJFLVhtTF9WN1B3S3NLZ2thMjRTU3hhZ2dTX19hcXN2MlhqdTV3Q3pXNTlXVUU5b0N1Q2lIdGJR": {
+  "keep": false,
+  "publishedAt": "2026-11-12T17:29:49.000Z"
  }
 }
