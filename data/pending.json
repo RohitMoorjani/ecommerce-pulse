@@ -1,42 +1,146 @@
 [
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261119VL203/stmicroelectronics-mcu-automotive-revenue-2028.html",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261119PD228/testing-taiwan-ase-plant-subsidiary.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-19T01:31:16.000Z",
-  "title": "STMicroelectronics targets 25-30% MCU share as it aims to double STM32 revenue by 2028",
-  "snippet": "STMicroelectronics (ST) is betting that automotive, industrial, robotics, and AI data center electronics are converging on the same building blocks, and that a single microcontroller platform can win across all of them…"
+  "publishedAt": "2026-11-19T08:20:00.000Z",
+  "title": "ASE invests NT$248.9B in Renwu K52 plant for AI testing",
+  "snippet": "Taiwan Fore Electronics, a subsidiary of ASE Technology Holding, will invest NT$248.9 billion (US$7.54 billion) in a new K52 plant at the J block of Kaohsiung's Renwu industrial park, with construction scheduled for…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261119VL201/tencent-revenue-operating-profit-cost-demand.html",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261119PD216/msi-edge-ai-pc-revenue-demand.html",
   "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-18T23:54:47.000Z",
-  "title": "Tencent's revenue rises 8% as AI spending weighs on operating profit",
-  "snippet": "Tencent's third-quarter results showed the cost of turning its artificial-intelligence push into products and infrastructure: demand remained broad across advertising, cloud and domestic games, but reported operating…"
+  "publishedAt": "2026-11-19T07:00:08.000Z",
+  "title": "MSI targets over 10% non-PC revenue with on-premises AI",
+  "snippet": "Micro-Star International (MSI) is reshaping its product and operating structure as AI computing demand expands, export controls tighten, and rising memory prices pressure the PC market. President Jeans Huang said PC…"
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261118VL216/sk-hynix-hbm4-packaging-equipment-2027.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-18T23:50:14.000Z",
-  "title": "SK Hynix seeks HBM4 packaging equipment for early 2027 delivery",
-  "snippet": "SK Hynix is seeking deliveries of additional HBM4 packaging and testing equipment by early 2027 as the South Korean memory chipmaker prepares to expand production capacity to meet growing demand for AI memory."
- },
- {
-  "id": "Reuters::CBMiwgFBVV95cUxQZUNyLVVjeVRlazF5djhJOTlXeGpvODRMeGJSWmFqRWJpSE9nZjk3WEpvRkhmVG41WDc1R3VoNVVDbHFwaDNBanpXWE9xWDJZbGlsU2NoaGpGMlhFOVlBN3B1QlQzSjdOaGhTZklFdFZVTXBuY0IwdWZnS3lSUWFvNi1LODN2NXRoem9IWXFoREljdmxfanZsc0ZxLVlKM01HWmlXYjhBMlBKR00xU1YyVGM4MWtBYkpxOGNFZ2VOY2lZUQ",
+  "id": "Reuters::CBMisAFBVV95cUxPakF2dUtyWGhnNzlUeGQ4cWxIb3hGSjFWWU5Qb05STXdtelBYV1ppOE1nX05nbDdvbmk0ekNNYmJnODFHYndqVXRlX2dkWW9ucldzdFBCdTVIcW01WjhaR08tVjFrMHhxZnFCR0taQV9pY2pnMFh2X0RVX2ItZENzcjB2TVJ2RXZBNXdfRDNTOVQ2Z2FFSmM1cGhQVTNad1FneE9PRHNNTUp4ZHpBZVd4Zw",
   "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-18T09:33:02.000Z",
-  "title": "Samsung Electronics downplays concerns about neocloud firms and AI bubble",
+  "publishedAt": "2026-11-19T05:47:00.000Z",
+  "title": "Lenovo posts 48% revenue jump on AI-related sales, beating estimates",
   "snippet": ""
  },
  {
-  "id": "PYMNTS Data::CBMingFBVV95cUxNWWlmczhXdDlGenp4Ty1ONEtsOXhJOTlMYjZYQjllbW1VYjZqT2c0aEJ2U3E4aDMya0pBNlFtSzBhbEFIY2Fvb0cybkViaFRmLXV3dEtmajdtWVdkbFpkRmZhY1htVXQyZjdkZWY5NWZiZmtMMTNLMy14V2xKczV1Uk9LQ1BpNW1vRHYtSzBDSm9iSFg3MENWbzBSdkI0dw",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-15T02:53:30.000Z",
-  "title": "Drivers of Consumers’ Bill Payment Priorities",
+  "id": "Modern Retail::https://www.modernretail.co/?p=175595",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-19T05:00:00.000Z",
+  "title": "Retailers ride the Grand Theft Auto VI wave with special promos",
+  "snippet": "Retailers and brands mark GTA VI’s launch with food, delivery, tech and even cannabis promos as gamers take time off to dive into Rockstar's virtual world."
+ },
+ {
+  "id": "Modern Retail::https://www.modernretail.co/?p=175624",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-19T05:00:00.000Z",
+  "title": "In Graphic Detail: Welcome to the agentic commerce quarter",
+  "snippet": "OpenAI, Google, Amazon and Walmart are betting on agent-led holiday shopping. Modern Retail sister site Digiday charts how far it still has to go."
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76591",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-19T05:00:00.000Z",
+  "title": "GTA VI day is here: £6.4bn spending spree and a £265m productivity hit",
+  "snippet": "It’s been 13 years in the making, but today is the day that gamers all over the world have been waiting for: the launch of Grand Theft Auto VI. The post GTA VI day is here: £6.4bn spending spree and a £265m productivity…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261119PD218/communications-everlight-2027-growth-packaging.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-19T04:40:00.000Z",
+  "title": "Everlight ramps up AI optical communications push, targets double-digit growth in 2027 on robust coupler orders",
+  "snippet": "Taiwan-based Everlight Electronics is accelerating its entry into the AI optical communications market through overseas technology partnerships, automated packaging investments and strategic upstream supply agreements…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261119PD200/samsung-ic-design-2027-12-inch-wafer.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-19T04:18:20.000Z",
+  "title": "Samsung's silence on 2027 8-inch MPW plan worries South Korean IC design firms",
+  "snippet": "Samsung Electronics' foundry division is gradually winding down its 8-inch process operations but has yet to announce its 2027 8-inch multi-project wafer (MPW) plan, raising concerns among South Korean IC design firms…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261119VL217/google-hbm-broadcom-mediatek-2027.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-19T04:01:06.000Z",
+  "title": "Google looks to bypass Broadcom with direct HBM purchases",
+  "snippet": "Google is looking to buy high-bandwidth memory (HBM) directly for AI chips developed with MediaTek, potentially cutting billions of dollars in procurement costs and changing how Samsung Electronics, SK Hynix and Micron…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261118PD256/automotive-nand-dram-capacity-flash.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-19T03:31:22.000Z",
+  "title": "Nanya, Macronix team up on automotive memory as Chairman Miin Wu greenlights supply",
+  "snippet": "Amid persistent memory supply tightness, Taiwanese memory chipmakers are moving aggressively to secure key positions in automotive supply chains. Nanya Technology and Macronix International have finalized a deeper…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261118PD236/probe-card-capacity-samsung-2030-plant.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-19T03:06:26.000Z",
+  "title": "MJC eyes 2030 memory probe card gap, adds capacity for Samsung",
+  "snippet": "Japanese probe card maker Micronics Japan (MJC) is considering expanding beyond its existing capacity as the AI boom drives demand for memory chips. The company is searching for land to build a new plant to prepare for…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261118PD255/openai-chatgpt-2026-data.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-19T02:48:34.000Z",
+  "title": "DIGITIMES Insight: AI agent shopping poised to take off as model providers, merchants seek to break a zero-sum stalemate",
+  "snippet": "OpenAI rolled out ChatGPT Wallet in November 2026, allowing ChatGPT Pro and higher-tier subscribers to browse merchants and complete purchases through Dots, ChatGPT's built-in AI agent. The launch comes just months…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/toys-kids-and-baby/firstcry-expects-mid-to-high-teens-growth-in-h2-fy27-eyes-50-store-additions-qwik-expansion/135975824",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-19T02:43:29.000Z",
+  "title": "FirstCry expects mid-to-high teens growth in H2 FY27; eyes 50+ store additions, Qwik expansion",
+  "snippet": "FirstCry is projected to achieve mid-teens to high-teens revenue growth in the upcoming H2 FY27. The company experienced a significant revenue increase of 14.1 per cent in Q2 FY27, supported by enhanced delivery…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261118PD260/phison-hpc-pcie-performance-data.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-19T02:36:28.000Z",
+  "title": "Phison Electronics showcases 3 storage innovations at SC26 to drive AI, HPC",
+  "snippet": "At the International Conference for High Performance Computing, Networking, Storage and Analysis, also known as Supercomputing 2026 (SC26), Phison Electronics is showcasing three next-generation storage technologies…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/going-from-market-intelligence-to-market-imagination-may-hold-the-key-to-fmcg-growth-in-india/135975603",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-19T02:30:59.000Z",
+  "title": "Going from market intelligence to market imagination may hold the key to FMCG growth in India",
+  "snippet": "Artificial intelligence (AI) brings FMCG to a similar inflection point. While improving forecasts and automating tasks are worthwhile applications, the bigger opportunity lies in asking what we can solve today that was…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261119PD214/automakers-chips-2027-capacity-price.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-19T02:12:32.000Z",
+  "title": "European automakers rush to secure memory chips as AI boom squeezes supply",
+  "snippet": "European automakers are scrambling to secure memory chip supplies for 2027 and beyond, with senior executives approaching suppliers directly as Samsung Electronics, Micron Technology and SK Hynix shift production toward…"
+ },
+ {
+  "id": "Reuters::CBMi3AFBVV95cUxOdl9SUHdFaGc4a3dfUWc1bXRoS2NWWHF5cDhIUmFuZVYzamxZOFdLUTE3T0ZKaUdhX2QxVWxBSm5xdENxM0FNbmJpQ3BqcHl5RGtyLVlxekx1aWZUWElBbk5CUGpJamNKclBsQzdtcmNPRTdKUkY1cWtDLWtseUlISXZzQWdVVHBOTzQ3RlBQaHJuSXZZdGNEVjN6QlUyWUtyZUllRHY0MjVReGFXNWpZalN3eHEtRXBwVVp2MnVRS19rYlAzOThvWDRpcUI2M2YwUWhyaS1CbURyR2FX",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-19T00:03:00.000Z",
+  "title": "Weight-loss drugs' hit to UK grocery spending tops £1 billion, Worldpanel says",
+  "snippet": ""
+ },
+ {
+  "id": "Reuters::CBMirwFBVV95cUxQTms1VVZUOTUyUjBnS3VLVjFBZU5SeW1UWDZNRDJqY2w1N3dlT2Z6OEU2MDNIdGRaMG9XRzZMZVZZWDhERVRWbVpSVnkxZFVtUU9wVmxhVTl4akNIN2p6d0JWSHJ1RzlpNnljZkFXTjBySlRHMVNaRXMtbDM5eFctekpJay03M1ZJM0JzdkpfTml3MWJOcVh6YnBvaVk3QTYyS2Rha2cxYUtpWF9TWjdr",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-18T14:32:00.000Z",
+  "title": "'GTA VI' publisher Take-Two jumps as gamers relish blockbuster release",
   "snippet": ""
  }
 ]
