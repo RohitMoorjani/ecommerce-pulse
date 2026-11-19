@@ -7635,5 +7635,182 @@
  "Reuters::CBMirwFBVV95cUxQTms1VVZUOTUyUjBnS3VLVjFBZU5SeW1UWDZNRDJqY2w1N3dlT2Z6OEU2MDNIdGRaMG9XRzZMZVZZWDhERVRWbVpSVnkxZFVtUU9wVmxhVTl4akNIN2p6d0JWSHJ1RzlpNnljZkFXTjBySlRHMVNaRXMtbDM5eFctekpJay03M1ZJM0JzdkpfTml3MWJOcVh6YnBvaVk3QTYyS2Rha2cxYUtpWF9TWjdr": {
   "keep": false,
   "publishedAt": "2026-11-18T14:32:00.000Z"
+ },
+ "Retail TouchPoints::CBMivAFBVV95cUxQblFXdTlWQlg1Z3hId3V1cTZyRkRSc0NaX19tS282MC1MdE5aMkdmTzRiaUhtWGNXamlMbWJUbXh6Y0RIUHUzUEtFLXJzam1ZR2N6WG01c09ZWUJJSGZ5RjhZcVVsTmRWQ24xMHA0UmJPVGlZQVp2VnptOU40aF8ydTBkajh5djVrUGIyakpCbFpWZXBTcFRlN2Y4MU5ob01zTHNlX05IS21MUkRPT0FSRXppeFVBYzR0U29TNA": {
+  "keep": false,
+  "publishedAt": "2026-11-19T20:01:20.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/mall-of-america-debuts-ai-concierge-mallie/875089/": {
+  "keep": false,
+  "publishedAt": "2026-11-19T17:33:00.000Z"
+ },
+ "Retail TouchPoints::CBMisAFBVV95cUxQejNFdGtnWEF1TkhmTmpMNm41SmpCTTVhNUlpQjhSYjZtRVRRamVnYjFBeFlHdHYzMVZic1ZRSkZwZ2VJdEtIc0xDUzBQV2U1dzZ3SzJadVpUQ2o0V2xZdHZxMW0wOGN3UE1sb3JaUURiSDVpRndWUXZmTTc5TVNOVV9sQ2RTWEtpZk9fNXhTZENyYUQ4dk84SjlCcG84TVZrSmZEY2tQOGxYWVlRVzVBag": {
+  "keep": false,
+  "publishedAt": "2026-11-19T17:01:50.000Z"
+ },
+ "Retail TouchPoints::CBMisAFBVV95cUxQdG1WYUxxVHlyLWVlRmV3OVBobnpyWjdHZllJdFZrRjdvSTNnc2FfaGU3S2l0SEJHYk0wTUlBV3duM2Mtb25HX0dQQWVhS29Tc0tnWVdQRGhGa0pOYVJheEd1M3VySU02aFRKVFNhakgzZF9OYnlzMTFpZmpiRDdkb2lpUlV5MlJUQlBMRzZBOUVxMVJBaHNHeXVaZ3ZrYS1nRmJQcnpBUGZsSXk3ZFZpUg": {
+  "keep": false,
+  "publishedAt": "2026-11-19T17:01:49.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/the-backroom-podcast-department-stores-holiday-season/875199/": {
+  "keep": false,
+  "publishedAt": "2026-11-19T16:56:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/bath-body-works-turnaround-q3-consumer-first-formula/875168/": {
+  "keep": false,
+  "publishedAt": "2026-11-19T16:51:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/tractor-supply-uber-same-day-delivery/874748/": {
+  "keep": false,
+  "publishedAt": "2026-11-19T15:55:00.000Z"
+ },
+ "CRN::https://www.crn.com/news/ai/2026/anthropic-ipo-caps-a-breakout-year-for-its-claude-partner-network": {
+  "keep": false,
+  "publishedAt": "2026-11-19T15:40:00.000Z"
+ },
+ "NIQ::CBMiuwFBVV95cUxPMmRrVVU3VWFzQXNoVENESFNvcjFmUE8yd2lEWkhLbC03bUVOWVBOR3pEcXg0d3FPWWxyQXh2clU5U3VxenBldFRMWHh1aXNvWWpES0E4dmd3MnFQQzluLWYzdXJpZzRqRmo2dnNPRDdwbU9rNXZfVmpOTldEckRHYURWalZIX0dibkpGWHdQamZDS3NvQzE2VTA4SlhzSFFBZEVHaVFTMXZkUklsS1RTSzhNRTdaTDdVWXFZ": {
+  "keep": false,
+  "publishedAt": "2026-11-19T15:10:07.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=167150": {
+  "keep": false,
+  "publishedAt": "2026-11-19T14:01:10.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=167153": {
+  "keep": false,
+  "publishedAt": "2026-11-19T14:00:46.000Z"
+ },
+ "CRN::https://www.crn.com/news/data-center/2026/dell-s-denise-millard-on-huge-win-for-partners-with-launch-of-automated-deal-registration-dynamic-pricing": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Dell launches automated deal registration and dynamic pricing for channel partners",
+  "short_headline": "Dell automates partner deals and pricing",
+  "takeaway": "Dell is making partner selling faster and more price-flexible; we should check our own channel pricing agility.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [
+   "Dell"
+  ],
+  "publishedAt": "2026-11-19T14:00:00.000Z"
+ },
+ "Reuters::CBMiyAFBVV95cUxOWDJfS2RxQlRiZmpGR0xZQmVpdkZqdVR0bzdyRTVFZUctUnFsWUN6cXZlZ2hlSmpVUW0wUnpwOHUtMjBzZGtzVjhhRW13M09vUTJIRG00QXFiMGxMNW1wbDRuZzFlZDUtTldXWlpLWExPajd5Rzc1OWpDN01PVzBPd1BWVG1taWtUamc0Zzh5b1djTFY1cER0SnNsU0NXZ242YmhKUGVRU2JWelVsN3FYT3k1VjlheFlHY2YyNGp2Z2RwbjNJTDF6bQ": {
+  "keep": false,
+  "publishedAt": "2026-11-19T13:52:22.000Z"
+ },
+ "Global Marketplaces::CBMitAFBVV95cUxOUVlDMFN1aGI1Y2JyeWxMX1Y4V1BOQlBHU3d6Y3YxYWNCbkFXRzhPMDc5TndhWWkyZzRmamRJX21zMnVjVmR1Ynd5TTEwWUpmNzNLbVdHbVBHQkpsVWJwN1d0d1R3bW5fSE8zUVdEWW9KWFBWZWNsckdFWHZRTnpOVTdQMjhtY3FIdGpqRTJuYW15SW1ET3QzVzJVYmctTjFLMzJPdy00MmZpMDRNc0xYNkxkbU8": {
+  "keep": false,
+  "publishedAt": "2026-11-19T13:50:24.000Z"
+ },
+ "Counterpoint Research::CBMiqAFBVV95cUxOV2pGMHBaSjhmWjVIV0k5VTlmUnNmeTF1aC1sdUlOLXZwNFVGdWxGR2FRRXJuYjNpOUQ0TFVlZ1RPVXhmc2NkZXNRdzdxNFVtU0V4eUFmdEw4Mm53R3NsTkNCT0hOdGlFcVc4WFBuRHVCUkY3UFpYejBWT0dOa01SUFJpMnk0SnhzbXN1UzExZ2hjZnhRMDczamtsSkVYLUMxdGJLM0E2Wnc": {
+  "keep": false,
+  "publishedAt": "2026-11-19T12:28:36.000Z"
+ },
+ "Retail TouchPoints::CBMizwFBVV95cUxQeFpsMWI3VWJyNGV4S2I0b3lWa253d084YjVKTEdEX2xBeGJWQnRETW14TkRlVTJhd1hvOGpCMWxSYk9qQjhIa2dqUkVRTUVXVDhIeFBCdk5UQ05GbF9VWVdURGo4b0hlaDhOTjZwU05jYmJUTm9aUU1NNUpERE9TODZMcVQtTjFOR3U2dlliSzl5emFndE9Qc3NtUEkzVVpGTVVyQ3pXSHJFM0FNdU1KR0JtRzFpSm5rVWR3ZmQ2bkwxeGFnOHNMVXEzOUZZVWc": {
+  "keep": false,
+  "publishedAt": "2026-11-19T12:18:31.000Z"
+ },
+ "Retail TouchPoints::CBMixAFBVV95cUxNdjRRSDVUM0UwNU80UXZLZnRudTVsaFNwM05YcXZROEk3cUNPWG02SjlYZmVpWEFBN2pkczMxSnhfdVZNSDVMUWpsbUVUMGJFbkd2QjdJTlN1clVIZ0M3OE9rdjQ5S1NENk1YenpLZnVLX2ZaTDBOTzhxMkR5UHhtQkNrM2FJTEt4ZG14TzZobWVmOHdZOXh3QmRnSzRrLUlXYmZLb0NoZVVyQWZwRTlFUmJuTWFVUTU0T2NzTFIyV1pVQ3JX": {
+  "keep": false,
+  "publishedAt": "2026-11-19T12:02:39.000Z"
+ },
+ "Retail TouchPoints::CBMixgFBVV95cUxOX2hVQjFmSGMzdVZCUi03SGtQSUdKRFV5eHN0ZldnTG5aRVZrUXNmanlSdjlLUUdubU5LODlFcHpRNkNsRjJ1RVJCTE9TMFQzZGgyNWs0ZXpaajRaQkZKRFlmdWpqVlBaY3pJY1o1dGZGMFZ5UndXUlgzdy1zZ01VakVHbXR5Xy1aWEZpUWxxWndVN3QxSnhhZlZzWktiTFo4eGlQY0lZc3E1T280M3hFaFllQjdKMFVqZFlhSmJ5OEk4S192Y1E": {
+  "keep": false,
+  "publishedAt": "2026-11-19T11:10:05.000Z"
+ },
+ "IDC::CBMiYkFVX3lxTE1JVlFuc1pTMFRMTDJtVnowTVl1SjlYODctR3FPNGFwLXlYYk5ST1BDckQtMHhSM3pTV0oxdHA4OWM4QUdTYVprNWNSWlBER1BGc29sbmhwVDVBV0lWMms0VmVB": {
+  "keep": false,
+  "publishedAt": "2026-11-18T05:54:23.000Z"
+ },
+ "PYMNTS Data::CBMipgFBVV95cUxPUzFLeDJTY0hqdlJYZVJFeGo1aVQ1NTRHeC1NTDhOV251M0Z3emNoZXlHX2ktalg2a3hGQ0k3N0x0YlNaemt2ckp0REh4THJUb193cjVTNVRad1VCWTVKRnI0c2poaWtBTnkwQ2EtWG1zdF9zb2llMGRvQ2Y4V2VuenhKVTFMMFVDQ19FR2QwQ2FzVnhNSmtHZzdZRURfZk1oQmlaQmRn": {
+  "keep": false,
+  "publishedAt": "2026-10-25T12:06:08.000Z"
+ },
+ "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364169": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "2026 holiday forecasts point to online sales growth similar to 2025",
+  "short_headline": "2026 holiday e-commerce growth tracks 2025",
+  "takeaway": "Steady growth means share gains must come from conversion and experience, not a rising tide.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-19T19:59:50.000Z"
+ },
+ "Reuters::CBMitwFBVV95cUxPNkFtMjlFYVZtVmJXQWlvMGtSdGNFZm5xd3JHSlJPaGR4ektBbEZUdWltOGhnbGpPTmNRblVaRFFnSU5KTWxZREdqVmpwTGREOTF0ajFtWkVMcURwY19tX1FkWndWOFlkMVYxTm85N2tjbno0TTNhWDV3VmRqSnJLSWdtUnRFOWxNYWFlWmRxelI2VjhPNkxxaWhIQ1JtYzJaZ0dQNmlxREd4dDY3S0o5N28zbkk0NXM": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Amazon warns NYC delivery bill could add up to $5 per order",
+  "short_headline": "Amazon: NYC bill could add $5 per order",
+  "takeaway": "Delivery cost rules could raise prices on marketplace orders in New York; watch effects on our sales there.",
+  "importance": 2,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-19T18:43:01.000Z"
+ },
+ "Circana::CBMixgFBVV95cUxOVFdtbW9kRlFwM2JlTGZqbmo5TWdyQXVSX24yaHNFUF8tRmZBWG90amt2dm1STVZWa2NZSEdnVmxXbmd4Vkc5dW1CVHpaTURIdUlrZGxoZC12VFZ3SEZaR0VldS1TWU9FaTJETnVpWm9tNGdMOUpJak81cHBBZk9yV1ZxTW1oWFBRZHNaU3lZM2RlRDQwQWY0eHZBZ196LTh5YUNIMzRJcmRNMTROdEZrZTR6SVNoZEZ4ZnJ5UGdYdW10ZW1hd3c": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Circana: holiday tech shoppers who skipped back-to-school may be key buyers",
+  "short_headline": "Circana: skipped back-to-school, buy now",
+  "takeaway": "Tech buyers who held off in back-to-school are a holiday target; we could aim offers at them.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-19T18:35:10.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/instagram-creators-add-amazon-affiliate-links-reels-posts/874889/": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Instagram lets creators add Amazon affiliate links to Reels and posts, no cut",
+  "short_headline": "Instagram adds Amazon affiliate links",
+  "takeaway": "Creator-driven Amazon traffic grows; we should consider affiliate and creator programs for our products there.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-11-19T16:35:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/walmart-ecommerce-boom-fulfillment-speed-q3-earnings/875166/": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Walmart U.S. e-commerce grows 23% in Q3 as fulfillment speed sets it apart",
+  "short_headline": "Walmart U.S. e-commerce up 23% on speed",
+  "takeaway": "Delivery speed is driving share at a key electronics channel; our marketplace delivery promises need to match.",
+  "importance": 4,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-19T15:54:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Target’s Ask Target AI assistant shows early sales lift in beta",
+  "short_headline": "Target AI assistant lifts sales",
+  "takeaway": "A major retailer reports AI assistant results; we should test comparable guided shopping in our store.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-19T14:16:00.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=167167": {
+  "keep": true,
+  "segment": "plays",
+  "headline": "Study: partial returnless refunds can cut return costs and boost repeat purchases",
+  "short_headline": "Returnless refunds may lift repeat buying",
+  "takeaway": "Returnless partial refunds could lower our return costs on low-value accessories; worth testing.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-19T14:01:23.000Z"
+ },
+ "NRF::CBMirwFBVV95cUxPU0hkTHR6ZUFsNFVfdTJ1Ui1xbE9qR1VBMGlsYXRKdENmM240dHA3LVJkMllaNzFEZTRGYXJtLXNPRlluMzV0YmNjdGlXalJtMXBJbzFtMy1KY2JqRXpzZFVDQVVnT3Q0SGVIaGYtRHJEazlCMWlJNDNvalYzRUthRFlFR2NQWmhDdXh5emdXR0F3QmllZGUwLW9KMUROdF9hR3dTRC05S0lMbExsaWk4": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "NRF expects 183 million consumers to shop over Thanksgiving weekend",
+  "short_headline": "NRF: 183M to shop Thanksgiving weekend",
+  "takeaway": "Peak holiday traffic is forecast to be large; our store and fulfillment should be ready for the Black Friday surge.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-19T11:42:42.000Z"
  }
 }
