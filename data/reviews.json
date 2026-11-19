@@ -1,136 +1,4 @@
 {
- "InternetRetailing::https://internetretailing.net/?p=76288": {
-  "keep": false,
-  "publishedAt": "2026-10-15T16:55:25.000Z"
- },
- "PYMNTS Data::CBMirgFBVV95cUxQR3NJMk8tTjBpSjg4V3c2clNlZ1RsY1lfNkI3UTRaZExlaHNVWV9HQWpiY20yV2xFZFJiYmtWSVY5VUx2alZCS3pacEZrR0hyRlUwaXZ5T3djcE9BUWptclI0NGxuVnNFcV9hRmhkdnhKa190VzZvaEtHdzdzUHVyQjRfaUszV1oxMEpfaER0MzdFLWxOTGJ5dXhYS3BhWXZieDIyRndydDdVbUh4WlE": {
-  "keep": false,
-  "publishedAt": "2026-10-15T16:29:28.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/bealls-debuts-mobile-app-marketing-campaign/832855/": {
-  "keep": false,
-  "publishedAt": "2026-10-15T16:03:00.000Z"
- },
- "Retail TouchPoints::CBMiogFBVV95cUxPb2k0alVGSUljVVJ0RUVuTmFzTEY0MjNQSFd4dU5IdjVMV0FhaTV6ZWhFNGoyV05GWkpjbkppbEdvZGtzUGFTd2RkZ3BUWFlFdzBCdzNSRDhpWTBhaWdyR0xwaDlrUzlZem80MFFjdTQzV3V5RUNackM3WnkwT2dCWVFaNlpqRjdnSVFpc3RBWGh4RTVubG94MnotVW4waXc1Q1E": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "NRF says 2026 holiday sales could reach $1 trillion",
-  "short_headline": "NRF: holiday sales may hit $1 trillion",
-  "takeaway": "A strong holiday forecast supports planning promotions and inventory for our store’s Cyber 5 demand.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-15T15:50:26.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/lululemon-restructures-raw-materials-team-layoffs/833106/": {
-  "keep": false,
-  "publishedAt": "2026-10-15T15:49:00.000Z"
- },
- "TechCrunch::https://techcrunch.com/?p=3178088": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "Google’s Universal Cart shopping tool launches in the US across Search and Gemini",
-  "short_headline": "Google Universal Cart launches in the US",
-  "takeaway": "A cross-merchant cart inside Search and Gemini could shift where PC purchases start; we should check our store’s product feed readiness.",
-  "importance": 4,
-  "content_type": "announcement",
-  "competitors": [],
-  "publishedAt": "2026-10-15T14:29:33.000Z"
- },
- "NRF::CBMiswFBVV95cUxPU2NrZmFPdlZGOThqN01NcWsxOTU4RVNCUFp6cXg0QlN0R3JfN0J2NXJLdGdEYlF2a0NoR1dTMHVhMUY2SmVNLWwzbmdrU0ZrTHV2QlozQlZ0cHRvVWFsYTFrLXA5RHdCbC1ZYkZGNTR1bzVXQ0x6dEZ3dk1Wam1aSVI2NXVRbUVzWDR0TlZZa3NjUGxCcVQxYkhaTmg0LXJLdTh2ekZLQ1RfajZmZXEtMlBMSQ": {
-  "keep": false,
-  "publishedAt": "2026-10-15T14:11:23.000Z"
- },
- "Circana::CBMixAFBVV95cUxQRl9STnBZRkJqY1EtMXB2cEJZSEc0cVZaUmYyTHkxUjlNNVJ0cUduMkZRd2ZNUG8ydUp4RENwbjNoS041aWJodVEtQkRkd0FSUnZ3Zld6RWc1bG5rYTVQX3JyaDdfN0RUUWZrb0ZiQm5xeUhBRUdGZ1ktYk8yMldpT2FPcnNNaW9hWDBac2cyanpPTmg0cDlXVDdTMDMtRlA0LU8tUnJwSVV3RzdDT1EyajdFTTA3WHZQMUxId0lZZUdiQ3lW": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Circana brings $200B in hidden marketplace demand into measurement",
-  "short_headline": "Circana measures $200B of hidden marketplace demand",
-  "takeaway": "Better visibility of marketplace sales may change how we judge channel mix between our store and marketplaces.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-15T14:03:45.000Z"
- },
- "Modern Retail::https://www.modernretail.co/?p=173308": {
-  "keep": false,
-  "publishedAt": "2026-10-15T14:00:00.000Z"
- },
- "TWICE::https://www.twice.com/?p=166552": {
-  "keep": false,
-  "publishedAt": "2026-10-15T13:01:49.000Z"
- },
- "TWICE::https://www.twice.com/?p=166567": {
-  "keep": false,
-  "publishedAt": "2026-10-15T13:01:32.000Z"
- },
- "TWICE::https://www.twice.com/?p=166603": {
-  "keep": false,
-  "publishedAt": "2026-10-15T13:00:44.000Z"
- },
- "Inc42::https://inc42.com/?p=576406": {
-  "keep": true,
-  "segment": "plays",
-  "headline": "Shopify to bring Shop Pay accelerated checkout to India by Q1",
-  "short_headline": "Shopify brings Shop Pay to India",
-  "takeaway": "Faster one-tap checkout in India could raise shopper expectations there; we should review our store’s checkout friction in that market.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-15T12:59:36.000Z"
- },
- "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/myntra-swings-to-net-loss-of-rs-579-crore-in-fy26-revenue-drops-13-per-cent/134966924": {
-  "keep": false,
-  "publishedAt": "2026-10-15T11:44:38.000Z"
- },
- "Inc42::https://inc42.com/?p=576436": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Flipkart Group FY26 revenue rises 18.2% to ₹1.45 lakh crore as loss narrows to ₹8,468 crore",
-  "short_headline": "Flipkart FY26 revenue up 18%, loss narrows",
-  "takeaway": "Flipkart is growing fast while cutting losses, so it remains a key India channel where we should keep investing in brand presence.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-15T20:00:47.000Z"
- },
- "PYMNTS::https://www.pymnts.com/?p=4316773": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "Google rolls out Universal Cart in US Search and the Gemini app",
-  "short_headline": "Google launches Universal Cart in Search and Gemini",
-  "takeaway": "A cart spanning Google Search and Gemini changes where purchases start; we should make sure our store's product data and checkout work there.",
-  "importance": 4,
-  "content_type": "announcement",
-  "competitors": [],
-  "publishedAt": "2026-10-15T19:58:02.000Z"
- },
- "Mastercard::CBMitAJBVV95cUxPWXpGN0pEUnQtTWhHRThvWk1fTUV5bDhtb0RMUzRlMnBEbkpock9md0g3S3ZxLUMxcURIYkwyS2lRbGtCX0R1eG5hc29GaFBMdk9NdllsUWxhdUNPaWJSNXVEVDd3bWtDbGJZZmZvcFpUXzh1RWZFeExIRl9Vd0hqSTcyTzNvVUxrTHZmd1lNYUlzSDM1WUZrNjUtWGltTlJfZkt4Y2JOVERtOWxTa3lOV1lMN0hXVXF6NWpZVkdON1pqanpXOE9NMXk2Tjd0Z3M2MWtCSFJodmlvVjcwYk1RRDV2TUV1dzZnN0NTUjZxN1p2dVIwbnhuWWg2OUNGbzZoR1dXOFFpZnRSTHVabkVQUHVKaHVuU3pIbmFHSUdxVGhlYjVuM0NnOHlqNUkxZlh5bE5yWQ": {
-  "keep": false,
-  "publishedAt": "2026-10-15T16:25:30.000Z"
- },
- "PYMNTS::https://www.pymnts.com/?p=4315763": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "Online retail keeps outpacing overall retail in September despite higher prices",
-  "short_headline": "Online sales outpace retail as prices rise",
-  "takeaway": "Online keeps taking share even as inflation erodes buying power, supporting continued focus on our direct store over price-led promotion.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-15T16:13:32.000Z"
- },
- "Reuters::CBMiywFBVV95cUxQR3JpdUdPcXZSWWdYakdCZkJYZnFmcVExcXpnTlRVSW1MeW1YTGdIUXdVREZneWZXbkE5bXpxc1I3cFFYN0VTeElGOGJwTVZmWWltQlZWaldlVWJOaWVmWGZSNUFzSXBfaWpZdDNmOFFnUVdoU19zR041bTZ1cmszdWstUExFN0w0TkpHcHhudXpxLWFOcU9fQ29SdWtoTld0VkF0YmJHeTcta0RIZEtCcXFGR1JXT1NRdzg1VzNaMmUwVXQ3UFR2RWZLSQ": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "NRF forecasts faster US holiday sales growth as shoppers stay resilient",
-  "short_headline": "NRF expects holiday sales growth to speed up",
-  "takeaway": "A stronger forecast season means we should plan inventory and promotions for higher holiday demand.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-15T15:01:44.000Z"
- },
  "Modern Retail::https://www.modernretail.co/?p=173400": {
   "keep": false,
   "publishedAt": "2026-10-16T04:00:00.000Z"
@@ -176,14 +44,6 @@
  "IDC::CBMiZEFVX3lxTE1IRVhBS1BOZVc0MERhbUVMajFwQzJEc0Nxa1JnbVhmRnN1di1QSGppdnZid0Z3dVg5ejJEZHk1cXRFajFjOU1OcElxZTBXYnRZTnhQdlVTWkJzdk5ZMVFIZ2w2alQ": {
   "keep": false,
   "publishedAt": "2026-10-15T21:22:28.000Z"
- },
- "PYMNTS Data::CBMilwFBVV95cUxQUmxBdU5EaUVFLURUNFBEV19XTlNQSEJCaFVZd0Yta3NPVjExM0FJeGNDWnlLeHdNRUxtRnloRHJCUG1Gc1JwRWdZOGxBV1pEWHNWVnFCclhlUXZzOF9QclRGU0F2Z1RrcU1hYkwzQ3lGSE9TN0hoTFVfTUxocG1TclpaYm9YcXQ4bGpTQVNPamREcWlKRkRr": {
-  "keep": false,
-  "publishedAt": "2026-10-15T19:49:29.000Z"
- },
- "PYMNTS Data::CBMitwFBVV95cUxPTjlRN1RDei1XV0lfT3dYWm53SGZDY0V5Ni15WW9YUWpOT2dqRk5nNjJBZEhkbWpTYVRIVVhIaUM3LUdpWGphNXhQM0ZlZFVEZ0xhejNwaGltZ0tDbHpBUlVLbUxjWXJmWVBTQkcyb3JfWDZHMi1EdTdTbWdxelA4RzhCeVE2NGNuZTUzZGZuaUNZWHBXbDViajY4SDFkVDFja2R5RldLMjJvN1NfaFBpOTdaX1BaWkU": {
-  "keep": false,
-  "publishedAt": "2026-10-15T18:29:28.000Z"
  },
  "Retail TouchPoints::CBMiowFBVV95cUxOaElBMzMwRWVCNnM2VzZTYUNvN3FHakNPa0xVQ0ZGZFpkbE5JSjhCTmNsT0R1UC1HY0xtRTg4Uk9Gdl9KOW5BWGY2d0g4U0x6QlEtSTUxb1RZYVNNU0ZuejYwRjR0aXVlYXdhMjZlNk9sMWlDaDV0eGNod2JJRTB5YkRGVDV3WGlwSDkxa0RzejIxQmFvVm53WHNRYUFPZHZwejhr": {
   "keep": false,
@@ -1944,17 +1804,6 @@
   "content_type": "data",
   "competitors": [],
   "publishedAt": "2026-10-21T07:00:00.000Z"
- },
- "PYMNTS Data::CBMi5wFBVV95cUxOdnJOMURlQnVrY3VTWmFUOF9pc0hrbHFTclZ0cEwxbXk3RjIwTHhBa1NEalBEeDVTSC1WeVZJc3hfX2dOMEZqNUNiR2dUVnhOVXRUWUtGOTNKZzhpZ2pIenV4aGpObS1USy0tQWlJMkNuNVp6a0VyMVpWbElOZ2pkeEJtWFFGVl81MDM2UERIN3ZUcW42T1Vkci1aWWNtV2N2REtkZVg4X2hjTzIzVXgzR0RTM010a2dPanNlcFJud1lER0NUVjRSR0dfLUVKX1NvR0UxNTNrZ0NSaU40TG12NVNTYkNUVmc": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "Mastercard bets shoppers will trust AI agents to buy one purchase at a time",
-  "short_headline": "Mastercard builds trust in AI agent purchases",
-  "takeaway": "Agent payments are being built around per-purchase consent; we should check that our checkout can accept agent-initiated orders.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-15T16:13:56.000Z"
  },
  "Modern Retail::https://www.modernretail.co/?p=173857": {
   "keep": false,
