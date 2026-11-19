@@ -1,154 +1,42 @@
 [
  {
-  "id": "Retail TouchPoints::CBMirwFBVV95cUxQUkE0clFrQkE1Z0dtSkd2UGtIR3BubTFFRmFfTmFTUDE3aVptWEZXRlFOMzJsRmcyUnJRTFpqRDEtbXZVLVZuTGNVR3Y3c2lTSE5iNWNyc1A0Q09sNmdrcFAyd2V2MW5sbXVKd0JDa3piZXdUVjI3eEU3Sk9kejlwc3lPWVdUckVQRW1CX1pZbVh1QlZhMDBSZlB5TmIxN0VoRzdrQVNhdkx1eHo0Y2Vr",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-18T20:04:30.000Z",
-  "title": "Ahold Delhaize USA Advances Next-Generation In-Store Experience",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261119VL203/stmicroelectronics-mcu-automotive-revenue-2028.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-19T01:31:16.000Z",
+  "title": "STMicroelectronics targets 25-30% MCU share as it aims to double STM32 revenue by 2028",
+  "snippet": "STMicroelectronics (ST) is betting that automotive, industrial, robotics, and AI data center electronics are converging on the same building blocks, and that a single microcontroller platform can win across all of them…"
  },
  {
-  "id": "NRF::CBMiiwFBVV95cUxOVnRNTGFwb2tyVW1JcU43aEVPSVhzWmhoMUIwbDlXRENzeEkybk1GNDVwcUJ4N1JZQnJsdHBDZ1JvdWY2Vml4dGc5MUJVZzdxNV9qUE1oSnB1SXJvTDRNelhYcjlGalhGck1mNVQtbHJrb3ZudjVrZ1p3LW9RTGtLR1plRC1odENPWEE0",
-  "source": "NRF",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-18T19:36:06.000Z",
-  "title": "How retailers can prepare for holiday theft, violence and fraud",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261119VL201/tencent-revenue-operating-profit-cost-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-18T23:54:47.000Z",
+  "title": "Tencent's revenue rises 8% as AI spending weighs on operating profit",
+  "snippet": "Tencent's third-quarter results showed the cost of turning its artificial-intelligence push into products and infrastructure: demand remained broad across advertising, cloud and domestic games, but reported operating…"
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/amazon-arnold-schwarzenegger-santa-holiday-ad-campaign-retail-marketing-push/875055/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-18T18:02:00.000Z",
-  "title": "Amazon puts Arnold Schwarzenegger in Santa suit to extend holiday push",
-  "snippet": "The spot builds on a “Joy Delivered\" campaign and takes inspiration from an upcoming Prime Video original holiday movie starring the “Terminator” actor."
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261118VL216/sk-hynix-hbm4-packaging-equipment-2027.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-18T23:50:14.000Z",
+  "title": "SK Hynix seeks HBM4 packaging equipment for early 2027 delivery",
+  "snippet": "SK Hynix is seeking deliveries of additional HBM4 packaging and testing equipment by early 2027 as the South Korean memory chipmaker prepares to expand production capacity to meet growing demand for AI memory."
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/home-depot-lowes-digital-sales-boost-q3-ecommerce/875054/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-18T17:31:00.000Z",
-  "title": "E-commerce boosts Home Depot, Lowe’s in Q3",
-  "snippet": "Both retailers notched double-digit gains within their digital businesses as they continue to make investments to improve the online experience."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/traffic-recovery-tj-maxx-marshalls-boost-tjx-q3/875025/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-18T17:19:00.000Z",
-  "title": "Traffic recovery at T.J. Maxx, Marshalls boost TJX in Q3 as pressures mount",
-  "snippet": "But gains were somewhat tepid, and the off-price giant faces growing competition from resale, department store promotions and rival Ross."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/economic-optimism-plunges-lowest-level-great-recession-gallup-inflation/875058/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-18T17:12:00.000Z",
-  "title": "Economic optimism plunges to lowest level since Great Recession",
-  "snippet": "The public perception of the economy has “become increasingly detached from GDP since 2022, following the spike in inflation and the slowdown in wage growth,” Gallup said."
- },
- {
-  "id": "Retail TouchPoints::CBMipgFBVV95cUxQbnJfUTNhWkpFbjBEZFVxNFdTdmhuY0hYSWhrU3JCMUdiRFFIUktveXJJWWtZVGpPeFh6Nl81TUx3NTBPQlJpVXdodnRzZV9zYVJJZEs0T1N0cjg2LTlpRmFZWG10Y25UUS0xeVVFTjBNOFJEZGRCSEtfLTdkN0NuY19CRlVzN1c4NXNGXzZrNVp2SDJaQzVLb1BXcGhHNzNBV1RaeGVB",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-18T17:04:26.000Z",
-  "title": "Peak Season Now Has Two Kinds of Traffic",
-  "snippet": ""
- },
- {
-  "id": "Reuters::CBMioAFBVV95cUxQOG93Rk1FOGRtZG16MHAwMk9EbkhyeU50MjlNaWtqVmhNaXUtQVhFLXJabmZxdmJEMnpucEdTU3RtamI4MExZbFVDazFUN2Z3Z3pwSWlQelY2a3F1TVM1UHgtbUdlSl93M3FnV3NzRFFfdmhjNEF1ME4yRVg4REVfR3BwOGJLRG1UbFJ5bHZYeUNxWnp2TERXRk1UVjlJd0la",
+  "id": "Reuters::CBMiwgFBVV95cUxQZUNyLVVjeVRlazF5djhJOTlXeGpvODRMeGJSWmFqRWJpSE9nZjk3WEpvRkhmVG41WDc1R3VoNVVDbHFwaDNBanpXWE9xWDJZbGlsU2NoaGpGMlhFOVlBN3B1QlQzSjdOaGhTZklFdFZVTXBuY0IwdWZnS3lSUWFvNi1LODN2NXRoem9IWXFoREljdmxfanZsc0ZxLVlKM01HWmlXYjhBMlBKR00xU1YyVGM4MWtBYkpxOGNFZ2VOY2lZUQ",
   "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-18T16:47:04.000Z",
-  "title": "Off-price retailer TJX lifts annual forecast on strong holiday demand, shares jump",
+  "publishedAt": "2026-11-18T09:33:02.000Z",
+  "title": "Samsung Electronics downplays concerns about neocloud firms and AI bubble",
   "snippet": ""
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/holiday-shoppers-ai-discounts-save-hundreds/874309/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-18T15:44:00.000Z",
-  "title": "Holiday shoppers expect AI to save them over $190 this year",
-  "snippet": "Consumers want the tech to save them time and find bargains. But, AI should only commit to what businesses can deliver, according to a survey."
- },
- {
-  "id": "Reuters::CBMiywFBVV95cUxQbWlETkx1cms2bUwyZlNVLW96bE1FbkZFaXJ0UlZjQ3lvNGFIYmUtbHEyek5lMm1ZbFdHd003VkIzUENhMVFwZEd6dkYyMTNpaDBKSHYwb040dVRiUGVGZ0ZEb2dmNGdUSDJpTXV6c1JPSEFVeDhBQ2NRY0s0RDE2UWhfZWxLVjJwOUh2YktiMFpCOXZEaDhlaDY4YTRueFBqUV82UGczVXpGcU9wZndld1VMbEFlbDI5WGFBbm9MNUp6eWt1bFNCNllLcw",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-18T15:22:42.000Z",
-  "title": "Target's upbeat holiday outlook signals steady revival as apparel in focus",
-  "snippet": ""
- },
- {
-  "id": "Dell Blog::https://www.dell.com/en-us/blog/how-to-connect-a-laptop-to-a-tv-fast-reliable-methods",
-  "source": "Dell Blog",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-11-18T15:00:00.000Z",
-  "title": "How to Connect a Laptop to a TV: Fast, Reliable Methods",
-  "snippet": "Learn how to connect a laptop to a TV with HDMI, USB-C, Miracast, AirPlay, or Chromecast. Read step-by-step setup instructions, modes, and quick fixes."
- },
- {
-  "id": "Dell Blog::https://www.dell.com/en-us/blog/dell-creator-edition-desktop-advanced-local-ai-on-the-windows-you-already-know",
-  "source": "Dell Blog",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-11-18T15:00:00.000Z",
-  "title": "Dell Creator Edition Desktop: Advanced Local AI on the Windows You Already Know",
-  "snippet": "Dell Creator Edition Desktop pairs NVIDIA RTX Spark with Windows 11 so creators, developers and AI professionals can run AI models of up to 200B parameters locally."
- },
- {
-  "id": "Circana::CBMipgFBVV95cUxQU2YwWVIzd2dBbFJTYnZnSFZFWndUYnFqSURSdVBvWlNEMXFrYVIwQk51ZDA2VEpCemF5UU9mZ3NJbU9RMWtTRG1PQ2htZDdJSGdKNmVtRk1kX1ZDRXNTRTZlaF9KZTNMcVBoNVdjUEtMcDY3OFlDQnlqZk5zRkZBWmpSSW9YY3VZS0JCLVNtN0xrOWhwS3h2WkI5STBRRXlOZkQydjl3",
-  "source": "Circana",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-18T14:53:28.000Z",
-  "title": "Day 1 Delivery: Weekly Retailer POS Data Every Monday",
-  "snippet": ""
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=167138",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-18T14:01:52.000Z",
-  "title": "Sony Revives Its Classic 1979 Walkman Headphones For Modern Listeners – With A Surprisingly Affordable Price",
-  "snippet": "The new MDR-3R wired on-ears have the same design as the originals, now with a USB-C connection"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=167123",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-18T14:01:26.000Z",
-  "title": "Abode Launches Cam 3 Indoor/Outdoor Security Camera With 2K Video",
-  "snippet": "New camera adds on-device AI detection, full-color night vision and support for third-party smart home platforms"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=167145",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-18T14:00:44.000Z",
-  "title": "Kirby, ASKO See New Opportunities At Nationwide Marketing Group PrimeTime",
-  "snippet": "For manufacturers looking to expand their reach in the independent retail channel, Nationwide Marketing Group’s (NMG’s) PrimeTime offers more than an opportunity to showcase products. It’s a chance to meet face-to-face…"
- },
- {
-  "id": "PYMNTS Data::CBMizAFBVV95cUxOdEl2NFBxWThzblZ2RG1pTWl6SUpEX0QyZzFhVU8tRVpoanIyLXA1Tkh0V01fVTYwVXZsZmNhS1BHWE9VS0JLQ3JKSTZWLTljSkI4R3hmT1FtM0h6ZFNQX0pLUW80VmVzWlJOdW90bXpoVmswUUFIQTVQVkRoaVlRbTRCeXdYVmllaXNfNEZtMTd1QnJXMVJUaEl0Rm5SRXZ5T29tZDAxeV9NR3lZZGszal91bkhNRUVHR3BraU90aGlCNXlIZWk3UWIxZjI",
+  "id": "PYMNTS Data::CBMingFBVV95cUxNWWlmczhXdDlGenp4Ty1ONEtsOXhJOTlMYjZYQjllbW1VYjZqT2c0aEJ2U3E4aDMya0pBNlFtSzBhbEFIY2Fvb0cybkViaFRmLXV3dEtmajdtWVdkbFpkRmZhY1htVXQyZjdkZWY5NWZiZmtMMTNLMy14V2xKczV1Uk9LQ1BpNW1vRHYtSzBDSm9iSFg3MENWbzBSdkI0dw",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-18T12:33:25.000Z",
-  "title": "Croissant Launches AI Personal Shopper That Turns Gmail Receipts Into Shopping Picks",
+  "publishedAt": "2026-11-15T02:53:30.000Z",
+  "title": "Drivers of Consumers’ Bill Payment Priorities",
   "snippet": ""
- },
- {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76582",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-18T12:08:58.000Z",
-  "title": "TGJones sale reignites questions over private equity’s high street playbook",
-  "snippet": "TGJones is up for sale, just 18 months after WH Smith was acquired by private equity firm Modella Capital and rebranded as TGJones. The post TGJones sale reignites questions over private equity’s high street playbook…"
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/target-traffic-rises-q3-earnings/874959/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-18T11:55:00.000Z",
-  "title": "Target traffic rises as retailer reports broad-based gains",
-  "snippet": "The company's Q3 traffic grew 5% and it plans to invest up to $6 billion in capital expenditures next year."
  }
 ]
