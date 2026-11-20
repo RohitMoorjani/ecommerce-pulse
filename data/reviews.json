@@ -7778,5 +7778,47 @@
   "content_type": "data",
   "competitors": [],
   "publishedAt": "2026-11-19T11:42:42.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261119PD230/management-price-ic-2027-cost.html": {
+  "keep": false,
+  "publishedAt": "2026-11-19T23:45:33.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261119VL223/samsung-austin-plant-spacex-business.html": {
+  "keep": false,
+  "publishedAt": "2026-11-19T23:44:02.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261119PD226/samsung-investment-growth-demand-expansion.html": {
+  "keep": false,
+  "publishedAt": "2026-11-19T23:43:25.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261119PD207/samsung-2026-business-mobile-price.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Samsung memory costs for phones jump 263% as device prices rise 13%",
+  "short_headline": "Samsung memory costs up 263%, phone prices up 13%",
+  "takeaway": "AI server demand is squeezing device memory supply; we should expect similar cost pressure on PC and tablet pricing and plan promotions accordingly.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-19T23:39:42.000Z"
+ },
+ "PYMNTS Data::CBMiwgFBVV95cUxNb040UjZ6b1BCRWp1TkU0QXI0Z0hmemZNRW13M2RjNjEzb0FWNjR4YUQ1ek9UNFBITjBsaGJNSF9pejJkX1FfV3I1R0YxZDVHZWFYY0VBNFRQSzh3ajRSU0tUQW5RUnhFdlNGTVQtS21JaEZyc1NZTjFVRzY2RlZuY1hkYmw4UW9lOHZJenVWNXR1SlI3ekk2aUlzdG03emRuSkRVOHZzX1BBaFFMSUp3TTNoWGtnV2pjSHpsRXJneFZDZw": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Panel debates who pays when AI shopping agents exceed consumers’ instructions",
+  "short_headline": "Who pays when AI agents overstep consumer orders",
+  "takeaway": "Liability for agent-made purchases is unresolved; we should watch refund and dispute rules before enabling agent checkout in our store.",
+  "importance": 2,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-11-19T21:18:38.000Z"
+ },
+ "PYMNTS Data::CBMiwwFBVV95cUxNRlplVW1oNnhwX1B2WFc3VjRMeUI0RGJweGIySXR0RGpwdmxFZHFGQWlEZERzd3BNQ2R6Y0pwRVZqQVdrM3FhSTVIai1FM3pDNTBoSkE0MXJ3NzJRek9SN3lHa1FJS3VjcGwxb0djT2xsQzdfYlZvWHEtT2VZUUN1d3ZEQWhkX1IxU2UxUTVGN0VJYjQ0bmthemxEVmF4OUYxdFp2N1h5S21hR3V1aXNlenA5TF9HOWlnN3VmeVR5TUcwUDg": {
+  "keep": false,
+  "publishedAt": "2026-11-19T09:03:47.000Z"
+ },
+ "PYMNTS Data::CBMiogFBVV95cUxONzJ5MHFIMWF6VjNlRFJjdERrZHZkaEtwZlBVdUNqYUFKT2IwR3FWQkdKNGM3TE9XYy1zbllreEM4YVpBREhCQVhQa0NhWlZ1dXNMU0FqTGVZbjI1TFNNZXktZDFBaDdGTE1ESmQ3VUVUV2Y4OVRDNmp2QTFPZWhsWDlCSHNMUmpPelQyTTUwOUw4Ym5fZnpRa3d3ZHJMR3JqcUE": {
+  "keep": false,
+  "publishedAt": "2026-10-25T19:17:31.000Z"
  }
 }
