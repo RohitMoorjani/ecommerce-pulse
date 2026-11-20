@@ -22,29 +22,6 @@
   "competitors": [],
   "publishedAt": "2026-10-16T02:30:11.000Z"
  },
- "DigiTimes::https://www.digitimes.com/news/a20261016PD203/e-commerce-genai-2026-data-management.html": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "AI-assisted shopping reshapes e-commerce traffic as Shopline reports 20% GMV rise",
-  "short_headline": "Shopline GMV up 20% as AI reshapes traffic",
-  "takeaway": "Merchants are moving from traffic management to AI-assisted shopping; we should ensure our store is discoverable by AI assistants.",
-  "importance": 2,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-16T01:47:29.000Z"
- },
- "PYMNTS Data::CBMirgFBVV95cUxNYjVleHEzMlhWd054ejIyZVdoSGpZVEJGSUtOTDlUejBNMWE1emtYcDkwNUZUZng4N1NZb2ViMmpLSDVZSk92YWNYa28xZEdpTE5RM1JLVmN3Wk9iOXliU0RYOUFRRm5OOVU0cjVmR2lXSWJ3RUNrQk1GM0lOWFJzdEdLYl9oNGFpZVRYMFdpNnhoOFo5R2hGd2x6QXk4NnlEVVRiSERJUzU1OFctUVE": {
-  "keep": false,
-  "publishedAt": "2026-10-16T01:47:10.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261015VL228/samsung-texas-workforce-2nm-2025.html": {
-  "keep": false,
-  "publishedAt": "2026-10-15T23:48:28.000Z"
- },
- "IDC::CBMiZEFVX3lxTE1IRVhBS1BOZVc0MERhbUVMajFwQzJEc0Nxa1JnbVhmRnN1di1QSGppdnZid0Z3dVg5ejJEZHk1cXRFajFjOU1OcElxZTBXYnRZTnhQdlVTWkJzdk5ZMVFIZ2w2alQ": {
-  "keep": false,
-  "publishedAt": "2026-10-15T21:22:28.000Z"
- },
  "Retail TouchPoints::CBMiowFBVV95cUxOaElBMzMwRWVCNnM2VzZTYUNvN3FHakNPa0xVQ0ZGZFpkbE5JSjhCTmNsT0R1UC1HY0xtRTg4Uk9Gdl9KOW5BWGY2d0g4U0x6QlEtSTUxb1RZYVNNU0ZuejYwRjR0aXVlYXdhMjZlNk9sMWlDaDV0eGNod2JJRTB5YkRGVDV3WGlwSDkxa0RzejIxQmFvVm53WHNRYUFPZHZwejhr": {
   "keep": false,
   "publishedAt": "2026-10-16T11:01:10.000Z"
@@ -518,17 +495,6 @@
  "Retail TouchPoints::CBMiywFBVV95cUxQc08yTFdGa3Q3Z3RBcU80eEhqSHVBeF9jU2dvZVh1RjQwYlE1Mk1vWUNnbHNJaEJVVkNoLUtRazN0SlJpU3JQSTFlcl96WXhPVTNvTFJveVFKMG95WDFxVUF4VzZlVjdhb2ctd0VSczc5LTFEaXVBUzVaT2JzSlN0MlU3YmFBVURKWVFzOVAxaG92bXB0WlhVX0dsSVpYMXF2M1NNaUpSLTZUX2JPb3hZaWwzek50cXdtMXlrQXRKbHV6Z2VrMnpzbkptRQ": {
   "keep": false,
   "publishedAt": "2026-10-19T08:34:13.000Z"
- },
- "PYMNTS::https://www.pymnts.com/?p=4317643": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "Glance adds PayPal native checkout to its personal shopping platform via agentic integration",
-  "short_headline": "Glance adds PayPal agentic native checkout",
-  "takeaway": "Agent-driven checkout through wallets like PayPal is arriving; we should check that our store can transact with shopping agents.",
-  "importance": 3,
-  "content_type": "announcement",
-  "competitors": [],
-  "publishedAt": "2026-10-16T01:35:53.000Z"
  },
  "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363608": {
   "keep": false,

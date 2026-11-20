@@ -1,226 +1,58 @@
 [
  {
-  "id": "Retail TouchPoints::CBMivAFBVV95cUxQblFXdTlWQlg1Z3hId3V1cTZyRkRSc0NaX19tS282MC1MdE5aMkdmTzRiaUhtWGNXamlMbWJUbXh6Y0RIUHUzUEtFLXJzam1ZR2N6WG01c09ZWUJJSGZ5RjhZcVVsTmRWQ24xMHA0UmJPVGlZQVp2VnptOU40aF8ydTBkajh5djVrUGIyakpCbFpWZXBTcFRlN2Y4MU5ob01zTHNlX05IS21MUkRPT0FSRXppeFVBYzR0U29TNA",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T20:01:20.000Z",
-  "title": "AI Plans Outrun Store Realities as Bad Stock Data Cost Retailers Millions",
-  "snippet": ""
- },
- {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364169",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-19T19:59:50.000Z",
-  "title": "3 online sales factors to watch in 2026 holiday shopping forecasts",
-  "snippet": "Online retailers preparing for the 2026 holiday shopping season are about to face a wave of customers unlike any they have seen in previous years, as forecasts call for ecommerce sales to grow at a rate similar to 2025…"
- },
- {
-  "id": "Reuters::CBMitwFBVV95cUxPNkFtMjlFYVZtVmJXQWlvMGtSdGNFZm5xd3JHSlJPaGR4ektBbEZUdWltOGhnbGpPTmNRblVaRFFnSU5KTWxZREdqVmpwTGREOTF0ajFtWkVMcURwY19tX1FkWndWOFlkMVYxTm85N2tjbno0TTNhWDV3VmRqSnJLSWdtUnRFOWxNYWFlWmRxelI2VjhPNkxxaWhIQ1JtYzJaZ0dQNmlxREd4dDY3S0o5N28zbkk0NXM",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T18:43:01.000Z",
-  "title": "Amazon warns NYC delivery bill could add up to $5 per order",
-  "snippet": ""
- },
- {
-  "id": "Circana::CBMixgFBVV95cUxOVFdtbW9kRlFwM2JlTGZqbmo5TWdyQXVSX24yaHNFUF8tRmZBWG90amt2dm1STVZWa2NZSEdnVmxXbmd4Vkc5dW1CVHpaTURIdUlrZGxoZC12VFZ3SEZaR0VldS1TWU9FaTJETnVpWm9tNGdMOUpJak81cHBBZk9yV1ZxTW1oWFBRZHNaU3lZM2RlRDQwQWY0eHZBZ196LTh5YUNIMzRJcmRNMTROdEZrZTR6SVNoZEZ4ZnJ5UGdYdW10ZW1hd3c",
-  "source": "Circana",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-19T18:35:10.000Z",
-  "title": "The Most Important Holiday Tech Shopper May Be the One Who Didn’t Buy During Back-to-School Season",
-  "snippet": ""
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/mall-of-america-debuts-ai-concierge-mallie/875089/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T17:33:00.000Z",
-  "title": "Mall of America debuts AI-backed concierge, Mallie",
-  "snippet": "The digital assistant is designed to help shoppers plan and personalize visits to North America’s largest shopping and entertainment complex."
- },
- {
-  "id": "Retail TouchPoints::CBMisAFBVV95cUxQejNFdGtnWEF1TkhmTmpMNm41SmpCTTVhNUlpQjhSYjZtRVRRamVnYjFBeFlHdHYzMVZic1ZRSkZwZ2VJdEtIc0xDUzBQV2U1dzZ3SzJadVpUQ2o0V2xZdHZxMW0wOGN3UE1sb3JaUURiSDVpRndWUXZmTTc5TVNOVV9sQ2RTWEtpZk9fNXhTZENyYUQ4dk84SjlCcG84TVZrSmZEY2tQOGxYWVlRVzVBag",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T17:01:50.000Z",
-  "title": "The State of Delivery 2026: The New Standard is Personalized",
-  "snippet": ""
- },
- {
-  "id": "Retail TouchPoints::CBMisAFBVV95cUxQdG1WYUxxVHlyLWVlRmV3OVBobnpyWjdHZllJdFZrRjdvSTNnc2FfaGU3S2l0SEJHYk0wTUlBV3duM2Mtb25HX0dQQWVhS29Tc0tnWVdQRGhGa0pOYVJheEd1M3VySU02aFRKVFNhakgzZF9OYnlzMTFpZmpiRDdkb2lpUlV5MlJUQlBMRzZBOUVxMVJBaHNHeXVaZ3ZrYS1nRmJQcnpBUGZsSXk3ZFZpUg",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T17:01:49.000Z",
-  "title": "Majority of Retailers Adopting AI Faster Than They Can Govern It",
-  "snippet": ""
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/the-backroom-podcast-department-stores-holiday-season/875199/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T16:56:00.000Z",
-  "title": "The Backroom: How department stores are shaping up this holiday",
-  "snippet": "The team looks at the past, present and future of a retail model that has long been a fixture of the season."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/bath-body-works-turnaround-q3-consumer-first-formula/875168/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T16:51:00.000Z",
-  "title": "Bath & Body Works CEO: ‘We are on track, but far from satisfied’",
-  "snippet": "The retailer hit the one-year mark with its Consumer First Formula strategy and has a goal of returning the business to sustainable growth in 2027."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/instagram-creators-add-amazon-affiliate-links-reels-posts/874889/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T16:35:00.000Z",
-  "title": "Instagram creators can now add Amazon affiliate links directly to Reels, posts",
-  "snippet": "Creators can add 30 products per Reel, or 20 per post, and earn commission — and Instagram won’t take a cut."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/tractor-supply-uber-same-day-delivery/874748/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T15:55:00.000Z",
-  "title": "Tractor Supply boosts same-day delivery options",
-  "snippet": "The retailer is growing its delivery offerings at the same time Amazon is expanding its rural delivery network."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/walmart-ecommerce-boom-fulfillment-speed-q3-earnings/875166/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T15:54:00.000Z",
-  "title": "Walmart’s e-commerce boom driven by fulfillment speed",
-  "snippet": "The Walmart U.S. e-commerce business grew 23% in Q3 as speed has become a key differentiator for the mass retailer."
- },
- {
-  "id": "CRN::https://www.crn.com/news/ai/2026/anthropic-ipo-caps-a-breakout-year-for-its-claude-partner-network",
-  "source": "CRN",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261119PD230/management-price-ic-2027-cost.html",
+  "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-19T15:40:00.000Z",
-  "title": "Anthropic IPO Caps A Breakout Year For Its Claude Partner Network",
-  "snippet": "Anthropic enters the public stock market after $2.7 billion in channel spending and the rapid growth of its partner ecosystem."
+  "publishedAt": "2026-11-19T23:45:33.000Z",
+  "title": "ANPEC confirms larger 1Q27 price hike to pass through foundry cost increases",
+  "snippet": "Power management IC maker ANPEC Electronics has confirmed it will raise product prices in the first quarter of 2027, with a steeper increase than its previous adjustment, to offset rising foundry costs, General Manager…"
  },
  {
-  "id": "NIQ::CBMiuwFBVV95cUxPMmRrVVU3VWFzQXNoVENESFNvcjFmUE8yd2lEWkhLbC03bUVOWVBOR3pEcXg0d3FPWWxyQXh2clU5U3VxenBldFRMWHh1aXNvWWpES0E4dmd3MnFQQzluLWYzdXJpZzRqRmo2dnNPRDdwbU9rNXZfVmpOTldEckRHYURWalZIX0dibkpGWHdQamZDS3NvQzE2VTA4SlhzSFFBZEVHaVFTMXZkUklsS1RTSzhNRTdaTDdVWXFZ",
-  "source": "NIQ",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-19T15:10:07.000Z",
-  "title": "​​​The middle market squeeze: UK shoppers split between value and premium",
-  "snippet": ""
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T14:16:00.000Z",
-  "title": "Target’s AI shopping assistant is driving sales",
-  "snippet": "The retailer's beta test of an AI assistant, called Ask Target, is showing early success, according to CEO Michael Fiddelke."
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=167167",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T14:01:23.000Z",
-  "title": "Research: Returnless Refunds May Boost Online Retailer Revenue",
-  "snippet": "Study finds partial refunds can reduce return costs and encourage repeat purchases"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=167150",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T14:01:10.000Z",
-  "title": "Yamaha Corporation To Acquire Disguise",
-  "snippet": "The strategic move looks to 'transform how the world experiences live events.'"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=167153",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T14:00:46.000Z",
-  "title": "Marantz MCR 60n Review: Premium Hi-Fi Sound Meets Modern Versatility",
-  "snippet": "All-in-one music system combines classic audio appeal with today's connected technology, giving retailers a compelling premium audio solution"
- },
- {
-  "id": "CRN::https://www.crn.com/news/data-center/2026/dell-s-denise-millard-on-huge-win-for-partners-with-launch-of-automated-deal-registration-dynamic-pricing",
-  "source": "CRN",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261119VL223/samsung-austin-plant-spacex-business.html",
+  "source": "DigiTimes",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-19T14:00:00.000Z",
-  "title": "Dell’s Denise Millard On ‘Huge Win’ For Partners With Launch Of Automated Deal Registration, Dynamic Pricing",
-  "snippet": "Dell Technologies Chief Partner Officer Denise Millard said the Dell Way initiative, which brings automated deal registration and dynamic pricing to partners, is a “huge win” for the channel."
+  "publishedAt": "2026-11-19T23:44:02.000Z",
+  "title": "Samsung retools Austin chip plant to target SpaceX business",
+  "snippet": "Samsung Electronics has sold KRW286.4 billion (approx. US$215 million) in chipmaking equipment to its US subsidiary as it retools its Austin, Texas, plant for specialty semiconductors, including chips it reportedly…"
  },
  {
-  "id": "Reuters::CBMiyAFBVV95cUxOWDJfS2RxQlRiZmpGR0xZQmVpdkZqdVR0bzdyRTVFZUctUnFsWUN6cXZlZ2hlSmpVUW0wUnpwOHUtMjBzZGtzVjhhRW13M09vUTJIRG00QXFiMGxMNW1wbDRuZzFlZDUtTldXWlpLWExPajd5Rzc1OWpDN01PVzBPd1BWVG1taWtUamc0Zzh5b1djTFY1cER0SnNsU0NXZ242YmhKUGVRU2JWelVsN3FYT3k1VjlheFlHY2YyNGp2Z2RwbjNJTDF6bQ",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T13:52:22.000Z",
-  "title": "Dutch privacy watchdog AP advises consumers not to purchase smart glasses",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261119PD226/samsung-investment-growth-demand-expansion.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-19T23:43:25.000Z",
+  "title": "Samsung says neocloud debt poses limited risk to AI industry growth",
+  "snippet": "Samsung Electronics rejected concerns that debt-financed expansion by neocloud providers could trigger a broader slowdown in artificial intelligence investment, saying these companies account for only about 8% of the…"
  },
  {
-  "id": "Global Marketplaces::CBMitAFBVV95cUxOUVlDMFN1aGI1Y2JyeWxMX1Y4V1BOQlBHU3d6Y3YxYWNCbkFXRzhPMDc5TndhWWkyZzRmamRJX21zMnVjVmR1Ynd5TTEwWUpmNzNLbVdHbVBHQkpsVWJwN1d0d1R3bW5fSE8zUVdEWW9KWFBWZWNsckdFWHZRTnpOVTdQMjhtY3FIdGpqRTJuYW15SW1ET3QzVzJVYmctTjFLMzJPdy00MmZpMDRNc0xYNkxkbU8",
-  "source": "Global Marketplaces",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T13:50:24.000Z",
-  "title": "Temu owner PDD beats third-quarter profit estimates as marketing spending falls",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261119PD207/samsung-2026-business-mobile-price.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-19T23:39:42.000Z",
+  "title": "Samsung memory procurement costs surge 263% as phone prices rise 13%",
+  "snippet": "Samsung Electronics' smartphone business is facing mounting cost pressure as AI server memory demand squeezes supply for mobile memory. The average purchase price of memory used in Samsung phones rose 263% in the first…"
  },
  {
-  "id": "Counterpoint Research::CBMiqAFBVV95cUxOV2pGMHBaSjhmWjVIV0k5VTlmUnNmeTF1aC1sdUlOLXZwNFVGdWxGR2FRRXJuYjNpOUQ0TFVlZ1RPVXhmc2NkZXNRdzdxNFVtU0V4eUFmdEw4Mm53R3NsTkNCT0hOdGlFcVc4WFBuRHVCUkY3UFpYejBWT0dOa01SUFJpMnk0SnhzbXN1UzExZ2hjZnhRMDczamtsSkVYLUMxdGJLM0E2Wnc",
-  "source": "Counterpoint Research",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-19T12:28:36.000Z",
-  "title": "Premium Flagship Smartphones to Get Over 30% Costlier: What Will Consumers Expect from ₹1 Lakh+ Smartphones in 2027?",
-  "snippet": ""
- },
- {
-  "id": "Retail TouchPoints::CBMizwFBVV95cUxQeFpsMWI3VWJyNGV4S2I0b3lWa253d084YjVKTEdEX2xBeGJWQnRETW14TkRlVTJhd1hvOGpCMWxSYk9qQjhIa2dqUkVRTUVXVDhIeFBCdk5UQ05GbF9VWVdURGo4b0hlaDhOTjZwU05jYmJUTm9aUU1NNUpERE9TODZMcVQtTjFOR3U2dlliSzl5emFndE9Qc3NtUEkzVVpGTVVyQ3pXSHJFM0FNdU1KR0JtRzFpSm5rVWR3ZmQ2bkwxeGFnOHNMVXEzOUZZVWc",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T12:18:31.000Z",
-  "title": "AI Agents Are Browsing. Ahead of Black Friday, Retailers Need Them to Buy",
-  "snippet": ""
- },
- {
-  "id": "Retail TouchPoints::CBMixAFBVV95cUxNdjRRSDVUM0UwNU80UXZLZnRudTVsaFNwM05YcXZROEk3cUNPWG02SjlYZmVpWEFBN2pkczMxSnhfdVZNSDVMUWpsbUVUMGJFbkd2QjdJTlN1clVIZ0M3OE9rdjQ5S1NENk1YenpLZnVLX2ZaTDBOTzhxMkR5UHhtQkNrM2FJTEt4ZG14TzZobWVmOHdZOXh3QmRnSzRrLUlXYmZLb0NoZVVyQWZwRTlFUmJuTWFVUTU0T2NzTFIyV1pVQ3JX",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T12:02:39.000Z",
-  "title": "The Holiday Shopping Battle Is Moving to AI. Are Retailers Ready?",
-  "snippet": ""
- },
- {
-  "id": "NRF::CBMirwFBVV95cUxPU0hkTHR6ZUFsNFVfdTJ1Ui1xbE9qR1VBMGlsYXRKdENmM240dHA3LVJkMllaNzFEZTRGYXJtLXNPRlluMzV0YmNjdGlXalJtMXBJbzFtMy1KY2JqRXpzZFVDQVVnT3Q0SGVIaGYtRHJEazlCMWlJNDNvalYzRUthRFlFR2NQWmhDdXh5emdXR0F3QmllZGUwLW9KMUROdF9hR3dTRC05S0lMbExsaWk4",
-  "source": "NRF",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-19T11:42:42.000Z",
-  "title": "183 Million Consumers Expected to Shop During Thanksgiving Weekend",
-  "snippet": ""
- },
- {
-  "id": "Retail TouchPoints::CBMixgFBVV95cUxOX2hVQjFmSGMzdVZCUi03SGtQSUdKRFV5eHN0ZldnTG5aRVZrUXNmanlSdjlLUUdubU5LODlFcHpRNkNsRjJ1RVJCTE9TMFQzZGgyNWs0ZXpaajRaQkZKRFlmdWpqVlBaY3pJY1o1dGZGMFZ5UndXUlgzdy1zZ01VakVHbXR5Xy1aWEZpUWxxWndVN3QxSnhhZlZzWktiTFo4eGlQY0lZc3E1T280M3hFaFllQjdKMFVqZFlhSmJ5OEk4S192Y1E",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T11:10:05.000Z",
-  "title": "Retail News & Insights",
-  "snippet": ""
- },
- {
-  "id": "IDC::CBMiYkFVX3lxTE1JVlFuc1pTMFRMTDJtVnowTVl1SjlYODctR3FPNGFwLXlYYk5ST1BDckQtMHhSM3pTV0oxdHA4OWM4QUdTYVprNWNSWlBER1BGc29sbmhwVDVBV0lWMms0VmVB",
-  "source": "IDC",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-18T05:54:23.000Z",
-  "title": "IDC Survey Spotlight: What Cybersecurity GRC Priorities Will Shape Spending in Asia/Pacific?",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMipgFBVV95cUxPUzFLeDJTY0hqdlJYZVJFeGo1aVQ1NTRHeC1NTDhOV251M0Z3emNoZXlHX2ktalg2a3hGQ0k3N0x0YlNaemt2ckp0REh4THJUb193cjVTNVRad1VCWTVKRnI0c2poaWtBTnkwQ2EtWG1zdF9zb2llMGRvQ2Y4V2VuenhKVTFMMFVDQ19FR2QwQ2FzVnhNSmtHZzdZRURfZk1oQmlaQmRn",
+  "id": "PYMNTS Data::CBMiwgFBVV95cUxNb040UjZ6b1BCRWp1TkU0QXI0Z0hmemZNRW13M2RjNjEzb0FWNjR4YUQ1ek9UNFBITjBsaGJNSF9pejJkX1FfV3I1R0YxZDVHZWFYY0VBNFRQSzh3ajRSU0tUQW5RUnhFdlNGTVQtS21JaEZyc1NZTjFVRzY2RlZuY1hkYmw4UW9lOHZJenVWNXR1SlI3ekk2aUlzdG03emRuSkRVOHZzX1BBaFFMSUp3TTNoWGtnV2pjSHpsRXJneFZDZw",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-25T12:06:08.000Z",
-  "title": "Small Business Real-Time Payments Barometer: Transportation Edition",
+  "publishedAt": "2026-11-19T21:18:38.000Z",
+  "title": "Panel Weighs Who Pays When AI Agents Exceed Consumers’ Instructions",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS Data::CBMiwwFBVV95cUxNRlplVW1oNnhwX1B2WFc3VjRMeUI0RGJweGIySXR0RGpwdmxFZHFGQWlEZERzd3BNQ2R6Y0pwRVZqQVdrM3FhSTVIai1FM3pDNTBoSkE0MXJ3NzJRek9SN3lHa1FJS3VjcGwxb0djT2xsQzdfYlZvWHEtT2VZUUN1d3ZEQWhkX1IxU2UxUTVGN0VJYjQ0bmthemxEVmF4OUYxdFp2N1h5S21hR3V1aXNlenA5TF9HOWlnN3VmeVR5TUcwUDg",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-19T09:03:47.000Z",
+  "title": "SoFi Tech Solutions Sees Bigger Bills Behind Consumer Debit Spending Growth",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS Data::CBMiogFBVV95cUxONzJ5MHFIMWF6VjNlRFJjdERrZHZkaEtwZlBVdUNqYUFKT2IwR3FWQkdKNGM3TE9XYy1zbllreEM4YVpBREhCQVhQa0NhWlZ1dXNMU0FqTGVZbjI1TFNNZXktZDFBaDdGTE1ESmQ3VUVUV2Y4OVRDNmp2QTFPZWhsWDlCSHNMUmpPelQyTTUwOUw4Ym5fZnpRa3d3ZHJMR3JqcUE",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-10-25T19:17:31.000Z",
+  "title": "Small Business Real-time Payments Barometer: Instant Payments Across Four Sectors",
   "snippet": ""
  }
 ]
