@@ -7725,5 +7725,140 @@
  "PYMNTS Data::CBMiogFBVV95cUxONzJ5MHFIMWF6VjNlRFJjdERrZHZkaEtwZlBVdUNqYUFKT2IwR3FWQkdKNGM3TE9XYy1zbllreEM4YVpBREhCQVhQa0NhWlZ1dXNMU0FqTGVZbjI1TFNNZXktZDFBaDdGTE1ESmQ3VUVUV2Y4OVRDNmp2QTFPZWhsWDlCSHNMUmpPelQyTTUwOUw4Ym5fZnpRa3d3ZHJMR3JqcUE": {
   "keep": false,
   "publishedAt": "2026-10-25T19:17:31.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261120VL220/taiwan-nvidia-tsmc-design-ai-server.html": {
+  "keep": false,
+  "publishedAt": "2026-11-20T09:18:25.000Z"
+ },
+ "PYMNTS Data::CBMisgFBVV95cUxQVDBjVmxPaHo4bGhBZ3A0aUNseG1Qa0lHOFBTM2ZGUDlOeVItT1pGVXZ1NWRRRTlpZzJFeUdHWGlMbFp5RFdTQUhJRmd0am12dTB3cmhJc1Q0VjJTRTB0dmdWSE5uaW5LREFtY0RIU0xrcmpuM2NPNmJfVEE1TWk5dUo5c3hEYXo1bUF3S1hIRC12YVB6Wms3YmVsaWxSbW1ob21iSzZPV2hPNlZzLXVBcmtR": {
+  "keep": false,
+  "publishedAt": "2026-11-20T09:06:17.000Z"
+ },
+ "PYMNTS Data::CBMijwFBVV95cUxQNTRYQVluVDZjMzJnTmxhXzFWSVhiWVlpd0FGNmp3QzExMFFvdm4xanlxb1V0TG4yTXBwUDlQYzdjcjBjMzM4djgxM3JCN2pHbVgtNDBBVVZjQ2dYc2RGVTI0ZnQyXzFiNDg3RnVweGxrTmJUdk1QN254TVc3c296S08zdFRoR3NTN3JSYkFuUQ": {
+  "keep": false,
+  "publishedAt": "2026-11-20T09:04:08.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/change-in-flipkarts-festive-sales-timing-drags-walmarts-q3-topline-growth-down-by-100-basis-points/136019306": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Flipkart's shifted Big Billion Days timing cuts Walmart's Q3 growth by 100 basis points",
+  "short_headline": "Flipkart sale timing dents Walmart Q3 growth",
+  "takeaway": "Festive sale timing at Flipkart moves sales between quarters; we should align our India promotions with its event calendar.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-20T08:26:43.000Z"
+ },
+ "Inc42::https://inc42.com/?p=581403": {
+  "keep": false,
+  "publishedAt": "2026-11-20T07:16:55.000Z"
+ },
+ "Inc42::https://inc42.com/?p=581397": {
+  "keep": false,
+  "publishedAt": "2026-11-20T07:06:34.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261118PD234/revenue-pc-investment-eps-growth.html": {
+  "keep": false,
+  "publishedAt": "2026-11-20T06:33:02.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261120PD235/pcb-demand-electronics-manufacturing.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Global PCB shortage deepens as AI demand strains supply; relief not seen before mid-2028",
+  "short_headline": "PCB shortage deepens, relief not before 2028",
+  "takeaway": "Component shortages could delay devices and lift costs; we should plan inventory and pricing for tighter supply on electronics.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-20T05:59:35.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76598": {
+  "keep": false,
+  "publishedAt": "2026-11-20T05:50:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=175596": {
+  "keep": false,
+  "publishedAt": "2026-11-20T05:00:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=175635": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Walmart's Walmart+ and Sam's Club Plus bundle appeals to higher-income shoppers",
+  "short_headline": "Walmart membership bundle lures high-income shoppers",
+  "takeaway": "Membership bundles are reaching affluent shoppers; we could test loyalty perks that raise value for premium PC buyers.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-20T05:00:00.000Z"
+ },
+ "Inc42::https://inc42.com/?p=581391": {
+  "keep": false,
+  "publishedAt": "2026-11-20T04:43:19.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261120VL206/nvidia-microsoft-azure-rubin-windows.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Nvidia and Microsoft widen AI options from Azure cloud to Windows PCs",
+  "short_headline": "Nvidia, Microsoft extend AI from cloud to Windows PCs",
+  "takeaway": "AI capabilities on Windows PCs shape what we can feature in AI PC lines and how we message them online.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-11-20T03:48:32.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261120PD208/samsung-sk-hynix-government-military-relocation.html": {
+  "keep": false,
+  "publishedAt": "2026-11-20T03:45:00.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/nobrokers-home-services-business-serves-2-lakh-customers-a-month-as-festive-transactions-rise-30-pc/136010922": {
+  "keep": false,
+  "publishedAt": "2026-11-20T02:59:27.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261120VL202/samsung-business-hbm-development-dram.html": {
+  "keep": false,
+  "publishedAt": "2026-11-20T02:51:13.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261120PD204/samsung-memory-module-efficiency-data-bandwidth.html": {
+  "keep": false,
+  "publishedAt": "2026-11-20T02:13:51.000Z"
+ },
+ "Reuters::CBMixgFBVV95cUxPaTd1eVE5S2xQcjlEOVRmZXJvSW5tYWZoRkplVkRESkRkRXNDQWl6bTB6czdOanJsWGNDV05nc3c4Mk5aVGZLaHRHa1NjSFUwWlFsUGVHYVBXT1htSTRwS3IweEJYQ0FNQlZqYkhrZUhNeXJpOUhBVjBXVG1iY1hnRGg0b1BWbmNESTZPcTZtd3dFUGZIeElZXzg5V21YLU5oMGNXZURoNTY4ZnJMZGZoZmR2QVhEYlBZMEcwSWJMaXVYdHBNTVE": {
+  "keep": false,
+  "publishedAt": "2026-11-19T23:21:40.000Z"
+ },
+ "Reuters::CBMivwFBVV95cUxNYU5ObTBXcWZTQ195ZXNJRDVMbjVsZm9OenNaMnpqYUJ2eld5TE5reTBrZ3lwN3NHNEZyR2N5TlJlSHU5NE5DdTVSM3EySFBMSGZRNHVMcGk5RmgxeVY5UlFfRk82MzRQMG1BX3FXRGdGd0FBMTJzdFduMFpDdEpmLXI5ZFMzY3cyNGZFbHhBQ2hEWkEzNERnd1hKVGpTVW1OZDU2Zm9STTYtYnpsc0xyOHoxWm95enZPTEd3bUpaWQ": {
+  "keep": false,
+  "publishedAt": "2026-11-19T23:00:29.000Z"
+ },
+ "Retail TouchPoints::CBMixgFBVV95cUxPQ09NcU0zcldORHpZQzRLYlVXanFXNkJrcHp5QnFLaTNaZjd6NnZjNkNPSHNrdzAwcHlVb0dfa1BtT3hDS3Bacnd5b28tMVlNdTJVM1ZCOUttanhfN29EMTBPWk9fNzhrLWZvbl93OHZSaTdwS1hjcVB1M0NSLTI4RWFvYWtMTFZvckh2a2Fhb3hlUDUyWjFzQnd3NENtdkZqLXRBQXFpaC1YdTlKLWc1Q3k2bmRKbk5DemFmZkh1T00weld6dWc": {
+  "keep": false,
+  "publishedAt": "2026-11-19T22:03:27.000Z"
+ },
+ "Reuters::CBMiqwFBVV95cUxOZ2xQTy03dlU5bzBXZEhoMTh3S0FVLW1xSVZxbktMcVJsSW9RRENvVUx2TU9IU2FEWWlnU1QwNk5JaVR3SUwyd2pSYl9UUTNBdXRXSVFScXRZOW5vcS1SX2tPRWhVOEZ1cmFHS2tfS3VsU0ZrbG5sYkw2SW9fR1NMRTJiblgwb3lEcFk2YjJMY0c0TFhVMk1CaFBIa2tVeVlYQ21vbVZJM3VqOVE": {
+  "keep": false,
+  "publishedAt": "2026-11-19T18:53:43.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/industry/indias-retail-sales-rise-8-pc-in-september-2026-as-festive-demand-builds-report/135987861": {
+  "keep": false,
+  "publishedAt": "2026-11-19T11:01:23.000Z"
+ },
+ "NIQ::CBMivwFBVV95cUxOWVk2X2M3Mmc3TWppSHVxRmllMzR3ckRJVHV6Tzk5eWpvU1Z1UHRuaHBlT3ZYc2tpY2szLXBFNHowZGFSS0gxNkRjOE4tWXFtRzlSekZnVlJLUFctM2RvZHh6b1NYTEFWM1p4cnduMFhyelc0T01IZk5FV2VhMVRuUTZvU0toZnNBVkNmMlRRaVR1MFpPWS1kNk9nYVlIcl82WEZsSGJaZWgwLWhfZHdNMjZqTFc1YnEwNkNZN3VPdw": {
+  "keep": false,
+  "publishedAt": "2026-11-18T09:11:40.000Z"
+ },
+ "Gartner::CBMiV0FVX3lxTE9VbFJfY2pYNGpnaGdTa2tUbThSaTJTX1F3MHZoQnotNnhza183QkZTOUlxc284SmZubHRZV1ZjTnZZMURmaVB2cHdfTkFrcFBidGljRzNIdw": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Gartner: AI agents are gaining purchasing power, CIOs must define their mandate first",
+  "short_headline": "Gartner: define AI agents' purchasing mandate",
+  "takeaway": "Business buyers may let agents purchase; we should prepare our store and B2B catalog to be agent-readable and transactable.",
+  "importance": 3,
+  "content_type": "analysis",
+  "competitors": [],
+  "publishedAt": "2026-11-17T08:00:00.000Z"
+ },
+ "PYMNTS Data::CBMingFBVV95cUxNNWlPZkRtZjRiQ3Y0UDhvRTNkNERMSDIzakk3WktsOTdrMGVGYWtfcmlEby1tY1lfbWM2a2hJZnRnamYyOGh4TnR2a095Qkx1dVNkZENhdFpQSmtBb25yUDJSVUxiVHJBaDdPSU5tRjVhQmhtMXBDbWI4dnRCOWluYXpWR2Zxa1JtRllUbzNvQU9tXzJXWWlUckMyRnpDQQ": {
+  "keep": false,
+  "publishedAt": "2026-11-01T07:00:00.000Z"
  }
 }

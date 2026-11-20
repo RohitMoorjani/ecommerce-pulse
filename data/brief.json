@@ -1,31 +1,21 @@
 {
- "updatedAt": "2026-11-20T03:51:20.962Z",
- "title": "Shopping is moving to AI agents, and our store must be agent-ready",
- "summary": "OpenAI launched ChatGPT Wallet for agent payments; Amazon took Alexa for Shopping to 15 countries; Target reported an AI assistant sales lift. Tablet shipments fell 23% (Omdia); notebooks stay weak to Q2 2027; Walmart e-commerce grew 23%.",
+ "updatedAt": "2026-11-20T12:52:19.914Z",
+ "title": "Shopping is moving to AI agents, so our store must be agent-ready",
+ "summary": "Amazon took Alexa for Shopping to 15 countries; OpenAI launched ChatGPT Wallet for agent checkout; Target reports an AI assistant sales lift. Tablet shipments fell 23% in Q3 (Omdia) and a PCB shortage may last to mid-2028.",
  "points": [
   {
-   "headline": "AI agents are gaining the ability to discover and pay at retailer checkouts",
-   "detail": "ChatGPT Wallet lets agents pay at merchants, Alexa for Shopping reached 15 countries and Target saw early sales lift. We should make our catalog and checkout ready for agent-initiated orders.",
+   "headline": "AI agents now discover and pay, so our catalog and checkout must be agent-ready",
+   "detail": "Alexa for Shopping reached 15 countries, ChatGPT Wallet lets agents pay at retailer checkouts, and Target saw early lift. Check our listings, data and checkout for agent orders.",
    "segment": "agentic",
    "storyIds": [
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364135",
     "PYMNTS Data::CBMixwFBVV95cUxQTjJ0QjVpelBlWS1pRGMxZk1RVGRUb2ZLRlpSMXZVVnVDLVJDeUF5aEJuWTBCS0hxclNueW9TTlFCeS1zcWt6cFpJVTQ2V0FQS1B6QlE4M3Y4RTBkUFhwTEdrMG1QYWplRVNuUUFfd3pwQ3Jab2tXVUY0RTN6bk5LRGxDYktXakhqU0lpVXJWTmdoTU9kV2NxTnZFakdiaFRHT1QzcjlqUEF2X21JWE5lNHZQa3JIWVNiaUwtZ0I0VkI4dTVDLXp3",
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364135",
     "Retail Dive::https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/"
    ]
   },
   {
-   "headline": "PC and tablet demand is weak while memory and supply costs squeeze pricing",
-   "detail": "Tablet shipments fell 23% in Q3 and notebooks are expected to stay weak through Q2 2027. Samsung memory costs rose 263%. We should plan inventory and promotions for price-led competition.",
-   "segment": "pc",
-   "storyIds": [
-    "TWICE::https://www.twice.com/?p=167051",
-    "DigiTimes::https://www.digitimes.com/news/a20261118PD215/pc-shipments-2027-2026-market.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261119PD207/samsung-2026-business-mobile-price.html"
-   ]
-  },
-  {
-   "headline": "Marketplaces are winning on discovery and delivery speed",
-   "detail": "Amazon plans to catalog every product online and Walmart U.S. e-commerce grew 23% on fulfillment speed. We need accurate product data and competitive delivery promises on these channels.",
+   "headline": "Amazon and Walmart are widening discovery and delivery advantages",
+   "detail": "Amazon plans to catalog every product online, even items it does not stock; Walmart U.S. e-commerce grew 23% in Q3 on fulfillment speed. Our marketplace listings and delivery promises must keep pace.",
    "segment": "marketplaces",
    "storyIds": [
     "PYMNTS::https://www.pymnts.com/?p=4394634",
@@ -33,8 +23,18 @@
    ]
   },
   {
-   "headline": "Small-business and holiday spending is strong for those who offer value",
-   "detail": "Amex projects a 14-year high in small business holiday spending. We should push business bundles, financing and bulk offers during the holiday window.",
+   "headline": "Weak PC and tablet demand meets component supply limits",
+   "detail": "Tablet shipments fell 23% in Q3 (Omdia), notebooks stay weak through Q2 2027 (DigiTimes), and the PCB shortage may last to mid-2028. Plan inventory, pricing and promotions for tight, price-led conditions.",
+   "segment": "pc",
+   "storyIds": [
+    "TWICE::https://www.twice.com/?p=167051",
+    "DigiTimes::https://www.digitimes.com/news/a20261118PD215/pc-shipments-2027-2026-market.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261120PD235/pcb-demand-electronics-manufacturing.html"
+   ]
+  },
+  {
+   "headline": "Small-business buyers are a holiday opening",
+   "detail": "Amex projects a 14-year high in small business holiday spending. We could push business bundles, financing and bulk offers on our store.",
    "segment": "trends",
    "storyIds": [
     "PYMNTS Data::CBMimAFBVV95cUxQMk5IN0ZvWjcxX2hDMFJQTHhpVzZPQlZ4T1NIdzZVWlFSMzQwNzB1TC13R3VFUUZONDR1ay1zNERJTG1rYUlYZERMZEYwTmt4TC1fNU1lNEZ3dEtJbDhSMkdvTDJjLVctN0JodWpRZDRjclVQTUdqM3J3S01YWDlGUGliZ091R3lWX193YzlyeFhhWHl1TlRfWg"
