@@ -1,202 +1,170 @@
 [
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261120VL220/taiwan-nvidia-tsmc-design-ai-server.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-20T09:18:25.000Z",
-  "title": "Taiwan market plunges 6.23% as AI suppliers report steady orders after Huang's exit",
-  "snippet": "Taiwan's benchmark Taiex plunged 2,393.60 points, or 6.23%, on Friday to close at 36,033.29, its third-largest single-day point drop on record. Shares of Taiwan Semiconductor Manufacturing Co. (TSMC) fell as low as…"
- },
- {
-  "id": "PYMNTS Data::CBMisgFBVV95cUxQVDBjVmxPaHo4bGhBZ3A0aUNseG1Qa0lHOFBTM2ZGUDlOeVItT1pGVXZ1NWRRRTlpZzJFeUdHWGlMbFp5RFdTQUhJRmd0am12dTB3cmhJc1Q0VjJTRTB0dmdWSE5uaW5LREFtY0RIU0xrcmpuM2NPNmJfVEE1TWk5dUo5c3hEYXo1bUF3S1hIRC12YVB6Wms3YmVsaWxSbW1ob21iSzZPV2hPNlZzLXVBcmtR",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-20T09:06:17.000Z",
-  "title": "Gen Z Gives Card Apps a 23-Percentage-Point Edge Over Older Users",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMijwFBVV95cUxQNTRYQVluVDZjMzJnTmxhXzFWSVhiWVlpd0FGNmp3QzExMFFvdm4xanlxb1V0TG4yTXBwUDlQYzdjcjBjMzM4djgxM3JCN2pHbVgtNDBBVVZjQ2dYc2RGVTI0ZnQyXzFiNDg3RnVweGxrTmJUdk1QN254TVc3c296S08zdFRoR3NTN3JSYkFuUQ",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-20T09:04:08.000Z",
-  "title": "Consumers Ask AI Twice: Which Card and Why the Fee?",
-  "snippet": ""
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/change-in-flipkarts-festive-sales-timing-drags-walmarts-q3-topline-growth-down-by-100-basis-points/136019306",
-  "source": "ETRetail",
+  "id": "PYMNTS::https://www.pymnts.com/?p=4414261",
+  "source": "PYMNTS",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T08:26:43.000Z",
-  "title": "Change in Flipkart's festive sales timing drags Walmart's Q3 topline growth down by 100 basis points",
-  "snippet": "The company saw the impact as Flipkart's 11-day Big Billion Days (BBD) festive sale shifted to a different timing compared with that of the previous year, with its sales contribution shifting to Walmart's fourth-quarter…"
+  "publishedAt": "2026-11-20T20:11:08.000Z",
+  "title": "Adyen Taps Klarna to Enable Agentic Commerce Payment Options Beyond Cards",
+  "snippet": "Klarna has become the first payment option beyond cards available in Adyen’s agentic commerce suite, Adyen Agentic, the two companies said in a Friday (Nov. 20) press release. This combination enables merchants that…"
  },
  {
-  "id": "Inc42::https://inc42.com/?p=581403",
-  "source": "Inc42",
+  "id": "Retail Dive::https://www.retaildive.com/news/container-store-neighborhood-intelligence-cybersecurity-incident/875342/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-20T17:41:00.000Z",
+  "title": "The Container Store is back online after cybersecurity incident",
+  "snippet": "The incident has not impacted the security of customer financial data, according to the company."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/old-navy-recovery-gap-shines-q3-earnings-warm-weather/875291/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-20T17:28:00.000Z",
+  "title": "Warm weather thwarts Old Navy recovery, as Gap continues to shine",
+  "snippet": "As the Gap Inc.’s value brand falters, its namesake has risen from a years-long slump to notch its 12th straight quarter of comparable sales growth."
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/thredup-tiktok-shop-livestream-shopping/875247/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-20T17:16:00.000Z",
+  "title": "ThredUp leans into livestream shopping with TikTok Shop",
+  "snippet": "After early success on Whatnot, the resale marketplace is expanding its livestream efforts with a launch on TikTok Shop."
+ },
+ {
+  "id": "PYMNTS Data::CBMiogFBVV95cUxNM3VLLWRmZWJIQzF1cVhUWUMyUkV3Zm4yU19maFdkZGNqQU5lc0xSdGI1Wnc2NHZ3TnF5OU1sdlJQMDRESEx5SXhBbkdjcE5lbHpDOTgzcDJaVUM5cTVlUmJaNWdGcFV3cDl0UUgwX0pDRHNaUFMxR2Z4STh4LWM1RW40Y3FPVE11LUUzU0l4OGNRdGNXdm5MRGRydVBFN1RQY0E",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-20T16:46:22.000Z",
+  "title": "eCommerce Captures Nearly a Third of US Retail Sales Growth",
+  "snippet": ""
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/vuori-exec-ceo-athleta-sales-declines-q3-earnings/875279/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-20T16:42:00.000Z",
+  "title": "Vuori exec to lead struggling Athleta",
+  "snippet": "Ashley Kechter, who previously also had stints at Fabletics and Gap Inc., takes on a brand that just posted yet another quarter of double-digit declines."
+ },
+ {
+  "id": "CRN::https://www.crn.com/news/ai/2026/openai-s-aws-oracle-and-google-cloud-marketplace-strategy-to-drive-scale-and-global-ai-growth",
+  "source": "CRN",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-20T07:16:55.000Z",
-  "title": "Amazon Prime India Head Abhinav Agarwal Quits After 16 Years At Company",
-  "snippet": "Amazon Prime India head Abhinav Agarwal has left the ecommerce giant after 16 years, ending a stint spanning supply chain,…"
+  "publishedAt": "2026-11-20T16:24:00.000Z",
+  "title": "OpenAI’s AWS, Oracle And Google Cloud Marketplace Strategy To Drive ‘Scale’ And Global AI Growth",
+  "snippet": "OpenAI is leaning on AWS, Google Cloud and Oracle marketplaces and channel partners to rapidly scale ChatGPT, AI models and global enterprise sales."
  },
  {
-  "id": "Inc42::https://inc42.com/?p=581397",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-20T07:06:34.000Z",
-  "title": "Flipkart’s BBD Timing Weighs On Walmart International’s Q3 Growth",
-  "snippet": "Flipkart’s Big Billion Days (BBD) sale timing weighed on Walmart International’s sales growth in Q3 FY27, with the segment reporting…"
+  "id": "Retail Dive::https://www.retaildive.com/news/nyc-surveillance-pricing-ban-fabfitfun-walmart/875277/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-20T15:35:00.000Z",
+  "title": "The Weekly Closeout: NYC bans surveillance pricing, FabFitFun lands in Walmart",
+  "snippet": "The ban prevents companies from using personal data to tailor prices, while the subscription company is offering a beauty box in 3,000 of the mass merchant’s stores."
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261118PD234/revenue-pc-investment-eps-growth.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-20T06:33:02.000Z",
-  "title": "AAEON targets semiconductors, robotics and defense beyond consumer AI inflation",
-  "snippet": "Industrial PC maker AAEON Technology reported third-quarter 2026 revenue of NT$2.873 billion (US$87.46 million), up 24.6% year on year, as AI edge computing and embedded products drove core operations, and investment…"
+  "id": "Dell Blog::https://www.dell.com/en-us/blog/protecting-your-small-business-during-the-holiday-season",
+  "source": "Dell Blog",
+  "sourceType": "Competitor Newsroom",
+  "publishedAt": "2026-11-20T15:00:00.000Z",
+  "title": "Protecting Your Small Business During the Holiday Season",
+  "snippet": "Small business cybersecurity can slip when key people take holiday time off. Learn simple steps, built-in PC protection and expert support that help close gaps."
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261120PD235/pcb-demand-electronics-manufacturing.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-20T05:59:35.000Z",
-  "title": "Global PCB shortage deepens as AI demand strains supplies, with relief unlikely before mid-2028",
-  "snippet": "A global shortage of printed circuit boards (PCBs), essential to nearly all consumer electronics, is causing or threatening delivery delays of weeks to months across the automotive, medical, defence and aerospace…"
+  "id": "Modern Retail::https://www.modernretail.co/?p=175734",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-20T14:30:00.000Z",
+  "title": "Big-Box Briefing: Target faces off with Trader Joe’s, Quince and HomeGoods",
+  "snippet": "Target’s third-quarter earnings, released on Wednesday, gave investors confidence that it’s finding its footing under CEO Michael Fiddelke, who stepped into the role in February. But analysts’ praise for the retailer’s…"
  },
  {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76598",
+  "id": "TWICE::https://www.twice.com/?p=167177",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-20T14:01:06.000Z",
+  "title": "Best Buy Adds Circana Gateway Platform For Supplier Insights",
+  "snippet": "New program combines retailer data with Circana analytics to help vendors evaluate sales and customer behavior."
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=167169",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-20T14:01:04.000Z",
+  "title": "CTA Previews Expanded Digital Health Presence At CES 2027",
+  "snippet": "More than 115 exhibitors, a new Health Stage and a wearable technology white paper highlight the show's health technology focus"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=167165",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-20T14:00:01.000Z",
+  "title": "Circana: U.S. Retail Sales Rise 1.1% In October As Shoppers Prioritize Occasions",
+  "snippet": "Consumers are making more shopping trips but buying fewer items"
+ },
+ {
+  "id": "Dell Press Releases::CBMi-wFBVV95cUxOR1NyUF9kVUloY3ZDQ1g1bjdsMF9Jd2xHQzJTbzdGaGM3aERhRzZCV3o5TlhiVUJoZDZDUFBZMHpFQVRjQVFmM0lySE1JQXVoelBqVU51R2M5UUozVXQycUMwRjFVTE90Y2hucm5rSkRnaW5LNVN6MkwwazB5YUF2bVQ1eVFXSFV6T2FwbnBhWTZRTXNzV1pxY1RYaHFzYXpERUdMS1E0eDVNN0g5YVdDV2hCcDJKMTFfVU8yU1VjVTh4MEcxczVFSU4zcUt5UHlYT0ZPbUE1UnJUZXRKYTVhOU9ZX09UVmVwYlUxWlBOTTRPdjNBNTZzWm9hSQ",
+  "source": "Dell Press Releases",
+  "sourceType": "Competitor Newsroom",
+  "publishedAt": "2026-11-20T14:00:00.000Z",
+  "title": "Lightbits Labs Unveils RAM Reduction Tech Preview, Targeting 1 PB of Storage per Server with Just 256 GB of RAM",
+  "snippet": ""
+ },
+ {
+  "id": "Dell Blog::https://www.dell.com/en-us/blog/how-to-check-computer-specs-on-windows",
+  "source": "Dell Blog",
+  "sourceType": "Competitor Newsroom",
+  "publishedAt": "2026-11-20T13:55:00.000Z",
+  "title": "How to Check Computer Specs on Windows",
+  "snippet": "Check your computer specs on a Windows PC with four built-in tools to troubleshoot slowdowns, confirm compatibility and plan upgrades."
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76603",
   "source": "InternetRetailing",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T05:50:00.000Z",
-  "title": "Black Friday rush exposes retailers’ cyber blind spot",
-  "snippet": "As millions of shoppers prepare to hand over personal data online, new research suggests many retailers are still not fully equipped to keep that information safe. The post Black Friday rush exposes retailers’ cyber…"
+  "publishedAt": "2026-11-20T12:04:45.000Z",
+  "title": "Poundland sales suffer as £60m cash row intensifies",
+  "snippet": "The Telegraph has reported that Poundland's owners, Gordon Brothers, are refusing to release funds to pay the retailer's tax bill and suppliers. The post Poundland sales suffer as £60m cash row intensifies appeared…"
  },
  {
-  "id": "Modern Retail::https://www.modernretail.co/?p=175596",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T05:00:00.000Z",
-  "title": "On is making a bigger play for American shoppers, one store at a time",
-  "snippet": "Swiss sportswear brand On is gearing up for a bigger U.S. retail push, with nine new stateside stores in 2026 alone."
- },
- {
-  "id": "Modern Retail::https://www.modernretail.co/?p=175635",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T05:00:00.000Z",
-  "title": "Walmart’s convenience lures high-income shoppers",
-  "snippet": "For years, Walmart has won on cost. But as the retailer shows payoff from its e-commerce operations, its new membership bundle combining Walmart+ and Sam’s Club Plus programs appeals to shoppers who can pay for…"
- },
- {
-  "id": "Inc42::https://inc42.com/?p=581391",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-20T04:43:19.000Z",
-  "title": "Urban Company Raises ₹2,500 Cr Via QIP, Draws Bids Worth Over ₹15,000 Cr",
-  "snippet": "Home services marketplace Urban Company has raised ₹2,500 Cr through a qualified institutional placement (QIP), attracting bids worth over ₹15,000…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261120VL206/nvidia-microsoft-azure-rubin-windows.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-20T03:48:32.000Z",
-  "title": "Nvidia, Microsoft bring Vera Rubin systems to Azure, widen AI options from cloud to Windows PCs",
-  "snippet": "Nvidia and Microsoft are expanding their partnership across Microsoft's cloud, on-premises, and PC products, the companies said at Microsoft's Ignite conference on Wednesday. The announcements include broader access to…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261120PD208/samsung-sk-hynix-government-military-relocation.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-20T03:45:00.000Z",
-  "title": "Samsung and SK Hynix align on north-south split for new chip park",
-  "snippet": "Samsung Electronics and SK Hynix have broadly agreed to divide a proposed semiconductor park at South Korea's Gwangju military airport site into southern and northern sections, respectively, according to South Korean…"
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/nobrokers-home-services-business-serves-2-lakh-customers-a-month-as-festive-transactions-rise-30-pc/136010922",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T02:59:27.000Z",
-  "title": "NoBroker's home services business serves 2 lakh customers a month as festive transactions rise 30 pc",
-  "snippet": "The home services business, which caters to a range of requirements from smaller-ticket repairs to household maintenance, has helped NoBroker build a wider presence among consumers beyond property transactions."
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261120VL202/samsung-business-hbm-development-dram.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-20T02:51:13.000Z",
-  "title": "Samsung taps HBM executive to lead memory business",
-  "snippet": "Samsung Electronics promoted the executive responsible for its high-bandwidth memory (HBM) development to lead its memory business on Friday, as it reshuffled its semiconductor leadership and allowed its two co-CEOs to…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261120PD204/samsung-memory-module-efficiency-data-bandwidth.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-20T02:13:51.000Z",
-  "title": "Samsung introduces SOCAMM2 memory module for agentic AI servers",
-  "snippet": "Samsung Electronics has introduced SOCAMM2, an LPDDR-based server memory module designed for agentic AI infrastructure that requires higher performance, greater upgrade flexibility, and improved power and space…"
- },
- {
-  "id": "Reuters::CBMixgFBVV95cUxPaTd1eVE5S2xQcjlEOVRmZXJvSW5tYWZoRkplVkRESkRkRXNDQWl6bTB6czdOanJsWGNDV05nc3c4Mk5aVGZLaHRHa1NjSFUwWlFsUGVHYVBXT1htSTRwS3IweEJYQ0FNQlZqYkhrZUhNeXJpOUhBVjBXVG1iY1hnRGg0b1BWbmNESTZPcTZtd3dFUGZIeElZXzg5V21YLU5oMGNXZURoNTY4ZnJMZGZoZmR2QVhEYlBZMEcwSWJMaXVYdHBNTVE",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T23:21:40.000Z",
-  "title": "Gap shares rise as Old Navy recovery overshadows slow holiday start",
-  "snippet": ""
- },
- {
-  "id": "Reuters::CBMivwFBVV95cUxNYU5ObTBXcWZTQ195ZXNJRDVMbjVsZm9OenNaMnpqYUJ2eld5TE5reTBrZ3lwN3NHNEZyR2N5TlJlSHU5NE5DdTVSM3EySFBMSGZRNHVMcGk5RmgxeVY5UlFfRk82MzRQMG1BX3FXRGdGd0FBMTJzdFduMFpDdEpmLXI5ZFMzY3cyNGZFbHhBQ2hEWkEzNERnd1hKVGpTVW1OZDU2Zm9STTYtYnpsc0xyOHoxWm95enZPTEd3bUpaWQ",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T23:00:29.000Z",
-  "title": "Ross Stores sees holiday sales growth slowing on lower discretionary spending; shares down",
-  "snippet": ""
- },
- {
-  "id": "Retail TouchPoints::CBMixgFBVV95cUxPQ09NcU0zcldORHpZQzRLYlVXanFXNkJrcHp5QnFLaTNaZjd6NnZjNkNPSHNrdzAwcHlVb0dfa1BtT3hDS3Bacnd5b28tMVlNdTJVM1ZCOUttanhfN29EMTBPWk9fNzhrLWZvbl93OHZSaTdwS1hjcVB1M0NSLTI4RWFvYWtMTFZvckh2a2Fhb3hlUDUyWjFzQnd3NENtdkZqLXRBQXFpaC1YdTlKLWc1Q3k2bmRKbk5DemFmZkh1T00weld6dWc",
+  "id": "Retail TouchPoints::CBMixgFBVV95cUxPblBRcVhmMk8wU19oLXZzZm9MZl9SMFlGM0J1aG5mdUFMVk56UUxjaDhISmpiQ3pGOVowa2x1VlpRaDZTNnRFcXZBS2hnOHA1YzhPSnUzX1RMcGtzem01b1A1cXFKTTIxWGNLdWxsaGJ5TlFYOC1SMlZ2U3cyMWJvRFJQSVJNWDdiTVlqdFRkTXg4U3JJOEJrZXVtVGVKRlFldXBabDFzbVNGbG1KUnZpSXkwcDhzR2tXZWxFUnkwM0FnSEZOdHc",
   "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T22:03:27.000Z",
-  "title": "Retail News & Insights",
+  "publishedAt": "2026-11-20T12:03:32.000Z",
+  "title": "5 Ways Small Businesses Can Make Holiday Packages More Memorable",
   "snippet": ""
  },
  {
-  "id": "Reuters::CBMiqwFBVV95cUxOZ2xQTy03dlU5bzBXZEhoMTh3S0FVLW1xSVZxbktMcVJsSW9RRENvVUx2TU9IU2FEWWlnU1QwNk5JaVR3SUwyd2pSYl9UUTNBdXRXSVFScXRZOW5vcS1SX2tPRWhVOEZ1cmFHS2tfS3VsU0ZrbG5sYkw2SW9fR1NMRTJiblgwb3lEcFk2YjJMY0c0TFhVMk1CaFBIa2tVeVlYQ21vbVZJM3VqOVE",
+  "id": "Reuters::CBMivwFBVV95cUxPVTIxbElDQVJDWHlhZ1FpYkZUYnVoNGxvNGZFU3BKTXpoR1Bfck1icUV2OHdGVW5aSEp6ak15Um5GSGgzbFF3ZEdZS2JudHJsZVZ5VnJMSDVnMVdBOTZKRUtJX1ZXQmotWjhqeHFuSV83U01LLUtWcHB5dEZHSEFza0tlSVc2ZlBKclJyWV9NS1pSaWJoRHN0c19SWlBpV2F0aFA5YVZRQ1oxeGxkTDNJZG5UeThHRTR1WUl5U2djSQ",
   "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T18:53:43.000Z",
-  "title": "Walmart says US shoppers stocked up after tech outages",
+  "publishedAt": "2026-11-20T11:17:35.000Z",
+  "title": "Wall St Week Ahead 'Black Friday' brings consumer spending into focus for AI-rocked market",
   "snippet": ""
  },
  {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/industry/indias-retail-sales-rise-8-pc-in-september-2026-as-festive-demand-builds-report/135987861",
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/accessories/titans-helios-luxe-targets-40-50-stores-in-3-years-eyes-deeper-play-in-rs-13000-crore-accessible-luxury-watch-market/136023389",
   "source": "ETRetail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T11:01:23.000Z",
-  "title": "India's retail sales rise 8 pc in September 2026 as festive demand builds: Report",
-  "snippet": "The festive spending mix is also facing competition from travel, dining and other experiences, alongside traditional retail categories. The report noted that wedding-related travel, hometown visits and holiday plans…"
+  "publishedAt": "2026-11-20T11:01:26.000Z",
+  "title": "Titan's Helios Luxe targets 40-50 stores in 3 years; eyes deeper play in Rs 13,000 crore accessible luxury watch market",
+  "snippet": "In an ambitious expansion move, Titan Company plans to grow its Helios Luxe boutique network, targeting 25 to 30 outlets by FY27. As the luxury watch market rapidly evolves, especially for models exceeding Rs 25,000…"
  },
  {
-  "id": "NIQ::CBMivwFBVV95cUxOWVk2X2M3Mmc3TWppSHVxRmllMzR3ckRJVHV6Tzk5eWpvU1Z1UHRuaHBlT3ZYc2tpY2szLXBFNHowZGFSS0gxNkRjOE4tWXFtRzlSekZnVlJLUFctM2RvZHh6b1NYTEFWM1p4cnduMFhyelc0T01IZk5FV2VhMVRuUTZvU0toZnNBVkNmMlRRaVR1MFpPWS1kNk9nYVlIcl82WEZsSGJaZWgwLWhfZHdNMjZqTFc1YnEwNkNZN3VPdw",
-  "source": "NIQ",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-18T09:11:40.000Z",
-  "title": "Flat October for hospitality as consumers stay cautious before Christmas",
+  "id": "Reuters::CBMiqwFBVV95cUxPVnhGUG1nbm9rVTg5SFJ0MllZSEhYNG9LNEZ3TE1Ncm0yYVkyYXUtQ0lyVFh4QVFoTk1sR1dsOThpXzhkYmx5bFRrM2V3ZC1BYklpdllzU0xiT1JpT2xLNGJtcXhhQVJhUGpVQ3gydnN2WEpmNGFIOXFUczRfNTNLQk1rMVU0QjRGeVM4VF9nbG9wWnBwb280WFdUQU1Ud0NGbzBsZnRvLVhaaTg",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-19T13:22:23.000Z",
+  "title": "Walmart nudges up annual forecasts ahead of crucial holiday season",
   "snippet": ""
  },
  {
-  "id": "Gartner::CBMiV0FVX3lxTE9VbFJfY2pYNGpnaGdTa2tUbThSaTJTX1F3MHZoQnotNnhza183QkZTOUlxc284SmZubHRZV1ZjTnZZMURmaVB2cHdfTkFrcFBidGljRzNIdw",
-  "source": "Gartner",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-17T08:00:00.000Z",
-  "title": "CIO Brief: AI Agents Are Acquiring Purchasing Power. Define Their Mandate Before They Spend.",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMingFBVV95cUxNNWlPZkRtZjRiQ3Y0UDhvRTNkNERMSDIzakk3WktsOTdrMGVGYWtfcmlEby1tY1lfbWM2a2hJZnRnamYyOGh4TnR2a095Qkx1dVNkZENhdFpQSmtBb25yUDJSVUxiVHJBaDdPSU5tRjVhQmhtMXBDbWI4dnRCOWluYXpWR2Zxa1JtRllUbzNvQU9tXzJXWWlUckMyRnpDQQ",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-01T07:00:00.000Z",
-  "title": "The Price of Maybe: What Makes Shoppers Rethink Big Purchases",
+  "id": "Retail TouchPoints::CBMiW0FVX3lxTE5sZ1ZVRzBXcVptekpqYmZFTTY2X1VGZVJyclgxOUFrNXF6bE9vNUpicGZBbWxqRm9TUTlwd1VIbGh0cHVaQzU5bUxjX1FndFpQSk5XRHdab0ZTUFU",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-16T18:36:49.000Z",
+  "title": "Latest In: catering",
   "snippet": ""
  }
 ]
