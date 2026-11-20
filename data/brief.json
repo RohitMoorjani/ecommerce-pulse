@@ -1,30 +1,30 @@
 {
- "updatedAt": "2026-11-20T12:52:19.914Z",
- "title": "Shopping is moving to AI agents, so our store must be agent-ready",
- "summary": "Amazon took Alexa for Shopping to 15 countries; OpenAI launched ChatGPT Wallet for agent checkout; Target reports an AI assistant sales lift. Tablet shipments fell 23% in Q3 (Omdia) and a PCB shortage may last to mid-2028.",
+ "updatedAt": "2026-11-20T21:51:22.134Z",
+ "title": "AI agents are becoming the new checkout; our store must be agent-ready",
+ "summary": "ChatGPT Wallet lets AI agents pay at retailer checkouts; Klarna joined Adyen’s agent suite; Alexa shopping reached 15 countries; Target’s AI assistant lifted sales. Tablets fell 23% in Q3; PCB shortage lasts to mid-2028.",
  "points": [
   {
-   "headline": "AI agents now discover and pay, so our catalog and checkout must be agent-ready",
-   "detail": "Alexa for Shopping reached 15 countries, ChatGPT Wallet lets agents pay at retailer checkouts, and Target saw early lift. Check our listings, data and checkout for agent orders.",
+   "headline": "Agent checkout is live and widening to BNPL",
+   "detail": "OpenAI launched ChatGPT Wallet, Klarna joined Adyen’s agentic suite, and Alexa shopping reached 15 countries. We should make our catalog, checkout and financing agent-ready.",
    "segment": "agentic",
    "storyIds": [
-    "PYMNTS Data::CBMixwFBVV95cUxQTjJ0QjVpelBlWS1pRGMxZk1RVGRUb2ZLRlpSMXZVVnVDLVJDeUF5aEJuWTBCS0hxclNueW9TTlFCeS1zcWt6cFpJVTQ2V0FQS1B6QlE4M3Y4RTBkUFhwTEdrMG1QYWplRVNuUUFfd3pwQ3Jab2tXVUY0RTN6bk5LRGxDYktXakhqU0lpVXJWTmdoTU9kV2NxTnZFakdiaFRHT1QzcjlqUEF2X21JWE5lNHZQa3JIWVNiaUwtZ0I0VkI4dTVDLXp3",
     "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364135",
-    "Retail Dive::https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/"
+    "PYMNTS::https://www.pymnts.com/?p=4414261",
+    "PYMNTS Data::CBMixwFBVV95cUxQTjJ0QjVpelBlWS1pRGMxZk1RVGRUb2ZLRlpSMXZVVnVDLVJDeUF5aEJuWTBCS0hxclNueW9TTlFCeS1zcWt6cFpJVTQ2V0FQS1B6QlE4M3Y4RTBkUFhwTEdrMG1QYWplRVNuUUFfd3pwQ3Jab2tXVUY0RTN6bk5LRGxDYktXakhqU0lpVXJWTmdoTU9kV2NxTnZFakdiaFRHT1QzcjlqUEF2X21JWE5lNHZQa3JIWVNiaUwtZ0I0VkI4dTVDLXp3"
    ]
   },
   {
-   "headline": "Amazon and Walmart are widening discovery and delivery advantages",
-   "detail": "Amazon plans to catalog every product online, even items it does not stock; Walmart U.S. e-commerce grew 23% in Q3 on fulfillment speed. Our marketplace listings and delivery promises must keep pace.",
+   "headline": "Retailers see AI assistants and fast delivery driving sales",
+   "detail": "Target’s Ask Target shows an early sales lift and Walmart U.S. e-commerce grew 23% on fulfillment speed. We should test guided shopping and match delivery promises.",
    "segment": "marketplaces",
    "storyIds": [
-    "PYMNTS::https://www.pymnts.com/?p=4394634",
+    "Retail Dive::https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/",
     "Retail Dive::https://www.retaildive.com/news/walmart-ecommerce-boom-fulfillment-speed-q3-earnings/875166/"
    ]
   },
   {
-   "headline": "Weak PC and tablet demand meets component supply limits",
-   "detail": "Tablet shipments fell 23% in Q3 (Omdia), notebooks stay weak through Q2 2027 (DigiTimes), and the PCB shortage may last to mid-2028. Plan inventory, pricing and promotions for tight, price-led conditions.",
+   "headline": "PC and tablet supply is tight while notebook demand stays weak",
+   "detail": "Tablet shipments fell 23% in Q3, notebooks stay weak through Q2 2027 and the PCB shortage runs to mid-2028. We should plan inventory, pricing and promotions accordingly.",
    "segment": "pc",
    "storyIds": [
     "TWICE::https://www.twice.com/?p=167051",
@@ -33,11 +33,12 @@
    ]
   },
   {
-   "headline": "Small-business buyers are a holiday opening",
-   "detail": "Amex projects a 14-year high in small business holiday spending. We could push business bundles, financing and bulk offers on our store.",
+   "headline": "Small-business spending is strong, consumers stay price-conscious",
+   "detail": "Amex projects a 14-year high in small-business holiday spending while NRF finds affordability shapes consumer plans. We should push business bundles and clear value offers.",
    "segment": "trends",
    "storyIds": [
-    "PYMNTS Data::CBMimAFBVV95cUxQMk5IN0ZvWjcxX2hDMFJQTHhpVzZPQlZ4T1NIdzZVWlFSMzQwNzB1TC13R3VFUUZONDR1ay1zNERJTG1rYUlYZERMZEYwTmt4TC1fNU1lNEZ3dEtJbDhSMkdvTDJjLVctN0JodWpRZDRjclVQTUdqM3J3S01YWDlGUGliZ091R3lWX193YzlyeFhhWHl1TlRfWg"
+    "PYMNTS Data::CBMimAFBVV95cUxQMk5IN0ZvWjcxX2hDMFJQTHhpVzZPQlZ4T1NIdzZVWlFSMzQwNzB1TC13R3VFUUZONDR1ay1zNERJTG1rYUlYZERMZEYwTmt4TC1fNU1lNEZ3dEtJbDhSMkdvTDJjLVctN0JodWpRZDRjclVQTUdqM3J3S01YWDlGUGliZ091R3lWX193YzlyeFhhWHl1TlRfWg",
+    "Retail TouchPoints::CBMirwFBVV95cUxPMjl1bGs1WURpQ0Z4MEpHV2NiY3FyY3huTlFLZ0hidW5FaHUyZFhESkRvU2NMM1EzQ1BHWl9JN192dkpuaGQxbDltbXI4cXhab1R6SHNzWTFMQzBqa3RnY1hOUG4zczZaWDJYNGtuQWJpQ0gtQ1RXWW1SNmo4X2lTS0hrR0NFWjNnNDQxczBnVjh4dllEVG1hM3hGZFJmTnJLRHdNY3BLY2NTSHp1eXhJ"
    ]
   }
  ]

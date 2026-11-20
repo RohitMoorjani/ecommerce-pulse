@@ -7798,5 +7798,138 @@
  "PYMNTS Data::CBMingFBVV95cUxNNWlPZkRtZjRiQ3Y0UDhvRTNkNERMSDIzakk3WktsOTdrMGVGYWtfcmlEby1tY1lfbWM2a2hJZnRnamYyOGh4TnR2a095Qkx1dVNkZENhdFpQSmtBb25yUDJSVUxiVHJBaDdPSU5tRjVhQmhtMXBDbWI4dnRCOWluYXpWR2Zxa1JtRllUbzNvQU9tXzJXWWlUckMyRnpDQQ": {
   "keep": false,
   "publishedAt": "2026-11-01T07:00:00.000Z"
+ },
+ "PYMNTS::https://www.pymnts.com/?p=4414261": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Klarna becomes first non-card payment option in Adyen’s agentic commerce suite",
+  "short_headline": "Klarna joins Adyen’s agentic commerce suite",
+  "takeaway": "Agent checkout is widening beyond cards to BNPL; we should check our store’s financing options work in agent-led purchases.",
+  "importance": 4,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-11-20T20:11:08.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/container-store-neighborhood-intelligence-cybersecurity-incident/875342/": {
+  "keep": false,
+  "publishedAt": "2026-11-20T17:41:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/old-navy-recovery-gap-shines-q3-earnings-warm-weather/875291/": {
+  "keep": false,
+  "publishedAt": "2026-11-20T17:28:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/thredup-tiktok-shop-livestream-shopping/875247/": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "ThredUp adds livestream shopping on TikTok Shop after early Whatnot success",
+  "short_headline": "ThredUp expands livestream selling to TikTok Shop",
+  "takeaway": "Livestream selling is spreading across marketplaces; we could test live product demos on TikTok Shop.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-20T17:16:00.000Z"
+ },
+ "PYMNTS Data::CBMiogFBVV95cUxNM3VLLWRmZWJIQzF1cVhUWUMyUkV3Zm4yU19maFdkZGNqQU5lc0xSdGI1Wnc2NHZ3TnF5OU1sdlJQMDRESEx5SXhBbkdjcE5lbHpDOTgzcDJaVUM5cTVlUmJaNWdGcFV3cDl0UUgwX0pDRHNaUFMxR2Z4STh4LWM1RW40Y3FPVE11LUUzU0l4OGNRdGNXdm5MRGRydVBFN1RQY0E": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "eCommerce captures nearly a third of US retail sales growth",
+  "short_headline": "E-commerce takes a third of US retail growth",
+  "takeaway": "Online keeps taking a large share of retail growth, supporting continued investment in our store and channel mix.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-20T16:46:22.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/vuori-exec-ceo-athleta-sales-declines-q3-earnings/875279/": {
+  "keep": false,
+  "publishedAt": "2026-11-20T16:42:00.000Z"
+ },
+ "CRN::https://www.crn.com/news/ai/2026/openai-s-aws-oracle-and-google-cloud-marketplace-strategy-to-drive-scale-and-global-ai-growth": {
+  "keep": false,
+  "publishedAt": "2026-11-20T16:24:00.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/nyc-surveillance-pricing-ban-fabfitfun-walmart/875277/": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "NYC bans using personal data to tailor prices, as FabFitFun enters 3,000 Walmart stores",
+  "short_headline": "NYC bans personalized surveillance pricing",
+  "takeaway": "Rules against data-driven pricing could limit personalized promotions; we should review our dynamic pricing and offers.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-20T15:35:00.000Z"
+ },
+ "Dell Blog::https://www.dell.com/en-us/blog/protecting-your-small-business-during-the-holiday-season": {
+  "keep": false,
+  "publishedAt": "2026-11-20T15:00:00.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=175734": {
+  "keep": false,
+  "publishedAt": "2026-11-20T14:30:00.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=167177": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Best Buy adds Circana Gateway so suppliers can analyze sales and shopper behavior",
+  "short_headline": "Best Buy opens Circana-powered supplier insights",
+  "takeaway": "Better Best Buy data for vendors could sharpen our retail planning and promotions with the retailer.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-11-20T14:01:06.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=167169": {
+  "keep": false,
+  "publishedAt": "2026-11-20T14:01:04.000Z"
+ },
+ "TWICE::https://www.twice.com/?p=167165": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Circana: US retail sales rise 1.1% in October as shoppers make more trips, buy fewer items",
+  "short_headline": "Circana: US October retail sales up 1.1%",
+  "takeaway": "Shoppers buy fewer items per trip; we should favor occasion-led bundles and promotions over basket volume.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-20T14:00:01.000Z"
+ },
+ "Dell Press Releases::CBMi-wFBVV95cUxOR1NyUF9kVUloY3ZDQ1g1bjdsMF9Jd2xHQzJTbzdGaGM3aERhRzZCV3o5TlhiVUJoZDZDUFBZMHpFQVRjQVFmM0lySE1JQXVoelBqVU51R2M5UUozVXQycUMwRjFVTE90Y2hucm5rSkRnaW5LNVN6MkwwazB5YUF2bVQ1eVFXSFV6T2FwbnBhWTZRTXNzV1pxY1RYaHFzYXpERUdMS1E0eDVNN0g5YVdDV2hCcDJKMTFfVU8yU1VjVTh4MEcxczVFSU4zcUt5UHlYT0ZPbUE1UnJUZXRKYTVhOU9ZX09UVmVwYlUxWlBOTTRPdjNBNTZzWm9hSQ": {
+  "keep": false,
+  "publishedAt": "2026-11-20T14:00:00.000Z"
+ },
+ "Dell Blog::https://www.dell.com/en-us/blog/how-to-check-computer-specs-on-windows": {
+  "keep": false,
+  "publishedAt": "2026-11-20T13:55:00.000Z"
+ },
+ "InternetRetailing::https://internetretailing.net/?p=76603": {
+  "keep": false,
+  "publishedAt": "2026-11-20T12:04:45.000Z"
+ },
+ "Retail TouchPoints::CBMixgFBVV95cUxPblBRcVhmMk8wU19oLXZzZm9MZl9SMFlGM0J1aG5mdUFMVk56UUxjaDhISmpiQ3pGOVowa2x1VlpRaDZTNnRFcXZBS2hnOHA1YzhPSnUzX1RMcGtzem01b1A1cXFKTTIxWGNLdWxsaGJ5TlFYOC1SMlZ2U3cyMWJvRFJQSVJNWDdiTVlqdFRkTXg4U3JJOEJrZXVtVGVKRlFldXBabDFzbVNGbG1KUnZpSXkwcDhzR2tXZWxFUnkwM0FnSEZOdHc": {
+  "keep": false,
+  "publishedAt": "2026-11-20T12:03:32.000Z"
+ },
+ "Reuters::CBMivwFBVV95cUxPVTIxbElDQVJDWHlhZ1FpYkZUYnVoNGxvNGZFU3BKTXpoR1Bfck1icUV2OHdGVW5aSEp6ak15Um5GSGgzbFF3ZEdZS2JudHJsZVZ5VnJMSDVnMVdBOTZKRUtJX1ZXQmotWjhqeHFuSV83U01LLUtWcHB5dEZHSEFza0tlSVc2ZlBKclJyWV9NS1pSaWJoRHN0c19SWlBpV2F0aFA5YVZRQ1oxeGxkTDNJZG5UeThHRTR1WUl5U2djSQ": {
+  "keep": false,
+  "publishedAt": "2026-11-20T11:17:35.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/accessories/titans-helios-luxe-targets-40-50-stores-in-3-years-eyes-deeper-play-in-rs-13000-crore-accessible-luxury-watch-market/136023389": {
+  "keep": false,
+  "publishedAt": "2026-11-20T11:01:26.000Z"
+ },
+ "Reuters::CBMiqwFBVV95cUxPVnhGUG1nbm9rVTg5SFJ0MllZSEhYNG9LNEZ3TE1Ncm0yYVkyYXUtQ0lyVFh4QVFoTk1sR1dsOThpXzhkYmx5bFRrM2V3ZC1BYklpdllzU0xiT1JpT2xLNGJtcXhhQVJhUGpVQ3gydnN2WEpmNGFIOXFUczRfNTNLQk1rMVU0QjRGeVM4VF9nbG9wWnBwb280WFdUQU1Ud0NGbzBsZnRvLVhaaTg": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Walmart nudges up annual forecasts ahead of crucial holiday season",
+  "short_headline": "Walmart raises annual forecasts before holidays",
+  "takeaway": "Walmart’s upbeat outlook signals strong holiday demand on a key channel for our products.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-19T13:22:23.000Z"
+ },
+ "Retail TouchPoints::CBMiW0FVX3lxTE5sZ1ZVRzBXcVptekpqYmZFTTY2X1VGZVJyclgxOUFrNXF6bE9vNUpicGZBbWxqRm9TUTlwd1VIbGh0cHVaQzU5bUxjX1FndFpQSk5XRHdab0ZTUFU": {
+  "keep": false,
+  "publishedAt": "2026-11-16T18:36:49.000Z"
  }
 }
