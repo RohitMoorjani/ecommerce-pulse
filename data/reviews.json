@@ -1,80 +1,4 @@
 {
- "Modern Retail::https://www.modernretail.co/?p=173400": {
-  "keep": false,
-  "publishedAt": "2026-10-16T04:00:00.000Z"
- },
- "Modern Retail::https://www.modernretail.co/?p=173405": {
-  "keep": false,
-  "publishedAt": "2026-10-16T04:00:00.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261016PD205/tv-samsung-lg-market-inflation.html": {
-  "keep": false,
-  "publishedAt": "2026-10-16T02:32:40.000Z"
- },
- "Inc42::https://inc42.com/?p=576445": {
-  "keep": true,
-  "segment": "plays",
-  "headline": "Shopify readies Shop Pay for India, setting up a clash with domestic checkout players",
-  "short_headline": "Shopify prepares Shop Pay launch in India",
-  "takeaway": "Wallet-style one-tap checkout is spreading to India; we should check how our store's checkout compares in that market.",
-  "importance": 2,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-16T02:30:11.000Z"
- },
- "Retail TouchPoints::CBMiowFBVV95cUxOaElBMzMwRWVCNnM2VzZTYUNvN3FHakNPa0xVQ0ZGZFpkbE5JSjhCTmNsT0R1UC1HY0xtRTg4Uk9Gdl9KOW5BWGY2d0g4U0x6QlEtSTUxb1RZYVNNU0ZuejYwRjR0aXVlYXdhMjZlNk9sMWlDaDV0eGNod2JJRTB5YkRGVDV3WGlwSDkxa0RzejIxQmFvVm53WHNRYUFPZHZwejhr": {
-  "keep": false,
-  "publishedAt": "2026-10-16T11:01:10.000Z"
- },
- "InternetRetailing::https://internetretailing.net/?p=76303": {
-  "keep": false,
-  "publishedAt": "2026-10-16T10:21:54.000Z"
- },
- "InternetRetailing::https://internetretailing.net/?p=76297": {
-  "keep": false,
-  "publishedAt": "2026-10-16T09:44:51.000Z"
- },
- "PYMNTS Data::CBMingFBVV95cUxNZFJfZVRaeGJXVzlvM2RaWGFIQlhGOS1EdjktWDR3Q2JtTlhUdmwwUkQwN2FwNDZ3UjQ4SkV5T3VxR19FWmUxVGtjd25ENGgtcFhaanFTZ3VjRmJLWmZSUTVCVTVIUV85RzIzM3F3cUtNQnhvZ2JWTmkzcTNfeGZ6bUwyWTlHbmF0czR3a09qVE8wdmJsaEZfQXFOLXFfZw": {
-  "keep": false,
-  "publishedAt": "2026-10-16T08:04:30.000Z"
- },
- "TrendForce::CBMi5gFBVV95cUxPd1RCUy1FcndHQ0lESUJaQTlEMkxFNlBoLWJxSTM1VHU5VGVMU0ZzWjIyaTVmS2NOTEs2djcxS1ZUdVlEY21LbkhSSFBGNThKalpobmJxdEFzczZaZ0ZUT0VFcjJFNTUxdlRUcDgzV0dyc2pnaTNtWUpCU2p4VXZjeUk3OTRHN0VzMTlQUHRKVkU0b3M4MUtzU0VfOVl4WnJuOXFfU3NQbjE5WXBsN3RJMUNFQl9uQnA1RHpfTm1oek1JaEd3UGdDQi1kTjNFeXNUbzZ4MlZYd21sNWw5TVNYbGc5TlAtQQ": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Apple reportedly skips high-end M6 chips for M7, taps Meta Muse AI on Mac Studio",
-  "short_headline": "Apple reportedly skips M6 for M7, adds Muse AI",
-  "takeaway": "Apple may reshape its Mac roadmap and AI positioning; we should watch how it markets AI on high-end desktops against our workstation range.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [
-   "Apple"
-  ],
-  "publishedAt": "2026-10-16T07:20:57.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261016VL214/samsung-texas-fab-expansion-production.html": {
-  "keep": false,
-  "publishedAt": "2026-10-16T07:01:23.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261016PD214/samsung-sk-hynix-hbm-data-capacity.html": {
-  "keep": false,
-  "publishedAt": "2026-10-16T06:57:00.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261016PD238/delta-electronics-electricity-micro-grid-2026.html": {
-  "keep": false,
-  "publishedAt": "2026-10-16T06:31:26.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261016PD201/taiwan-growth-forecast-2027-2026.html": {
-  "keep": false,
-  "publishedAt": "2026-10-16T06:20:00.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261016VL210/samsung-japan-packaging-materials.html": {
-  "keep": false,
-  "publishedAt": "2026-10-16T05:52:24.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261016PD229/intel-ceo-nvidia-packaging-market.html": {
-  "keep": false,
-  "publishedAt": "2026-10-16T04:23:06.000Z"
- },
  "Retail Dive::https://www.retaildive.com/news/halloween-without-candy-holiday-shoppers-cutting-budgets/833212/": {
   "keep": false,
   "publishedAt": "2026-10-16T16:09:00.000Z"
@@ -113,17 +37,6 @@
  "TWICE::https://www.twice.com/?p=166543": {
   "keep": false,
   "publishedAt": "2026-10-16T13:00:02.000Z"
- },
- "Counterpoint Research::CBMijwFBVV95cUxQMlRPbE1TSVVadTBvY0ZtekdSamlLMlZXcjlDRUJiX1FWNVdYbW5GelFINFpUcGpyU1VRZUo5d284SXV2VTVNR25XVjUyRno1VjlvU25ZT2pqNEJVM2RhTUhUdHItU214V2pjbWo3Vy1GZ1poUXBBS2lLVE9xMVVpcVFYTGJ6X3dtVzJmcDJ0NA": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Memory price tracker: servers binge, phones recycle, PCs go on a diet in October",
-  "short_headline": "Memory tracker: PCs go on a diet as servers binge",
-  "takeaway": "Memory pricing shifts toward servers could keep pressure on PC costs and pricing, so we should watch our margins and promotion plans.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-16T09:52:03.000Z"
  },
  "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363555": {
   "keep": true,
@@ -174,10 +87,6 @@
  "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/lighter-pieces-smarter-buys-what-jewellers-are-betting-on-this-festive-season/135006830": {
   "keep": false,
   "publishedAt": "2026-10-17T03:49:00.000Z"
- },
- "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/shoppers-stop-turns-profitable-in-q2-fy27-as-consolidated-revenue-rises-7-per-cent-to-rs-1618-crore/134992980": {
-  "keep": false,
-  "publishedAt": "2026-10-16T11:32:47.000Z"
  },
  "Inc42::https://inc42.com/?p=576659": {
   "keep": false,
@@ -244,10 +153,6 @@
  "DigiTimes::https://www.digitimes.com/news/a20261016PD237/semi-equipment-demand-fab-12-inch.html": {
   "keep": false,
   "publishedAt": "2026-10-19T00:14:55.000Z"
- },
- "Morning Consult::CBMid0FVX3lxTE4tTmVFVnp6NzJWUlp0NkEtblc0VEhxX1hVS2N3TTdyQUJRa0VkdWEtQlBTeXBFb0ZWTEJiY0VwNFI3NElSRWN6Z0xZWVplNldTUnlFZEdnaFlZZGZZaEVsMDhxTk9nR1lrajFlWjA3cE1jOEpfaWNj": {
-  "keep": false,
-  "publishedAt": "2026-10-16T09:05:48.000Z"
  },
  "Retail Dive::https://www.retaildive.com/news/nike-ceo-elliott-hill-problems-keep-growing-china-sportswear-jordan/832803/": {
   "keep": false,
