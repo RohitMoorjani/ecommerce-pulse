@@ -1,21 +1,29 @@
 {
- "updatedAt": "2026-11-21T12:50:40.359Z",
- "title": "Agents now pay and shop; our store and supply plans must adapt",
- "summary": "ChatGPT Wallet lets Pro users buy via its Dots agent; Klarna joined Adyen’s agent suite; Target’s AI assistant lifted sales. Tablets fell 23% in Q3 (Omdia); PCB shortage lasts to mid-2028.",
+ "updatedAt": "2026-11-21T21:51:03.193Z",
+ "title": "Win AI-agent shopping and tight PC supply, or lose the holiday sale",
+ "summary": "Tablet shipments fell 23% in Q3 to 32M (Omdia); notebooks stay weak through Q2 2027 (DigiTimes). ChatGPT Wallet lets agents pay at checkouts; Klarna joined Adyen agentic suite; Walmart US e-commerce +23%; Amex sees 14-year high SMB holiday spend.",
  "points": [
   {
-   "headline": "Agent checkout is live and widening to BNPL",
-   "detail": "ChatGPT Wallet enables agent purchases and Klarna joined Adyen’s agentic suite. We should make our catalog, checkout and financing work for agent-initiated orders.",
+   "headline": "AI agents are gaining the ability to pay, so checkout must be agent-ready",
+   "detail": "OpenAI launched ChatGPT Wallet for agent purchases at retailer checkouts, and Klarna is now in Adyen’s agentic suite. We should test our store checkout for agent-initiated orders and payment options.",
    "segment": "agentic",
    "storyIds": [
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364135",
     "DigiTimes::https://www.digitimes.com/news/a20261118PD255/openai-chatgpt-2026-data.html",
-    "PYMNTS::https://www.pymnts.com/?p=4414261",
+    "PYMNTS::https://www.pymnts.com/?p=4414261"
+   ]
+  },
+  {
+   "headline": "Retailers’ AI assistants are starting to show sales impact",
+   "detail": "Target’s Ask Target assistant shows an early sales lift in beta. Assistants on big retail channels will shape electronics discovery; we should plan for being surfaced in them.",
+   "segment": "agentic",
+   "storyIds": [
     "Retail Dive::https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/"
    ]
   },
   {
-   "headline": "Device supply and demand are both under pressure",
-   "detail": "Tablet shipments fell 23% in Q3, notebooks stay weak into 2027 and PCB shortages last to mid-2028. We should plan inventory and promotions for firmer prices.",
+   "headline": "PC and tablet supply stays tight into 2027",
+   "detail": "Tablet shipments fell 23% in Q3, notebooks stay weak through Q2 2027 and the PCB shortage lasts to mid-2028. Expect firmer pricing and tighter stock; we should plan promotions and inventory accordingly.",
    "segment": "pc",
    "storyIds": [
     "TWICE::https://www.twice.com/?p=167051",
@@ -24,8 +32,8 @@
    ]
   },
   {
-   "headline": "Fulfilment speed and small-business budgets shape channel wins",
-   "detail": "Walmart U.S. e-commerce grew 23% on delivery speed; Amex projects a 14-year high in small-business holiday spending. Match delivery promises and push business offers.",
+   "headline": "Walmart speed and small-business holiday budgets set the demand picture",
+   "detail": "Walmart U.S. e-commerce grew 23% on fulfillment speed, and Amex projects a 14-year high in small-business holiday spending. We should push fast delivery and business bundles and financing.",
    "segment": "marketplaces",
    "storyIds": [
     "Retail Dive::https://www.retaildive.com/news/walmart-ecommerce-boom-fulfillment-speed-q3-earnings/875166/",

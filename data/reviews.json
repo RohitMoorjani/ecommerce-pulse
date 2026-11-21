@@ -7951,5 +7951,20 @@
  "McKinsey::CBMibkFVX3lxTE1GSFhYb1V2dWFibVlhTkIzMG01Z0VwajdlVTVmdDc4amJwOUp6dUtxT2R2cWJkLXNRa2czbWdpY3pXaVhLWTZYX3cyTkJFWnZoRENxYjM1dXZmTnVma2xlNjE3SHdINmJoZUVMQzJ3": {
   "keep": false,
   "publishedAt": "2026-11-14T06:45:05.000Z"
+ },
+ "Inc42::https://inc42.com/?p=581660": {
+  "keep": false,
+  "publishedAt": "2026-11-21T16:15:56.000Z"
+ },
+ "Inc42::https://inc42.com/?p=581628": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Bewakoof cofounder launches Save8, an AI shopping assistant that compares prices",
+  "short_headline": "Save8 launches as AI price-comparison assistant",
+  "takeaway": "Price-comparison AI assistants could divert shoppers before they reach our store; we should check how our prices and listings appear in them.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-21T13:53:04.000Z"
  }
 }
