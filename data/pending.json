@@ -1,50 +1,66 @@
 [
  {
-  "id": "Retail TouchPoints::CBMixgFBVV95cUxOc3c0SVhlNnF2ZmlRaUwxYnVWSnRid1haSE82ZjFvNHJYSVBUUFNYYzVKMTZ3NHdIa01KNEEwV3RYYjdrNlVuWnY5SUllR1RVb0VnRS1iRVNBV2hxMGY4dXl1Ym9nazAwaFBla1JhZXZKMk9Pdkd5WmF6dXNjSXRHZ2NxaU1CNXRPd1RJc1NoZW15RWZnQnlpOVV5Vm1FM1FCSjAxblh1T2N3T0tqbW01Y2x0Ti1KN1M0U0xndDVvX3g3eVRYcnc",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T20:22:57.000Z",
-  "title": "Retail News & Insights",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMivgFBVV95cUxPZnhpRG9tenBKM2JvbFpNbEs5M1kzRVdfeVFkdndzV0liNzVWcmh3N0J3eGxhVWZVUjVqUFhUbUNMZjItMXp5dzNEVWRpdVpNNzB4LTJyczJGazdIUWxvT0ZWMnRkcktBcXZUdHJkQjJidlBMcTFSN0V5VTdqVjhoVlY4c1M3djZaV3F5OWVubHNlRmoxWXluT3BnTExfM0N4YzVxajZzQlpDSHFBcG1qTmtaV1EzdU9GeVhZUktn",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-20T20:21:27.000Z",
-  "title": "Adyen Taps Klarna to Enable Agentic Commerce Payment Options Beyond Cards",
-  "snippet": ""
- },
- {
-  "id": "Reuters::CBMijAFBVV95cUxPRXh3QTRTZW1RR1lQZXg1bHE2clBpUnkxNjljMjF0M0FXSWZSLVg3T3ZiQmxRYnI4THNORmJJZzU1TG9hbml1b1FvZFF6MGhjdUlNRmF2OXI3UDl2cURHVFJNV0JsNkd4aU54ZHBaQzEyZHcwTWxWOTNjbm1INXVQWTkzNWdvWEluejNfaA",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T11:26:42.000Z",
-  "title": "Shopping, chips and central banks",
-  "snippet": ""
- },
- {
-  "id": "TrendForce::CBMizAFBVV95cUxPYW5Sc0JHVkE2NmQ3VVZGcTZVdTBNZVBwY2Mwd3RkczZ3dXF1Ny1ZcW5RWEFzNG1ISEhZUXlKRlMxanJxblJGSU1pX1VZbEJqS193QzE1ZUg2bXhYcjdoVHJxQzVBZXNocnV6QjJvVUQza0stOVhSS25qT2pSRFJ3cDNuSE0yMW9reTFBVkJMeWNTSXkzU205SUNTU3dSbHYxbmhhUGEteUFiRzZRUkJCUDR3UXEycmszOGtzSDhBMTEybEJkVDNFZDAydWU",
-  "source": "TrendForce",
+  "id": "IDC::CBMigAFBVV95cUxOTXhXS2Q3Z0F0SW9kSldkUXRtRjZ4V1ZwRlpEZWNzWDRRQU5fNFc5bzVqY1JsWEJ4YlBfRzNENjlDeXBoMmE2THVEdzFHMHRqTDFZMkhIZWpIMzRjRkJaZ2xTVGlLLW1OTFAxUk5TOTQ1YkFCTU5Pa2FnWENNNmpobg",
+  "source": "IDC",
   "sourceType": "Analyst",
-  "publishedAt": "2026-11-20T03:00:46.000Z",
-  "title": "[News] Samsung Electronics Expands Silicon Photonics Portfolio Through Patent Acquisitions",
+  "publishedAt": "2026-11-21T08:21:44.000Z",
+  "title": "IDC Survey: Chief AI Officers in Retail — Future Enterprise Resiliency and Spending Survey Wave 5, 2026",
   "snippet": ""
  },
  {
-  "id": "Retail TouchPoints::CBMiakFVX3lxTE9kNDdBYzhsd21manp4dm9KQTVzYUFUYVVnWmlodDNORExaRU1sbXREdVg2MGl2ZmNLZERGdmN0LUdVNUlPNmdoRkVWMFZJdzlPYnYyVVc1TDV3SUNGeGcyZXk4RHA0ekJnZHc",
+  "id": "Modern Retail::https://www.modernretail.co/?p=175807",
+  "source": "Modern Retail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-21T05:00:00.000Z",
+  "title": "2026 marked a turning point for artificial dye removal from food",
+  "snippet": "U.S. food brands and retailers are phasing out artificial dyes as policy shifts and consumer demand increases."
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/consumer-electronics/indias-smartphone-sales-during-festive-season-drop-by-22-pc-apple-faces-a-double-digit-dip/136045194",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-21T04:51:04.000Z",
+  "title": "India's smartphone sales during festive season drop by 22 pc, Apple faces a double-digit dip",
+  "snippet": "Smartphone sales in India experienced a significant decline of 22 percent during the 2026 festive season. Rising device prices, largely driven by increased memory costs, contributed to weaker consumer demand. Major…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261118PD235/axiomtek-pc-ipc-physical-ai-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-21T04:04:21.000Z",
+  "title": "Axiomtek restructures for physical AI, expands global customer reach",
+  "snippet": "Industrial PC (IPC) maker Axiomtek sustained growth in Q3 2026, reporting quarterly revenue of NT$2.779 billion (US$84.6 million), up 11.5% quarter-over-quarter and 59.32% year-over-year, while its operating margin rose…"
+ },
+ {
+  "id": "Retail TouchPoints::CBMidEFVX3lxTE81d1QtT3FXSm9IcU05Q1RLODVraV9sVkg5d2lJc1lWNmFucDN4N0xkX0cyNU5xMFVKM2NGUXcwNU5yb3RteGlTc2dZUUJ6S1VXWGEycTBWNEZRTVlERW1heGkwMjMydEtWTUlrczZ0WlJoZ0l5",
   "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T23:17:52.000Z",
-  "title": "Latest In: retailer visibility",
+  "publishedAt": "2026-11-21T02:39:01.000Z",
+  "title": "Latest In: customer service automation",
   "snippet": ""
  },
  {
-  "id": "NRF::CBMijAFBVV95cUxQeTZacG82VC1pdUJ3VWVIUUJsSDFzdTNHMy1XUEpxNGo4TU90Rko0Z08xWHNJM003empJcTR1WGs3c1RpQnpJYmJCV0xUTk9nYmNyWGltWXdMZW0wdFNpaTFTYm5OVUpTNHdUMWdIYUh6ay1RMDFLaVJqeGNWd3N2U3JCTWxBdEl6N2hFWA",
-  "source": "NRF",
+  "id": "PYMNTS::https://www.pymnts.com/?p=4404677",
+  "source": "PYMNTS",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-18T12:30:00.000Z",
+  "title": "Croissant Launches AI Personal Shopper That Turns Gmail Receipts Into Shopping Picks",
+  "snippet": "Luxury shopping platform Croissant has launched a personal shopping agent that proactively surfaces items based on each member’s existing purchases and the tastemakers they follow, the company said in a Wednesday (Nov…"
+ },
+ {
+  "id": "Retail TouchPoints::CBMiY0FVX3lxTE50QjktYXFqZGZ6SlRLbWo3VkY4cHQzUnpCTGxVWEk2elVxem90SDZQdlNNSFhXbjNOVjZWQnhJOUU1bFdwRDBudnZWQzY2RDVNTE5Ed05HRUMxenpjV1FvNVpCZw",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-16T08:00:00.000Z",
+  "title": "Latest In: Alicia Pringle",
+  "snippet": ""
+ },
+ {
+  "id": "McKinsey::CBMibkFVX3lxTE1GSFhYb1V2dWFibVlhTkIzMG01Z0VwajdlVTVmdDc4amJwOUp6dUtxT2R2cWJkLXNRa2czbWdpY3pXaVhLWTZYX3cyTkJFWnZoRENxYjM1dXZmTnVma2xlNjE3SHdINmJoZUVMQzJ3",
+  "source": "McKinsey",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-18T08:00:00.000Z",
-  "title": "Spring spending stayed strong as economic pressures intensified",
+  "publishedAt": "2026-11-14T06:45:05.000Z",
+  "title": "RY27 COP McKinsey Mentorship Program 2027: Students from all Danish universities - Event",
   "snippet": ""
  }
 ]

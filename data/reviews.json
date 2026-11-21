@@ -1,16 +1,4 @@
 {
- "Modern Retail::https://www.modernretail.co/?p=173544": {
-  "keep": false,
-  "publishedAt": "2026-10-17T04:00:00.000Z"
- },
- "PYMNTS Data::CBMikAFBVV95cUxPaFJkRnRTZzF1M3BER0tpckhqV0RxMFhQVWRUY2JNcnBzalBpLUNNbUY1VFJNUVJ6MHVEYThacnAzZ0ZzZEw1Xy1PMVJGRTkxSTFSYUdLaTdmc3JoLXJvTTlYLS1QX01zcVF3RUVTeWJWY2FXeEdyVHFPOS1sNkRlREIzbUF1VDBLOTJxQkFhbFI": {
-  "keep": false,
-  "publishedAt": "2026-10-17T08:03:45.000Z"
- },
- "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/lighter-pieces-smarter-buys-what-jewellers-are-betting-on-this-festive-season/135006830": {
-  "keep": false,
-  "publishedAt": "2026-10-17T03:49:00.000Z"
- },
  "Inc42::https://inc42.com/?p=576659": {
   "keep": false,
   "publishedAt": "2026-10-17T11:23:41.000Z"
@@ -181,10 +169,6 @@
  "Reuters::CBMitAFBVV95cUxPelFIVGVwcy1oY2RvRVlaQTl5REpEc1hfS0ZUb1lTeWN0M2tBbTctTWo4NzVXeWthQVNab2p1eUFYQ2xtejBoc1ktQlZFQXh1U3hOSWdNdlBzTzNvcThPMFVyNnIzSTgyQ3lXbW8taGQtTV92Vl9uUGZOWjc1cGp6NTJBTDNpcWpEUnRCMjhXcVRYNkVXSFNwaHF3UGFGU0NqZTZWZzJXc0FyX3BnUkxhVWVSNzI": {
   "keep": false,
   "publishedAt": "2026-10-19T02:22:00.000Z"
- },
- "Reuters::CBMiwAFBVV95cUxOalc5TDdscm1MdXk4eDdPdENIaFJ4Tml5Y0Q1Y29NUW9SRnBZQUxRRVk2SWdkaVpVNmRac2toa2JjcGFYUDY1akhJWTRkN0JzZ0F2YzJxVGZqZndQQU5zbWlzWm4ta245WjdNRUpVWVVHZVRfZVQyVjZaa0I5UDd0SUdFd0QzMTd0WWh6QVQ0QUxhYlZTekJHbVQ1a3dxcE1DRUVYczdmal9nZTBacjAzTU1ULXBQNXpaMTNPblltY2E": {
-  "keep": false,
-  "publishedAt": "2026-10-17T06:32:55.000Z"
  },
  "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363605": {
   "keep": false,
@@ -627,17 +611,6 @@
   "keep": false,
   "publishedAt": "2026-10-20T07:45:13.000Z"
  },
- "Capital One Shopping Research::CBMickFVX3lxTFBnREJibFVYdTlHbXJZTHpLNFdHcjRJcDZ0MVJyYjQ3Wk9ySTE4NFdEUEx4X0RTSGhKU0VjUTZPTGU2QVlKXzlaQXQwWTNzX04yMzN5cHEwUXh2Tnp6UnJFVmxXUFhTLUNmRDlTazVlNks2UQ": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "Cyber Monday statistics for 2026 compile sales data by year",
-  "short_headline": "Cyber Monday sales data by year",
-  "takeaway": "Historical Cyber Monday sales data can help us calibrate holiday demand and promotion planning for our store.",
-  "importance": 2,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-17T07:00:00.000Z"
- },
  "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363631": {
   "keep": true,
   "segment": "marketplaces",
@@ -729,17 +702,6 @@
   "content_type": "analysis",
   "competitors": [],
   "publishedAt": "2026-10-20T23:15:36.000Z"
- },
- "Capital One Shopping Research::CBMickFVX3lxTE55cV9zUXNJMHBYNjRmeWVKbzJpT19ySEJjQ0Y3MHZUc3pWZG5hT2tNSVJJa0NmcDdieW5sZzdUUTRCNklRdGNvV0M4S3cwRS1tZ3JuaUdVbnhuTTlxVl9LR1RtbERBeU9ZV3FIZHVLdmVxUQ": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "Black Friday statistics 2026 compile sales data by year",
-  "short_headline": "Black Friday 2026 sales data compiled by year",
-  "takeaway": "Historical Black Friday sales data can help us calibrate holiday demand and promotion planning for our store.",
-  "importance": 2,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-17T07:00:00.000Z"
  },
  "Inc42::https://inc42.com/?p=577009": {
   "keep": false,
