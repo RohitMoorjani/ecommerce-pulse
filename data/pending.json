@@ -1,170 +1,50 @@
 [
  {
-  "id": "PYMNTS::https://www.pymnts.com/?p=4414261",
-  "source": "PYMNTS",
+  "id": "Retail TouchPoints::CBMixgFBVV95cUxOc3c0SVhlNnF2ZmlRaUwxYnVWSnRid1haSE82ZjFvNHJYSVBUUFNYYzVKMTZ3NHdIa01KNEEwV3RYYjdrNlVuWnY5SUllR1RVb0VnRS1iRVNBV2hxMGY4dXl1Ym9nazAwaFBla1JhZXZKMk9Pdkd5WmF6dXNjSXRHZ2NxaU1CNXRPd1RJc1NoZW15RWZnQnlpOVV5Vm1FM1FCSjAxblh1T2N3T0tqbW01Y2x0Ti1KN1M0U0xndDVvX3g3eVRYcnc",
+  "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T20:11:08.000Z",
-  "title": "Adyen Taps Klarna to Enable Agentic Commerce Payment Options Beyond Cards",
-  "snippet": "Klarna has become the first payment option beyond cards available in Adyen’s agentic commerce suite, Adyen Agentic, the two companies said in a Friday (Nov. 20) press release. This combination enables merchants that…"
+  "publishedAt": "2026-11-20T20:22:57.000Z",
+  "title": "Retail News & Insights",
+  "snippet": ""
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/container-store-neighborhood-intelligence-cybersecurity-incident/875342/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T17:41:00.000Z",
-  "title": "The Container Store is back online after cybersecurity incident",
-  "snippet": "The incident has not impacted the security of customer financial data, according to the company."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/old-navy-recovery-gap-shines-q3-earnings-warm-weather/875291/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T17:28:00.000Z",
-  "title": "Warm weather thwarts Old Navy recovery, as Gap continues to shine",
-  "snippet": "As the Gap Inc.’s value brand falters, its namesake has risen from a years-long slump to notch its 12th straight quarter of comparable sales growth."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/thredup-tiktok-shop-livestream-shopping/875247/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T17:16:00.000Z",
-  "title": "ThredUp leans into livestream shopping with TikTok Shop",
-  "snippet": "After early success on Whatnot, the resale marketplace is expanding its livestream efforts with a launch on TikTok Shop."
- },
- {
-  "id": "PYMNTS Data::CBMiogFBVV95cUxNM3VLLWRmZWJIQzF1cVhUWUMyUkV3Zm4yU19maFdkZGNqQU5lc0xSdGI1Wnc2NHZ3TnF5OU1sdlJQMDRESEx5SXhBbkdjcE5lbHpDOTgzcDJaVUM5cTVlUmJaNWdGcFV3cDl0UUgwX0pDRHNaUFMxR2Z4STh4LWM1RW40Y3FPVE11LUUzU0l4OGNRdGNXdm5MRGRydVBFN1RQY0E",
+  "id": "PYMNTS Data::CBMivgFBVV95cUxPZnhpRG9tenBKM2JvbFpNbEs5M1kzRVdfeVFkdndzV0liNzVWcmh3N0J3eGxhVWZVUjVqUFhUbUNMZjItMXp5dzNEVWRpdVpNNzB4LTJyczJGazdIUWxvT0ZWMnRkcktBcXZUdHJkQjJidlBMcTFSN0V5VTdqVjhoVlY4c1M3djZaV3F5OWVubHNlRmoxWXluT3BnTExfM0N4YzVxajZzQlpDSHFBcG1qTmtaV1EzdU9GeVhZUktn",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-20T16:46:22.000Z",
-  "title": "eCommerce Captures Nearly a Third of US Retail Sales Growth",
+  "publishedAt": "2026-11-20T20:21:27.000Z",
+  "title": "Adyen Taps Klarna to Enable Agentic Commerce Payment Options Beyond Cards",
   "snippet": ""
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/vuori-exec-ceo-athleta-sales-declines-q3-earnings/875279/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T16:42:00.000Z",
-  "title": "Vuori exec to lead struggling Athleta",
-  "snippet": "Ashley Kechter, who previously also had stints at Fabletics and Gap Inc., takes on a brand that just posted yet another quarter of double-digit declines."
- },
- {
-  "id": "CRN::https://www.crn.com/news/ai/2026/openai-s-aws-oracle-and-google-cloud-marketplace-strategy-to-drive-scale-and-global-ai-growth",
-  "source": "CRN",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-20T16:24:00.000Z",
-  "title": "OpenAI’s AWS, Oracle And Google Cloud Marketplace Strategy To Drive ‘Scale’ And Global AI Growth",
-  "snippet": "OpenAI is leaning on AWS, Google Cloud and Oracle marketplaces and channel partners to rapidly scale ChatGPT, AI models and global enterprise sales."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/nyc-surveillance-pricing-ban-fabfitfun-walmart/875277/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T15:35:00.000Z",
-  "title": "The Weekly Closeout: NYC bans surveillance pricing, FabFitFun lands in Walmart",
-  "snippet": "The ban prevents companies from using personal data to tailor prices, while the subscription company is offering a beauty box in 3,000 of the mass merchant’s stores."
- },
- {
-  "id": "Dell Blog::https://www.dell.com/en-us/blog/protecting-your-small-business-during-the-holiday-season",
-  "source": "Dell Blog",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-11-20T15:00:00.000Z",
-  "title": "Protecting Your Small Business During the Holiday Season",
-  "snippet": "Small business cybersecurity can slip when key people take holiday time off. Learn simple steps, built-in PC protection and expert support that help close gaps."
- },
- {
-  "id": "Modern Retail::https://www.modernretail.co/?p=175734",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T14:30:00.000Z",
-  "title": "Big-Box Briefing: Target faces off with Trader Joe’s, Quince and HomeGoods",
-  "snippet": "Target’s third-quarter earnings, released on Wednesday, gave investors confidence that it’s finding its footing under CEO Michael Fiddelke, who stepped into the role in February. But analysts’ praise for the retailer’s…"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=167177",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T14:01:06.000Z",
-  "title": "Best Buy Adds Circana Gateway Platform For Supplier Insights",
-  "snippet": "New program combines retailer data with Circana analytics to help vendors evaluate sales and customer behavior."
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=167169",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T14:01:04.000Z",
-  "title": "CTA Previews Expanded Digital Health Presence At CES 2027",
-  "snippet": "More than 115 exhibitors, a new Health Stage and a wearable technology white paper highlight the show's health technology focus"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=167165",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T14:00:01.000Z",
-  "title": "Circana: U.S. Retail Sales Rise 1.1% In October As Shoppers Prioritize Occasions",
-  "snippet": "Consumers are making more shopping trips but buying fewer items"
- },
- {
-  "id": "Dell Press Releases::CBMi-wFBVV95cUxOR1NyUF9kVUloY3ZDQ1g1bjdsMF9Jd2xHQzJTbzdGaGM3aERhRzZCV3o5TlhiVUJoZDZDUFBZMHpFQVRjQVFmM0lySE1JQXVoelBqVU51R2M5UUozVXQycUMwRjFVTE90Y2hucm5rSkRnaW5LNVN6MkwwazB5YUF2bVQ1eVFXSFV6T2FwbnBhWTZRTXNzV1pxY1RYaHFzYXpERUdMS1E0eDVNN0g5YVdDV2hCcDJKMTFfVU8yU1VjVTh4MEcxczVFSU4zcUt5UHlYT0ZPbUE1UnJUZXRKYTVhOU9ZX09UVmVwYlUxWlBOTTRPdjNBNTZzWm9hSQ",
-  "source": "Dell Press Releases",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-11-20T14:00:00.000Z",
-  "title": "Lightbits Labs Unveils RAM Reduction Tech Preview, Targeting 1 PB of Storage per Server with Just 256 GB of RAM",
-  "snippet": ""
- },
- {
-  "id": "Dell Blog::https://www.dell.com/en-us/blog/how-to-check-computer-specs-on-windows",
-  "source": "Dell Blog",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-11-20T13:55:00.000Z",
-  "title": "How to Check Computer Specs on Windows",
-  "snippet": "Check your computer specs on a Windows PC with four built-in tools to troubleshoot slowdowns, confirm compatibility and plan upgrades."
- },
- {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76603",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T12:04:45.000Z",
-  "title": "Poundland sales suffer as £60m cash row intensifies",
-  "snippet": "The Telegraph has reported that Poundland's owners, Gordon Brothers, are refusing to release funds to pay the retailer's tax bill and suppliers. The post Poundland sales suffer as £60m cash row intensifies appeared…"
- },
- {
-  "id": "Retail TouchPoints::CBMixgFBVV95cUxPblBRcVhmMk8wU19oLXZzZm9MZl9SMFlGM0J1aG5mdUFMVk56UUxjaDhISmpiQ3pGOVowa2x1VlpRaDZTNnRFcXZBS2hnOHA1YzhPSnUzX1RMcGtzem01b1A1cXFKTTIxWGNLdWxsaGJ5TlFYOC1SMlZ2U3cyMWJvRFJQSVJNWDdiTVlqdFRkTXg4U3JJOEJrZXVtVGVKRlFldXBabDFzbVNGbG1KUnZpSXkwcDhzR2tXZWxFUnkwM0FnSEZOdHc",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T12:03:32.000Z",
-  "title": "5 Ways Small Businesses Can Make Holiday Packages More Memorable",
-  "snippet": ""
- },
- {
-  "id": "Reuters::CBMivwFBVV95cUxPVTIxbElDQVJDWHlhZ1FpYkZUYnVoNGxvNGZFU3BKTXpoR1Bfck1icUV2OHdGVW5aSEp6ak15Um5GSGgzbFF3ZEdZS2JudHJsZVZ5VnJMSDVnMVdBOTZKRUtJX1ZXQmotWjhqeHFuSV83U01LLUtWcHB5dEZHSEFza0tlSVc2ZlBKclJyWV9NS1pSaWJoRHN0c19SWlBpV2F0aFA5YVZRQ1oxeGxkTDNJZG5UeThHRTR1WUl5U2djSQ",
+  "id": "Reuters::CBMijAFBVV95cUxPRXh3QTRTZW1RR1lQZXg1bHE2clBpUnkxNjljMjF0M0FXSWZSLVg3T3ZiQmxRYnI4THNORmJJZzU1TG9hbml1b1FvZFF6MGhjdUlNRmF2OXI3UDl2cURHVFJNV0JsNkd4aU54ZHBaQzEyZHcwTWxWOTNjbm1INXVQWTkzNWdvWEluejNfaA",
   "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T11:17:35.000Z",
-  "title": "Wall St Week Ahead 'Black Friday' brings consumer spending into focus for AI-rocked market",
+  "publishedAt": "2026-11-20T11:26:42.000Z",
+  "title": "Shopping, chips and central banks",
   "snippet": ""
  },
  {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/accessories/titans-helios-luxe-targets-40-50-stores-in-3-years-eyes-deeper-play-in-rs-13000-crore-accessible-luxury-watch-market/136023389",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T11:01:26.000Z",
-  "title": "Titan's Helios Luxe targets 40-50 stores in 3 years; eyes deeper play in Rs 13,000 crore accessible luxury watch market",
-  "snippet": "In an ambitious expansion move, Titan Company plans to grow its Helios Luxe boutique network, targeting 25 to 30 outlets by FY27. As the luxury watch market rapidly evolves, especially for models exceeding Rs 25,000…"
- },
- {
-  "id": "Reuters::CBMiqwFBVV95cUxPVnhGUG1nbm9rVTg5SFJ0MllZSEhYNG9LNEZ3TE1Ncm0yYVkyYXUtQ0lyVFh4QVFoTk1sR1dsOThpXzhkYmx5bFRrM2V3ZC1BYklpdllzU0xiT1JpT2xLNGJtcXhhQVJhUGpVQ3gydnN2WEpmNGFIOXFUczRfNTNLQk1rMVU0QjRGeVM4VF9nbG9wWnBwb280WFdUQU1Ud0NGbzBsZnRvLVhaaTg",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T13:22:23.000Z",
-  "title": "Walmart nudges up annual forecasts ahead of crucial holiday season",
+  "id": "TrendForce::CBMizAFBVV95cUxPYW5Sc0JHVkE2NmQ3VVZGcTZVdTBNZVBwY2Mwd3RkczZ3dXF1Ny1ZcW5RWEFzNG1ISEhZUXlKRlMxanJxblJGSU1pX1VZbEJqS193QzE1ZUg2bXhYcjdoVHJxQzVBZXNocnV6QjJvVUQza0stOVhSS25qT2pSRFJ3cDNuSE0yMW9reTFBVkJMeWNTSXkzU205SUNTU3dSbHYxbmhhUGEteUFiRzZRUkJCUDR3UXEycmszOGtzSDhBMTEybEJkVDNFZDAydWU",
+  "source": "TrendForce",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-20T03:00:46.000Z",
+  "title": "[News] Samsung Electronics Expands Silicon Photonics Portfolio Through Patent Acquisitions",
   "snippet": ""
  },
  {
-  "id": "Retail TouchPoints::CBMiW0FVX3lxTE5sZ1ZVRzBXcVptekpqYmZFTTY2X1VGZVJyclgxOUFrNXF6bE9vNUpicGZBbWxqRm9TUTlwd1VIbGh0cHVaQzU5bUxjX1FndFpQSk5XRHdab0ZTUFU",
+  "id": "Retail TouchPoints::CBMiakFVX3lxTE9kNDdBYzhsd21manp4dm9KQTVzYUFUYVVnWmlodDNORExaRU1sbXREdVg2MGl2ZmNLZERGdmN0LUdVNUlPNmdoRkVWMFZJdzlPYnYyVVc1TDV3SUNGeGcyZXk4RHA0ekJnZHc",
   "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-16T18:36:49.000Z",
-  "title": "Latest In: catering",
+  "publishedAt": "2026-11-19T23:17:52.000Z",
+  "title": "Latest In: retailer visibility",
+  "snippet": ""
+ },
+ {
+  "id": "NRF::CBMijAFBVV95cUxQeTZacG82VC1pdUJ3VWVIUUJsSDFzdTNHMy1XUEpxNGo4TU90Rko0Z08xWHNJM003empJcTR1WGs3c1RpQnpJYmJCV0xUTk9nYmNyWGltWXdMZW0wdFNpaTFTYm5OVUpTNHdUMWdIYUh6ay1RMDFLaVJqeGNWd3N2U3JCTWxBdEl6N2hFWA",
+  "source": "NRF",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-18T08:00:00.000Z",
+  "title": "Spring spending stayed strong as economic pressures intensified",
   "snippet": ""
  }
 ]
