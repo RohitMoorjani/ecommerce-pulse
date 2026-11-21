@@ -7909,5 +7909,51 @@
  "NRF::CBMijAFBVV95cUxQeTZacG82VC1pdUJ3VWVIUUJsSDFzdTNHMy1XUEpxNGo4TU90Rko0Z08xWHNJM003empJcTR1WGs3c1RpQnpJYmJCV0xUTk9nYmNyWGltWXdMZW0wdFNpaTFTYm5OVUpTNHdUMWdIYUh6ay1RMDFLaVJqeGNWd3N2U3JCTWxBdEl6N2hFWA": {
   "keep": false,
   "publishedAt": "2026-11-18T08:00:00.000Z"
+ },
+ "IDC::CBMigAFBVV95cUxOTXhXS2Q3Z0F0SW9kSldkUXRtRjZ4V1ZwRlpEZWNzWDRRQU5fNFc5bzVqY1JsWEJ4YlBfRzNENjlDeXBoMmE2THVEdzFHMHRqTDFZMkhIZWpIMzRjRkJaZ2xTVGlLLW1OTFAxUk5TOTQ1YkFCTU5Pa2FnWENNNmpobg": {
+  "keep": false,
+  "publishedAt": "2026-11-21T08:21:44.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=175807": {
+  "keep": false,
+  "publishedAt": "2026-11-21T05:00:00.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/consumer-electronics/indias-smartphone-sales-during-festive-season-drop-by-22-pc-apple-faces-a-double-digit-dip/136045194": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "India festive smartphone sales fall 22% as memory costs push device prices up",
+  "short_headline": "India festive phone sales drop 22% on memory costs",
+  "takeaway": "Memory-driven price hikes are denting demand in a key market; we should expect similar price sensitivity on our devices there.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-21T04:51:04.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261118PD235/axiomtek-pc-ipc-physical-ai-2026.html": {
+  "keep": false,
+  "publishedAt": "2026-11-21T04:04:21.000Z"
+ },
+ "Retail TouchPoints::CBMidEFVX3lxTE81d1QtT3FXSm9IcU05Q1RLODVraV9sVkg5d2lJc1lWNmFucDN4N0xkX0cyNU5xMFVKM2NGUXcwNU5yb3RteGlTc2dZUUJ6S1VXWGEycTBWNEZRTVlERW1heGkwMjMydEtWTUlrczZ0WlJoZ0l5": {
+  "keep": false,
+  "publishedAt": "2026-11-21T02:39:01.000Z"
+ },
+ "PYMNTS::https://www.pymnts.com/?p=4404677": {
+  "keep": true,
+  "segment": "agentic",
+  "headline": "Croissant launches AI personal shopper that mines Gmail receipts for picks",
+  "short_headline": "Croissant AI shopper turns Gmail receipts into picks",
+  "takeaway": "Agents that learn from past purchases show where proactive discovery is heading; we should consider how our store surfaces to them.",
+  "importance": 3,
+  "content_type": "announcement",
+  "competitors": [],
+  "publishedAt": "2026-11-18T12:30:00.000Z"
+ },
+ "Retail TouchPoints::CBMiY0FVX3lxTE50QjktYXFqZGZ6SlRLbWo3VkY4cHQzUnpCTGxVWEk2elVxem90SDZQdlNNSFhXbjNOVjZWQnhJOUU1bFdwRDBudnZWQzY2RDVNTE5Ed05HRUMxenpjV1FvNVpCZw": {
+  "keep": false,
+  "publishedAt": "2026-11-16T08:00:00.000Z"
+ },
+ "McKinsey::CBMibkFVX3lxTE1GSFhYb1V2dWFibVlhTkIzMG01Z0VwajdlVTVmdDc4amJwOUp6dUtxT2R2cWJkLXNRa2czbWdpY3pXaVhLWTZYX3cyTkJFWnZoRENxYjM1dXZmTnVma2xlNjE3SHdINmJoZUVMQzJ3": {
+  "keep": false,
+  "publishedAt": "2026-11-14T06:45:05.000Z"
  }
 }

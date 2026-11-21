@@ -1,30 +1,21 @@
 {
- "updatedAt": "2026-11-21T03:50:39.664Z",
- "title": "AI agents are becoming the new checkout; our store must be agent-ready",
- "summary": "ChatGPT Wallet lets AI agents pay at retailer checkouts; Klarna joined Adyen’s agent suite; Alexa shopping reached 15 countries; Target’s AI assistant lifted sales. Tablets fell 23% in Q3; PCB shortage lasts to mid-2028.",
+ "updatedAt": "2026-11-21T12:50:40.359Z",
+ "title": "Agents now pay and shop; our store and supply plans must adapt",
+ "summary": "ChatGPT Wallet lets Pro users buy via its Dots agent; Klarna joined Adyen’s agent suite; Target’s AI assistant lifted sales. Tablets fell 23% in Q3 (Omdia); PCB shortage lasts to mid-2028.",
  "points": [
   {
    "headline": "Agent checkout is live and widening to BNPL",
-   "detail": "OpenAI launched ChatGPT Wallet, Klarna joined Adyen’s agentic suite, and Alexa shopping reached 15 countries. We should make our catalog, checkout and financing agent-ready.",
+   "detail": "ChatGPT Wallet enables agent purchases and Klarna joined Adyen’s agentic suite. We should make our catalog, checkout and financing work for agent-initiated orders.",
    "segment": "agentic",
    "storyIds": [
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364135",
+    "DigiTimes::https://www.digitimes.com/news/a20261118PD255/openai-chatgpt-2026-data.html",
     "PYMNTS::https://www.pymnts.com/?p=4414261",
-    "PYMNTS Data::CBMixwFBVV95cUxQTjJ0QjVpelBlWS1pRGMxZk1RVGRUb2ZLRlpSMXZVVnVDLVJDeUF5aEJuWTBCS0hxclNueW9TTlFCeS1zcWt6cFpJVTQ2V0FQS1B6QlE4M3Y4RTBkUFhwTEdrMG1QYWplRVNuUUFfd3pwQ3Jab2tXVUY0RTN6bk5LRGxDYktXakhqU0lpVXJWTmdoTU9kV2NxTnZFakdiaFRHT1QzcjlqUEF2X21JWE5lNHZQa3JIWVNiaUwtZ0I0VkI4dTVDLXp3"
+    "Retail Dive::https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/"
    ]
   },
   {
-   "headline": "Retailers see AI assistants and fast delivery driving sales",
-   "detail": "Target’s Ask Target shows an early sales lift and Walmart U.S. e-commerce grew 23% on fulfillment speed. We should test guided shopping and match delivery promises.",
-   "segment": "marketplaces",
-   "storyIds": [
-    "Retail Dive::https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/",
-    "Retail Dive::https://www.retaildive.com/news/walmart-ecommerce-boom-fulfillment-speed-q3-earnings/875166/"
-   ]
-  },
-  {
-   "headline": "PC and tablet supply is tight while notebook demand stays weak",
-   "detail": "Tablet shipments fell 23% in Q3, notebooks stay weak through Q2 2027 and the PCB shortage runs to mid-2028. We should plan inventory, pricing and promotions accordingly.",
+   "headline": "Device supply and demand are both under pressure",
+   "detail": "Tablet shipments fell 23% in Q3, notebooks stay weak into 2027 and PCB shortages last to mid-2028. We should plan inventory and promotions for firmer prices.",
    "segment": "pc",
    "storyIds": [
     "TWICE::https://www.twice.com/?p=167051",
@@ -33,12 +24,12 @@
    ]
   },
   {
-   "headline": "Small-business spending is strong, consumers stay price-conscious",
-   "detail": "Amex projects a 14-year high in small-business holiday spending while NRF finds affordability shapes consumer plans. We should push business bundles and clear value offers.",
-   "segment": "trends",
+   "headline": "Fulfilment speed and small-business budgets shape channel wins",
+   "detail": "Walmart U.S. e-commerce grew 23% on delivery speed; Amex projects a 14-year high in small-business holiday spending. Match delivery promises and push business offers.",
+   "segment": "marketplaces",
    "storyIds": [
-    "PYMNTS Data::CBMimAFBVV95cUxQMk5IN0ZvWjcxX2hDMFJQTHhpVzZPQlZ4T1NIdzZVWlFSMzQwNzB1TC13R3VFUUZONDR1ay1zNERJTG1rYUlYZERMZEYwTmt4TC1fNU1lNEZ3dEtJbDhSMkdvTDJjLVctN0JodWpRZDRjclVQTUdqM3J3S01YWDlGUGliZ091R3lWX193YzlyeFhhWHl1TlRfWg",
-    "Retail TouchPoints::CBMirwFBVV95cUxPMjl1bGs1WURpQ0Z4MEpHV2NiY3FyY3huTlFLZ0hidW5FaHUyZFhESkRvU2NMM1EzQ1BHWl9JN192dkpuaGQxbDltbXI4cXhab1R6SHNzWTFMQzBqa3RnY1hOUG4zczZaWDJYNGtuQWJpQ0gtQ1RXWW1SNmo4X2lTS0hrR0NFWjNnNDQxczBnVjh4dllEVG1hM3hGZFJmTnJLRHdNY3BLY2NTSHp1eXhJ"
+    "Retail Dive::https://www.retaildive.com/news/walmart-ecommerce-boom-fulfillment-speed-q3-earnings/875166/",
+    "PYMNTS Data::CBMimAFBVV95cUxQMk5IN0ZvWjcxX2hDMFJQTHhpVzZPQlZ4T1NIdzZVWlFSMzQwNzB1TC13R3VFUUZONDR1ay1zNERJTG1rYUlYZERMZEYwTmt4TC1fNU1lNEZ3dEtJbDhSMkdvTDJjLVctN0JodWpRZDRjclVQTUdqM3J3S01YWDlGUGliZ091R3lWX193YzlyeFhhWHl1TlRfWg"
    ]
   }
  ]
