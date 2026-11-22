@@ -1,18 +1,34 @@
 [
  {
-  "id": "Inc42::https://inc42.com/?p=581660",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-21T16:15:56.000Z",
-  "title": "Swish FY26: Revenue Surges Close To ₹50 Cr While Loss Widens To ₹91 Cr",
-  "snippet": "Quick food delivery startup Swish clocked in a revenue of over ₹50 Cr in its first fiscal year. However, heavy…"
+  "id": "Reuters::CBMi0wFBVV95cUxQTl9SMXVYalFha1V6ZW9BWWRQTUl5TDE3cUlRcjVFTVdSM3VmNUFxbFhkUWlleTFyaG5KUl9ObFE5dkM1NXk1UkNMZHFVRTNHLXVxdF9DRTN0NUdENEtVbUthWTNHVWkwQk1uZUFIWkp4Z21EVkZmdmRLd1FNUHpMSEIxNzY3b29fTWtsMTduYXJveEhPZmVBdjBPWXFPSXg0bjc0bUU5ZWQyck1QZTltSUdPdE5sLTk1cGZacjY0QVRjTWVTdFctMHYtX3NUdnFHVGIw",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-19T05:41:43.000Z",
+  "title": "Musk says he felt 'pretty foolish' about scale of midterm spending after Republican rout",
+  "snippet": ""
  },
  {
-  "id": "Inc42::https://inc42.com/?p=581628",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-21T13:53:04.000Z",
-  "title": "Exclusive: Bewakoof Cofounder Prabhkiran Singh Launches AI Shopping Assistant Save8",
-  "snippet": "Bewakoof cofounder and former CEO Prabhkiran Singh has launched Save8, an AI-powered shopping assistant that helps consumers compare prices and…"
+  "id": "Gartner::CBMiV0FVX3lxTE9tdzJ1aklSVVJzc3lQT05HMGY2d0VPQm5zRTZlcmVQcVVjY0RjZUN1NWVKWTVUUGxUcjVlNkRSNWRDLWVIY1JSSXNLVUo4RmVKQWt6Wmktbw",
+  "source": "Gartner",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-18T08:00:00.000Z",
+  "title": "AI and Paid Media Campaign Benchmarks for Banking and Investing, Insurance, CPG and Retail, Healthcare Delivery Organizations, Manufacturing, IT and High Tech",
+  "snippet": ""
+ },
+ {
+  "id": "Reuters::CBMivwFBVV95cUxQMTZjMmJLMy1BbVp6U0ZCVzJxb3JwUU1NOGxnQ3BQSEoyTWNTekRPY21uZ25ISmFqMkNhdVJPYXk3LXRJaWMtNk1ZaVoxQzlWYWhWQjZqQ3BiOWFET2p1UVYwMGQtWVNYRG1vdGdTRy1qdHA2WF96YkhaNEJTWVJiV3BDcng3ZGM4T2RubnRGVlh3aThfU0ptSWVzVmk4VWFQdk9xUE9Ec1l0M2JFa18wcnBBeXRpMi1BeEFNcUROOA",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-17T16:33:43.000Z",
+  "title": "Luxury stocks slip on fears AI falls will curb spending by wealthy",
+  "snippet": ""
+ },
+ {
+  "id": "Retail TouchPoints::CBMiZkFVX3lxTE9xQjJzT1c1a1dyNkhmWmNQSDd1UGN0QmZLRG5pRnc3dHpCNjZiX2tTZ1NpQmtoMzdITl9jNVdsNlZuXzFZSWd3ZEZVU0NMbl9Jb0poY0RJUzA0VUtXTlh0RVd2clQwUQ",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-16T08:00:00.000Z",
+  "title": "Latest In: Insomnia Cookies",
+  "snippet": ""
  }
 ]
