@@ -1,18 +1,58 @@
 [
  {
-  "id": "Retail TouchPoints::CBMiakFVX3lxTFBiR1hSbFdFbzc3ZVZZUnNkUUZfbmtyMlZqelBNVWdNby1CcThTWHNvVzVKVGdYazRsanUxVWZ5MEdRYjMwTWdvbjZrN0I5cUUxUWw2MmJHclVCbkhIMTZGRW9ZZlRMaU1PbGc",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-20T22:52:39.000Z",
-  "title": "Latest In: unboxing experience",
-  "snippet": ""
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261120PD243/phison-data-center-2027-launch-commercial.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-22T23:48:57.000Z",
+  "title": "Phison expands space storage business with 2027 orbital data center launch",
+  "snippet": "Phison Electronics Corp. launched its Pascari Space solid-state drive (SSD) platform for commercial space applications and orbital data center infrastructure, extending its partnership with Lonestar Data Holdings. The…"
  },
  {
-  "id": "Retail TouchPoints::CBMiZkFVX3lxTFBmNHBkUGZNRTVCU0h5Z1Vuc1d2bmZ3OHdra0lWbFZpSnFfX0lhNU5wZ0lFSm02UkJhSmp2WGFHcXRCS0Z3dFlPS1FxRHdZYmVVUG1NaWlOVnpvY1Rzc0VFT3FyRWJiUQ",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261120PD240/gseo-3m-optical-lens-capex-revenue-growth-2027.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-22T23:47:44.000Z",
+  "title": "GSEO plans to double capex, targets 20% revenue growth in 2027",
+  "snippet": "Genius Electronic Optical (GSEO) plans to roughly double capital spending in 2027 as the Taiwanese optical lens maker expands into AI data center connectivity through its partnership with 3M. The company is targeting…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261120PD233/nvidia-jensen-huang-president-google-component.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-22T23:47:01.000Z",
+  "title": "Nvidia leadership shake-up tests AI rack cadence, while Taiwan suppliers eye dual GPU-ASIC opportunities",
+  "snippet": "Nvidia co-founder Jensen Huang recently stepped down as president, chief executive, and board director, with chief financial officer Colette Kress stepping in as interim CEO. Because Huang has long been viewed as the…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261120PD214/usb-weltrend-revenue-growth-pc.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-22T23:46:36.000Z",
+  "title": "Weltrend sees motor-control ICs powering growth as PC slowdown hits USB PD",
+  "snippet": "Weltrend Semiconductor said on November 19 that motor-control ICs for server cooling systems would drive its growth in 2026, as weak PC market conditions pressured USB Power Delivery (USB PD) products. The Taiwanese…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261120PD210/samsung-personnel-development-2026-business.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-22T23:46:13.000Z",
+  "title": "Samsung consolidates robotics operations to accelerate AI, robot commercialization",
+  "snippet": "Samsung Electronics established its Robotics eXperience (RX) business task force in July 2026 to unify robotics development and support an artificial intelligence transformation (AX) across the company. The Seoul-based…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261120PD206/semco-revenue-samsung-2026-sales.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-22T23:45:56.000Z",
+  "title": "Samsung Electro-Mechanics reduces Samsung revenue reliance as AI demand accelerates",
+  "snippet": "Samsung Electro-Mechanics reduced its dependence on Samsung Electronics and its affiliates to a record-low 24% of revenue during the first three quarters of 2026, as sales of AI server components and semiconductor…"
+ },
+ {
+  "id": "Retail TouchPoints::CBMiZkFVX3lxTE5PWHhlc09UWVFZYXVtVUJQTTZIbDZHYThaaS1PZk1tVFliU3JpNG51THlTeGwwS2tXNVJzeWJMQnFMb0RtNkU3ei1YS0VhZ3gyVzJ3ZUUwVGpudFNNWTZXb2NJN25aUQ",
   "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
   "publishedAt": "2026-11-19T08:00:00.000Z",
-  "title": "Latest In: store technology",
+  "title": "Latest In: Opinium Research",
   "snippet": ""
  }
 ]
