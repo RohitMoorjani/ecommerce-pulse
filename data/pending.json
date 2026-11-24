@@ -1,138 +1,210 @@
 [
  {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76613",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-23T12:18:11.000Z",
-  "title": "More than a third of UK small businesses sit out Black Friday",
-  "snippet": "More than a third of UK small businesses are opting out of Black Friday this year, according to MoneySuperMarket data. The post More than a third of UK small businesses sit out Black Friday appeared first on…"
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261123PD228/pmic-gpu-management-nvidia-taiwan.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-24T01:04:38.000Z",
+  "title": "Nvidia's rising GPU power demands open fivefold PMIC opportunity for Taiwan's Green Solution",
+  "snippet": "Power management IC (PMIC) designer Green Solution Technology has secured positions in the supply chains of Nvidia, AMD, Lenovo and Nintendo through its integrated buck converters, high-current power solutions and…"
  },
  {
-  "id": "Retail TouchPoints::CBMi8wFBVV95cUxPN1hBOC1Ccl85ckVUUnpXOUJtNXBjTF9LRVV3b0luak00Q1JhUFJFemkzdWJNZ3JrTXRYNTFuUVBMY0ZfU2lzeXJNOG1XVUVEaXdaZ2o0WmJ6VGd0dDJDeVd0MEZZRzVibXIweTVUcllzdDJVMmN4ZVF1b2lmUHdzNkdnSzNxX2s5RDZZckFGYy1SSFRramxBeDdqaW5NN0NONEJHN1R1SFc0MmtrdG83SnNLcGZSNmVlQXB3cTR5WEZXaFBrVHN0R01tQm40MTRUeVh6UW5yc2ZlOEtaQ3Y1RE1VTlRnMlJIM0g3LVdFY2FQYmM",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261123PD235/acer-stan-shih-net-zero-development-industrial.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-24T01:03:24.000Z",
+  "title": "Acer founder Stan Shih plans new impact investment fund in Singapore to advance AI and net-zero technologies",
+  "snippet": "Acer founder Stan Shih has outlined a long-term vision for industrial transformation, advocating an approach centered on \"creating value, balancing interests, and sustainable development\" to connect the transition to…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261123VL215/notebooks-europe-shipments-sales-revenue-growth.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-24T01:01:32.000Z",
+  "title": "Higher prices lift European notebook revenue as memory costs bite",
+  "snippet": "European notebook revenue rose 16% year-over-year in September despite a slight decline in unit sales, as higher-priced models helped drive growth through distribution channels. But rising memory costs are putting…"
+ },
+ {
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364264",
+  "source": "Digital Commerce 360",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-23T23:55:05.000Z",
+  "title": "Gap Q3 earnings: Online sales rise 3% as holiday outlook weakens",
+  "snippet": "Gap Inc.’s namesake brand continued its turnaround in fiscal Q3 2026, helping offset weaker performance elsewhere across its portfolio. Even so, the retailer lowered its full-year outlook after unseasonably warm weather…"
+ },
+ {
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364279",
+  "source": "Digital Commerce 360",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-23T21:00:05.000Z",
+  "title": "Williams-Sonoma ecommerce sales rise 6.8% as every brand posts comparable growth in Q3",
+  "snippet": "Williams-Sonoma Inc. grew ecommerce sales for a fourth consecutive quarter in its fiscal Q3 2026, as every brand and channel posted positive comparable sales. Net revenue for the quarter ended Nov. 1 rose 5.8% year over…"
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/black-friday-cyber-monday-shopping-projected-to-slip/875473/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-23T20:39:00.000Z",
+  "title": "Black Friday, Cyber Monday shopping projected to slip",
+  "snippet": "Shoppers will scoop up deals during Thanksgiving weekend, but extended sales events have enticed consumers to start holiday shopping early, according to the National Retail Federation."
+ },
+ {
+  "id": "PYMNTS Data::CBMitwFBVV95cUxQZFFjR2NyN1JHczZHeUNfdUZuU1c0V3RjemtNWWNyZnpmS1hheFpYWTFmcUk4MDlEaE5RVUg4Z0RDdkRWQU9WRlFodzdYYTBZVlZjUU93R2prZ3VlY2MyTUYteGwyUkd1M3VMdzYtWWJBX29XcVZxeVdYbnRxVEttSWZ0aXh1SVJ0YVg2aEhXeGJ1U3F4UXBXUkhfMHV6NFdtWDRNOXRwMEVTMjRvNmNmT2swOUxwREE",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-23T20:30:39.000Z",
+  "title": "EU Targets AI Shopping Agents in Digital Consumer Overhaul",
+  "snippet": ""
+ },
+ {
+  "id": "Retail TouchPoints::CBMitgFBVV95cUxNdFRPY0NnbFJ5VDFidWVVQThDUXZRQWlLNVRrMU9DSnFrQlZzY3Z3QmU4UHh0a2N4amFjdnA0VnJOWl8wMTdRRFd6MFhfTTJkc2RNLVR1QURWUFNSNWhiMkxZekdZbXlfRmI5VlhMZjVuQ2t4Qk9iSkNYQ2k2RUhQanhmZmVqalo2aTBBV0FXSlR2QnlndkxRS3FnR2g3WE5oc3c4cG9xTDZoaVdRM1MwWU56WWMzZw",
   "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-23T12:02:44.000Z",
-  "title": "The Last Mile Starts in the Warehouse: Why Fulfillment Visibility Is the Key to Omnichannel Success",
+  "publishedAt": "2026-11-23T20:00:50.000Z",
+  "title": "Zepic Launches Agentic Conversational Storefront for Consumer Brands",
   "snippet": ""
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/spons/retails-fastest-ai-return-right-now-sits-behind-the-storefront/875359/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-23T10:00:00.000Z",
-  "title": "Retail’s fastest AI return right now sits behind the storefront",
-  "snippet": "Shopper-facing AI gets the headlines. The faster return comes from fixing what sits underneath."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/spons/why-retailers-prefer-real-human-expertise-over-automated-payment-support/875272/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-23T10:00:00.000Z",
-  "title": "Why retailers prefer real human expertise over automated payment support",
-  "snippet": "When payment issues hit during peak season, automation isn’t enough."
- },
- {
-  "id": "PYMNTS Data::CBMisAFBVV95cUxQNkprbWtxRWxRb19wc091b2VxREd3bXJBOFJUTFE4UW5IVHh6aExyMlJlYUhwNmw2UHJ5dkwtWnhMSmc2a29USVBJOEw1QmF5MUZVUWpMSGlmWnlyN3JfR2dNZ0xiQWs4eTJXTmZSZERTeEtvSUpwWmROTWpKZXc2aFVTdUJrVll5MV9LVDYtSnJQZ1NMMUVma3RlT1ZDeUwxaFpkTWZHT1pzZF9QOC1wcw",
+  "id": "PYMNTS Data::CBMitgFBVV95cUxQUEN4WnhqdWgzckdDZUNtcHVXUUUxWDJNVnNaVG85b0tqMGJfTzNtYzBvNkVUa1cwcDRyZ2l0NTNzYThxYzBMa3NnX01IalpZMkNvSERBaFpHSHhGZEd2MGFzeThLbGE4ZS00MkRzOXh6bWlBMndTZlJJRkY0WjdNVHNFWUl2S3c3clI5RFMxX1JpT2F3SzNCRi1BLW01UnVXay1tRnYzT051U0xhWU1hd1NNUW84Zw",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-23T09:06:29.000Z",
-  "title": "Croissant Uses Remy AI to Match Luxury Shoppers With New Brands",
+  "publishedAt": "2026-11-23T19:01:30.000Z",
+  "title": "Target and Walmart Are Winning More Shopping Trips. Bigger Baskets Can Wait.",
   "snippet": ""
  },
  {
-  "id": "PYMNTS Data::CBMimAFBVV95cUxNWU1YUF9lVWZYS0JkV3lZYXJPdVJnQ0VCWE1CdDFiWGtWZWdVcGtqUVBlclZlNDBCd1hUWmdRXzBIT1lKamdlLXFkMFg3VWhVVXZsVHlYbzA3TUVnUlZyeXY0SzlON29RMVVJVmliT3VGc2FoTWE1ZHZQakV0RXFXVWFaNENVZDlnYU0zSTA5eGtTTjh2UlFrMQ",
+  "id": "PYMNTS Data::CBMijAFBVV95cUxNalJXVDlOWGxwaXRIX1NBemt0WTZKVktYSXMwYmo4OEJwdTZjVTl1eUZTMFBiMWVUcUlISEF3cVFnc01OQjZOVklsWnVzV1ZlNmVkVTFFYkp6RERlaDgtZkZ3Mnp6N0RpMnY3cWFQX1JVeFRpQVJxQ2tzZEZvN0VVYjZFdVdyaTJLTEJPWA",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-23T09:06:29.000Z",
-  "title": "Small Businesses Face a Credit Divide That Widens With Size",
+  "publishedAt": "2026-11-23T18:06:30.000Z",
+  "title": "Visa Acceptance Platform Adds Klarna’s BNPL Offering",
   "snippet": ""
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261123PD200/military-commercial-launch-funding-germany.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-23T06:21:00.000Z",
-  "title": "NATO launches STARLIFT to boost military satellite deployment",
-  "snippet": "NATO announced the STARLIFT multinational space initiative at the NATO EDGE 26 conference in Türkiye on November 17, with 10 allies and South Korea jointly funding reserved commercial rocket-launch slots to make…"
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/apparel-fashion/accessories/safari-industries-signs-20-year-licensing-deal-for-carlton-targets-premium-luggage-segment/136090793",
-  "source": "ETRetail",
+  "id": "Retail TouchPoints::CBMisgFBVV95cUxNYjQwQmxIUm5ka2V0dnNmRXRzcGVPTGxnOUpNN3pvaUJ4N1U3NnlfaF8wa1gzUUFIZzRlLW5UT3ZiVXdWa1BXU0JDXzZvMEVhTmJLSS1GTXdJcW1BWm5KR0Z0VVBQSlNxZ1VQOHN4bE9JLW5rMXFaemVSaEpGRURjc2NDbG9UU1JfWU9nNDVVblRCUEF5cUw3TjktODNtTGZTWUVvdVMtWG1hUmxDZDZWMUln",
+  "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-23T05:42:53.000Z",
-  "title": "Safari Industries signs 20-year licensing deal for Carlton, targets premium luggage segment",
-  "snippet": "The collection features details such as metallic finishes, soft-touch interiors, hybrid construction and name tags. Most products also have a pocket compatible with Apple AirTag. Carlton products are available through…"
- },
- {
-  "id": "TrendForce::CBMi1AFBVV95cUxPMHZnaGNMTXJkYmViRW0wZ0dVTFZDdDZ1RlRCaU5xdl9zTEVTcFlZd3daSDVyNUVmMG96a2RDdEpvakRvemZveEJaNDY3LVM5M1N5ck1iLWRTS0JQeUU1TFRzdFBSX0VQUW0xaG9tVUtVRXlXaG5NNTl3Wkg1NW9fT2RpbEQ3R2RjQ3YxakpqRFB6aF9JSnRYZTJTbmFZWjd2bmtiQ0NYNHd0Y1ZpQWpTYTltenpIcGxUbHJQWE1qMERKVUJtdDdQR0hnenZvbFFzYklJNw",
-  "source": "TrendForce",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-23T05:04:40.000Z",
-  "title": "[News] AI Server Prices Reportedly Rise Up to 45% as Dell, HPE and Others Raise Prices After Deals",
+  "publishedAt": "2026-11-23T17:28:08.000Z",
+  "title": "Holiday Shoppers Lean on Grocery Loyalty Programs to Save In 2026",
   "snippet": ""
  },
  {
-  "id": "Modern Retail::https://www.modernretail.co/?p=175746",
+  "id": "Modern Retail::https://www.modernretail.co/?p=175831",
   "source": "Modern Retail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-23T05:00:00.000Z",
-  "title": "Sweetgreen bets on cooking pop-ups to promote growing menu",
-  "snippet": "Sweetgreen brings scratch cooking to pop-ups as it uses experiential marketing to highlight its growing menu."
+  "publishedAt": "2026-11-23T17:05:05.000Z",
+  "title": "How Dibs Beauty uses heat maps to optimize its Ulta Beauty presence",
+  "snippet": "Selling exclusively through Ulta Beauty and direct-to-consumer, Dibs Beauty has set up heat maps that track individual product sales based on where they sit on its in-store endcaps, as well as overall retail sales by…"
  },
  {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76609",
-  "source": "InternetRetailing",
+  "id": "Retail Dive::https://www.retaildive.com/news/dollar-general-battles-states-ftc-pricing-practices/875454/",
+  "source": "Retail Dive",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-23T04:50:00.000Z",
-  "title": "GUEST COMMENT Price is no longer proof of quality",
-  "snippet": "Anushka Mahanti, co-founder and chief business officer of homeware brand FableRoom, argues that the manufacturer-to-consumer model is moving from niche to mainstream. The post GUEST COMMENT Price is no longer proof of…"
+  "publishedAt": "2026-11-23T16:42:00.000Z",
+  "title": "Majority of states now battling Dollar General over pricing practices",
+  "snippet": "Ten states joined the Federal Trade Commission and 20 other states in a complaint filed last month alleging deceptive pricing."
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261123VL207/sk-hynix-kioxia-investment-nand-flash.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-23T04:08:29.000Z",
-  "title": "SK Hynix to gain voting rights in Kioxia under 15% cap",
-  "snippet": "South Korea's SK Hynix is set to become the largest indirect shareholder in Japanese memory chipmaker Kioxia Holdings through a bond conversion that will give it voting rights in a major NAND flash rival, subject to a…"
+  "id": "Retail Dive::https://www.retaildive.com/news/amazon-enlists-customers-in-fight-against-nyc-delivery-protection-act/875451/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-23T16:33:00.000Z",
+  "title": "Amazon enlists customers in fight against NYC delivery worker bill",
+  "snippet": "The e-commerce giant released a call to action for city customers to speak out against The Delivery Protection Act, or face increased order costs of up to $5."
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261123PD210/tencent-baidu-alibaba-cash-flow-ai-applications.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-23T03:20:11.000Z",
-  "title": "Commentary: China's AI spending race strains cash flow at Tencent, Baidu and Alibaba",
-  "snippet": "\"The wave is already upon us.\" Tencent chairman Pony Ma's recent warning at an internal meeting captures the urgency confronting China's technology giants in the AI era."
+  "id": "NRF::CBMifEFVX3lxTFBES1ViSjJobENsejBBZlRsQnpzY0s4TXhNbGhhUWFCSXhBazZIaWFtWHFieWhVbUYxS2diVlJodmFsenBHTUQ4cTNTUDVjVDBXVXRNWGYyUTVWdGZuS1hVZUU5V3ZqV0E3UU9KMEdtN2pxZHlNQURlb091Zlc",
+  "source": "NRF",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-23T16:06:50.000Z",
+  "title": "Half of holiday shoppers plan to use AI this season",
+  "snippet": ""
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261123VL206/ai-server-dell-price-hpe-lenovo.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-23T02:55:25.000Z",
-  "title": "AI server prices jump up to 45% after contracts signed, putting buyers at suppliers' mercy",
-  "snippet": "AI server suppliers, including Dell Technologies, Hewlett Packard Enterprise (HPE), Lenovo, and Supermicro, are reportedly demanding price increases of up to 45% on equipment months after contracts were agreed…"
+  "id": "Retail Dive::https://www.retaildive.com/news/backcountry-acquires-christy-sports-ski-retailer/875323/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-23T15:44:00.000Z",
+  "title": "Backcountry acquires winter sports retailer Christy Sports",
+  "snippet": "The deal creates a combined retail footprint of more than 60 locations and expands owner CSC Generation’s brand portfolio with a large ski and snowboard rental network."
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261123PD204/ic-taiwan-chips-ic-design-2026.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-23T01:50:23.000Z",
-  "title": "US chip restrictions offer Taiwan IC designers a market-share opening, but will it last?",
-  "snippet": "The US Department of Commerce's new advanced semiconductor rules took effect following their publication in the Federal Register on November 19, 2026, US Eastern Time. Beyond targeting computing capacity at overseas…"
+  "id": "Retail Dive::https://www.retaildive.com/news/davids-bridal-tests-dress-rental-something-borrowed/875262/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-23T15:37:00.000Z",
+  "title": "David’s Bridal tests dress rental",
+  "snippet": "The retailer’s Something Borrowed program is being piloted at 11 stores in Pennsylvania."
  },
  {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261122PD201/taiwan-moea-electronics-growth-2025.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-23T01:38:40.000Z",
-  "title": "Taiwan electronics, ICT export orders surge in October as US remains top buyer",
-  "snippet": "Taiwan's Ministry of Economic Affairs (MOEA) announced on November 20 that export orders reached US$123.82 billion in October 2026, up US$9.61 billion, or 8.4%, from the previous month, with seasonally adjusted growth…"
+  "id": "Retail Dive::https://www.retaildive.com/news/home-depot-logistics-pro-business/875396/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-23T15:03:00.000Z",
+  "title": "How Home Depot built the missing logistics piece for its Pro business",
+  "snippet": "Through new flatbed distribution centers, acquisitions and technology, the home improvement retailer has enhanced its last-mile delivery capabilities to better serve contractor customers."
  },
  {
-  "id": "PYMNTS Data::CBMiqwFBVV95cUxNQi00dHMxY25rZlhZTnR1X2Y0bFFMdGRZOUI5eUlUV1c0UXBTdHhNeFNKS1F3OTBQR245Uk54YnV6TWxrQk51YmVCVG9ITXBlSlR2ZFV6eHdacWtWX1dZc0Q2ZENXWnA0eGY1ZHJwUjBOdlFpVTRSc05GWVZvcUoxVG1OYTFNQVd1dVp3YkdwckhRSm1HSDI3LTFfMVhTSjdjV3p0eEVwVl9HUUk",
+  "id": "TWICE::https://www.twice.com/?p=167281",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-23T14:01:39.000Z",
+  "title": "MOBI Adds Smart Nasal Aspirator To Children’s Health Lineup",
+  "snippet": "The device features five adjustable suction levels, soft silicone tips, a built-in night light and soothing music"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=167284",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-23T14:01:23.000Z",
+  "title": "Shelly Introduces Smart Water Shut-Off Valve For Leak Protection",
+  "snippet": "The Neo Smart Water Valve works with Shelly leak sensors to automatically stop water flow while monitoring household water usage"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=167183",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-23T14:00:00.000Z",
+  "title": "Are Home Robots Ready For Retail? Part 1",
+  "snippet": "How will we know when the technology has finally crossed from gee-whiz demonstration to useful labor-saving appliance?"
+ },
+ {
+  "id": "Circana::CBMiqgFBVV95cUxQZ3ktd1gzbWpUQWszakZMN0pjN1p1N2RYU0hmVWRZR05xMG9qZ2JHa0xfakF2el8tUEhidlQwWXl0YWx2amxBeThFNmNSYTV6YzBGRUJucndRQ2lQUG0zMTh1TjFib1R1RWZCVWd5MHNOR0k5VE50VWVQVzlyUFozdUdndzdQbTBvQ19iLUZac3dQbUJvNllYLWoxT0FlSHFoY05CZVR5eHpUUQ",
+  "source": "Circana",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-23T13:56:46.000Z",
+  "title": "Consumers Are Extending the Season, Not Replacing Black Friday, Reports Circana",
+  "snippet": ""
+ },
+ {
+  "id": "Reuters::CBMivwFBVV95cUxPalEtTjcxRkpZeXFjX1k3Zkd2YXV6RE5IMGtGblV4ZzM0cURnSXdFcVFHcG9vRVBXaUdsRllSQnU5LWVCNW9MU3k3VDFUSjFBQXJkd3FvZjZMSll5MUtVX1F1RUc4SGpVR2c0X01oeXRXaGJmWUc4MXVMWFR4cUMwSWpNNGFyQ0xxaldmakNfR1BIaXV1X1NLZkNDNGtrZmx6WlpMcUJ3UjF0bVhZSFZlWDlUSFV0OVYxcS1NbTVKYw",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-23T11:39:49.000Z",
+  "title": "AI tools help brands curb Black Friday deals, from clothes to skincare",
+  "snippet": ""
+ },
+ {
+  "id": "IDC::CBMiYkFVX3lxTE5KSGlabTVoRjVzSjN5WEZWYXVHSjI0cnhIZWR5cVUxQWFPUkdFTVpwVlpPd3h5elUzcHdoNTNvQXlrTlVWQjQ0eVRTakdORnBqQkpOOEVUT09yekRzcGJlR0hB",
+  "source": "IDC",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-21T08:21:44.000Z",
+  "title": "IDC Survey: Chief AI Officers in Retail — Future Enterprise Resiliency and Spending Survey Wave 5, 2026",
+  "snippet": ""
+ },
+ {
+  "id": "Reuters::CBMitAFBVV95cUxOUVlDMFN1aGI1Y2JyeWxMX1Y4V1BOQlBHU3d6Y3YxYWNCbkFXRzhPMDc5TndhWWkyZzRmamRJX21zMnVjVmR1Ynd5TTEwWUpmNzNLbVdHbVBHQkpsVWJwN1d0d1R3bW5fSE8zUVdEWW9KWFBWZWNsckdFWHZRTnpOVTdQMjhtY3FIdGpqRTJuYW15SW1ET3QzVzJVYmctTjFLMzJPdy00MmZpMDRNc0xYNkxkbU8",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-19T18:41:00.000Z",
+  "title": "Temu owner PDD beats third-quarter profit estimates as marketing spending falls",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS Data::CBMioAFBVV95cUxOOVlpYkoyY0dPSXFzcWxCOTUtU180NGhKbHNjUlcyTk1HX3BDVFNOV2h1Mi1XTkdWRFNYZWJ0V3Z3UVE5eHl1aEoyQnJLMnE2RTZaNHRZZzhrT1JTQ0pSRWhjN3VPTmRNM1FfLXh1Y2ptX1BGOEZPdEI2WDNsd2Q4Qi1kdmY5aEFBR1d2dXI3aEgwNWE4NzhjSGZfbE5GTUI0",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-10-25T03:34:16.000Z",
-  "title": "The Impact of Financial Scams on Consumers’ Finances and Banking Habits",
+  "publishedAt": "2026-10-26T02:36:22.000Z",
+  "title": "The Online Features Driving Consumers to Shop With Brands, Retailers or Marketplaces",
   "snippet": ""
  }
 ]
