@@ -1,44 +1,42 @@
 {
- "updatedAt": "2026-11-23T12:53:02.197Z",
- "title": "Be ready for AI-agent checkout and rising hardware costs this holiday",
- "summary": "ChatGPT Wallet lets agents pay at retailer checkouts; Klarna joined Adyen agentic suite (PYMNTS). Tablet shipments fell 23% in Q3 (Omdia); PCB shortage lasts to mid-2028; AI server prices up to 45% (DigiTimes). Walmart US e-commerce +23%.",
+ "updatedAt": "2026-11-24T03:51:26.889Z",
+ "title": "AI now shops and pays for shoppers; our store must be agent-ready",
+ "summary": "Half of holiday shoppers plan to use AI (NRF); ChatGPT Wallet buys from merchants; Klarna joined Adyen's agentic suite; Target's AI assistant lifted sales. European notebook revenue +16% (DigiTimes); PCB shortage lasts to mid-2028.",
  "points": [
   {
-   "headline": "AI agents can now pay, so checkout must be agent-ready",
-   "detail": "OpenAI launched ChatGPT Wallet for agent purchases at retailer checkouts, and Klarna is now in Adyen’s agentic suite. We should test our store checkout and financing for agent-initiated orders.",
+   "headline": "AI shoppers and agent checkout are arriving together",
+   "detail": "NRF finds half of holiday shoppers plan to use AI, ChatGPT Wallet lets agents buy from merchants, and Klarna joined Adyen's agentic suite. We should make our catalog and checkout agent-ready.",
    "segment": "agentic",
    "storyIds": [
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364135",
-    "PYMNTS::https://www.pymnts.com/?p=4414261",
-    "DigiTimes::https://www.digitimes.com/news/a20261118PD255/openai-chatgpt-2026-data.html"
+    "NRF::CBMifEFVX3lxTFBES1ViSjJobENsejBBZlRsQnpzY0s4TXhNbGhhUWFCSXhBazZIaWFtWHFieWhVbUYxS2diVlJodmFsenBHTUQ4cTNTUDVjVDBXVXRNWGYyUTVWdGZuS1hVZUU5V3ZqV0E3UU9KMEdtN2pxZHlNQURlb091Zlc",
+    "DigiTimes::https://www.digitimes.com/news/a20261118PD255/openai-chatgpt-2026-data.html",
+    "PYMNTS::https://www.pymnts.com/?p=4414261"
    ]
   },
   {
-   "headline": "Supply squeeze and weak demand pressure PC pricing and inventory",
-   "detail": "Tablet shipments fell 23% in Q3, notebooks stay weak into Q2 2027, a PCB shortage lasts to mid-2028 and AI server prices are rising up to 45%. We should plan inventory and pricing carefully.",
-   "segment": "pc",
+   "headline": "Retailers' AI assistants are showing early sales lift",
+   "detail": "Target reports an early sales lift from its Ask Target assistant in beta. We should test comparable guided shopping for PC buyers on our store.",
+   "segment": "agentic",
    "storyIds": [
-    "TWICE::https://www.twice.com/?p=167051",
-    "DigiTimes::https://www.digitimes.com/news/a20261118PD215/pc-shipments-2027-2026-market.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261120PD235/pcb-demand-electronics-manufacturing.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261123VL206/ai-server-dell-price-hpe-lenovo.html"
-   ]
-  },
-  {
-   "headline": "Delivery speed and AI assistants are winning share at key retailers",
-   "detail": "Walmart U.S. e-commerce grew 23% in Q3 on fulfillment speed, and Target reports an early sales lift from its AI assistant. Our marketplace delivery promises and guided shopping need to keep pace.",
-   "segment": "marketplaces",
-   "storyIds": [
-    "Retail Dive::https://www.retaildive.com/news/walmart-ecommerce-boom-fulfillment-speed-q3-earnings/875166/",
     "Retail Dive::https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/"
    ]
   },
   {
-   "headline": "Small-business holiday budgets are at a 14-year high",
-   "detail": "Amex projects a 14-year high in small business holiday spending. We should push business bundles, financing and bulk offers to this buyer group.",
-   "segment": "trends",
+   "headline": "Memory and component costs lift PC prices while units stay weak",
+   "detail": "European notebook revenue rose 16% on higher prices with fewer units, notebooks stay weak into Q2 2027 and a PCB shortage lasts to mid-2028. We should plan inventory and pricing for tight supply.",
+   "segment": "pc",
    "storyIds": [
-    "PYMNTS Data::CBMimAFBVV95cUxQMk5IN0ZvWjcxX2hDMFJQTHhpVzZPQlZ4T1NIdzZVWlFSMzQwNzB1TC13R3VFUUZONDR1ay1zNERJTG1rYUlYZERMZEYwTmt4TC1fNU1lNEZ3dEtJbDhSMkdvTDJjLVctN0JodWpRZDRjclVQTUdqM3J3S01YWDlGUGliZ091R3lWX193YzlyeFhhWHl1TlRfWg"
+    "DigiTimes::https://www.digitimes.com/news/a20261123VL215/notebooks-europe-shipments-sales-revenue-growth.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261118PD215/pc-shipments-2027-2026-market.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261120PD235/pcb-demand-electronics-manufacturing.html"
+   ]
+  },
+  {
+   "headline": "Walmart's delivery speed is winning share in a key electronics channel",
+   "detail": "Walmart U.S. e-commerce grew 23% in Q3 as fulfillment speed set it apart. Our marketplace delivery promises need to match.",
+   "segment": "marketplaces",
+   "storyIds": [
+    "Retail Dive::https://www.retaildive.com/news/walmart-ecommerce-boom-fulfillment-speed-q3-earnings/875166/"
    ]
   }
  ]
