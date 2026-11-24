@@ -1,97 +1,4 @@
 {
- "Modern Retail::https://www.modernretail.co/?p=173494": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Best Buy joins TikTok Shop for its biggest holiday season yet",
-  "short_headline": "Best Buy joins TikTok Shop this holiday",
-  "takeaway": "With Best Buy selling on TikTok Shop, electronics shoppers get a new channel; we should test our presence and promotions there.",
-  "importance": 4,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-20T14:00:00.000Z"
- },
- "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363623": {
-  "keep": true,
-  "segment": "plays",
-  "headline": "Wildfire and Badge push merchant cashback offers into Apple, Google, Samsung wallets",
-  "short_headline": "Merchant rewards land in mobile wallets",
-  "takeaway": "Wallet-delivered offers could reach shoppers at checkout; we should test whether wallet cashback lifts conversion in our store.",
-  "importance": 3,
-  "content_type": "announcement",
-  "competitors": [],
-  "publishedAt": "2026-10-20T17:49:27.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261020PD238/funding-semicon-west-2026-infrastructure-outlook.html": {
-  "keep": false,
-  "publishedAt": "2026-10-20T17:01:00.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/walmart-sams-club-membership-challenge-to-amazon-prime/833447/": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Walmart bundles Walmart+ and Sam’s Club Plus memberships, saving nearly $100",
-  "short_headline": "Walmart bundles memberships to rival Prime",
-  "takeaway": "A cheaper combined membership sharpens Walmart’s Prime rival; we should watch how it shapes electronics loyalty and delivery expectations.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-20T16:26:00.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/hasbro-q3-magic-the-gathering-record-revenue/833451/": {
-  "keep": false,
-  "publishedAt": "2026-10-20T16:24:00.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/best-buy-gaming-boss-digital-hub-pilot/833471/": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Best Buy pilots a gaming hub for content, deals and preorders, plus a California in-store hub",
-  "short_headline": "Best Buy pilots a gaming hub",
-  "takeaway": "Best Buy is building a gaming destination online and in store; we should consider how our gaming hardware is positioned there.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-20T16:20:00.000Z"
- },
- "Reuters::CBMizAFBVV95cUxOZnRiU1BhX3YzZVBuRHFlT2kycUw1ZWFrMHYxV2NLYUpTNVFlRjhsUlB2a09UdE04aTdRYmNkVlkxb1d2Ry1qYjdhTHUycVRYQUN6UzUybGpGblJjS1ZTWXJ6MWR0OFVUNXAxQzk1dm9iQmRCQmY2bGRfamRzRVNJQzR2UVRRM2hlY3dYVGl3WlFCTmdnWWNNTWlYMEhCQTA1NUpYSm95dG5yMi1GTXFlRnJ3YWZQTGQySVVkX1JjSGFlQ1BPa3EyenZ0Y1Q": {
-  "keep": false,
-  "publishedAt": "2026-10-20T16:06:04.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/ups-happy-returns-tiktok-shop/833322/": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "UPS’ Happy Returns comes to TikTok Shop ahead of the post-holiday returns rush",
-  "short_headline": "Happy Returns arrives on TikTok Shop",
-  "takeaway": "Easier returns on TikTok Shop could lift buyer confidence there; we should review our returns experience on that channel.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-20T14:48:00.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/anthropologie-holiday-marketing-campaign/833440/": {
-  "keep": false,
-  "publishedAt": "2026-10-20T14:44:00.000Z"
- },
- "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363631": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Walmart bundles Walmart+ and Sam's Club Plus memberships into one $120 subscription",
-  "short_headline": "Walmart merges two memberships into $120 bundle",
-  "takeaway": "A combined Walmart membership could deepen shopper lock-in on a key electronics channel; we should watch how it affects our listings there.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-20T22:48:07.000Z"
- },
- "NRF::CBMivAFBVV95cUxNNEg2OU1VZzNGT2QwcUxLZTZqQlRSV240Vkd0NWtVSjFYQlhHdE9ndHlhdjI1azNsM0pPTmlfUnZpY2hxU2E0UGt5WDRBSVNFTjBxc2hPNmh1UWJLWUhzQTZFSVJXNmJVSjQwOFNabzljbVBkTy1LQVFTRWpLUjMwcFVFQmpzSE1rLTEyUFBtSTVZZzVuaGlEM1R3ME9lSUdETWhSNDdyUl9HSk1Eb0gxSmhhQjcyWUJiWE8zMA": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "NRF holiday survey: affordability shapes winter holiday shopping",
-  "short_headline": "NRF: affordability drives holiday shopping",
-  "takeaway": "Price sensitivity is steering holiday plans, so we should test value-led offers and financing in our store before peak season.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-20T19:42:21.000Z"
- },
  "DigiTimes::https://www.digitimes.com/news/a20261021PD224/amec-mocvd-equipment-sk-hynix.html": {
   "keep": false,
   "publishedAt": "2026-10-21T03:54:56.000Z"
@@ -150,17 +57,6 @@
  "DigiTimes::https://www.digitimes.com/news/a20261021VL200/spacex-revenue-operating-profit-business-starlink.html": {
   "keep": false,
   "publishedAt": "2026-10-21T00:20:00.000Z"
- },
- "Counterpoint Research::CBMimAFBVV95cUxOR2dyMjJOSnpOMWpmZzBxMzRhOWZWOFFOTTVzV1E0MUlPbFpGdVZ0Q0RrZHU5TEU3d0dQSGJsTGNvNl9jZzdIMUxzVmp6M2N2ODdFeV9EMnNsNkptNExzMDlIZXB2VHVaTDdmX3pBdUF0MllnSF9pV3NaRHZrTW5tOTV0emNHSmduYW9jYmFmZ2FlcUE1OEpBYQ": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Counterpoint: memory shortage is driving record PC price inflation",
-  "short_headline": "Memory shortage drives record PC price inflation",
-  "takeaway": "Rising memory costs are pushing PC prices up; we should plan pricing, promotions and mix for tighter margins and price-sensitive buyers.",
-  "importance": 4,
-  "content_type": "analysis",
-  "competitors": [],
-  "publishedAt": "2026-10-20T23:15:36.000Z"
  },
  "Inc42::https://inc42.com/?p=577009": {
   "keep": false,
