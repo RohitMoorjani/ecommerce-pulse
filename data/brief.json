@@ -1,42 +1,43 @@
 {
- "updatedAt": "2026-11-24T03:51:26.889Z",
- "title": "AI now shops and pays for shoppers; our store must be agent-ready",
- "summary": "Half of holiday shoppers plan to use AI (NRF); ChatGPT Wallet buys from merchants; Klarna joined Adyen's agentic suite; Target's AI assistant lifted sales. European notebook revenue +16% (DigiTimes); PCB shortage lasts to mid-2028.",
+ "updatedAt": "2026-11-24T15:51:05.002Z",
+ "title": "AI shopping and costlier parts: we must fix checkout and pricing",
+ "summary": "NRF: half of holiday shoppers plan to use AI. ChatGPT Wallet and Klarna in Adyen enable agent purchases; Target reports an AI sales lift. PCB shortage lasts to mid-2028; notebook shipments stay weak to Q2 2027.",
  "points": [
   {
-   "headline": "AI shoppers and agent checkout are arriving together",
-   "detail": "NRF finds half of holiday shoppers plan to use AI, ChatGPT Wallet lets agents buy from merchants, and Klarna joined Adyen's agentic suite. We should make our catalog and checkout agent-ready.",
+   "headline": "Agent checkout is live, so our catalog and payments must be agent-ready",
+   "detail": "ChatGPT Wallet buys from merchants via its Dots agent; Klarna joined Adyen’s agentic suite; NRF says half of holiday shoppers plan to use AI. We should make feeds, pages and financing agent-readable.",
    "segment": "agentic",
    "storyIds": [
-    "NRF::CBMifEFVX3lxTFBES1ViSjJobENsejBBZlRsQnpzY0s4TXhNbGhhUWFCSXhBazZIaWFtWHFieWhVbUYxS2diVlJodmFsenBHTUQ4cTNTUDVjVDBXVXRNWGYyUTVWdGZuS1hVZUU5V3ZqV0E3UU9KMEdtN2pxZHlNQURlb091Zlc",
     "DigiTimes::https://www.digitimes.com/news/a20261118PD255/openai-chatgpt-2026-data.html",
-    "PYMNTS::https://www.pymnts.com/?p=4414261"
+    "PYMNTS::https://www.pymnts.com/?p=4414261",
+    "NRF::CBMifEFVX3lxTFBES1ViSjJobENsejBBZlRsQnpzY0s4TXhNbGhhUWFCSXhBazZIaWFtWHFieWhVbUYxS2diVlJodmFsenBHTUQ4cTNTUDVjVDBXVXRNWGYyUTVWdGZuS1hVZUU5V3ZqV0E3UU9KMEdtN2pxZHlNQURlb091Zlc"
    ]
   },
   {
-   "headline": "Retailers' AI assistants are showing early sales lift",
-   "detail": "Target reports an early sales lift from its Ask Target assistant in beta. We should test comparable guided shopping for PC buyers on our store.",
-   "segment": "agentic",
-   "storyIds": [
-    "Retail Dive::https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/"
-   ]
-  },
-  {
-   "headline": "Memory and component costs lift PC prices while units stay weak",
-   "detail": "European notebook revenue rose 16% on higher prices with fewer units, notebooks stay weak into Q2 2027 and a PCB shortage lasts to mid-2028. We should plan inventory and pricing for tight supply.",
+   "headline": "Component shortages are lifting prices while notebook demand stays soft",
+   "detail": "PCB relief is not seen before mid-2028; European notebook revenue rose 16% on pricier models while units fell; shipments stay weak to Q2 2027. We should plan inventory, pricing and promotions together.",
    "segment": "pc",
    "storyIds": [
+    "DigiTimes::https://www.digitimes.com/news/a20261120PD235/pcb-demand-electronics-manufacturing.html",
     "DigiTimes::https://www.digitimes.com/news/a20261123VL215/notebooks-europe-shipments-sales-revenue-growth.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261118PD215/pc-shipments-2027-2026-market.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261120PD235/pcb-demand-electronics-manufacturing.html"
+    "DigiTimes::https://www.digitimes.com/news/a20261118PD215/pc-shipments-2027-2026-market.html"
    ]
   },
   {
-   "headline": "Walmart's delivery speed is winning share in a key electronics channel",
-   "detail": "Walmart U.S. e-commerce grew 23% in Q3 as fulfillment speed set it apart. Our marketplace delivery promises need to match.",
+   "headline": "Retailers are winning with AI assistants and fast delivery",
+   "detail": "Target’s Ask Target assistant shows an early sales lift in beta; Walmart U.S. e-commerce grew 23% on fulfillment speed. We should test guided shopping and match delivery promises.",
    "segment": "marketplaces",
    "storyIds": [
+    "Retail Dive::https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/",
     "Retail Dive::https://www.retaildive.com/news/walmart-ecommerce-boom-fulfillment-speed-q3-earnings/875166/"
+   ]
+  },
+  {
+   "headline": "Small-business holiday spending is a window for business offers",
+   "detail": "Amex projects a 14-year high in small business holiday spending. We should push business bundles, financing and bulk offers in our store.",
+   "segment": "trends",
+   "storyIds": [
+    "PYMNTS Data::CBMimAFBVV95cUxQMk5IN0ZvWjcxX2hDMFJQTHhpVzZPQlZ4T1NIdzZVWlFSMzQwNzB1TC13R3VFUUZONDR1ay1zNERJTG1rYUlYZERMZEYwTmt4TC1fNU1lNEZ3dEtJbDhSMkdvTDJjLVctN0JodWpRZDRjclVQTUdqM3J3S01YWDlGUGliZ091R3lWX193YzlyeFhhWHl1TlRfWg"
    ]
   }
  ]
