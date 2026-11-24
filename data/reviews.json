@@ -1,88 +1,4 @@
 {
- "PYMNTS Data::CBMiugFBVV95cUxQWGhoYXZsVG82eE8yRlRmbVYyWDhxeWc1ZVMyMl9iZDlGUzdDTEpRMnBiNzV6VEdQU2FWQXdvUkdvcy1FaWh4Mk5nRnhkSlg0RFNsTVVjQk52eEg3VGJXelJIUDR5ejNGMjdzeUtDb0YzZ0o2ZUl5TUxiVV9CaE4wTXo5U1NUUVFOSmNoM2JYSnRicXZMWFk4LURucUFxNGRfRkhqOVMxMXlBVFp3RzVpQzZRYnQ4WWF3WEE": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "21% of financially stressed grocery shoppers use digital wallets, PYMNTS data shows",
-  "short_headline": "Stressed shoppers turn to digital wallets",
-  "takeaway": "Budget-strained shoppers lean on wallets; we should make sure wallet checkout and flexible payment options work in our store.",
-  "importance": 2,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-20T08:03:58.000Z"
- },
- "Inc42::https://inc42.com/?p=576872": {
-  "keep": false,
-  "publishedAt": "2026-10-20T06:55:58.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261020PD232/thermaltake-workstation-gaming-market-revenue.html": {
-  "keep": false,
-  "publishedAt": "2026-10-20T06:45:00.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261020VL218/samsung-cxmt-dram-hbm4.html": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Samsung locks ~80% of 2027 memory output in long-term deals as Apple seeks DRAM options",
-  "short_headline": "Samsung locks up 80% of 2027 memory output",
-  "takeaway": "Tight, contract-locked memory supply keeps component costs and PC pricing pressure high; we should plan pricing and inventory around it.",
-  "importance": 3,
-  "content_type": "analysis",
-  "competitors": [],
-  "publishedAt": "2026-10-20T06:40:48.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261020PD235/substrate-packaging-development-production-performance.html": {
-  "keep": false,
-  "publishedAt": "2026-10-20T06:33:49.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261020PD233/powertip-technology-design-demand-manufacturing-2026.html": {
-  "keep": false,
-  "publishedAt": "2026-10-20T06:06:28.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261020PD223/nvidia-cpu-robot-software-lg-electronics.html": {
-  "keep": false,
-  "publishedAt": "2026-10-20T04:27:46.000Z"
- },
- "Modern Retail::https://www.modernretail.co/?p=173640": {
-  "keep": false,
-  "publishedAt": "2026-10-20T04:00:00.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261020PD219/apple-microsoft-low-cost-12-inch-macbook.html": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Apple MacBook Neo pushes Microsoft to cut specs on a low-cost 12-inch Surface",
-  "short_headline": "MacBook Neo squeezes low-cost notebook rivals",
-  "takeaway": "A low-cost Apple notebook is reshaping entry-level laptop pricing; we should review our budget lineup and online price positioning.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [
-   "Apple"
-  ],
-  "publishedAt": "2026-10-20T03:50:00.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261020PD222/taiwan-ifa-demand-ceo-market.html": {
-  "keep": false,
-  "publishedAt": "2026-10-20T03:39:49.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261020PD221/apple-macbook-pro-touchscreen-launch-ipad-mini.html": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Apple sets October 28 event, expected to show first touchscreen MacBook Pro",
-  "short_headline": "Apple event Oct 28 may debut touchscreen MacBook Pro",
-  "takeaway": "A touchscreen MacBook Pro could shift premium laptop demand and comparisons; we should prepare our store messaging and promotions.",
-  "importance": 3,
-  "content_type": "announcement",
-  "competitors": [
-   "Apple"
-  ],
-  "publishedAt": "2026-10-20T03:27:34.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261020VL202/government-2026-manufacturing-production-policy.html": {
-  "keep": false,
-  "publishedAt": "2026-10-20T03:07:28.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261020PD218/samsung-2nm-fab-texas-production-tesla.html": {
-  "keep": false,
-  "publishedAt": "2026-10-20T02:32:50.000Z"
- },
  "Modern Retail::https://www.modernretail.co/?p=173494": {
   "keep": true,
   "segment": "marketplaces",
@@ -93,82 +9,6 @@
   "content_type": "news",
   "competitors": [],
   "publishedAt": "2026-10-20T14:00:00.000Z"
- },
- "Retail TouchPoints::CBMiiwFBVV95cUxQNk9BMUJ1X1FUc0dZbXo5LXFSUmdlMWhqLWdPSHhMcHV1NS1PMDVUa2ZvanRkUDQ2QVNNdlpUUXAwbDlmZTMwOE9UVnMwTFp1a0NsZEZCSldSb3ZDOXBYRFVuN0Z5NW9zR1VVdDIxVzhyVjBfMzVWQzlieWFrRFZWZ0IyQ2YtU2NNTnow": {
-  "keep": false,
-  "publishedAt": "2026-10-20T13:31:20.000Z"
- },
- "InternetRetailing::https://internetretailing.net/?p=76320": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "Research: shoppers start holiday buying earlier, beyond Black Friday and Cyber Monday",
-  "short_headline": "Shoppers start holiday buying earlier than expected",
-  "takeaway": "Concentrating promotions and ad spend on Black Friday may miss early buyers; we should start holiday offers and media earlier.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-20T13:11:04.000Z"
- },
- "TWICE::https://www.twice.com/?p=166658": {
-  "keep": false,
-  "publishedAt": "2026-10-20T13:01:55.000Z"
- },
- "InternetRetailing::https://internetretailing.net/?p=76317": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "AliExpress adds its catalogue to YouTube Shopping Affiliate Programme",
-  "short_headline": "AliExpress brings its catalogue to YouTube shopping",
-  "takeaway": "Creator-driven product discovery on YouTube is gaining a major marketplace; we should consider creator affiliate options for our store.",
-  "importance": 3,
-  "content_type": "announcement",
-  "competitors": [],
-  "publishedAt": "2026-10-20T13:01:52.000Z"
- },
- "TWICE::https://www.twice.com/?p=166674": {
-  "keep": false,
-  "publishedAt": "2026-10-20T13:01:32.000Z"
- },
- "TWICE::https://www.twice.com/?p=166640": {
-  "keep": false,
-  "publishedAt": "2026-10-20T13:00:44.000Z"
- },
- "Inc42::https://inc42.com/?p=576915": {
-  "keep": false,
-  "publishedAt": "2026-10-20T11:12:06.000Z"
- },
- "Retail TouchPoints::CBMi4AFBVV95cUxNQnhpRkM4M0lUOTQtaGJUbE55emR6VENBRDYyS2NrT0k1Nm5rUXFJNWlXSkRFdXhRUXZOelpuelhkaDdTdFUwRUhaQUNnNVRZVXRwRk1BNVIyTnRLenNWNXlpWjQ0UFNVRUphcmozUWo5aF9ROUoyaW5URWs0azBVbGVMX3JZbDNHUHJOcENHUnZFRjJFRXJBOFpLaXRrd050dXhiWklTaUtyRnMtaTM3cmQ0WGxhbktIUmNfclVQWDVvdm1JeTlodHNtMzVHU0JldW9EZ1cxdjlPV1k0dEp5MQ": {
-  "keep": false,
-  "publishedAt": "2026-10-20T11:05:16.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/holiday-season-retail-spending-sales-decline-outlook/832624/": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "Holiday projections point to pressured shoppers and possible spending drop",
-  "short_headline": "Holiday spending projections show pressured shoppers",
-  "takeaway": "Some forecasts see holiday spending falling, so we should expect price sensitivity and plan value-led offers.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-20T11:00:00.000Z"
- },
- "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/flipkart-may-be-planning-to-challenge-zomato-and-swiggy-with-food-delivery-business/135067939": {
-  "keep": false,
-  "publishedAt": "2026-10-20T10:38:57.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261020PD245/samsung-galaxy-2027-foldable-smartphone-foldable.html": {
-  "keep": false,
-  "publishedAt": "2026-10-20T09:09:11.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261020PD216/fic-global-business-2027-pc-chairman.html": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "FIC Global chairman: PC market still hit by memory shortages, no recovery in H2 2026",
-  "short_headline": "Memory shortages keep PC market weak through 2026",
-  "takeaway": "Continued memory shortages mean ongoing cost and supply pressure on PC pricing; we should plan pricing and inventory accordingly.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-20T03:55:00.000Z"
  },
  "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363623": {
   "keep": true,
@@ -229,10 +69,6 @@
  "Retail Dive::https://www.retaildive.com/news/anthropologie-holiday-marketing-campaign/833440/": {
   "keep": false,
   "publishedAt": "2026-10-20T14:44:00.000Z"
- },
- "Gartner::CBMiV0FVX3lxTFBoajBmaGs2TEpvMWV3UG9yNkstRTZwY1Y4MDdwSmpZUGNLeHFXZE1XTHpYdllMemo5SFpkNW5kY2w2bkNINHBFTFRXZEpwc2JiTkRHcWl5SQ": {
-  "keep": false,
-  "publishedAt": "2026-10-20T07:45:13.000Z"
  },
  "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363631": {
   "keep": true,
@@ -385,10 +221,6 @@
   "keep": false,
   "publishedAt": "2026-10-21T06:51:00.000Z"
  },
- "Reuters::CBMirwFBVV95cUxQTTZ4aW9rZHRKVUxlbEJ0M256bENvTG9sV3FFQUNqbTYtdk1kaHM0MHM3UEpDRHdYQ0FlcHQ0UUV4ZUc5Tllod0pqaXpGSE0zUmRDbm1SNm9sM1VaV1FGSDI3YVVDdXJnRXpPVXNQdi02V3ByOUgzQW9iZW11a2M4azBxam5mR2UzWjllVXg5SDNzZkdDRU56M01mZGp2VEItQ2trbnVWUGxfcUZMcThz": {
-  "keep": false,
-  "publishedAt": "2026-10-20T10:40:34.000Z"
- },
  "Retail Dive::https://www.retaildive.com/news/amazon-eyes-three-hundred-thousand-holiday-season-hires/833567/": {
   "keep": false,
   "publishedAt": "2026-10-21T16:40:00.000Z"
@@ -466,10 +298,6 @@
  "PYMNTS Data::CBMinwFBVV95cUxQNGFMTHp5NjdZM2ZLTmJwV3E2azRQVlF4aVZvVUcxV1N5X1dyY1hkMGV0aXdoVGpfa0prWkZZaWc2aWJPa19FNUxaTGFOejl0Y1ViOGd1bVBZR0dsbHkyY3hOUTZDMGZodU4xb0NqbmxmakV4UnREUm1jaGh2MXZWdTdheWRmVU9jVTJLZ1JrejRaaHBpdzV5SE9tem1iZzg": {
   "keep": false,
   "publishedAt": "2026-10-21T00:25:09.000Z"
- },
- "PYMNTS Data::CBMilgFBVV95cUxNT09yX3FxTUlsYzIySHM1QWhEM0wta3ZhckNfZV9BRkJyN19aSUQtaElqMmJaekFSOFZGZFpta1Bnb1FrVDZRd0JtRTdQanJFUWV5UzM1X2haeXdnUFNWeE91cDBWRWRBcXl6Z3FWUm52Q2xuMHBJSFdnWWY1N2d1Zzh0azlJX3ozaHF4eDRQOWVjbkhCU1E": {
-  "keep": false,
-  "publishedAt": "2026-10-20T08:03:42.000Z"
  },
  "Modern Retail::https://www.modernretail.co/?p=173736": {
   "keep": false,
