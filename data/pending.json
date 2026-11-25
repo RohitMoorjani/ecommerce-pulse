@@ -1,130 +1,242 @@
 [
  {
-  "id": "Inc42::https://inc42.com/?p=582034",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-25T07:39:42.000Z",
-  "title": "Kalyan Krishnamurthy To Exit Flipkart After Nearly A Decade At The Helm",
-  "snippet": "Walmart-owned Flipkart Group CEO Kalyan Krishnamurthy is set to step down in the coming weeks after being asked to leave…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261125PD213/samsung-equipment-spacex-starlink-telecom.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-25T05:55:00.000Z",
-  "title": "Samsung reportedly bids to supply SpaceX telecom equipment as Starlink Mobile expands",
-  "snippet": "Samsung Electronics has reportedly entered the bidding process to become a telecommunications equipment supplier for SpaceX, as the US space company accelerates the expansion of its Starlink Mobile direct-to-device…"
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/foxconn-faces-india-insolvency-lawsuit-over-unpaid-vendor-dues/136146943",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-25T03:33:41.000Z",
-  "title": "Foxconn faces India insolvency lawsuit over unpaid vendor dues",
-  "snippet": "While the dispute isn’t expected to derail Foxconn’s growth plans in India, it adds to the challenges facing the iPhone assembler as it competes with Tata Electronics Pvt. for a bigger role in Apple Inc.’s supply chain."
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261125PD200/growth-2027-subsidiary-acer-sales.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-25T02:56:28.000Z",
-  "title": "Acerpure targets India, Indonesia for high-double-digit growth in 2027",
-  "snippet": "Acerpure, the Acer subsidiary that makes home appliances under the Acerpure brand, will focus on India and Indonesia and is targeting high-double-digit growth in 2027, when it plans to start selling washing machines in…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261124PD237/xiaomi-gross-margin-2026-profit-electronics.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-25T02:37:46.000Z",
-  "title": "Xiaomi smartphone gross margin stays below 10% for second straight quarter in 3Q26",
-  "snippet": "Xiaomi Group reported its third-quarter 2026 financial results on November 24, showing that its smartphone and consumer electronics businesses continue to face profit pressures. Persistently high costs for key…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261125VL210/dell-demand-2027-infrastructure-dram.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-25T02:23:20.000Z",
-  "title": "Dell says AI demand will pull further ahead of supply in 2027 as memory crunch persists",
-  "snippet": "Dell Technologies is pushing back against concerns that AI infrastructure spending is nearing a peak, telling analysts that the gap between demand and component supply will widen in 2027 and that tight memory supply…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261125VL209/xiaomi-2027-europe-dram-chips.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-25T01:45:00.000Z",
-  "title": "Xiaomi expects memory costs to keep rising into 2027 amid EV push into Europe",
-  "snippet": "Xiaomi expects DRAM costs to keep climbing into 2027, prolonging pressure on its smartphone business, while it pushes ahead with a European car launch and increases spending on AI, chips and robots, President Lu Weibing…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261125PD201/2026-growth-industrial-demand-ipc.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-25T01:23:35.000Z",
-  "title": "Lex Computech says CPU supply, not demand, will decide its 2026 growth target",
-  "snippet": "Taiwanese industrial PC (IPC) and embedded systems maker Lex Computech is aiming for double-digit revenue growth in 2026 and sees a chance of another double-digit increase in 2027. Still, chairman Yung-ching Chiang said…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261125VL202/growth-analog-devices-industrial-demand-2026.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-25T00:58:56.000Z",
-  "title": "Analog Devices broadens growth beyond AI as industrial demand recovers",
-  "snippet": "Analog Devices (ADI) closed fiscal 2026 with a record quarter that combined rapid growth in data center products with a wider recovery across its traditional end markets. Management said more than two-thirds of the…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261125VL201/dell-infrastructure-revenue-growth-demand.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-25T00:45:15.000Z",
-  "title": "Dell's AI infrastructure surge reshapes its earnings mix",
-  "snippet": "Dell Technologies' fiscal third-quarter results show its growth engine shifting decisively toward infrastructure. AI-optimized servers and related data center products drove most of the expansion, and operating profit…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261124PD224/demand-pcb-2027-revenue-asia.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-25T00:45:00.000Z",
-  "title": "Symtek sees 1H27 demand holding firm on overseas orders",
-  "snippet": "Symtek Automation Asia expects customer shipments to remain secure in the first half of 2027, backed by new orders from Europe, the US, Japan, and Singapore, as AI investment continues to drive semiconductor and printed…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261124PD235/taiwan-production-manufacturing-demand-industrial.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-25T00:41:19.000Z",
-  "title": "AI and cloud demand drive Taiwan manufacturing output higher",
-  "snippet": "Taiwan's industrial production rose sharply in October 2026 as demand for high-performance computing, artificial intelligence (AI) applications and cloud services strengthened, according to the Department of Statistics…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261124VL223/samsung-patent-micron-licensing-chipmakers.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-25T00:37:44.000Z",
-  "title": "Samsung, Micron to pay up to US$1.5 billion in patent fees",
-  "snippet": "Samsung Electronics and Micron Technology have agreed to pay up to a combined US$1.5 billion under separate five-year patent licensing agreements with US memory technology company Netlist, as patent litigation involving…"
- },
- {
-  "id": "CRN::https://www.crn.com/news/computing/2026/hp-s-ai-pc-memory-new-ceo-updates-big-takeaways-from-q4-results",
-  "source": "CRN",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-25T00:26:00.000Z",
-  "title": "HP’s AI PC, Memory, New CEO Updates: Big Takeaways From Q4 Results",
-  "snippet": "Demand from customers seeking to run AI locally is becoming a bigger driver of PC growth for HP Inc. as the Windows 11 refresh winds down, leading shipments of AI PCs to exceed expectations in the company’s latest…"
- },
- {
-  "id": "PYMNTS Data::CBMiuwFBVV95cUxOblZuT2U4SUlMdkJRUDYxZGczT1UwNlVFc2N1M1JaaEVvQ3RMRjhQZmtSRmVnaHpJR3VZVmNvaVRmSjFIWk9XeUQ2TmFEUFpmTy1KSm9Pdm5oaW5senNicGRESXZsZ0RWLTRlMldlZ0lYQ0lNeFEtUXFWS1F2dTl6UDRYQ1JhN2tfQVlVcE5IM1UwcGY1bVY3dFItcWRmQzVSa3ppUE1oeFp4cHlWMlA5dHp0dldXaW9YSTIw",
+  "id": "PYMNTS Data::CBMiiAFBVV95cUxQY3pkREgweTdLbUdpQUJobm5UYzBHcWVJUlBKdzZkUFp1SmZoRG1QdmVjMTVQV05xTXNrOEVXSmpoTWk3RUp2UzNFRzd6UWlkbHVyVlFHZmVSUmFMSndBVTV0X0NCS2QxeVJaMnZWZ2tGLUJhcGJaUHFyaHNxdUFFYTNCX29idGgw",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-25T00:01:53.000Z",
-  "title": "Colgate Uses AI-Generated Consumers to Test New Product Ideas",
+  "publishedAt": "2026-11-25T17:25:04.000Z",
+  "title": "GDP Accelerates, but Consumers Balk at Big Purchases",
   "snippet": ""
  },
  {
-  "id": "Reuters::CBMiugFBVV95cUxOZG1EVmJTYUpyMnJPVzlHNE9xZFZpYmZHdkZBOTgtSllCbnRLQnNuUWtLNktuYXJqZms4Tl85T2I2dU41UmEzTWpPY0Z6TU5uaVJJZWZxLXhVcWxSa0h6cUh5bkpSdk9VdDN5QlIzb3hSLUhRV0FaM2FrVzlkUDJoN2FaeUxKOEhlN2RsZ1VoUUUwNHdTcWp6cV9BNE90ejFEVWRTcWtnbW9XV1A0VEhnSDRhMWVhbkFia1E",
+  "id": "Retail TouchPoints::CBMixAFBVV95cUxQazNiWERUbmhiU0h6a00wMmxyOUZ4cEZHSTlBTUtaYlB0SzJvYUlZRHVLdDNuQzd1ak56M2JpbUN4OEpSN2tPdXBlWWNrVzVfb25QX1d4bkdBYkdXTlVlSjZ2R05TWGpuSk95aWhtaHdWbml1SGhUZXVwMDU3RlV1a1BzVXhBNHhvLU82Q3VZNU9WZ3QxUUg4WFY5WllQWEgzRWNYc2loVEJWdU5OVVhCVlpraEtEM283dzdGNWE1RzU0elF1",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-25T17:04:45.000Z",
+  "title": "Nearly 80% of Small Business Owners Put Personal Money Into Their Business: Flute",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS::https://www.pymnts.com/?p=4426209",
+  "source": "PYMNTS",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-25T17:01:17.000Z",
+  "title": "Amazon Readies 2027 UK Launch of Car-Buying Platform",
+  "snippet": "Amazon Autos will launch in the United Kingdom in early 2027, marking the service’s first expansion beyond the United States, Amazon said in a Tuesday (Nov. 24) press release. Amazon Autos allows car shoppers to use the…"
+ },
+ {
+  "id": "NIQ::CBMisgFBVV95cUxNUFNnNjkyQjEzTnhyNlpGYk1NOVVjbkpsLVJPajdSYzAzZl94eGt6WUY2NlZkY1gtYXBPRlVPQkh6WHdhNmgzcEoyVEpQTzlLeUFZalIteVpoXzJDRjd4bUZSaWZzMGNBTXo5VS1WXzZpaURLM2x3UWZmbmNDY3BwLWIxWGpMcXgxUjRtNngtQkQ5dFFIekVQRi1XbkFQZksxRGt3WWZIYVVyMjdHaFAwZ3JB",
+  "source": "NIQ",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-25T16:49:08.000Z",
+  "title": "Impulse vs planning: how do UK consumers shop for books?",
+  "snippet": ""
+ },
+ {
+  "id": "Circana::CBMijgFBVV95cUxQTHBteG9Ya3oxMERrczJDem9SY1V4ZExiQWpFeFk3RUtNN01MUTB2ekk5V3pPdTVlY1FVQ3M2TUh1RUJBekdJZlhobHF0U2QyVGJEMXZRS1JOSWEycUNYakFEVkJ6aUhyOTExeFd0TElaMFUtX0hjVnlCQjFvNWhPME9vOTV5WkdIYmRsNkJ3",
+  "source": "Circana",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-25T16:36:10.000Z",
+  "title": "What the Thanksgiving Shopping Cart Looks Like This Year",
+  "snippet": ""
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/shein-to-pay-100m-in-ftc-settlement-over-deceptive-practices-claims/875748/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-25T16:25:00.000Z",
+  "title": "Shein to pay $100M in FTC settlement over deceptive practices claims",
+  "snippet": "The e-commerce company faced allegations from the federal agency over its fast shipping promises, the way it posted product reviews online and more."
+ },
+ {
+  "id": "Circana::CBMirAFBVV95cUxObkJsZEgtYmpHam16bm1ZeExyR0c4clM2eUt0RmFDMTlEYkpzaGg0T0g0VndYVlFsdFVwVEVPLWxLMHpubEZ1aFBRMURMbWdPclNwZ09XUEZ6X0xCN2NBUmN2TjlaQlgyZ0c0aXlZNnRKSlJVMXdhLVlMNElPV0w2X0tkQkUzYlVUMzFWWGlrOVZNUlJFNXVTU2QwQjdMaElfcDU3WWJzVHdwbEFh",
+  "source": "Circana",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-25T16:03:38.000Z",
+  "title": "Peace of Mind Is in the Cart: Shoppers Are Stocking Up Heading Into the Holidays",
+  "snippet": ""
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/holiday-marketing-hits-inflection-point-in-2026-what-brands-need-to-know/875056/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-25T15:57:00.000Z",
+  "title": "Holiday marketing hits inflection point in 2026: What brands need to know",
+  "snippet": "Consumers’ push-pull relationship with buzzy tactics like AI and tried-and-true strategies like creator tie-ups is challenging brands to find the right balance."
+ },
+ {
+  "id": "Global Marketplaces::CBMipwFBVV95cUxPSFZPMzlEc053ZFF6WnE2d3lVSTEwbHAzS0dhV0k3RlRlSjNzdmktOWF2RXVscVluRktFNUR5Y3NBNWV4d0VXUUF1b0ZvOXBEeWxNZGd4WGtqUEI5SEFsTHBBU055QjlaamIzSU8yeW9rX0FCdkx1Qng2OUV6YmVDYWFrWHpJWE5LR1VRWDluVzdrNTFVMVJuXzBlYmVjUDY3UERyUHZPSQ",
+  "source": "Global Marketplaces",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-25T14:49:13.000Z",
+  "title": "Walmart-owned Flipkart CEO Kalyan Krishnamurthy to step down",
+  "snippet": ""
+ },
+ {
+  "id": "Inc42::https://inc42.com/?p=582128",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-25T14:48:34.000Z",
+  "title": "Kalyan Krishnamurthy’s Exit: How Walmart’s Kickback Probe, IPO Delay Shook Up Flipkart",
+  "snippet": "Walmart has asked Flipkart Group CEO Kalyan Krishnamurthy to step down, three sources aware of the development told Inc42 as…"
+ },
+ {
+  "id": "Retail Dive::https://www.retaildive.com/news/nike-jordan-dicks-sporting-goods-foot-locker-q3/875628/",
+  "source": "Retail Dive",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-25T14:18:00.000Z",
+  "title": "Nike ‘absolutely making the right decision with Jordan’: Dick’s Sporting Goods",
+  "snippet": "Executive Chairman Edward Stack applauded Nike for its long-term approach with the brand, as Foot Locker sees some signs of progress."
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=167266",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-25T14:01:54.000Z",
+  "title": "Circana: Holiday Tech Sales May Depend on Consumers Who Delayed Back-to-School Purchases",
+  "snippet": "Affordability concerns and higher device prices could make postponed purchases a key source of holiday technology demand"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=167316",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-25T14:01:47.000Z",
+  "title": "Review: INIU Outdoor Rugged 10000 and 20000",
+  "snippet": "Rugged power banks offer IP67 protection, fast charging and solar compatibility, with different capacities for shorter outings and extended off-grid use"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=167296",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-25T14:00:08.000Z",
+  "title": "Warner Music Group CEO Robert Kyncl To Deliver CES 2027 Keynote",
+  "snippet": "Keynote will examine the role of technology and AI in music creation and fan engagement"
+ },
+ {
+  "id": "Reuters::CBMi1AFBVV95cUxOQXpGTVZodUxhM09Jb0ZEQ1JXcmt0VkoxUndncmc3cXhoSWNmWlduNlJmRlA3VzhuRktZT2F6ZjJoTGZ5eVZEa01xZ3A2OHBaVjA4dDJkUTR4TkNNUnc5ay1XazlBcHAzSkVuQVpEVGtsMGlPVlNzLVM0X3F3WnJMZklqMTJnMWszSkxBMEZRLWx5cXgyRE9aSEJtSDlELWRCVjByTGhqT0hPQ200Ui03TUJfaGd1NXRjLUVVM21ObUlSSWd0bEktdmtua0VMWlpoRHFadg",
   "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-24T23:15:07.000Z",
-  "title": "Dell lifts annual forecasts after record quarter on surging AI server demand",
+  "publishedAt": "2026-11-25T13:58:42.000Z",
+  "title": "Retailers face rising AI cyberattack threat ahead of Black Friday, many uninsured",
+  "snippet": ""
+ },
+ {
+  "id": "TechCrunch::https://techcrunch.com/?p=3192204",
+  "source": "TechCrunch",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-25T13:08:19.000Z",
+  "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+  "snippet": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found."
+ },
+ {
+  "id": "Reuters::CBMiqAFBVV95cUxQTlY1ZHhjbzNhTmx4NHlVTi16dXZyQUZhT3pZOGdlUUxmemZ0cDUyazhncnRzR3VsTzBQeXl1dEplRmFBakRfUXJGclphMG9NSkRqMlAtN0tjbU9mMndXV09XUGNzLUlWMzU2ajJUeXZIWW9vZldyV3FYU0ZURzFfTDh2cUJjQW5kU3pWUWNWZ29CQ0hUbFFCaGdNZ1lTWk5DVmVsejBzbmQ",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-25T13:02:07.000Z",
+  "title": "Shein warns recovery will take time as e-commerce fees bite",
+  "snippet": ""
+ },
+ {
+  "id": "Retail TouchPoints::CBMixgFBVV95cUxNdHhMY0NiTm9JN2k0ODdnS2pfVUVqTllqbUItQUlSRkR1cW51RE1fLXZibE12ZGt4V25XTDJYWU1yRTRoOGszT1VCaHdkUFA0SkNsVnpoZkNfaFdGLW80aEltMGtPeEFLczA2SWZsU2Y3N2phNklJbTd3RXhfcFdZVHZYcl9xWkFUdnJtZE0zVkpoa1lBRkhLR3EyN2tOU3JZWUluSjAwa0M4akZISlBWdlM2RThuYktLZThJM1pfRjRaNU9TdWc",
+  "source": "Retail TouchPoints",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-25T12:04:47.000Z",
+  "title": "The Backbone Battle: The Right AI Architecture Will Win the Store",
+  "snippet": ""
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76626",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-25T11:46:18.000Z",
+  "title": "Pets at Home raises outlook as retail recovery drives profit growth",
+  "snippet": "Food range relaunch, market share gains and digital investment support stronger first-half performance. The post Pets at Home raises outlook as retail recovery drives profit growth appeared first on InternetRetailing."
+ },
+ {
+  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364341",
+  "source": "Digital Commerce 360",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-25T11:00:26.000Z",
+  "title": "Adobe data shows online holiday spending up 9.1% ahead of Thanksgiving",
+  "snippet": "As retailers prepare for Thanksgiving Day to kick off the Cyber 5, a five-day period that ends on Cyber Monday, new data from Adobe Analytics suggests that online shoppers have already spent more than $82.5 billion…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/amazon-records-27-billion-in-cumulative-ecommerce-exports-from-india/136156539",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-25T09:59:23.000Z",
+  "title": "Amazon records $27 billion in cumulative ecommerce exports from India",
+  "snippet": "Home textiles and apparel were key growth drivers in 2026, recording compound annual growth rates of 30 per cent and 23 per cent, respectively, over the past decade. Amazon has launched a cluster-led initiative in…"
+ },
+ {
+  "id": "InternetRetailing::https://internetretailing.net/?p=76620",
+  "source": "InternetRetailing",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-25T09:58:02.000Z",
+  "title": "GUEST COMMENT How retailers can turn GTA VI demand into long-term customer growth",
+  "snippet": "Katarzyna Jakubiec, chief business officer at G2A Capital Group, explores the way that a major gaming release like the launch of GTA VI can drive long-term retail growth across multiple categories. The post GUEST…"
+ },
+ {
+  "id": "PYMNTS Data::CBMiqAFBVV95cUxQMHVjU0UyYWtZN1dsS3BYVDVYR29FaTJKYW5DZVBHQlV4SjY2RzFKRm1QUTdrWWZCZmk3RExub25QLTJZaTdhczBMVWN1UDRkOTJ2RzNwLUc5OGc2TmdhVE1fQmNtLUUwVmF2VjBSc2JNbGtzYmRGUUxmSHpuelp1TXh2a3lfbEgtZERlcTVwendEVVF6cHZ3TXE1bzQ2OEh3MlRhRXVzS3g",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-25T09:21:07.000Z",
+  "title": "Convenience Beats Price for 34% of Grocery Shoppers",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS Data::CBMirgFBVV95cUxOcVJxV1J1RG16OC1WUG9RejB4RjhSd3JHOUZlcFdjeGNYQl9FRVVEZ2dfaG12QjhlZTh5Q3U0c1dTRmpyelpQSUQ5NHpkX0JMTHZkTndVUzRUNWdoNGp2ZjRwRXFXYTNMZkdsRkJaVjljYXB1YlBESzNvVTA3U0lLcHRqUC14d0cyMWxGaFZjWkNTbEVkdzB4VGhkSF8yVnEzSFBra29yZmpQNVRsS1E",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-25T09:07:01.000Z",
+  "title": "How Fans Rearrange Their Budgets to Keep Spending on Favorites",
+  "snippet": ""
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/kalyan-krishnamurthy-to-leave-flipkart-after-more-than-11-years/136153398",
+  "source": "ETRetail",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-25T08:08:05.000Z",
+  "title": "Kalyan Krishnamurthy to leave Flipkart after more than 11 years",
+  "snippet": "Under Krishnamurthy’s leadership, Flipkart’s business grew more than fivefold, according to the company. The company also expanded its reach across India, developed new services for consumers and sellers, and built The…"
+ },
+ {
+  "id": "PYMNTS Data::CBMilAFBVV95cUxQMk02cEJKeWpmU1gwV05rc2N1eVVIUW5lN3JtWkw1aW9fdDBWUUFXUlJidWVvV3ZaOC1MTFJ6Tm1KT3lTZ29UUlBUZ2FZOXQyMm10bllZS2txQktSRjhzbkN5d0loSVN2NFRQR1VacFJOeko4WElRSnprM3M0eENIUmZHVngxd2hPUTltVmJXS3pHYlVm",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-24T19:36:48.000Z",
+  "title": "Walmart Opens Black Friday Shopping to Meta’s AI Agent",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS Data::CBMipwFBVV95cUxOc01RbFBWb21fbE5YQlExSVpsRDJ3TWh2am1FaVZmWVAyVlFRaEgwUk1ITFp5Y1MwNWEwelBpR1MxX3AyYllNWklDZGV0cG1PTzg2c1RjZGF2UjlUNDhBZTlfTG85bzViZ2ZHN19UZjRzM2lhcUg5eTJnZy1CbEpGdWRjNWRVR0x5UzhnYTNuaXRQVTNyMFJ1NzI2dmw3QzNnZ3pJa2M3QQ",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-24T16:36:48.000Z",
+  "title": "Best Buy Says AI Glasses and Health Rings Lift Q3 Comparable Sales",
+  "snippet": ""
+ },
+ {
+  "id": "Reuters::CBMitwFBVV95cUxPNUpTeVhUUzRqZ3VZdkdCdHZwSGFES25HVkdyR2dMUUNoeDFfNU5JRWRyNXNibWxUY2wxcW1CWGVkLUxhZWFmVk5lalhDOTZtN1hIU1N0LTBGaVFMSEw4NUZZQW9KNWx6SGMxeFJhSUNzZlg5SndQUGhNX3pFbHNWQmZaekNodEstdlh1V3ROYThvc1k5TVpjRkxRZE9nRUl6ek1uNjIxRWtWOENtbWlKYlNsNWt6U28",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-23T14:03:01.000Z",
+  "title": "Even affluent shoppers are embracing buy now, pay later, Block data shows",
+  "snippet": ""
+ },
+ {
+  "id": "Counterpoint Research::CBMiekFVX3lxTE5PbXQ4NW9DTXgyU0dfc1kzMmYwZnpaYXJrTnpyUFJtWHZ0dDcwbWhpREtVSG82Y2YxaUdBbld3VTZVWDlpN29Ea21JTGF2WWdLeDJiN2dfaXJkTzVPWmJLaVh6N2RxRW5hbFNzYUVsamRvblVDdWlWUURn",
+  "source": "Counterpoint Research",
+  "sourceType": "Analyst",
+  "publishedAt": "2026-11-23T08:00:00.000Z",
+  "title": "Apple iPhone Market Share",
+  "snippet": ""
+ },
+ {
+  "id": "Global Marketplaces::CBMiyAFBVV95cUxOWDJfS2RxQlRiZmpGR0xZQmVpdkZqdVR0bzdyRTVFZUctUnFsWUN6cXZlZ2hlSmpVUW0wUnpwOHUtMjBzZGtzVjhhRW13M09vUTJIRG00QXFiMGxMNW1wbDRuZzFlZDUtTldXWlpLWExPajd5Rzc1OWpDN01PVzBPd1BWVG1taWtUamc0Zzh5b1djTFY1cER0SnNsU0NXZ242YmhKUGVRU2JWelVsN3FYT3k1VjlheFlHY2YyNGp2Z2RwbjNJTDF6bQ",
+  "source": "Global Marketplaces",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-19T13:52:22.000Z",
+  "title": "Dutch privacy watchdog AP advises consumers not to purchase smart glasses",
   "snippet": ""
  }
 ]
