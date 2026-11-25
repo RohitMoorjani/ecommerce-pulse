@@ -1,40 +1,39 @@
 {
- "updatedAt": "2026-11-24T15:51:05.002Z",
- "title": "AI shopping and costlier parts: we must fix checkout and pricing",
- "summary": "NRF: half of holiday shoppers plan to use AI. ChatGPT Wallet and Klarna in Adyen enable agent purchases; Target reports an AI sales lift. PCB shortage lasts to mid-2028; notebook shipments stay weak to Q2 2027.",
+ "updatedAt": "2026-11-25T00:51:20.984Z",
+ "title": "Shopping is moving to AI agents while PC costs rise; our store must adapt",
+ "summary": "Walmart put Black Friday deals in Meta’s Muse agent; ChatGPT Wallet and Adyen/Klarna enable agent checkout; NRF: half of holiday shoppers plan to use AI. DigiTimes: PCB shortage to mid-2028, weak notebooks to Q2 2027.",
  "points": [
   {
-   "headline": "Agent checkout is live, so our catalog and payments must be agent-ready",
-   "detail": "ChatGPT Wallet buys from merchants via its Dots agent; Klarna joined Adyen’s agentic suite; NRF says half of holiday shoppers plan to use AI. We should make feeds, pages and financing agent-readable.",
+   "headline": "AI agents are becoming a live deal-discovery and checkout channel",
+   "detail": "Walmart added Black Friday deals to Meta’s Muse and ChatGPT Wallet enables merchant purchases. We should make our catalog, promos and checkout readable and usable by agents.",
    "segment": "agentic",
    "storyIds": [
+    "TechCrunch::https://techcrunch.com/?p=3192047",
     "DigiTimes::https://www.digitimes.com/news/a20261118PD255/openai-chatgpt-2026-data.html",
-    "PYMNTS::https://www.pymnts.com/?p=4414261",
+    "PYMNTS::https://www.pymnts.com/?p=4414261"
+   ]
+  },
+  {
+   "headline": "Half of holiday shoppers plan to use AI for research",
+   "detail": "NRF finds half plan to use AI this season, so our product pages and feeds need to be clear to AI assistants as well as to people.",
+   "segment": "trends",
+   "storyIds": [
     "NRF::CBMifEFVX3lxTFBES1ViSjJobENsejBBZlRsQnpzY0s4TXhNbGhhUWFCSXhBazZIaWFtWHFieWhVbUYxS2diVlJodmFsenBHTUQ4cTNTUDVjVDBXVXRNWGYyUTVWdGZuS1hVZUU5V3ZqV0E3UU9KMEdtN2pxZHlNQURlb091Zlc"
    ]
   },
   {
-   "headline": "Component shortages are lifting prices while notebook demand stays soft",
-   "detail": "PCB relief is not seen before mid-2028; European notebook revenue rose 16% on pricier models while units fell; shipments stay weak to Q2 2027. We should plan inventory, pricing and promotions together.",
+   "headline": "Component costs keep PC prices up while unit demand stays soft",
+   "detail": "PCB shortages may last to mid-2028, notebook shipments stay weak through Q2 2027, and Best Buy computing sales held. We should plan inventory, pricing and mix carefully.",
    "segment": "pc",
    "storyIds": [
     "DigiTimes::https://www.digitimes.com/news/a20261120PD235/pcb-demand-electronics-manufacturing.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261123VL215/notebooks-europe-shipments-sales-revenue-growth.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261118PD215/pc-shipments-2027-2026-market.html"
+    "DigiTimes::https://www.digitimes.com/news/a20261118PD215/pc-shipments-2027-2026-market.html",
+    "Modern Retail::https://www.modernretail.co/?p=175895"
    ]
   },
   {
-   "headline": "Retailers are winning with AI assistants and fast delivery",
-   "detail": "Target’s Ask Target assistant shows an early sales lift in beta; Walmart U.S. e-commerce grew 23% on fulfillment speed. We should test guided shopping and match delivery promises.",
-   "segment": "marketplaces",
-   "storyIds": [
-    "Retail Dive::https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/",
-    "Retail Dive::https://www.retaildive.com/news/walmart-ecommerce-boom-fulfillment-speed-q3-earnings/875166/"
-   ]
-  },
-  {
-   "headline": "Small-business holiday spending is a window for business offers",
-   "detail": "Amex projects a 14-year high in small business holiday spending. We should push business bundles, financing and bulk offers in our store.",
+   "headline": "Small-business holiday spending is at a 14-year high",
+   "detail": "Amex projects the strongest small-business holiday spending in 14 years, a window for business bundles, financing and bulk offers in our store.",
    "segment": "trends",
    "storyIds": [
     "PYMNTS Data::CBMimAFBVV95cUxQMk5IN0ZvWjcxX2hDMFJQTHhpVzZPQlZ4T1NIdzZVWlFSMzQwNzB1TC13R3VFUUZONDR1ay1zNERJTG1rYUlYZERMZEYwTmt4TC1fNU1lNEZ3dEtJbDhSMkdvTDJjLVctN0JodWpRZDRjclVQTUdqM3J3S01YWDlGUGliZ091R3lWX193YzlyeFhhWHl1TlRfWg"
