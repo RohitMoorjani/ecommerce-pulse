@@ -1,234 +1,130 @@
 [
  {
-  "id": "PYMNTS Data::CBMitgFBVV95cUxOOTEzSTlSS0dwWXl2dW1qOUN4eUhpcU5QbEV3c1A3aUlKRzJJcWpQX2ZJc3N6Z0xBZHZyOUdhODhpTkZKNjUtRVdNRnJOME5EU2V6VlRHdlIxUGR3NktHVWItZklQaExBZWkyMTVVVHdHdDY2U0xMcTQyNkNNQms4OEJfc2xEVFczaW1vcHlsUTdCUmR5S0oyVkQxZTdiekZUcDR4bThvb2R4NmwzYWJkdm1HOU1jQQ",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-24T23:12:39.000Z",
-  "title": "Card Installments and BNPL Help Put Thanksgiving Dinner on the Table",
-  "snippet": ""
- },
- {
-  "id": "TechCrunch::https://techcrunch.com/?p=3192047",
-  "source": "TechCrunch",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-24T21:32:38.000Z",
-  "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-  "snippet": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
- },
- {
-  "id": "Retail TouchPoints::CBMilwFBVV95cUxNSEdRUmJDZTRNcG9jeGNEaWxhRmZuUGhGbU92NDkwaWNoMFZPd3ViT0RjaWdIRERmWDV3aFA1eWVaLV9jVE1pRzVOTlFqdldwUW1zTk1XOUYxaU9UYTN6X1ZRc0cyc1BUVFBfYW96ZnJfOVhSN0pwNENUWWNZZnBXTzR0Wmpwb1ZrbW1DV0l1R0N4UFBzVXlr",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-24T20:03:45.000Z",
-  "title": "AnswerLab: AI Use Rising Despite Costing Users",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMingFBVV95cUxPYWEwa3c0R2VSMlNkWlI1V0c0Zy1YbHBWVW1DMTJscmNLNTlZdW9LbDZzVVhDS3RuaWl2TF9PVHM0ak9QbVJYajVQVUFNUXNtVlc4bzJ0RjVleEJyNDJWZnE5bXQ0ZUxGSWlmSXBGaHRucVRSSHVFRl9zUTQyTlJsLTlWRlp5VTZFUVpTdW9MLTN0TlBIYlFWdExtbTZ3Zw",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-24T18:31:50.000Z",
-  "title": "Dollar Tree Traffic Leaps 3.8% as Shoppers Seek Value",
-  "snippet": ""
- },
- {
-  "id": "Modern Retail::https://www.modernretail.co/?p=175895",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-24T18:28:03.000Z",
-  "title": "Best Buy sales outperform even as computing gets more expensive",
-  "snippet": "As memory prices crept up, Best Buy’s computing sales held the line this quarter, propped up by horsepower needs for gaming and artificial intelligence."
- },
- {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364304",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-24T17:46:45.000Z",
-  "title": "Why Your Holiday Support Spike Is a Repetition Problem, Not a Staffing Problem",
-  "snippet": "Sponsor content is created on behalf of and in collaboration with VivoChat by DigitalCommerce360. Our editorial staff is not involved in the creation of the sponsored content. Black Friday is here, and the inbox is…"
- },
- {
-  "id": "Retail TouchPoints::CBMizgFBVV95cUxQd0diQTdLYTVyV1BMNlFYQ2VidmhSUEtTRW02bk45bWdlZldIblp5bXpraDZKcWNSTWk4MHJ3Z0tqcEFmdGR0STlFOXJtUkI5bnpjMDRPT0lkNm5OOFZaTThKYmdZZmwzMnBWQ285VlZKeDhXTmhpb3RsRDFfX2NCYUh5aWZLbjBhcVNNOUJVSDYzYTRGVWd4eVQwblN1ZHFxM3Y0M29QeDYzUkxsOWNpMW9WLVVJMTFuemNsOFVQeV9oY1J4UHRpeXlFSUhHUQ",
-  "source": "Retail TouchPoints",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-24T17:28:18.000Z",
-  "title": "Intelligent Connections Are the Key to the AI-enabled Path to Purchase",
-  "snippet": ""
- },
- {
-  "id": "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364299",
-  "source": "Digital Commerce 360",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-24T17:24:09.000Z",
-  "title": "Your catalog is out of date the day it ships. Here’s how to fix that.",
-  "snippet": "Sponsor content is created on behalf of and in collaboration with Flipsnack by DigitalCommerce360. Our editorial staff is not involved in the creation of the sponsored content. Six weeks is a normal amount of time to…"
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/kohls-turns-corner-q3-sephora-falls/875593/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-24T17:12:00.000Z",
-  "title": "Kohl’s turns a corner in Q3, no thanks to Sephora",
-  "snippet": "The department store posted positive comps in most categories, thanks to strong private label sales and store improvements, and profits soared."
- },
- {
-  "id": "PYMNTS Data::CBMinwFBVV95cUxPY0F0TTdCN1NWeV9POVFvYll0ZXpoUkZWT0taYndwQXFzTzI3WkVGM3lRRTI0X2xQelREQ1BZUXhZdFlrWEI0SmR6WlV1UnhMaE5pRF9RUHpmQm0xbVdRVmxONXhQWXNSSVpDMlc3ZnJ0Nm9mX2lwUHFRdTZSemtaNnhiQXlYcjl4RXdzbjZrSVdCangxd1hWRG4wcHJaNTg",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-24T16:36:48.000Z",
-  "title": "The Small Business Cheat Sheet for Winning the Holidays Without Losing Money",
-  "snippet": ""
- },
- {
-  "id": "CRN::https://www.crn.com/news/computing/2026/20-cool-gadget-gift-ideas-for-techies-2026-holiday-gift-guide",
-  "source": "CRN",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-24T16:35:00.000Z",
-  "title": "20 Cool Gadget Gift Ideas For Techies: 2026 Holiday Gift Guide",
-  "snippet": "CRN’s 2026 Holiday Gift Guide features 20 cool tech gifts, including the Apple MacBook Neo, Google Pixel 11, Dell XPS 13, DJI Neo and more."
- },
- {
-  "id": "Retail Dive::https://www.retaildive.com/news/dollar-tree-q3-holiday-shoppers-buy-closer-to-need/875619/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-24T16:26:00.000Z",
-  "title": "Dollar Tree predicts holiday shoppers will ‘buy closer to need’",
-  "snippet": "The retailer’s Q3 total revenue grew nearly 7%, with traffic growth outpacing increases in average ticket."
- },
- {
-  "id": "Inc42::https://inc42.com/?p=581987",
+  "id": "Inc42::https://inc42.com/?p=582034",
   "source": "Inc42",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-24T16:17:09.000Z",
-  "title": "Shadowfax To Acquire WeFast To Expand Into Intra-City Deliveries",
-  "snippet": "Shadowfax has acquired the Indian entity of global same-day intra-city delivery platform Borzo (formerly known as WeFast) for ₹23.3 Cr,…"
+  "publishedAt": "2026-11-25T07:39:42.000Z",
+  "title": "Kalyan Krishnamurthy To Exit Flipkart After Nearly A Decade At The Helm",
+  "snippet": "Walmart-owned Flipkart Group CEO Kalyan Krishnamurthy is set to step down in the coming weeks after being asked to leave…"
  },
  {
-  "id": "Global Marketplaces::CBMiwwFBVV95cUxNVzZmeVdiRUZ4MjM1VElpODlKNWRuLXYtWjEtYlFzQWROV1dBRFF1VmpxOWVCeVRsY2Mwb0F2bWpyNksxNlVzcmFGTE5UdXU1dzFyUURoU1ducjBYUmtFZVpsdTEzM216NlVNZ0xxdmxtcEVfRy1pSFdvVWxtWnJKLWd3aGYzMVY4VHprVU9MX1JqUzF1a0VMUWRkNW0tbW15ZmZTTjZoUDJrdGZoUkFfSGRxcGhMbHJReG1fMkNkcmNvazQ",
-  "source": "Global Marketplaces",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261125PD213/samsung-equipment-spacex-starlink-telecom.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-25T05:55:00.000Z",
+  "title": "Samsung reportedly bids to supply SpaceX telecom equipment as Starlink Mobile expands",
+  "snippet": "Samsung Electronics has reportedly entered the bidding process to become a telecommunications equipment supplier for SpaceX, as the US space company accelerates the expansion of its Starlink Mobile direct-to-device…"
+ },
+ {
+  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/foxconn-faces-india-insolvency-lawsuit-over-unpaid-vendor-dues/136146943",
+  "source": "ETRetail",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-24T16:14:58.000Z",
-  "title": "Best Buy leans on AI-driven gadget update cycle to lift annual targets ahead of holidays",
-  "snippet": ""
+  "publishedAt": "2026-11-25T03:33:41.000Z",
+  "title": "Foxconn faces India insolvency lawsuit over unpaid vendor dues",
+  "snippet": "While the dispute isn’t expected to derail Foxconn’s growth plans in India, it adds to the challenges facing the iPhone assembler as it competes with Tata Electronics Pvt. for a bigger role in Apple Inc.’s supply chain."
  },
  {
-  "id": "PYMNTS Data::CBMipwFBVV95cUxQaWpHUkZxRUtjVEJodXJnd0xPWHJPVlVvWWs2MnZpT0l3SDRBSnNhLXFFbHZtRXgxZ2ZvYXJ4WWgxMEpLcXk2bDkyRU9STXRmRjBFS1NwZ2I3NkdXa0Rta2k0WXRNV003Zm9JTnNEeENPNEFBLW1WNHUxb0dDRUdyWHBBRFB6bTIwdEptbV9IaE9iTG1QM0NLUkVmaWZfTHpfVUdwQUk4NA",
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261125PD200/growth-2027-subsidiary-acer-sales.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-25T02:56:28.000Z",
+  "title": "Acerpure targets India, Indonesia for high-double-digit growth in 2027",
+  "snippet": "Acerpure, the Acer subsidiary that makes home appliances under the Acerpure brand, will focus on India and Indonesia and is targeting high-double-digit growth in 2027, when it plans to start selling washing machines in…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261124PD237/xiaomi-gross-margin-2026-profit-electronics.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-25T02:37:46.000Z",
+  "title": "Xiaomi smartphone gross margin stays below 10% for second straight quarter in 3Q26",
+  "snippet": "Xiaomi Group reported its third-quarter 2026 financial results on November 24, showing that its smartphone and consumer electronics businesses continue to face profit pressures. Persistently high costs for key…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261125VL210/dell-demand-2027-infrastructure-dram.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-25T02:23:20.000Z",
+  "title": "Dell says AI demand will pull further ahead of supply in 2027 as memory crunch persists",
+  "snippet": "Dell Technologies is pushing back against concerns that AI infrastructure spending is nearing a peak, telling analysts that the gap between demand and component supply will widen in 2027 and that tight memory supply…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261125VL209/xiaomi-2027-europe-dram-chips.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-25T01:45:00.000Z",
+  "title": "Xiaomi expects memory costs to keep rising into 2027 amid EV push into Europe",
+  "snippet": "Xiaomi expects DRAM costs to keep climbing into 2027, prolonging pressure on its smartphone business, while it pushes ahead with a European car launch and increases spending on AI, chips and robots, President Lu Weibing…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261125PD201/2026-growth-industrial-demand-ipc.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-25T01:23:35.000Z",
+  "title": "Lex Computech says CPU supply, not demand, will decide its 2026 growth target",
+  "snippet": "Taiwanese industrial PC (IPC) and embedded systems maker Lex Computech is aiming for double-digit revenue growth in 2026 and sees a chance of another double-digit increase in 2027. Still, chairman Yung-ching Chiang said…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261125VL202/growth-analog-devices-industrial-demand-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-25T00:58:56.000Z",
+  "title": "Analog Devices broadens growth beyond AI as industrial demand recovers",
+  "snippet": "Analog Devices (ADI) closed fiscal 2026 with a record quarter that combined rapid growth in data center products with a wider recovery across its traditional end markets. Management said more than two-thirds of the…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261125VL201/dell-infrastructure-revenue-growth-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-25T00:45:15.000Z",
+  "title": "Dell's AI infrastructure surge reshapes its earnings mix",
+  "snippet": "Dell Technologies' fiscal third-quarter results show its growth engine shifting decisively toward infrastructure. AI-optimized servers and related data center products drove most of the expansion, and operating profit…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261124PD224/demand-pcb-2027-revenue-asia.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-25T00:45:00.000Z",
+  "title": "Symtek sees 1H27 demand holding firm on overseas orders",
+  "snippet": "Symtek Automation Asia expects customer shipments to remain secure in the first half of 2027, backed by new orders from Europe, the US, Japan, and Singapore, as AI investment continues to drive semiconductor and printed…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261124PD235/taiwan-production-manufacturing-demand-industrial.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-25T00:41:19.000Z",
+  "title": "AI and cloud demand drive Taiwan manufacturing output higher",
+  "snippet": "Taiwan's industrial production rose sharply in October 2026 as demand for high-performance computing, artificial intelligence (AI) applications and cloud services strengthened, according to the Department of Statistics…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261124VL223/samsung-patent-micron-licensing-chipmakers.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-25T00:37:44.000Z",
+  "title": "Samsung, Micron to pay up to US$1.5 billion in patent fees",
+  "snippet": "Samsung Electronics and Micron Technology have agreed to pay up to a combined US$1.5 billion under separate five-year patent licensing agreements with US memory technology company Netlist, as patent litigation involving…"
+ },
+ {
+  "id": "CRN::https://www.crn.com/news/computing/2026/hp-s-ai-pc-memory-new-ceo-updates-big-takeaways-from-q4-results",
+  "source": "CRN",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-25T00:26:00.000Z",
+  "title": "HP’s AI PC, Memory, New CEO Updates: Big Takeaways From Q4 Results",
+  "snippet": "Demand from customers seeking to run AI locally is becoming a bigger driver of PC growth for HP Inc. as the Windows 11 refresh winds down, leading shipments of AI PCs to exceed expectations in the company’s latest…"
+ },
+ {
+  "id": "PYMNTS Data::CBMiuwFBVV95cUxOblZuT2U4SUlMdkJRUDYxZGczT1UwNlVFc2N1M1JaaEVvQ3RMRjhQZmtSRmVnaHpJR3VZVmNvaVRmSjFIWk9XeUQ2TmFEUFpmTy1KSm9Pdm5oaW5senNicGRESXZsZ0RWLTRlMldlZ0lYQ0lNeFEtUXFWS1F2dTl6UDRYQ1JhN2tfQVlVcE5IM1UwcGY1bVY3dFItcWRmQzVSa3ppUE1oeFp4cHlWMlA5dHp0dldXaW9YSTIw",
   "source": "PYMNTS Data",
   "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-24T16:09:33.000Z",
-  "title": "84% of Americans Planning a Brick-and-Mortar Black Friday",
+  "publishedAt": "2026-11-25T00:01:53.000Z",
+  "title": "Colgate Uses AI-Generated Consumers to Test New Product Ideas",
   "snippet": ""
  },
  {
-  "id": "Retail Dive::https://www.retaildive.com/news/black-friday-retailers-tech-outages-ai/875541/",
-  "source": "Retail Dive",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-24T15:23:00.000Z",
-  "title": "Retailers brace for Black Friday after widespread tech outages",
-  "snippet": "The vital shopping event and Cyber Week already pose a challenge to retailers’ online systems — but the recent spate of outages across sectors highlights a new set of challenges."
- },
- {
-  "id": "Reuters::CBMipAFBVV95cUxQRzh1aTVFYlpJNW53akl0dTZtUEF6WGtkOTdKN2kzWEpKRktCYktOVTM5YkljRUxFZUkxYmlFQTJ4c2xpM3E4NWlYUVNVbXBEWEFHMjFjdTJrTzlkekF5Zl9ONlJWUTZxbVBTd2x4UTdVUVZnR0VQQ3VzR1hCV3EzOEtlODIwRTZiSmZFd2tpZDJHYWJDLVhfck9mMXRPd2lXX1BSZA",
+  "id": "Reuters::CBMiugFBVV95cUxOZG1EVmJTYUpyMnJPVzlHNE9xZFZpYmZHdkZBOTgtSllCbnRLQnNuUWtLNktuYXJqZms4Tl85T2I2dU41UmEzTWpPY0Z6TU5uaVJJZWZxLXhVcWxSa0h6cUh5bkpSdk9VdDN5QlIzb3hSLUhRV0FaM2FrVzlkUDJoN2FaeUxKOEhlN2RsZ1VoUUUwNHdTcWp6cV9BNE90ejFEVWRTcWtnbW9XV1A0VEhnSDRhMWVhbkFia1E",
   "source": "Reuters",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-24T15:22:54.000Z",
-  "title": "Dollar Tree raises 2026 profit forecast as shoppers hunt for bargains before the holidays",
-  "snippet": ""
- },
- {
-  "id": "Modern Retail::https://www.modernretail.co/?p=175743",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-24T15:00:00.000Z",
-  "title": "Brands Briefing: Crocs has found a social media star in new mascot Niles",
-  "snippet": "With 40,000 Instagram followers and his own plush toy, Crocs' new mascot Niles is building hype ahead of the brand's 25th anniversary."
- },
- {
-  "id": "Dell Blog::https://www.dell.com/en-us/blog/why-your-laptop-s-audio-matters-more-than-you-think",
-  "source": "Dell Blog",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-11-24T15:00:00.000Z",
-  "title": "Why Your Laptop's Audio Matters More Than You Think",
-  "snippet": "See how Dell Pro 5 laptop audio uses Cirrus Logic smart amplifiers and on-chip tuning to deliver balanced, clear sound for meetings and calls."
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=167275",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-24T14:01:45.000Z",
-  "title": "NIKKI Targets U.S. Retail With New Approach To Wearable Wellness",
-  "snippet": "NIKKI is drug-free, non-invasive and waterproof to 10 meters"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=167311",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-24T14:01:03.000Z",
-  "title": "Audio Advice Acquires Hanson Audio Video",
-  "snippet": "Hanson founders will remain with the company"
- },
- {
-  "id": "TWICE::https://www.twice.com/?p=167173",
-  "source": "TWICE",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-24T14:00:39.000Z",
-  "title": "Walt’s Expands National Distribution Network With New Jersey Fulfillment Center",
-  "snippet": "Retailer opens fourth warehouse nationwide and its first in the Northeast"
- },
- {
-  "id": "Dell Blog::https://www.dell.com/en-us/blog/how-cyberattackers-target-small-businesses-and-how-to-stop-them",
-  "source": "Dell Blog",
-  "sourceType": "Competitor Newsroom",
-  "publishedAt": "2026-11-24T14:00:00.000Z",
-  "title": "How Cyberattackers Target Small Businesses and How to Stop Them",
-  "snippet": "Learn how cyberattacks move through a small business, from first opening to disruption, and which PC, software and response controls help interrupt each stage."
- },
- {
-  "id": "Reuters::CBMivgFBVV95cUxNQ25sNHZjclNNMU5UMTlEenRWYTBtZkpwNllhVVFxMzhwaTVBb0V6SzVZNHp1RlJKa0MteXFzUkFWenM5SlhjLTd5UGdOSEZvaW96ZG01NEk5QkwxZ25NQ0hQRU9HX0VNbGR1RXNYaDhEcTFWeFlXMUstVml4Q1RBMURfdy1kTFFLN1piWjRPTHFqN2x4eW9GZVc4d3llbXBDc2Q1TVdQZ2o4SUNqMklJZzJ1anJnYnEwdFVMUTNn",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-24T12:30:21.000Z",
-  "title": "US malls make a holiday comeback as shoppers seek more than deals",
-  "snippet": ""
- },
- {
-  "id": "Reuters::CBMipAFBVV95cUxQUzNGZmp6V1RRNWhKUTVTR1VNczNhYUN3dzJIWmRrQkRnclFGY0Z0X2hfZzN0aUtNd2Z1TG4ybUl6LXo2U1EwMElJMVBMd2tiWFZZVXFmV0ozQ3hyeE9tV2dZSzcyelJlMWVBcDA5ZHRuMlRjTVVDcGJzSHdxZndvNUp0VUJLSEdseTVrR0RrcFRQUXl0dzFrVVFHYWE1UF9wcjFKQw",
-  "source": "Reuters",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-24T08:22:32.000Z",
-  "title": "Japan cuts view on consumer spending for 1st time since 2024",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMirgFBVV95cUxPNlRRY0hMWWVpT1pxNFBzVmV0Q0QxWXNDQjZDVlI2dHhJUnczQ3VNcDlhSDI3Z1NQRGVtOEZoWGxDV0pKcVd3YVNIa3ozSEFHOWQtN2JYQmxuOTJJVG5yd29zTzlGQlFjNW10bGRrRFVOMzROZ3g0S19TSWtQY3RBUjJ4STZnYjB2OTZsTHg4el9YMktpMVU3VG04MVpLdXN3QTluTUJYR2J1SXlteVE",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-23T20:41:31.000Z",
-  "title": "PayPal Sets Virtual Card Rules for Agentic Commerce",
-  "snippet": ""
- },
- {
-  "id": "IDC::CBMidEFVX3lxTFBTNG4xVnFHR2J5QmoxNk01SXlKYjNGMl92enlxbU4ybml4M2tueTM0YjN6UmtNWHlUeUVMYndoRjlWdXB5M1pBWGVraHZLTzQ5M2N4enJVal9ZaVBJUnhEWVlnSGZQYjhWYmRvZ3J5S3JrZE1u",
-  "source": "IDC",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-22T03:11:00.000Z",
-  "title": "IDC Survey: Chief AI Officers in Retail — Future Enterprise Resiliency and Spending Survey Wave 5, 2026",
-  "snippet": ""
- },
- {
-  "id": "IDC::CBMiZEFVX3lxTE1wQ1pYaGxmUEZtNmZRRTJobDFmaTYzOFlVSU00VjQzR2E2djZ0UTFYOGpwRzhmMjlma0NmZ1llVC1naDJiWWZNanZ0WThJT084RG5YU3ZuREtZdlVnTWV6LUs2NkY",
-  "source": "IDC",
-  "sourceType": "Analyst",
-  "publishedAt": "2026-11-20T00:24:34.000Z",
-  "title": "Cisco Q1 FY27: Accelerating Networking Growth and a Higher AI Revenue Outlook Shift the Focus to Delivery and Margins",
-  "snippet": ""
- },
- {
-  "id": "Global Marketplaces::CBMixgFBVV95cUxPaTd1eVE5S2xQcjlEOVRmZXJvSW5tYWZoRkplVkRESkRkRXNDQWl6bTB6czdOanJsWGNDV05nc3c4Mk5aVGZLaHRHa1NjSFUwWlFsUGVHYVBXT1htSTRwS3IweEJYQ0FNQlZqYkhrZUhNeXJpOUhBVjBXVG1iY1hnRGg0b1BWbmNESTZPcTZtd3dFUGZIeElZXzg5V21YLU5oMGNXZURoNTY4ZnJMZGZoZmR2QVhEYlBZMEcwSWJMaXVYdHBNTVE",
-  "source": "Global Marketplaces",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-19T23:21:40.000Z",
-  "title": "Gap shares rise as Old Navy recovery overshadows slow holiday start",
+  "publishedAt": "2026-11-24T23:15:07.000Z",
+  "title": "Dell lifts annual forecasts after record quarter on surging AI server demand",
   "snippet": ""
  }
 ]

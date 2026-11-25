@@ -1,63 +1,4 @@
 {
- "DigiTimes::https://www.digitimes.com/news/a20261021PD224/amec-mocvd-equipment-sk-hynix.html": {
-  "keep": false,
-  "publishedAt": "2026-10-21T03:54:56.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261021PD225/sony-smartphone-mobile-business-competition.html": {
-  "keep": false,
-  "publishedAt": "2026-10-21T03:17:53.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261021PR200/apple-iphone-2026-usa-manufacturing-supplier.html": {
-  "keep": false,
-  "publishedAt": "2026-10-21T03:14:33.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261021PD219/2026-e-ink-demand-outlook-revenue.html": {
-  "keep": false,
-  "publishedAt": "2026-10-21T02:40:00.000Z"
- },
- "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/sweet-sellers-face-heat-over-shelf-life-rules-ahead-of-diwali/135080256": {
-  "keep": false,
-  "publishedAt": "2026-10-21T02:37:44.000Z"
- },
- "ETRetail::https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/fmcg-brands-turn-up-the-volume-on-ads-as-costs-and-scrutiny-rise/135080241": {
-  "keep": false,
-  "publishedAt": "2026-10-21T02:35:08.000Z"
- },
- "ETRetail::https://retail.economictimes.indiatimes.com/news/industry/navratri-shoppers-splurge-on-clothes-appliances-as-gadgets-get-pricier/135080146": {
-  "keep": false,
-  "publishedAt": "2026-10-21T02:33:47.000Z"
- },
- "Inc42::https://inc42.com/?p=576926": {
-  "keep": false,
-  "publishedAt": "2026-10-21T02:30:50.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261021PD222/samsung-2nm-4nm-capacity-production.html": {
-  "keep": false,
-  "publishedAt": "2026-10-21T02:08:08.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261020RS400/iphone-apple-shipments-price-camera.html?chid=2": {
-  "keep": false,
-  "publishedAt": "2026-10-21T01:42:05.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261021PD211/smartphone-shipments-market-2026-production.html": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Memory chip inflation speeds smartphone brands' retreat from low-end devices",
-  "short_headline": "Memory inflation pushes brands away from low-end",
-  "takeaway": "Memory-driven cost pressure is reshaping entry-level hardware; we should expect similar price-tier shifts in our own low-end lineup.",
-  "importance": 2,
-  "content_type": "analysis",
-  "competitors": [],
-  "publishedAt": "2026-10-21T01:20:00.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261020VL220/substrate-pcb-supply-chain-wistron-hpc.html": {
-  "keep": false,
-  "publishedAt": "2026-10-21T00:35:39.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261021VL200/spacex-revenue-operating-profit-business-starlink.html": {
-  "keep": false,
-  "publishedAt": "2026-10-21T00:20:00.000Z"
- },
  "Inc42::https://inc42.com/?p=577009": {
   "keep": false,
   "publishedAt": "2026-10-21T11:30:14.000Z"
@@ -89,33 +30,6 @@
  "InternetRetailing::https://internetretailing.net/?p=76328": {
   "keep": false,
   "publishedAt": "2026-10-21T08:56:45.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261021PD228/samsung-4nm-hbm-modem-capacity.html": {
-  "keep": false,
-  "publishedAt": "2026-10-21T08:04:56.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261021PD247/sdc-oled-panel-production-visionox-development.html": {
-  "keep": true,
-  "segment": "pc",
-  "headline": "Samsung Display advances MPO and inkjet OLED for laptops and monitors",
-  "short_headline": "Samsung Display advances OLED for laptops, monitors",
-  "takeaway": "More OLED panel options for laptops and monitors could shift component costs and premium display choices in our lineup.",
-  "importance": 2,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-21T08:03:37.000Z"
- },
- "DigiTimes::https://www.digitimes.com/news/a20261021VL214/samsung-sk-hynix-nand-ymtc-chips.html": {
-  "keep": false,
-  "publishedAt": "2026-10-21T07:57:45.000Z"
- },
- "ETRetail::https://retail.economictimes.indiatimes.com/news/health-and-beauty/beauty-firms-chase-ozempic-face-market-as-weight-loss-drugs-boom/135084831": {
-  "keep": false,
-  "publishedAt": "2026-10-21T06:56:18.000Z"
- },
- "InternetRetailing::https://internetretailing.net/?p=76325": {
-  "keep": false,
-  "publishedAt": "2026-10-21T06:51:00.000Z"
  },
  "Retail Dive::https://www.retaildive.com/news/amazon-eyes-three-hundred-thousand-holiday-season-hires/833567/": {
   "keep": false,
@@ -190,10 +104,6 @@
  "Reuters::CBMiwwFBVV95cUxNZGM1MmVrR2NUdFVTV1EyQlc1YW5aRzRacGM3VDNTSEFRVk4zYW1zVlI5cGpxbTNMY1Q5aGRjS2QybDZVNGd6QmszcHgzellTdmxUejRxNGc5OGdvUkdXRUg3eUZXRVpqcmhjRFc2U00zSWpjbFRtSFNOWkN4YmVveHdvR3A3LWw5VGxWZzNNSUd3OWlTaThFYmc3SGlaamZWbFhRQ0FRdUYzb0N0bWZySTkydW52VXFwY0NWZU9yMkhoRzA": {
   "keep": false,
   "publishedAt": "2026-10-21T10:11:19.000Z"
- },
- "PYMNTS Data::CBMinwFBVV95cUxQNGFMTHp5NjdZM2ZLTmJwV3E2azRQVlF4aVZvVUcxV1N5X1dyY1hkMGV0aXdoVGpfa0prWkZZaWc2aWJPa19FNUxaTGFOejl0Y1ViOGd1bVBZR0dsbHkyY3hOUTZDMGZodU4xb0NqbmxmakV4UnREUm1jaGh2MXZWdTdheWRmVU9jVTJLZ1JrejRaaHBpdzV5SE9tem1iZzg": {
-  "keep": false,
-  "publishedAt": "2026-10-21T00:25:09.000Z"
  },
  "Modern Retail::https://www.modernretail.co/?p=173736": {
   "keep": false,
@@ -770,10 +680,6 @@
   "keep": false,
   "publishedAt": "2026-10-23T15:20:09.000Z"
  },
- "McKinsey::CBMihwFBVV95cUxOVDcwWldIdmU0SXF5UU5yU2lnTUMzTW4zV3JkazZ1VldFeVFDWkoxTGVtbTlsWXA1ZDh4azlvdEhrMGZ5WVBNU0NiRnlEeDVKOFczdjd6M3k2ZzRYNC1iZklncm42NjFwajZjNzJtTGd6aTV5Sno0NmF4Mm51TmxtMk1yRDlPbG8": {
-  "keep": false,
-  "publishedAt": "2026-10-21T03:15:01.000Z"
- },
  "Modern Retail::https://www.modernretail.co/?p=173841": {
   "keep": false,
   "publishedAt": "2026-10-24T04:00:00.000Z"
@@ -824,10 +730,6 @@
   "keep": false,
   "publishedAt": "2026-10-22T07:00:00.000Z"
  },
- "Gartner::CBMiV0FVX3lxTFBtd29WbUZ6ejFPZlNOMXZSeVBwM3lrYmZuQTVMc2FDdW9pMFpBODBoVWg5cVpVYkd5SnZ1dmlMSnR1bDZFeE5Yd1FIZTZtNklBeXk1dkFjMA": {
-  "keep": false,
-  "publishedAt": "2026-10-21T07:00:00.000Z"
- },
  "DigiTimes::https://www.digitimes.com/news/a20261023PD220/meta-financing-infrastructure-investment-capex.html": {
   "keep": false,
   "publishedAt": "2026-10-25T00:43:06.000Z"
@@ -865,17 +767,6 @@
  "Reuters::CBMipwFBVV95cUxOMXV0RkI1VFVXRm4xc0tyNDBnc2NENDA3aF9XdjNxZVVGeU9IMkVlN0s0N3dvbTlYdzFFM0JwbUZjQ01tNFJpWE1GVG5wZXZjOWZMbnk1dUFrWWJlTjNrVU5kZjZxblBOUWFRX2hicTlFUEUyaTV0TjEyZUtUeHliMzZBTHFkS3BOb2FOWmF2S0RoTDBMSm1rdE84YmVQUnZ6bU9CazJmNA": {
   "keep": false,
   "publishedAt": "2026-10-22T16:18:09.000Z"
- },
- "Capital One Shopping Research::CBMicEFVX3lxTE9NUXppN0dlSUUxdFk5eHN2clB3RzdVeVNZa2xpc0tRYjRsVGZqbFpteEJEaDMyMUliNGltb19seEVncFBZTWhHeV9nem1WaV96RzNxOHFEaHlIbHFya0lURndFaWp4dS1XN3RzRjJDUjQ": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "2026 report tracks consumer adoption of AI shopping in new statistics roundup",
-  "short_headline": "2026 report tracks consumer AI shopping adoption",
-  "takeaway": "Adoption benchmarks show how far shoppers already use AI to research purchases, informing how we prepare our store for AI-led discovery.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-21T07:00:00.000Z"
  },
  "Modern Retail::https://www.modernretail.co/?p=173857": {
   "keep": false,
@@ -1434,10 +1325,6 @@
  "Retail TouchPoints::CBMiYkFVX3lxTE1wQzB5OWR0czhwQ1MzOE1vbGVWQXpMc3FGbG5LMjY3ZjJkdXNqZndGV2I3QkozNTd4WFBqT19iRDdUejFFdUFvWlNMZGtvM1VpWHpFWUM5c3h2WXl5aHNNMnp3": {
   "keep": false,
   "publishedAt": "2026-10-26T14:12:40.000Z"
- },
- "Capital One Shopping Research::CBMia0FVX3lxTFBncV9TelpUV042bDA2VVhBZFdpZ0pad0VZQ2t0UFpfRzgxZkVfUkVBXzYtMTNYRnAwbi01VXR0ZzF2aWlmZy1OcGg4c28yOGg0emt0YmJGUDZVaGtDMS1qSzdzNks0UzFuVVBZ": {
-  "keep": false,
-  "publishedAt": "2026-10-21T07:00:00.000Z"
  },
  "Modern Retail::https://www.modernretail.co/?p=173979": {
   "keep": false,
