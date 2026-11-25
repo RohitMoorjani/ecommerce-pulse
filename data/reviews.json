@@ -7698,5 +7698,110 @@
  "Global Marketplaces::CBMixgFBVV95cUxPaTd1eVE5S2xQcjlEOVRmZXJvSW5tYWZoRkplVkRESkRkRXNDQWl6bTB6czdOanJsWGNDV05nc3c4Mk5aVGZLaHRHa1NjSFUwWlFsUGVHYVBXT1htSTRwS3IweEJYQ0FNQlZqYkhrZUhNeXJpOUhBVjBXVG1iY1hnRGg0b1BWbmNESTZPcTZtd3dFUGZIeElZXzg5V21YLU5oMGNXZURoNTY4ZnJMZGZoZmR2QVhEYlBZMEcwSWJMaXVYdHBNTVE": {
   "keep": false,
   "publishedAt": "2026-11-19T23:21:40.000Z"
+ },
+ "Inc42::https://inc42.com/?p=582034": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Flipkart Group CEO Kalyan Krishnamurthy to step down in coming weeks",
+  "short_headline": "Flipkart CEO set to step down",
+  "takeaway": "Leadership change at a key Indian electronics marketplace may shift seller and brand priorities; we should watch our Flipkart relationship.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-25T07:39:42.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261125PD213/samsung-equipment-spacex-starlink-telecom.html": {
+  "keep": false,
+  "publishedAt": "2026-11-25T05:55:00.000Z"
+ },
+ "ETRetail::https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/foxconn-faces-india-insolvency-lawsuit-over-unpaid-vendor-dues/136146943": {
+  "keep": false,
+  "publishedAt": "2026-11-25T03:33:41.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261125PD200/growth-2027-subsidiary-acer-sales.html": {
+  "keep": false,
+  "publishedAt": "2026-11-25T02:56:28.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261124PD237/xiaomi-gross-margin-2026-profit-electronics.html": {
+  "keep": false,
+  "publishedAt": "2026-11-25T02:37:46.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261125VL210/dell-demand-2027-infrastructure-dram.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Dell expects AI demand to outpace supply in 2027 as memory supply stays tight",
+  "short_headline": "Dell: memory crunch to persist into 2027",
+  "takeaway": "Tight memory supply into 2027 points to continued cost and pricing pressure on PCs and servers that we should plan for.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [
+   "Dell"
+  ],
+  "publishedAt": "2026-11-25T02:23:20.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261125VL209/xiaomi-2027-europe-dram-chips.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Xiaomi expects DRAM costs to keep rising into 2027, prolonging pressure on devices",
+  "short_headline": "Xiaomi expects DRAM costs to rise into 2027",
+  "takeaway": "A second large device maker expects memory costs to climb through 2027, so we should expect continued pricing pressure.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-25T01:45:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261125PD201/2026-growth-industrial-demand-ipc.html": {
+  "keep": false,
+  "publishedAt": "2026-11-25T01:23:35.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261125VL202/growth-analog-devices-industrial-demand-2026.html": {
+  "keep": false,
+  "publishedAt": "2026-11-25T00:58:56.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261125VL201/dell-infrastructure-revenue-growth-demand.html": {
+  "keep": false,
+  "publishedAt": "2026-11-25T00:45:15.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261124PD224/demand-pcb-2027-revenue-asia.html": {
+  "keep": false,
+  "publishedAt": "2026-11-25T00:45:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261124PD235/taiwan-production-manufacturing-demand-industrial.html": {
+  "keep": false,
+  "publishedAt": "2026-11-25T00:41:19.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261124VL223/samsung-patent-micron-licensing-chipmakers.html": {
+  "keep": false,
+  "publishedAt": "2026-11-25T00:37:44.000Z"
+ },
+ "CRN::https://www.crn.com/news/computing/2026/hp-s-ai-pc-memory-new-ceo-updates-big-takeaways-from-q4-results": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "HP says local AI demand is lifting AI PC shipments past expectations as refresh fades",
+  "short_headline": "HP: AI PC shipments beat expectations",
+  "takeaway": "With the Windows 11 refresh winding down, AI PC demand is HP’s growth driver; we should check our AI PC merchandising online.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [
+   "HP"
+  ],
+  "publishedAt": "2026-11-25T00:26:00.000Z"
+ },
+ "PYMNTS Data::CBMiuwFBVV95cUxOblZuT2U4SUlMdkJRUDYxZGczT1UwNlVFc2N1M1JaaEVvQ3RMRjhQZmtSRmVnaHpJR3VZVmNvaVRmSjFIWk9XeUQ2TmFEUFpmTy1KSm9Pdm5oaW5senNicGRESXZsZ0RWLTRlMldlZ0lYQ0lNeFEtUXFWS1F2dTl6UDRYQ1JhN2tfQVlVcE5IM1UwcGY1bVY3dFItcWRmQzVSa3ppUE1oeFp4cHlWMlA5dHp0dldXaW9YSTIw": {
+  "keep": false,
+  "publishedAt": "2026-11-25T00:01:53.000Z"
+ },
+ "Reuters::CBMiugFBVV95cUxOZG1EVmJTYUpyMnJPVzlHNE9xZFZpYmZHdkZBOTgtSllCbnRLQnNuUWtLNktuYXJqZms4Tl85T2I2dU41UmEzTWpPY0Z6TU5uaVJJZWZxLXhVcWxSa0h6cUh5bkpSdk9VdDN5QlIzb3hSLUhRV0FaM2FrVzlkUDJoN2FaeUxKOEhlN2RsZ1VoUUUwNHdTcWp6cV9BNE90ejFEVWRTcWtnbW9XV1A0VEhnSDRhMWVhbkFia1E": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Dell lifts annual forecasts after record quarter on surging AI server demand",
+  "short_headline": "Dell raises forecasts on AI server demand",
+  "takeaway": "Dell’s growth is shifting to AI servers; we should watch how that affects its PC and server focus and pricing.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [
+   "Dell"
+  ],
+  "publishedAt": "2026-11-24T23:15:07.000Z"
  }
 }
