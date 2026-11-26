@@ -1,45 +1,44 @@
 {
- "updatedAt": "2026-11-25T21:50:45.872Z",
- "title": "Win holiday demand by selling to AI agents and pricing for scarce memory",
- "summary": "Adobe: online holiday spend +9.1% to $82.5B; NRF: half of shoppers plan AI use. Walmart opened Black Friday to Meta’s agent; ChatGPT Wallet is live. Dell sees tight memory into 2027; PCBs short to mid-2028.",
+ "updatedAt": "2026-11-26T03:50:46.917Z",
+ "title": "Memory-driven price rises and AI shopping change how we sell PCs",
+ "summary": "HP and Dell expect memory prices to keep rising in 2027 with a weak PC market; European notebook revenue rose 16% on pricier models; Klarna joined Adyen's agentic suite; Walmart put Black Friday deals in Meta's Muse agent.",
  "points": [
   {
-   "headline": "AI agents are now a live buying channel for holiday deals",
-   "detail": "Walmart put Black Friday deals in Meta’s Muse agent, ChatGPT Wallet lets Pro users buy via agent, and Klarna joined Adyen’s agent suite. We should make our catalog, promos and financing agent-readable.",
+   "headline": "Memory costs lift PC prices while unit demand stays soft into 2027",
+   "detail": "HP and Dell expect memory prices to keep rising in 2027 and the PC market to stay weak; European notebook revenue rose 16% on pricier models. We should plan pricing, mix and inventory for fewer units at higher prices.",
+   "segment": "pc",
+   "storyIds": [
+    "DigiTimes::https://www.digitimes.com/news/a20261126PD212/dell-hp-pc-market-memory-2027.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261123VL215/notebooks-europe-shipments-sales-revenue-growth.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261125VL210/dell-demand-2027-infrastructure-dram.html"
+   ]
+  },
+  {
+   "headline": "AI agents are becoming a deal-discovery and checkout channel",
+   "detail": "Walmart brought Black Friday deals to Meta's Muse agent, Target's assistant shows early sales lift, and Klarna joined Adyen's agentic suite. We should test how our products, promos and financing appear in agent-led shopping.",
    "segment": "agentic",
    "storyIds": [
     "TechCrunch::https://techcrunch.com/?p=3192047",
-    "DigiTimes::https://www.digitimes.com/news/a20261118PD255/openai-chatgpt-2026-data.html",
+    "Retail Dive::https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/",
     "PYMNTS::https://www.pymnts.com/?p=4414261"
    ]
   },
   {
-   "headline": "Memory and PCB shortages keep PC prices rising into 2027-28",
-   "detail": "Dell expects tight memory supply in 2027, PCB relief isn’t seen before mid-2028, and European notebook revenue rose 16% on pricier models. We should plan inventory, pricing and mix for tighter supply.",
-   "segment": "pc",
-   "storyIds": [
-    "DigiTimes::https://www.digitimes.com/news/a20261125VL210/dell-demand-2027-infrastructure-dram.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261120PD235/pcb-demand-electronics-manufacturing.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261123VL215/notebooks-europe-shipments-sales-revenue-growth.html"
-   ]
-  },
-  {
-   "headline": "Holiday demand is strong online, but affordability shapes tech buying",
-   "detail": "Adobe shows online holiday spend up 9.1%; Circana says tech sales may hinge on delayed back-to-school buyers; Amex sees record small-business spend. Lead with value, financing and business bundles.",
+   "headline": "Holiday shoppers lean on AI while small businesses spend more",
+   "detail": "NRF finds half of holiday shoppers plan to use AI; Amex projects a 14-year high in small-business holiday spending. Our store should make listings AI-readable and push business bundles and financing.",
    "segment": "trends",
    "storyIds": [
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364341",
-    "TWICE::https://www.twice.com/?p=167266",
+    "NRF::CBMifEFVX3lxTFBES1ViSjJobENsejBBZlRsQnpzY0s4TXhNbGhhUWFCSXhBazZIaWFtWHFieWhVbUYxS2diVlJodmFsenBHTUQ4cTNTUDVjVDBXVXRNWGYyUTVWdGZuS1hVZUU5V3ZqV0E3UU9KMEdtN2pxZHlNQURlb091Zlc",
     "PYMNTS Data::CBMimAFBVV95cUxQMk5IN0ZvWjcxX2hDMFJQTHhpVzZPQlZ4T1NIdzZVWlFSMzQwNzB1TC13R3VFUUZONDR1ay1zNERJTG1rYUlYZERMZEYwTmt4TC1fNU1lNEZ3dEtJbDhSMkdvTDJjLVctN0JodWpRZDRjclVQTUdqM3J3S01YWDlGUGliZ091R3lWX193YzlyeFhhWHl1TlRfWg"
    ]
   },
   {
-   "headline": "Best Buy computing holds despite higher memory-driven prices",
-   "detail": "Gaming and AI-capable PCs are absorbing price rises at Best Buy, and HP says AI PC demand is beating expectations as the refresh fades. We should watch our own AI PC merchandising and price mix.",
-   "segment": "pc",
+   "headline": "Walmart's fulfillment speed is winning share in electronics channels",
+   "detail": "Walmart U.S. e-commerce grew 23% in Q3 on delivery speed, and Best Buy computing sales held despite higher memory prices. Our marketplace delivery promises need to keep pace.",
+   "segment": "marketplaces",
    "storyIds": [
-    "Modern Retail::https://www.modernretail.co/?p=175895",
-    "CRN::https://www.crn.com/news/computing/2026/hp-s-ai-pc-memory-new-ceo-updates-big-takeaways-from-q4-results"
+    "Retail Dive::https://www.retaildive.com/news/walmart-ecommerce-boom-fulfillment-speed-q3-earnings/875166/",
+    "Modern Retail::https://www.modernretail.co/?p=175895"
    ]
   }
  ]

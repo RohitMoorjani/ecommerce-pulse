@@ -7758,5 +7758,73 @@
  "Global Marketplaces::CBMiyAFBVV95cUxOWDJfS2RxQlRiZmpGR0xZQmVpdkZqdVR0bzdyRTVFZUctUnFsWUN6cXZlZ2hlSmpVUW0wUnpwOHUtMjBzZGtzVjhhRW13M09vUTJIRG00QXFiMGxMNW1wbDRuZzFlZDUtTldXWlpLWExPajd5Rzc1OWpDN01PVzBPd1BWVG1taWtUamc0Zzh5b1djTFY1cER0SnNsU0NXZ242YmhKUGVRU2JWelVsN3FYT3k1VjlheFlHY2YyNGp2Z2RwbjNJTDF6bQ": {
   "keep": false,
   "publishedAt": "2026-11-19T13:52:22.000Z"
+ },
+ "Inc42::https://inc42.com/?p=582164": {
+  "keep": true,
+  "segment": "marketplaces",
+  "headline": "Walmart asks Flipkart group CEO Kalyan Krishnamurthy to exit after a decade",
+  "short_headline": "Flipkart CEO ousted at Walmart's request",
+  "takeaway": "Leadership change at a key India marketplace could shift Flipkart's priorities; we should watch seller and brand program changes.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-26T02:30:25.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261126PD212/dell-hp-pc-market-memory-2027.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "HP and Dell expect memory prices to keep rising in 2027 and a weak PC market",
+  "short_headline": "HP, Dell: memory costs rise, PC market stays weak",
+  "takeaway": "Rising memory costs and a mature corporate refresh cycle mean we should plan for price pressure and soft unit demand in 2027.",
+  "importance": 4,
+  "content_type": "news",
+  "competitors": [
+   "HP",
+   "Dell"
+  ],
+  "publishedAt": "2026-11-26T02:13:51.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261125PD221/acer-inventory-pc-2026.html": {
+  "keep": true,
+  "segment": "pc",
+  "headline": "Acer CEO uneasy over NT$100B inventory as higher prices lift revenue over units",
+  "short_headline": "Acer wary of inventory as PC prices climb",
+  "takeaway": "Component costs are lifting average selling prices while 2027 unit shipments are projected down, so we should expect revenue to outpace volume.",
+  "importance": 3,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-26T01:56:13.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261126VL210/samsung-sk-hynix-ymtc-nand-patent.html": {
+  "keep": false,
+  "publishedAt": "2026-11-26T02:26:05.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261125PD209/isscc-ieee-taiwan-2027-chairman.html": {
+  "keep": false,
+  "publishedAt": "2026-11-26T01:57:22.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261125VL227/samsung-exynos-ap-business-mobile-substrate.html": {
+  "keep": false,
+  "publishedAt": "2026-11-26T00:07:19.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/macys-100th-thanksgiving-day-parade-postponed/875808/": {
+  "keep": false,
+  "publishedAt": "2026-11-25T23:40:00.000Z"
+ },
+ "PYMNTS Data::CBMimgFBVV95cUxQZjhLcEFmWHYxSjVXRlJOV0ZfaGRRSkgtdkY4VUZUZWJ5VmJMeU4yYkhxUkZnelRRNFo0VFBXdlFpQ3IxeklwT3pyMThEd2tNN2VXWGpvMmZBYUNiWk5SUzR0ek40bnVGTlhhY0ljNE1xcW1tWG93LVd4djNKWFh6bkhjWXFIMURXSmxrcHNWWDhMNldIOUppblpB": {
+  "keep": false,
+  "publishedAt": "2026-11-25T21:32:08.000Z"
+ },
+ "PYMNTS::https://www.pymnts.com/?p=4426843": {
+  "keep": false,
+  "publishedAt": "2026-11-25T20:19:36.000Z"
+ },
+ "PYMNTS Data::CBMiogFBVV95cUxPd3JpblVNd3hkdTJqUF9Yd3NqMWwySEFCN0FvdVVwN0FhR3BNcVdsQ3ZtMmhRYVF0N2daU3lWMlFlNXVFeWhZVlZ6R0pHdV9jZTBkcVNia3h4N1VMWkFlSnIxZHZUUWtpTElpejAxNjA4MHNFelpkcnFCdllseXFtVkdNQ3lxOVY4eGRvNmhsc0MyZk9mRVc5RGNfb0RUN1h2UlE": {
+  "keep": false,
+  "publishedAt": "2026-11-25T20:01:57.000Z"
+ },
+ "Retail Dive::https://www.retaildive.com/news/shoe-station-flip-flops-rebanner-plan-again-shoe-carnival/875727/": {
+  "keep": false,
+  "publishedAt": "2026-11-25T16:17:00.000Z"
  }
 }
