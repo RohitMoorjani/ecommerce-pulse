@@ -7664,5 +7664,24 @@
  "PYMNTS Data::CBMikwFBVV95cUxNSVJ2TjhpVVhIdkZWNlkwZm5yQllIVTNwOFdoeGh6Q18tZGNmalR5NmVrdFNDYjViTGU2R1FQeWdHLVZQNEMxbEF1M0x0QzZ4X1l1QTFiTmM1MnpaOTBxb0M4UFVlQ1FKNnF1UnBkclBrMGt1bm9udEI5djhTV015VEVCQVpacTZ5WW5JRHllREZydlU": {
   "keep": false,
   "publishedAt": "2026-11-12T08:00:00.000Z"
+ },
+ "Global Marketplaces::CBMivAFBVV95cUxNXzUyQUp1enhRcjVIdWlBejd2XzFsdXVwaFF1SUswaVBuTzBKMkE2cU5GdnVSX2tiMjVIYnQzLXFKN3E2UWZ0bVZkX3dvdjEzaHRQRUdsM1pBOF9vaG0wYWVKZ2JNam5zWXZmT25QcVhPcWIwcDQ5cEx2U3QyQW1LcE43UEpGQVhpMF94bjVid21hYm9YbEZ0UnhBTnhPdlBJRFpzbFhsbWxBNndmeGNjcHptNXhJMnlQNk94TQ": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Cautious consumers approach Black Friday as inflation weighs on spending",
+  "short_headline": "Inflation makes Black Friday shoppers cautious",
+  "takeaway": "Price-sensitive holiday shoppers may favor deals and trade down; we should check promo depth on key PC lines.",
+  "importance": 2,
+  "content_type": "news",
+  "competitors": [],
+  "publishedAt": "2026-11-27T00:03:00.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261126PD227/taiwan-electronics-eu-supply-chain-automakers.html": {
+  "keep": false,
+  "publishedAt": "2026-11-26T22:38:57.000Z"
+ },
+ "Inc42::https://inc42.com/?p=582322": {
+  "keep": false,
+  "publishedAt": "2026-11-26T21:33:06.000Z"
  }
 }
