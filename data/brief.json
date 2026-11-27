@@ -1,44 +1,46 @@
 {
- "updatedAt": "2026-11-26T18:50:51.964Z",
- "title": "Memory costs set PC prices; our store must win AI-led shopping",
- "summary": "HP and Dell expect memory prices to keep rising in 2027; PCB shortage lasts to mid-2028. Half of holiday shoppers plan to use AI (NRF); Walmart joined Meta Muse. Adobe: online holiday spend up 9.1% to $82.5B.",
+ "updatedAt": "2026-11-27T12:51:10.453Z",
+ "title": "AI agents and memory costs reshape how we sell PCs online",
+ "summary": "Half of holiday shoppers plan to use AI (NRF); Walmart opened Black Friday deals to Meta's AI agent; Klarna joined Adyen's agent checkout; agents recommend out-of-stock items. HP and Dell expect memory prices to rise through 2027.",
  "points": [
   {
-   "headline": "Memory and PCB shortages will keep PC prices and costs elevated into 2027-28",
-   "detail": "HP and Dell expect memory prices to keep rising in 2027; PCB relief is not seen before mid-2028. Plan inventory, pricing and promotions for tighter supply.",
-   "segment": "pc",
-   "storyIds": [
-    "DigiTimes::https://www.digitimes.com/news/a20261126PD212/dell-hp-pc-market-memory-2027.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261125VL210/dell-demand-2027-infrastructure-dram.html",
-    "DigiTimes::https://www.digitimes.com/news/a20261120PD235/pcb-demand-electronics-manufacturing.html"
-   ]
-  },
-  {
-   "headline": "AI agents are becoming a deal-discovery and checkout channel",
-   "detail": "Half of holiday shoppers plan to use AI (NRF); Walmart opened Black Friday deals to Meta Muse; Klarna joined Adyen agentic suite. Make our listings and financing agent-readable.",
+   "headline": "AI agents are becoming a deal and checkout channel, but data quality lags",
+   "detail": "NRF finds half of holiday shoppers plan to use AI, Walmart opened Black Friday to Meta's agent, and research shows agents recommend out-of-stock items. Our feeds and stock data must be agent-ready.",
    "segment": "agentic",
    "storyIds": [
-    "TechCrunch::https://techcrunch.com/?p=3192047",
     "NRF::CBMifEFVX3lxTFBES1ViSjJobENsejBBZlRsQnpzY0s4TXhNbGhhUWFCSXhBazZIaWFtWHFieWhVbUYxS2diVlJodmFsenBHTUQ4cTNTUDVjVDBXVXRNWGYyUTVWdGZuS1hVZUU5V3ZqV0E3UU9KMEdtN2pxZHlNQURlb091Zlc",
+    "TechCrunch::https://techcrunch.com/?p=3192047",
+    "InternetRetailing::https://internetretailing.net/?p=76652",
     "PYMNTS::https://www.pymnts.com/?p=4414261"
    ]
   },
   {
-   "headline": "Holiday demand is strong online, but value and financing decide tech sales",
-   "detail": "Adobe: online holiday spend up 9.1% to $82.5B; Circana says tech sales hinge on delayed buyers. Lead with value and financing in our store offers.",
-   "segment": "trends",
+   "headline": "Memory costs keep PC prices rising into 2027 while demand stays soft",
+   "detail": "HP and Dell expect memory prices to keep rising in 2027 with a weak PC market; European notebook revenue rose 16% on pricier models. We should plan pricing, mix and promotions for price pressure.",
+   "segment": "pc",
    "storyIds": [
-    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364341",
-    "TWICE::https://www.twice.com/?p=167266"
+    "DigiTimes::https://www.digitimes.com/news/a20261126PD212/dell-hp-pc-market-memory-2027.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261125VL210/dell-demand-2027-infrastructure-dram.html",
+    "DigiTimes::https://www.digitimes.com/news/a20261123VL215/notebooks-europe-shipments-sales-revenue-growth.html"
    ]
   },
   {
-   "headline": "Small-business and computing demand stay resilient despite higher prices",
-   "detail": "Amex projects a 14-year high in small business holiday spending; Best Buy computing sales hold on gaming and AI demand. Push business bundles and AI PCs.",
+   "headline": "AI PCs and gaming are absorbing higher prices at HP and Best Buy",
+   "detail": "HP says local AI demand lifts AI PC shipments past expectations, and Best Buy computing sales held on gaming and AI demand. We should check AI PC and gaming merchandising online.",
+   "segment": "pc",
+   "storyIds": [
+    "CRN::https://www.crn.com/news/computing/2026/hp-s-ai-pc-memory-new-ceo-updates-big-takeaways-from-q4-results",
+    "Modern Retail::https://www.modernretail.co/?p=175895"
+   ]
+  },
+  {
+   "headline": "Online holiday demand is strong, with small businesses spending more",
+   "detail": "Adobe reports online holiday spending up 9.1% and Amex projects a 14-year high in small-business holiday spending. Value and financing offers should lead our holiday and business promotions.",
    "segment": "trends",
    "storyIds": [
+    "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364341",
     "PYMNTS Data::CBMimAFBVV95cUxQMk5IN0ZvWjcxX2hDMFJQTHhpVzZPQlZ4T1NIdzZVWlFSMzQwNzB1TC13R3VFUUZONDR1ay1zNERJTG1rYUlYZERMZEYwTmt4TC1fNU1lNEZ3dEtJbDhSMkdvTDJjLVctN0JodWpRZDRjclVQTUdqM3J3S01YWDlGUGliZ091R3lWX193YzlyeFhhWHl1TlRfWg",
-    "Modern Retail::https://www.modernretail.co/?p=175895"
+    "TWICE::https://www.twice.com/?p=167266"
    ]
   }
  ]
