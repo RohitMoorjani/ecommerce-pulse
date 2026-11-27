@@ -1,170 +1,58 @@
 [
  {
-  "id": "Retail TouchPoints::CBMi0AFBVV95cUxOckR3VnduN1dLTFpNX19TQ0k3VTJzeU1TNWZYbWl5bjF0MC0zbXpPNjNkMmV0bHQ1cFdhMFRvMXVWTDl5SXh1bWU2RHpqcnIxUHcwRm1VSVFHQXcyQzBQUW53OF9qUHdwcGNRdEI1NWRvdktSbWd1T2VkTEFzdmQxU1ljdk1ncUZIWEVPdUhWM0Y3VjkxN2o2bHFocVF3a1hCRGFXbFQyV1VIbVlIVnpyWVJHMmJscmd4OFNNWTVVd2dTbEItLWtVMW55YmU5UXZs",
+  "id": "PYMNTS Data::CBMiuwFBVV95cUxNTWo2aFBxcVpGYWJzTEJSR0F0bG5keTlOVXJTRFU1TnQxV2RRb1dNd1MycFRjRXNnZTlhdFZOMTIweDlMcV9MTW5Pc09LRjN1MUJMMzQzWFZ3d1ZOT1gyM3hncGMwdVNEY0FBTHJVQVVCb3I1V1hNYUxwNUk4SEhsWWRQOUlPdi1yU1JMZHIzNG1rZTBDYlpmWjdhb1NmV3VEcjY5eDZmRTlfdGowazRnQV9BYjcxVnV6OUQw",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-27T22:07:11.000Z",
+  "title": "Kalshi Promotes Prediction Market as Hedging Solution for Small Businesses",
+  "snippet": ""
+ },
+ {
+  "id": "PYMNTS::https://www.pymnts.com/?p=4430408",
+  "source": "PYMNTS",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-27T19:30:32.000Z",
+  "title": "Shopify Gives Merchants Proof to Fight Agentic Order Chargebacks",
+  "snippet": "Shopify now provides its merchants with more evidence for chargebacks on agentic orders, the company said in a Wednesday (Nov. 25) entry on its changelog. This change is meant to solve the challenge merchants have faced…"
+ },
+ {
+  "id": "Retail TouchPoints::CBMizwFBVV95cUxOMlgxaE1lcGwya291MXRJUkJ1Y3RUVWprMk1COVpwQzB6VEhpcmJfdDJsa3lYZmZkYVNxRWFpaUVTUDJ1R1puZ2RVLXV5MHBlejRfZFZKTUc5MU01QkNWaWExMGMtUGpJQ1NQeUQtcjdydFpfSWwxNFJWZVZsYmV3WlZWUllIRnNvT2xWNy16eTcyZ2dqY1ZkUFU1MXNnOVVReEs5S1RRd1RNTVJYamsyeGJfS3VtRlVwU0ZxV0J5MVVDT2NhazJZbjhydWJrNDA",
   "source": "Retail TouchPoints",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-27T12:05:16.000Z",
-  "title": "For Small Business Saturday, 2026 Holiday Shoppers Plan to Spend Where the Value Is Clear",
+  "publishedAt": "2026-11-27T17:21:02.000Z",
+  "title": "Holiday Loss Prevention: Why Visible Security Is Critical In Peak Season",
   "snippet": ""
  },
  {
-  "id": "InternetRetailing::https://internetretailing.net/?p=76652",
-  "source": "InternetRetailing",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-27T10:12:46.000Z",
-  "title": "Agentic shopping falls short as AI recommends out-of-stock products",
-  "snippet": "New research suggests that, despite all the hype around agentic shopping, there is still a significant gap between what AI-powered shopping assistants promise and what they actually deliver. The post Agentic shopping…"
- },
- {
-  "id": "PYMNTS Data::CBMixgFBVV95cUxPZzFBT1IxLV9fYk1BTEVUM2kzRkZiaXl3ZTVoZ205WFVhaEZIdWYyYTNlcG1UcVZ4WC1EX194UEp1akhQckRDVExhTk5YU2hXRUF3TTNCTFRocHFBMzlNVTlmbE5kSUdjOXFRSDVIeG5LSUk2ckFmYmVXSHd2ZnlfZ2llMlZ2SklObGJaLUZRcDUzWTFYTXFCbkZ0aXNPeGo1aHFkYWZ0cFdPaUg0dGRDOUh0YnBTdGh4NGZlTktaNlJoYUhMbVE",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-27T09:26:28.000Z",
-  "title": "AI Helps Merchants Stop Holiday Fraud Without Losing Good Customers",
-  "snippet": ""
- },
- {
-  "id": "PYMNTS Data::CBMiqwFBVV95cUxNeHNGb2tzVWVTQ3REWkVvcmFLWk9ZZnRwQm1XZGJiN01FT3JSWXJlaW5RYWR2d2FPc25GZHkydlJDMzJpZ01lR08wc2JVRzBQWGFFZ3YtaHdacUhoU1lEY0Fyam5kd0tmaVgtVkJtaUw4Um9FaEVuNGJYbDNYaklTNlB5b3NuZUJKcGpBenhzVWJ3S1k5V0VlM2RCZl9samRCY1IwbnVkeDhhQjA",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-27T09:02:11.000Z",
-  "title": "What a Small Business Plans to Do With a Loan Says a Lot About Its Growth",
-  "snippet": ""
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261127PD220/smartphone-demand-recovery-2027-2028.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-27T07:43:28.000Z",
-  "title": "Phone chip demand may stay weak in 2027, recovery seen in 2028",
-  "snippet": "Research firms and industry sources expect the smartphone market to remain sluggish in 2027, with a more noticeable recovery potentially not arriving until 2028. Overall market conditions are expected to remain similar…"
- },
- {
-  "id": "Inc42::https://inc42.com/?p=582242",
+  "id": "Inc42::https://inc42.com/?p=582480",
   "source": "Inc42",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-27T07:21:56.000Z",
-  "title": "NUUK Expands Its Home Appliances Portfolio To Drive ₹150 Cr Revenue In FY27",
-  "snippet": "Indian consumers are more discerning than ever, particularly when setting up their dream homes. After spending months obsessing over every…"
+  "publishedAt": "2026-11-27T15:26:19.000Z",
+  "title": "Rapido’s Ownly To Charge Customers For Deliveries Soon",
+  "snippet": "Rapido’s food delivery platform Ownly is set to introduce distance-based delivery charges for customers in Bengaluru from November 30, marking…"
  },
  {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/swiggys-instamart-to-cut-340-jobs-as-ai-adoption-reshapes-operations/136213305",
-  "source": "ETRetail",
+  "id": "Global Marketplaces::CBMiwwFBVV95cUxPTENoLVpUUlhtT3oxYnhyQXhteVRhZ29Kb3BtaFc4UHc2QWtfdVNjRzJOZUxTb1VqaE8xY29STm1vV182RzBIR3JEN1QxVXVuY1hXVkpGMDQzNGIwbnBYQ2pmQVdFRDk0ckZWbGl6UE4tRU5mQ3RxaGFEZ2Zpb0VpbzE2OEJtQlFiNm5iblZpeWdXN2Zpay1vYmJsVWJObE0zRThqbFh4MGRVQUJBMlNIQzFhQTNoOW5XUjVRVXZtR0toRWc",
+  "source": "Global Marketplaces",
   "sourceType": "Trade Press",
-  "publishedAt": "2026-11-27T07:21:03.000Z",
-  "title": "Swiggy's Instamart to cut 340 jobs as AI adoption reshapes operations",
-  "snippet": "The developments comes amid growing competition from Blinkit, Zepto, Flipkart Minutes and Amazon Now. Instamart appointed ex-Myntra chief Nandita Sinha as the CEO earlier this year."
- },
- {
-  "id": "Inc42::https://inc42.com/?p=582360",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-27T06:58:23.000Z",
-  "title": "Walmart International CEO To Meet Flipkart Staff After Kalyan Krishnamurthy’s Exit: Report",
-  "snippet": "Walmart International CEO Chris Nicholas is expected to visit India on Monday (November 30) to meet Flipkart employees, days after…"
- },
- {
-  "id": "ETRetail::https://retail.economictimes.indiatimes.com/news/e-commerce/black-fridays-new-playbook-early-deals-essentials-in-carts-and-ai-nudging-clicks/136211002",
-  "source": "ETRetail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-27T05:53:49.000Z",
-  "title": "Black Friday's new playbook: Early deals, essentials in carts and AI nudging clicks",
-  "snippet": "\"Black Friday is still the day for in-store shopping,\" said Grant Gustafson, Sensormatic's head of retail consulting and analytics."
- },
- {
-  "id": "Modern Retail::https://www.modernretail.co/?p=175960",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-27T05:00:00.000Z",
-  "title": "Brands and retailers are taking a full-funnel approach to Reddit holiday advertising this BFCM",
-  "snippet": "Advertisers have run ads on Reddit for years, but more and more, they're using the platform as a full-funnel tool for the holidays. Here's how American Eagle, Lowe's, Kohl's and others are approaching Reddit ads this…"
- },
- {
-  "id": "Modern Retail::https://www.modernretail.co/?p=176053",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-27T05:00:00.000Z",
-  "title": "How Ring Concierge is using the loose diamond social media trend to funnel buyers to its own channels",
-  "snippet": "Online diamond and jewelry brand Ring Concierge saw the appeal of the loose diamond trend for its customers, but wanted to offer something that was more intentional, more trustworthy and not tied to another platform…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261127VL209/samsung-2030-equipment-2026-manufacturing.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-27T03:30:56.000Z",
-  "title": "Samsung chip fabs could deploy over 10,000 robots by 2030",
-  "snippet": "The number of robots operating in Samsung Electronics' semiconductor facilities could rise from about 100 in 2026 to more than 10,000 by 2030 as the South Korean chipmaker seeks to automate tasks that still require…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261127VL207/samsung-cooling-data-center-equipment-2026.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-27T03:04:17.000Z",
-  "title": "Samsung bolsters M&A team as it eyes robotics, AI",
-  "snippet": "Samsung Electronics is strengthening its mergers and acquisitions (M&A) operations as it seeks growth in robotics, artificial intelligence (AI), and data center cooling to offset weakness in its consumer electronics…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261126PD213/nvidia-rtx-sk-hynix-samsung-chips.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-27T02:57:33.000Z",
-  "title": "84 million GDDR7 chips at stake: Nvidia's RTX Pro 5500 China cancellations test Samsung, SK Hynix",
-  "snippet": "Nvidia's push into China's AI market has stalled. That adds uncertainty to the GDDR7 demand growth Samsung Electronics and SK Hynix had been counting on."
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261126PD209/sk-hynix-samsung-market-dram-2026.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-27T02:46:23.000Z",
-  "title": "China's year-end cash crunch sparks a memory fire sale &mdash; Samsung, SK Hynix hold the line on contract prices",
-  "snippet": "After a rapid surge, memory prices had split into two tiers by late 2026. The industry describes the market as \"fat at the top, thin at the bottom.\" Upstream suppliers are still highly profitable, and their capacity…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261127PR202/chemical-materials-electronics-plant-singapore.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-27T02:43:16.000Z",
-  "title": "German chemicals maker Wevo opens Singapore plant for electronics materials",
-  "snippet": "German specialty chemicals manufacturer WEVO-CHEMIE GmbH officially opened a production facility in Singapore's Tuas industrial area on November 25, investing more than EUR10 million (approx. US$10.96 million) in the…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261127VL205/kyocera-revenue-growth-infrastructure-operating-profit.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-27T02:32:35.000Z",
-  "title": "Kyocera targets JPY2.6 trillion revenue by fiscal 2031, bets on AI components, solutions growth",
-  "snippet": "Kyocera plans to increase revenue to JPY2.6 trillion (US$16.3 billion) and more than double operating profit to JPY320 billion by the fiscal year ending March 2031, as the Japanese electronics manufacturer steps up…"
- },
- {
-  "id": "Inc42::https://inc42.com/?p=582333",
-  "source": "Inc42",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-27T02:30:02.000Z",
-  "title": "D2C’s Red Alert, The Hidden Cost Of Compute & More",
-  "snippet": "Red Label Day For D2C Brands India’s food industry is facing its biggest labelling overhaul in years. The SC has…"
- },
- {
-  "id": "DigiTimes::https://www.digitimes.com/news/a20261127VL206/samsung-development-hbm-lsi-design.html",
-  "source": "DigiTimes",
-  "sourceType": "Tech Press",
-  "publishedAt": "2026-11-27T02:23:43.000Z",
-  "title": "Samsung revamps memory R&D in custom HBM push",
-  "snippet": "Samsung Electronics is streamlining its memory development operations and setting up a dedicated logic design team as it seeks to expand its presence in the market for customized high-bandwidth memory (HBM) used in AI…"
- },
- {
-  "id": "PYMNTS Data::CBMizAFBVV95cUxQNWU2QnA0ZTFFaVFkMWdVcGc2YkVhQ0M2X1Nudzd5WGx6NDZSSlBRTHZsSTdGTFktZ1lnMC1Fb25TaEhFSF9QNnJHOVo4MWxscU5oNWQtaHVmaS0ycUJuMXNUanpNd0lpSWUtajUzX3ZISnBNekJfYVM2MXU4angyRkRaVEVIZUV4RVhhd3UwQXNBaXdOZjNZT0x6Q0RqZlpTT3VIVzd1V1pxa0dvTFRYOHVuS1lZclZqY216ZnotLWVua2xVNEd0aUZ5WWk",
-  "source": "PYMNTS Data",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-26T09:02:11.000Z",
-  "title": "78% of Firms With Multiple Payment Capabilities See Improved Conversion",
+  "publishedAt": "2026-11-27T14:39:08.000Z",
+  "title": "Black Friday test for retailers as tight budgets meet AI-savvy shoppers",
   "snippet": ""
  },
  {
-  "id": "NIQ::CBMivAFBVV95cUxPQmRCYVlpM0xVRmYyN1REaTRjMW1KUFkyQnA5anl2VGx2TDVPeVFKX1A2TEctOXZkVEZXWWMxVENPRTVmTmxOU1hVaHcxejlJNjhjRF80S1g3YlRFSFNwLUZra0pZMmdkRFFiSEFuMXVmNGZHNWZuTmhxWTZVb09PR0FLSXJZOHBJdmMtdVcyek1pOGttYXhodDltSmNhY0RIajRZenBlNVZSdGdIaHpKOUhaVVB1OVVNaUNQQg",
-  "source": "NIQ",
-  "sourceType": "Consumer Research",
-  "publishedAt": "2026-11-26T08:00:00.000Z",
-  "title": "Delivery sales in real-terms growth but takeaways dip again in October",
-  "snippet": ""
+  "id": "Inc42::https://inc42.com/?p=582464",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-27T14:01:15.000Z",
+  "title": "Can Black Friday Sales Unlock Fresh Demand For D2C Brands After Diwali?",
+  "snippet": "Black Friday gives India’s ecommerce and D2C brands another opportunity to reach shoppers who held back during this year’s festive…"
+ },
+ {
+  "id": "TWICE::https://www.twice.com/?p=167288",
+  "source": "TWICE",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-27T14:00:58.000Z",
+  "title": "NATM’s Next Act: Why The Human Touch Still Matters In A High-Tech World",
+  "snippet": "NATM executives give insights into the industry before CES 2027"
  }
 ]

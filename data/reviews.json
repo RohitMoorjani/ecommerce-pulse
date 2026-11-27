@@ -1,141 +1,4 @@
 {
- "PYMNTS Data::CBMivAFBVV95cUxNLURvanZDSVZmY0kyZ1paZV8wQ3BhdWFmdHJ5a09hYzl4TUprN2dveENWdlZyM2hvUDZucGZRTHNmMVU3MlpyTHRYOTUwN05LOWlVSGlxcTc3Y0VvWFBRbms2cWNLeGVsT2o0a2JSTG5oSDBBNHRjcHdqUU5WV01rYk9BU1RCMDdXZFJlZ0ZHZV9LZDZ1STdoSXRpLVB5Y0tKbDNKd3Rsenh2aG9CRGtkYnF1SVhpRnFnVzJvMA": {
-  "keep": false,
-  "publishedAt": "2026-10-23T16:31:58.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/lululemon-adds-product-chief-board-chip-wilson-settlement/833839/": {
-  "keep": false,
-  "publishedAt": "2026-10-23T16:19:00.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/macys-holiday-revamped-santaland/833826/": {
-  "keep": false,
-  "publishedAt": "2026-10-23T16:08:00.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/etsy-updates-ai-use-policies-emphasize-craftsmanship/833838/": {
-  "keep": false,
-  "publishedAt": "2026-10-23T16:08:00.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/bath-body-works-new-store-concept-feel-good/833827/": {
-  "keep": false,
-  "publishedAt": "2026-10-23T16:02:00.000Z"
- },
- "Retail Dive::https://www.retaildive.com/news/torrid-cfo-exits-belk-financing/833755/": {
-  "keep": false,
-  "publishedAt": "2026-10-23T15:56:00.000Z"
- },
- "InternetRetailing::https://internetretailing.net/?p=76371": {
-  "keep": false,
-  "publishedAt": "2026-10-23T15:40:09.000Z"
- },
- "Modern Retail::https://www.modernretail.co/?p=173854": {
-  "keep": false,
-  "publishedAt": "2026-10-23T14:45:18.000Z"
- },
- "Inc42::https://inc42.com/?p=577663": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "Festive-season shoppers browse but hold back on big-ticket purchases in India",
-  "short_headline": "Indian festive shoppers hold back on big tickets",
-  "takeaway": "Big-ticket tech may need financing and bundles to convert browsing into orders during Indian festive sales.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-23T14:27:00.000Z"
- },
- "Reuters::CBMirwFBVV95cUxOYnpWYmVGQV9JVUVhS2IwVUJzRUcyRmZvMm1xMXpBcjc0cnhfWDdFQjBNamJuZWRQb3BOM0RKMEFiWmVxVzlKWW03WU5yeEsxOW5qaDBSMlUzX1YxVmhualNQUHBfbEhXTUdPb0VfdjhlMUdZYV82UnRfd1FpMXprOGUxTFBsZTZQU2VGN2s0ZUxTckZvd3I3QnNIeUlEc0V1ZWQtRlR5blp2UWs4MklZ": {
-  "keep": false,
-  "publishedAt": "2026-10-23T13:48:09.000Z"
- },
- "Inc42::https://inc42.com/?p=577661": {
-  "keep": false,
-  "publishedAt": "2026-10-23T13:42:28.000Z"
- },
- "TWICE::https://www.twice.com/?p=166742": {
-  "keep": false,
-  "publishedAt": "2026-10-23T13:01:19.000Z"
- },
- "TWICE::https://www.twice.com/?p=166737": {
-  "keep": false,
-  "publishedAt": "2026-10-23T13:01:18.000Z"
- },
- "TWICE::https://www.twice.com/?p=166693": {
-  "keep": false,
-  "publishedAt": "2026-10-23T13:00:12.000Z"
- },
- "Inc42::https://inc42.com/?p=577644": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Netflix credits Flipkart bundle for record India subscriber additions",
-  "short_headline": "Flipkart bundle drives Netflix record India quarter",
-  "takeaway": "Marketplace bundles can drive acquisition at scale; we could explore similar Flipkart partnerships for our devices.",
-  "importance": 3,
-  "content_type": "news",
-  "competitors": [],
-  "publishedAt": "2026-10-23T12:49:21.000Z"
- },
- "ETRetail::https://retail.economictimes.indiatimes.com/news/industry/weekly-leadership-recap-flipkart-honasa-consumer-announce-senior-level-elevations/135145652": {
-  "keep": false,
-  "publishedAt": "2026-10-23T12:24:32.000Z"
- },
- "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363713": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "Staples Canada launches Staples Business to unify B2B tech and supplies",
-  "short_headline": "Staples Canada unifies its B2B offering",
-  "takeaway": "A B2B brand bundling technology with supplies targets the small-business buyers we want; we should watch how it positions tech.",
-  "importance": 3,
-  "content_type": "announcement",
-  "competitors": [],
-  "publishedAt": "2026-10-23T20:10:22.000Z"
- },
- "PYMNTS Data::CBMirwFBVV95cUxNTHAwZS0wVHZjLUhEYXZnQnpEdUlLbkxrUHBabUtydFZBU2xoenlOb3kxNU5UUnIyY2JUdGU3RnBzbjhTMGVzU3RXNld5S21DSWNlTkt2REdTREZPTFlWamZFeE5aSVFwYjRGQXhvR21xaHp6Q0ZnbFJUbjZIdDB5MmJHVENuZXFtZEt5U05USXZxM3RJcGlMY29LWmdmZFRVdEVlcWxvZ2Q5MjZveEd3": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "Shoppers would send AI agents to marketplaces over brand sites",
-  "short_headline": "Shoppers prefer sending AI agents to marketplaces",
-  "takeaway": "If agents favor marketplaces over brand sites, our store must be agent-readable and our marketplace listings strong.",
-  "importance": 4,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-23T19:22:45.000Z"
- },
- "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1363692": {
-  "keep": true,
-  "segment": "agentic",
-  "headline": "Walmart unveils controls and spending limits for AI agent purchases",
-  "short_headline": "Walmart adds spending limits for AI agent buying",
-  "takeaway": "Shopper-set limits could become the trust standard for agent checkout; we should plan similar controls for our store.",
-  "importance": 4,
-  "content_type": "announcement",
-  "competitors": [],
-  "publishedAt": "2026-10-23T19:12:33.000Z"
- },
- "Circana::CBMipwFBVV95cUxQQ3p6Snhra0JnZHJwZFhGSEV6X3NvZHdkVmJhRzZ3M0RPaVVSMlZOVnRMNTRZcHZWc0hIOFJoTlpOU3dYdjhFSXI3czctbU9WcllQV0FPY3RpSElvNXhZdHNMakdGZlZvTk44eE5LaXkzTzJXbnhTQkpqck1fNFRYQ2dCMjVUT3NIWGJNY1JqcVhvQUxfQ2FqTVc2dzEzdk95cjlDakMzSQ": {
-  "keep": true,
-  "segment": "trends",
-  "headline": "Circana publishes 2026 U.S. holiday purchase intentions and spending plans",
-  "short_headline": "Circana releases 2026 U.S. holiday spending plans",
-  "takeaway": "Holiday intent data helps us calibrate promotions and inventory for the peak season in our store.",
-  "importance": 3,
-  "content_type": "data",
-  "competitors": [],
-  "publishedAt": "2026-10-23T17:51:45.000Z"
- },
- "IDC::CBMijAFBVV95cUxPVHFDV3piTTBxNEVTQ1FKTHdTdWtiMmY5NnJhMWdNMUJBdXV6QnBhWGM2TWdGc3EtV3FZaG9hbEFDV0RVTG5YS0FlSDNQcWFYV3ZHeFlEaUV3LTdTTFN3NDA3NEhqZUVRbHhfR25zRklsUk51NHl3ZDF3SEl3UUZlN3IzRTZxdzI2VnJ5YQ": {
-  "keep": true,
-  "segment": "marketplaces",
-  "headline": "IDC revisits its prediction that marketplaces would reach a 50-50 split",
-  "short_headline": "IDC checks its 50-50 marketplace prediction",
-  "takeaway": "The marketplace share of online sales shapes how much we invest in our own store versus marketplace channels.",
-  "importance": 3,
-  "content_type": "analysis",
-  "competitors": [],
-  "publishedAt": "2026-10-23T16:40:47.000Z"
- },
- "Reuters::CBMipAFBVV95cUxOSjJIVzNjUS1NU0VqTDNJTm10djYzSVFBVkZuR2xlbmF3MHdyR1hLeWlOclg5Q1dtUGFINVhkc1RXakZ2QXhJdlpVSk5DVEk1XzRuSjhuRVJFMGhyaWFUZThoLUlLZXNTd3RuYUhGM2dGWUxNU0VHeC1CRjROUjVnVmRBWDZhTmFWMVlJUFJZbWZWSS1lNEk2NHdMU2lFcUJSN2ZFWA": {
-  "keep": false,
-  "publishedAt": "2026-10-23T15:20:09.000Z"
- },
  "Modern Retail::https://www.modernretail.co/?p=173841": {
   "keep": false,
   "publishedAt": "2026-10-24T04:00:00.000Z"
@@ -220,10 +83,6 @@
  "DigiTimes::https://www.digitimes.com/news/a20261023PD234/taiwan-packaging-pcb-manufacturing.html": {
   "keep": false,
   "publishedAt": "2026-10-26T02:59:13.000Z"
- },
- "Reuters::CBMinAFBVV95cUxQNWdWWnJFN3I3MnZQQzBBRUFVMnBTbkduVklRcFVPbWZVTGFxM2NRbkRtRHlXa2JBdlpnQWMxSkh1WU91clBJQnpqYXItXzAtcTJ5NlFETjRETndtM2VyRGxkaElVREFxRjRfeUdkMzlxR3hYdlZSX1R1LXNRX3dxTUlyYzJNYUp1NGpfOU5mNUQ0YWZ3bE1TOVAxaUk": {
-  "keep": false,
-  "publishedAt": "2026-10-23T12:51:32.000Z"
  },
  "Apple Newsroom::https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/": {
   "keep": true,
@@ -4392,10 +4251,6 @@
  "TWICE::https://www.twice.com/?p=166500": {
   "keep": false,
   "publishedAt": "2026-11-06T14:01:11.000Z"
- },
- "PYMNTS Data::CBMisgFBVV95cUxPSjctTHlwYzRULV9kel9fR0M4Zk1GQk1melhKTXpfX1JUZFlfY1Y5NDN4Wkw1bHNDckR6dHR6X1o3QUQ0eFlhMi1VVVdPN1RBYjJFeDV0OXAzM0hlUTFOYkZOTUw2dnAwcmJtN1FzSTdHZDBDQU5VdmJsYjBBYUNQcFc5UTdQcGtJRmdoY1RpWEdEUXNESnZra081ZmNMQTI1c1VKeHR6VWk1MmpKcFpDazdn": {
-  "keep": false,
-  "publishedAt": "2026-10-23T17:13:15.000Z"
  },
  "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364069": {
   "keep": false,
