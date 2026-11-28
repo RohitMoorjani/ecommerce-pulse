@@ -1,26 +1,74 @@
 [
  {
-  "id": "Inc42::https://inc42.com/?p=582371",
+  "id": "Reuters::CBMi0wFBVV95cUxNNTJIWUpidWRfdHdlYTBGRHFseHBGSm9rQnVTNzBfSGhZQnBnUFJFRVE2TDlCM3JSNEpieHJISnBhNDVsODZxYTktRjRrLVc1OFB1VnhWd0h4UktMa0JwSzBQdGlsUFU1RnRJWFdXMVJUWnBxcVdkdjltS1kyajFpSHE3RkhCZFM4aVlIQkJBVGFWWU9jblFFUXB1bGg3UlZ6SU85VTh2R09KWGNKWnBfZ3BjdnZXZ0FXdWx5UUZsSVBwUzNvSVFGaTZvZURqTnVIWGow",
+  "source": "Reuters",
+  "sourceType": "Trade Press",
+  "publishedAt": "2026-11-28T15:52:00.000Z",
+  "title": "US Black Friday online spend rises 11% to a new high of $13.1 billion",
+  "snippet": ""
+ },
+ {
+  "id": "Inc42::https://inc42.com/?p=582573",
   "source": "Inc42",
   "sourceType": "Tech Press",
-  "publishedAt": "2026-11-28T06:30:29.000Z",
-  "title": "How Kapiva Is Gearing Up On Its Growth Strategy As It Targets ₹1,000 Cr In Revenue",
-  "snippet": "Ayurveda has been part of India’s healthcare landscape, with generations of consumers relying on it for their health and wellness…"
+  "publishedAt": "2026-11-28T14:40:58.000Z",
+  "title": "Warning Labels To Put D2C Food Brands’ ‘Healthier’ Pitch To The Test",
+  "snippet": "A packet of millet chips marketed as guilt-free could carry a warning for high salt. A snack claiming “no added…"
  },
  {
-  "id": "Modern Retail::https://www.modernretail.co/?p=175911",
-  "source": "Modern Retail",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-28T05:00:00.000Z",
-  "title": "Holiday shopping trends: TikTok Shop, AI search and glitzy celebrity ads",
-  "snippet": "The Modern Retail Podcast explores how TikTok Shop, AI assistants and celebrity ads are shaping retail and holiday shopper behavior."
+  "id": "Inc42::https://inc42.com/?p=582558",
+  "source": "Inc42",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-28T12:52:24.000Z",
+  "title": "Last Rites, Booked in Advance: India’s New Funeral Business",
+  "snippet": "“No time for relationships, no company for parents. After hospitals, even ‘final farewells’ have now become a business,” an X…"
  },
  {
-  "id": "Global Marketplaces::CBMiuAFBVV95cUxPU2loNkhNMG01Y25zc2J6ZzlvOHNwS1VpVko3MDBMeF9CMFpTVGhFR2VDSmlaY1UyS25Tam81eGdHSlFid1lVajIxTFVPWWt6ZzQ4dW9UaEw3TFRZR3NzMi16SEJSdDdqLW9IMVdsYkgtQTZYTl9mQnlYLUh6T0dSV1Z4ektOMjlKUC1MUU0xbGlmVU15VUNndVgwNGlWc2YtNWs3NzhhTTJnUmhOS050ZnBla2RiT2Nn",
-  "source": "Global Marketplaces",
-  "sourceType": "Trade Press",
-  "publishedAt": "2026-11-28T00:06:00.000Z",
-  "title": "US Black Friday online sales to cross $13 billion, Adobe says",
+  "id": "PYMNTS Data::CBMilgFBVV95cUxOUE1fZENfRGVVRU85a1hlUmlnaXF4cFYxS3JfcHdaZ1dqWDFqdVV3ZDFyTHBRaHlJdE8wRDRjMFc0aGNKaFo0YVhlQlhERE9GSnhoYmtYdW5YN2QxTFFtLUR4UEw5emVhaWJPd3BDaVFtOHhqeUVGU2VaS09ObmVDd0ZtTWp5UWlwa1Uyd0syQjhvNXl3LVE",
+  "source": "PYMNTS Data",
+  "sourceType": "Consumer Research",
+  "publishedAt": "2026-11-28T09:01:21.000Z",
+  "title": "Small Businesses Put Big Personality Under the Tree",
   "snippet": ""
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261127PD226/pcb-demand-supply-chain-capacity-medical.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-28T07:20:38.000Z",
+  "title": "PCB supply risks may rival chip shortages, threatening next wave of AI and electronics growth",
+  "snippet": "The Global Electronics Association says shortages across the printed circuit board supply chain are intensifying, with companies in the automotive, industrial, medical, and telecommunications sectors reporting that…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261127VL215/samsung-dram-sk-hynix-data-production.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-28T07:19:27.000Z",
+  "title": "Samsung, SK Hynix pursue different DRAM designs",
+  "snippet": "Samsung Electronics and SK Hynix are pursuing different approaches to increasing DRAM density as the capacitors used to store data become harder to shrink. Samsung is developing vertically stacked memory cells, while SK…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261127VL217/samsung-robot-chips-nvidia-demand.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-28T07:19:12.000Z",
+  "title": "Samsung hesitates to take on Nvidia in robot chips",
+  "snippet": "South Korea asked Samsung Electronics in October to develop a domestic alternative to Nvidia's Jetson Thor robotics computing platform, but the chipmaker expressed reservations over market demand, South Korean…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261127PD206/shipments-2027-2026-genai-sales.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-28T07:18:43.000Z",
+  "title": "GenAI fails to spur upgrades as smartphone shipments face 2027 decline",
+  "snippet": "Rising memory prices are expected to drive a more than 15% decline in global smartphone shipments in 2026. With memory costs continuing to rise, brands reducing their midrange and entry-level models, and consumers…"
+ },
+ {
+  "id": "DigiTimes::https://www.digitimes.com/news/a20261127PD202/liquid-cooling-revenue-communications-shipments-2026.html",
+  "source": "DigiTimes",
+  "sourceType": "Tech Press",
+  "publishedAt": "2026-11-28T07:17:28.000Z",
+  "title": "Wellysun accelerates transformation, targets AI liquid cooling, NPO, autonomous systems",
+  "snippet": "Automotive electronic control module maker Wellysun held an investor conference on November 26, 2026. Chairman and General Manager Yi-Lang Liu said the company is transforming from an automotive electronics supplier…"
  }
 ]
