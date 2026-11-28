@@ -7566,5 +7566,48 @@
   "content_type": "data",
   "competitors": [],
   "publishedAt": "2026-11-28T00:06:00.000Z"
+ },
+ "Reuters::CBMi0wFBVV95cUxNNTJIWUpidWRfdHdlYTBGRHFseHBGSm9rQnVTNzBfSGhZQnBnUFJFRVE2TDlCM3JSNEpieHJISnBhNDVsODZxYTktRjRrLVc1OFB1VnhWd0h4UktMa0JwSzBQdGlsUFU1RnRJWFdXMVJUWnBxcVdkdjltS1kyajFpSHE3RkhCZFM4aVlIQkJBVGFWWU9jblFFUXB1bGg3UlZ6SU85VTh2R09KWGNKWnBfZ3BjdnZXZ0FXdWx5UUZsSVBwUzNvSVFGaTZvZURqTnVIWGow": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "US Black Friday online spend up 11% to a record $13.1 billion",
+  "short_headline": "US Black Friday online spend hits record $13.1B",
+  "takeaway": "Online demand is still growing at the peak; we should check our store held up and which promotions drove the lift.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-28T15:52:00.000Z"
+ },
+ "Inc42::https://inc42.com/?p=582573": {
+  "keep": false,
+  "publishedAt": "2026-11-28T14:40:58.000Z"
+ },
+ "Inc42::https://inc42.com/?p=582558": {
+  "keep": false,
+  "publishedAt": "2026-11-28T12:52:24.000Z"
+ },
+ "PYMNTS Data::CBMilgFBVV95cUxOUE1fZENfRGVVRU85a1hlUmlnaXF4cFYxS3JfcHdaZ1dqWDFqdVV3ZDFyTHBRaHlJdE8wRDRjMFc0aGNKaFo0YVhlQlhERE9GSnhoYmtYdW5YN2QxTFFtLUR4UEw5emVhaWJPd3BDaVFtOHhqeUVGU2VaS09ObmVDd0ZtTWp5UWlwa1Uyd0syQjhvNXl3LVE": {
+  "keep": false,
+  "publishedAt": "2026-11-28T09:01:21.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261127PD226/pcb-demand-supply-chain-capacity-medical.html": {
+  "keep": false,
+  "publishedAt": "2026-11-28T07:20:38.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261127VL215/samsung-dram-sk-hynix-data-production.html": {
+  "keep": false,
+  "publishedAt": "2026-11-28T07:19:27.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261127VL217/samsung-robot-chips-nvidia-demand.html": {
+  "keep": false,
+  "publishedAt": "2026-11-28T07:19:12.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261127PD206/shipments-2027-2026-genai-sales.html": {
+  "keep": false,
+  "publishedAt": "2026-11-28T07:18:43.000Z"
+ },
+ "DigiTimes::https://www.digitimes.com/news/a20261127PD202/liquid-cooling-revenue-communications-shipments-2026.html": {
+  "keep": false,
+  "publishedAt": "2026-11-28T07:17:28.000Z"
  }
 }

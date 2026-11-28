@@ -1,21 +1,21 @@
 {
- "updatedAt": "2026-11-28T09:50:54.090Z",
- "title": "AI agents and memory costs both reshape how we sell PCs online",
- "summary": "Half of holiday shoppers plan to use AI (NRF); Walmart opened Black Friday deals to Meta's AI agent; agents recommend out-of-stock items. HP and Dell expect memory prices to rise through 2027; Adobe sees US Black Friday online sales above $13B.",
+ "updatedAt": "2026-11-28T18:50:58.079Z",
+ "title": "Shopping starts with AI while memory costs squeeze PCs; we must adapt",
+ "summary": "Half of holiday shoppers plan to use AI (NRF); Walmart opened Black Friday deals to Meta’s AI agent; Adobe: online holiday spend up 9.1% to $82.5B; HP and Dell expect memory prices to keep rising in 2027.",
  "points": [
   {
-   "headline": "AI agents are becoming a deal-discovery and buying channel",
-   "detail": "NRF finds half of holiday shoppers plan to use AI; Walmart opened Black Friday deals to Meta's agent. Agents also surface out-of-stock items, so our feeds and stock data must be accurate.",
+   "headline": "AI agents are becoming a deal-discovery channel, with gaps",
+   "detail": "Walmart opened Black Friday deals to Meta’s AI agent, and half of holiday shoppers plan to use AI (NRF). Agents still recommend out-of-stock items, so we need accurate stock and feeds.",
    "segment": "agentic",
    "storyIds": [
-    "NRF::CBMifEFVX3lxTFBES1ViSjJobENsejBBZlRsQnpzY0s4TXhNbGhhUWFCSXhBazZIaWFtWHFieWhVbUYxS2diVlJodmFsenBHTUQ4cTNTUDVjVDBXVXRNWGYyUTVWdGZuS1hVZUU5V3ZqV0E3UU9KMEdtN2pxZHlNQURlb091Zlc",
     "TechCrunch::https://techcrunch.com/?p=3192047",
+    "NRF::CBMifEFVX3lxTFBES1ViSjJobENsejBBZlRsQnpzY0s4TXhNbGhhUWFCSXhBazZIaWFtWHFieWhVbUYxS2diVlJodmFsenBHTUQ4cTNTUDVjVDBXVXRNWGYyUTVWdGZuS1hVZUU5V3ZqV0E3UU9KMEdtN2pxZHlNQURlb091Zlc",
     "InternetRetailing::https://internetretailing.net/?p=76652"
    ]
   },
   {
-   "headline": "Memory costs keep PC prices rising into 2027",
-   "detail": "HP and Dell expect memory prices to keep rising in 2027 with a weak PC market; European notebook revenue rose 16% on pricier models. We should plan for price pressure and soft units.",
+   "headline": "Memory costs keep PC pricing under pressure into 2027",
+   "detail": "HP and Dell expect memory prices to keep rising in 2027 with a weak PC market; European notebook revenue rose 16% on pricier models. We should plan pricing and mix for soft units.",
    "segment": "pc",
    "storyIds": [
     "DigiTimes::https://www.digitimes.com/news/a20261126PD212/dell-hp-pc-market-memory-2027.html",
@@ -24,19 +24,20 @@
    ]
   },
   {
-   "headline": "AI PC demand is the growth driver as the refresh cycle fades",
-   "detail": "HP says local AI demand is lifting AI PC shipments past expectations while the Windows 11 refresh winds down. We should check our AI PC merchandising online.",
-   "segment": "pc",
-   "storyIds": [
-    "CRN::https://www.crn.com/news/computing/2026/hp-s-ai-pc-memory-new-ceo-updates-big-takeaways-from-q4-results"
-   ]
-  },
-  {
-   "headline": "Holiday online demand is strong, and small businesses are spending",
-   "detail": "Adobe reports online holiday spending up 9.1% and sees Black Friday above $13B; Amex projects a 14-year high in small-business holiday spending. Business bundles and financing are worth pushing.",
+   "headline": "Online holiday demand is strong, led by value-seeking shoppers",
+   "detail": "Adobe: online holiday spend up 9.1% to $82.5B; Reuters: US Black Friday online spend up 11% to $13.1B. Circana flags affordability worries, so our offers should stress value and financing.",
    "segment": "trends",
    "storyIds": [
     "Digital Commerce 360::https://www.digitalcommerce360.com/?p=1364341",
+    "Reuters::CBMi0wFBVV95cUxNNTJIWUpidWRfdHdlYTBGRHFseHBGSm9rQnVTNzBfSGhZQnBnUFJFRVE2TDlCM3JSNEpieHJISnBhNDVsODZxYTktRjRrLVc1OFB1VnhWd0h4UktMa0JwSzBQdGlsUFU1RnRJWFdXMVJUWnBxcVdkdjltS1kyajFpSHE3RkhCZFM4aVlIQkJBVGFWWU9jblFFUXB1bGg3UlZ6SU85VTh2R09KWGNKWnBfZ3BjdnZXZ0FXdWx5UUZsSVBwUzNvSVFGaTZvZURqTnVIWGow",
+    "TWICE::https://www.twice.com/?p=167266"
+   ]
+  },
+  {
+   "headline": "Small-business buyers are a holiday opportunity",
+   "detail": "Amex projects a 14-year high in small-business holiday spending. Business bundles, financing and bulk offers could capture it.",
+   "segment": "trends",
+   "storyIds": [
     "PYMNTS Data::CBMimAFBVV95cUxQMk5IN0ZvWjcxX2hDMFJQTHhpVzZPQlZ4T1NIdzZVWlFSMzQwNzB1TC13R3VFUUZONDR1ay1zNERJTG1rYUlYZERMZEYwTmt4TC1fNU1lNEZ3dEtJbDhSMkdvTDJjLVctN0JodWpRZDRjclVQTUdqM3J3S01YWDlGUGliZ091R3lWX193YzlyeFhhWHl1TlRfWg"
    ]
   }
