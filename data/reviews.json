@@ -7551,5 +7551,24 @@
  "TWICE::https://www.twice.com/?p=167288": {
   "keep": false,
   "publishedAt": "2026-11-27T14:00:58.000Z"
+ },
+ "Inc42::https://inc42.com/?p=582371": {
+  "keep": false,
+  "publishedAt": "2026-11-28T06:30:29.000Z"
+ },
+ "Modern Retail::https://www.modernretail.co/?p=175911": {
+  "keep": false,
+  "publishedAt": "2026-11-28T05:00:00.000Z"
+ },
+ "Global Marketplaces::CBMiuAFBVV95cUxPU2loNkhNMG01Y25zc2J6ZzlvOHNwS1VpVko3MDBMeF9CMFpTVGhFR2VDSmlaY1UyS25Tam81eGdHSlFid1lVajIxTFVPWWt6ZzQ4dW9UaEw3TFRZR3NzMi16SEJSdDdqLW9IMVdsYkgtQTZYTl9mQnlYLUh6T0dSV1Z4ektOMjlKUC1MUU0xbGlmVU15VUNndVgwNGlWc2YtNWs3NzhhTTJnUmhOS050ZnBla2RiT2Nn": {
+  "keep": true,
+  "segment": "trends",
+  "headline": "Adobe: US Black Friday online sales to cross $13 billion",
+  "short_headline": "Adobe sees US Black Friday online sales above $13B",
+  "takeaway": "Adobe’s forecast signals strong Cyber 5 demand; we should check that our store promotions and capacity are ready for the peak.",
+  "importance": 3,
+  "content_type": "data",
+  "competitors": [],
+  "publishedAt": "2026-11-28T00:06:00.000Z"
  }
 }
